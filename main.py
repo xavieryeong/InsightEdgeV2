@@ -12,6 +12,7 @@ pages = {
         st.Page("ui/home.py", title="Home", icon="🏠"),
         st.Page("ui/ent_accounts.py", title="ENT Account Lists", icon="🏢"),
         st.Page("ui/velocity_accounts.py", title="Velocity Account Lists", icon="⚡"),
+        st.Page("ui/schedule_page.py", title="Scheduled Runs", icon="⏱️"),
     ],
     "Configuration": [
         st.Page("ui/settings_page.py", title="Settings", icon="⚙️"),
