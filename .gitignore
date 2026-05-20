@@ -1,0 +1,41 @@
+# API keys and secrets — NEVER commit
+.env
+
+
+# Internal business documents
+BRD/
+
+# Claude Code local settings
+.claude/
+
+# Editor temp files
+*.tmp.*
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

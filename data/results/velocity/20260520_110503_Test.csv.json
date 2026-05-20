@@ -1,0 +1,503 @@
+{
+  "metadata": {
+    "source_filename": "Test.csv",
+    "role": "Velocity (Mid-market)",
+    "date": "2026-05-20T11:05:03.661056",
+    "company_count": 1
+  },
+  "results": [
+    {
+      "company": "Siemens AG",
+      "domain": "siemens.com",
+      "signals": {
+        "tech_stack": {
+          "company": "Siemens AG",
+          "domain": "siemens.com",
+          "status": "error",
+          "detected_categories": [],
+          "sonar_relevance_score": 0,
+          "score_breakdown": {
+            "relevant_languages": 0.0,
+            "ci_cd_maturity": 0.0,
+            "cloud_native_presence": 0.0,
+            "security_tooling_signal": 0.0,
+            "engineering_visibility": 0.0,
+            "total": 0.0
+          },
+          "summary": "",
+          "sonar_relevance_reason": "",
+          "confidence": "Low",
+          "languages": [],
+          "cicd_tools": [],
+          "cloud": [],
+          "security_tools": [],
+          "evidence": [],
+          "limitations": [
+            "ANTHROPIC_API_KEY is not configured"
+          ],
+          "sources_checked": []
+        },
+        "hiring_patterns": {
+          "company": "Siemens AG",
+          "domain": "siemens.com",
+          "status": "error",
+          "detected_categories": [],
+          "sonar_relevance_score": 0,
+          "score_breakdown": {
+            "devsecops_appsec": 0.0,
+            "devops_platform": 0.0,
+            "software_engineering_growth": 0.0,
+            "cloud_infrastructure": 0.0,
+            "security_compliance": 0.0,
+            "recency_bonus": 0.0,
+            "total": 0.0
+          },
+          "summary": "",
+          "sonar_relevance_reason": "",
+          "confidence": "Low",
+          "evidence": [],
+          "limitations": [
+            "ANTHROPIC_API_KEY is not configured"
+          ],
+          "sources_checked": []
+        },
+        "public_news": {
+          "company": "Siemens AG",
+          "domain": "siemens.com",
+          "status": "completed",
+          "window_used": "90_days",
+          "detected_categories": [
+            "leadership_change",
+            "product_platform_launch",
+            "cloud_ai_transformation"
+          ],
+          "evidence": [
+            {
+              "id": "news_001",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Palo Alto-Siemens Launch Verified AI-Driven Cybersecurity Solution For Industrial 5G - Palo Alto Networks - Benzinga",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXRwTGlETmUzVEQ2ZGtIcXJRRXJpRjRWV3VHdkxoMEwxR2hxSUN6VWVQNlVBSzhfZ2dtQ0ljb0dQVXlnbXZ4TEV6bm1fUUhibzRuV1Bma2JsTlU4MnhiQ0o4YXBrbDF3bFN2T1JrY2JlN1VjVE5UbWVMaTFka3R1Y25IbkFmYVRCYTVWTndWb1BfTXZDWXFYazJnZllEaHl2YzRFMDZwRFRlSlRja0R2ZHFHVDdfNy1KakhSejlfWkZka29mdXh2a0ZURUhTeVFnN0NZ?oc=5",
+              "snippet": "Palo Alto-Siemens Launch Verified AI-Driven Cybersecurity Solution For Industrial 5G - Palo Alto Networks Benzinga",
+              "published_date": "2026-03-04",
+              "days_ago": 76,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_002",
+              "signal_type": "cloud_ai_transformation",
+              "all_categories": [
+                "cloud_ai_transformation"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens Joins AZuR to Support Digital Transformation in Tyre Recycling - Tyre & Rubber Recycling",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1Y0VG1iTUpocG1ITzN2U2dfNExZVGxpNXY0U2N2MmdjdHRYN251VTNSWnZIRl9fbm5aVFZCVUJJa3JIcUxLakQ4MUxFWFFpVnJoQkd1X3hLbXFMR0MxUEFyT25ZcFplNWdJYU41UXVOY0JWQmhOXy1kRmlmRmZwWFA5UHBFYk9kbzJ2NGNjVGdmVDYxVC1pTkV6cXM1WnFUSVF3UkVyUzJWSkRvalRNWlZZTUlld3lIeF9pc2xjb3NfQm1EX2NSSlQzQ2JrUQ?oc=5",
+              "snippet": "Siemens Joins AZuR to Support Digital Transformation in Tyre Recycling Tyre & Rubber Recycling",
+              "published_date": "2026-04-29",
+              "days_ago": 20,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_003",
+              "signal_type": "cloud_ai_transformation",
+              "all_categories": [
+                "cloud_ai_transformation"
+              ],
+              "source_type": "google_news_rss",
+              "title": "India a leader in AI-driven digital transformation, says Siemens CTO Koerte - ET Telecom",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV2ZVZWM4VW1TdU1Qc2wtWjREWGlXS0JRazFyVnFwNTJwX0gza3VHSEE2ZzdyNm1iZ1prUVFuMHNqV1oxWEd6ZzFLVmNzY2ZwSWZyWkdOOFNvWldJRFJ6aW9wcEF0MVFVTnVMQnBaQWZpZWV2UDZRQXVrTUFKVTRsTFppMFNBMmk2eUgyT1lQZDB0c0VHLWNZdjBRZFpPNnNUZkQ5U1ozWHhrc05jUkhGRkp1XzIwSURkYnFsMlhHbm1rMlBzSENjVGIyeG1uX0V2UWpCd3ZXMm1fNjExRFFkSDhWenZjS2VTeEhyX9IB8gFBVV95cUxQUzRHdDdtaWRPbnh3elN4V1laM1ZKUnFOVTF4YlphYU1qc1E1cno0NlFYV21YV1NXRlJwbDJBQmJXMC1qOWJtUEo1Q181WnRrRExiODBMOVZJNndVS3p0Zzdsb3F5aGxmN2VtVVB6OHUyN3ZUWG5UY0pvaDB0ZG9mZmk1SkFTcVJxQy1QbldmRVVvclVmVVNYRkRJZHdNdERQbVFNRWtKUVM1VWZPcDgwZ1pIbHZmR1B5azRDZW5PTEc1ZjBMYUtUamVmelVfR05GcVRGODEwa1I3YXVRRTV4WHVsNWh1NmtyLVVOWU5MRHlSdw?oc=5",
+              "snippet": "India a leader in AI-driven digital transformation, says Siemens CTO Koerte ET Telecom",
+              "published_date": "2026-03-10",
+              "days_ago": 70,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_004",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens launches the Eigen Engineering Agent, bringing purpose-bui ... - Siemens press",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEJuRVVvSndfR2NYaEhYVG1tTTlITGZYeW5QWGwzQVJOWnFZU2xlQXRBMG8tNnFET1ZVN3h1U3FmanVUcUhrc0ZmaDVPdGhkZlZvc1NhZlN6cXFrdTNCaW5QMzc1SjZQN3ZzY2xzQjlWczRJUG96bU4wc1A3RFA2XzgxaVJfbnBkQ2Njb05WSG5LXzEwX2pXbDJKLWlFekZJY1hxcjJLSzdBSVRoZHlkenpXQlNqS2o2MG15X2xTM1Q2WXFQ?oc=5",
+              "snippet": "Siemens launches the Eigen Engineering Agent, bringing purpose-bui ... Siemens press",
+              "published_date": "2026-04-20",
+              "days_ago": 29,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_005",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens Launches New $7 Billion Share Buyback Program - Moomoo",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3BYa3RlYkxySVdfSmNUa3NVNWlFZFFMelZIamdFVlhwNVZTMVF2aFBUY3FMb0o2aTdYeW9ONGEyd2dSMGNIRHZJaDRrdDZhcnVubzlEZGN3RDk2TjVYMDVweHpHbzZWMW96VWhfbVFDX1ZxeURiZzllbWNGT1BvbzdFUThnSlBUVkM4OXd6a3gyS25XQVNjc0pn?oc=5",
+              "snippet": "Siemens Launches New $7 Billion Share Buyback Program Moomoo",
+              "published_date": "2026-05-13",
+              "days_ago": 6,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_006",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "JPMorgan launches €375 million exchangeable bonds tied to Siemens - Investing.com",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFNDQmRMSFMycTREUl8wOHVYb2xSSWcxQ05HZFlJanhJMWQwVlBINzhESFg0YnB1eXNacDFqdGhqQUxGSVMtdG04M1ZBZ1cydnN1c1Q3Y3FaT0JfTF9nX0JkV1NUMTQyLUhiakVlOUZJSGk5bk1rQkRpZWZGbFRBNUxWc0VuZ1RQRlk1MERkN21ZcTBJZWsyM1BFMGNuaVBWYWlFSFhoSGZUWUxHYnF1aUVOaVd6cndiak42Qk96cjJsYTdJ?oc=5",
+              "snippet": "JPMorgan launches €375 million exchangeable bonds tied to Siemens Investing.com",
+              "published_date": "2026-04-10",
+              "days_ago": 39,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_007",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens Launches Eigen AI for Industrial Automation - SQ Magazine",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4cERGUXlhenU3RVR0am9OMXFNc2NWcWpXR2tzYjJldmdUejJsS0NubjRHRmUzMFBxZHZxSGpsckxTV2U2VmNUdzFhY2djc1JGczlEYWFyeElXNkZxZXRUWWtJMzZMbE5XOTJqNU9xYTBRdw?oc=5",
+              "snippet": "Siemens Launches Eigen AI for Industrial Automation SQ Magazine",
+              "published_date": "2026-04-21",
+              "days_ago": 28,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_008",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens launches groundbreaking portfolio for the era of direct cu ... - Siemens press",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay1FWGRDUHA1bXBwNjgzekZfaHUtRE1WNUgtUTZuWlJfWE8xZVNKeG1CUFRxNHdVT0hid2dOeXUtM0xEUDV2VFluWURzcTliNEN4X2tfekZYN25iZV9QdlBPMS0tSjM0dnJjYl9jTzUwYzdMN0NmN05SWTJ1M3hocUt2blp3M3lnS3EyTjlyc1RIby1uWG9scDdvX09nMTJkT1hPZk1SZzIybGVucmdJYjdTUHViM1djdFhTVw?oc=5",
+              "snippet": "Siemens launches groundbreaking portfolio for the era of direct cu ... Siemens press",
+              "published_date": "2026-04-15",
+              "days_ago": 34,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_009",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens launches Fuse EDA AI Agent for automation across semiconductor, 3D IC and PCB system workflows - Financial Times",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0xDNjRYQklSNU5WSzhKc1d1bl9pRmlpdHBwdkVQbTNkbGZ4M0Zmcm9CQUhNOFR5SGxGT21xTm1adzh1R21DeHh0MjdrY1c1V1cyOGdtaWZjeXoyaXprTS11OGxraHVpSmJSV282b0cyUE54T0lnd1hXOTI3bzlPcnpRYjVpLUZVeHNFeG1VenVCZWhEcW56UQ?oc=5",
+              "snippet": "Siemens launches Fuse EDA AI Agent for automation across semiconductor, 3D IC and PCB system workflows Financial Times",
+              "published_date": "2026-03-16",
+              "days_ago": 64,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_010",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens launches AI toolkit for chip verification workflows - Investing.com",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVVMZnhJejYwaDBGckVRR2YtRGFlc3NvLXRncFV3bXRveGlHMlRHemVpbG5QQVV6T0RSV3pHUWNMdnJOM2p1ZlpyUXpzcTZKNnp2UFE1b1p3NFFlXzQyamFRZGVIdHVLdUV4OWJCb1FRR2MtV2ZHVUVSbDR5c3U2R2NRdTZLZDZsUXN5bU4zMzhja3c4eFI0enhRc0FSdWw2bmlTOGxlWjF5cjZPc3p1blN6SnpQclk?oc=5",
+              "snippet": "Siemens launches AI toolkit for chip verification workflows Investing.com",
+              "published_date": "2026-02-27",
+              "days_ago": 81,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_011",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens launches Eigen Engineering AI agent - Manufacturing Today India",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Mdkl4SDJETlA1Y0t4VFFWMnJtVEU0U19uUFlpZUxDWGNya0V3M3JsSTlYNHpoeElRaFZpODUyT3p2cUVFeGVUOENiN2FpaFFwMWF0RGhMb1VsbUxwdVl6Y0JocGJTaEdYZHJpUHdsWElrRzVRSWppZElIaHhBcm8?oc=5",
+              "snippet": "Siemens launches Eigen Engineering AI agent Manufacturing Today India",
+              "published_date": "2026-04-20",
+              "days_ago": 29,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_012",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens Launches €50 Million Fund to Reskill Workforce for AI Era - AD HOC NEWS",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQemFJRENVdjFTdDMtbU4yU0hsR1h4OHl3YjV6M0lhM0UxR3l2U2R2MXZ1V0tacFhqZzJya3RDRU9MQ1AxT3VIczhObmlzSHU4T1ctd21rdUhsRjkxSVJ5aVZ2TEwwVVA5SzMyQ2hIYTJUSjZfTmFIZGJMSUZKSzR6R244QnlWajFNM3U4c1RlTWoxMmZqYlZwSGdVVlBmbmlhclA0T2ctVHlYY3hYU1prWFpvZVR5WV9Qai0xWTV3dlc?oc=5",
+              "snippet": "Siemens Launches €50 Million Fund to Reskill Workforce for AI Era AD HOC NEWS",
+              "published_date": "2026-03-22",
+              "days_ago": 58,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_013",
+              "signal_type": "leadership_change",
+              "all_categories": [
+                "leadership_change"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens UK and Ireland appoints Brian Holliday as new CEO - The Manufacturer",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1FCSnVQM1pNdHFmZXpfWnVXU0JBNUtEdXhMTXd6T3JYQTg3VHB2QzZsVjNwZzZPdGQ2eS1aVXlYNWJGVkdIUndUODFNZlMzS21ja2lGVmFZNFI2cEZTdnZCZzU0Q0RYakhYZklmcjBGZU1EelNpNlhyYm04akdLekZmN1dhTmNkNUtqYjRoUkNjT1RzWmhvTnNrZGwwTTZU?oc=5",
+              "snippet": "Siemens UK and Ireland appoints Brian Holliday as new CEO The Manufacturer",
+              "published_date": "2026-05-19",
+              "days_ago": 0,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_014",
+              "signal_type": "leadership_change",
+              "all_categories": [
+                "leadership_change"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens appoints new CEO of UK & Ireland - Trucknet UK",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORk5ncHhrZUJQM2tsYUNzVEtRVW95Q2ZnWGp6emtpaGdiMTdoeThuMXpWcXV0cV9TTWFTUXVBY0dvUlF4YUlDR3Y2cVY0dDZNaF93cHdHVHB2d3hhZ0swUTR1RnRhV2JmSldXVGJaRlF1RkExMHo1WmJkTjhaNGVpbjdxZUdvZw?oc=5",
+              "snippet": "Siemens appoints new CEO of UK & Ireland Trucknet UK",
+              "published_date": "2026-05-19",
+              "days_ago": 0,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_015",
+              "signal_type": "leadership_change",
+              "all_categories": [
+                "leadership_change"
+              ],
+              "source_type": "google_news_rss",
+              "title": "Siemens USA Appoints Skip Lockard as General Counsel - ETLegalWorld.com",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGw3amp4dFV1a3I2Z28zeWl4ZDZtTjB3LTNxNnhfWFY3d1pCNEFoRmo1UzNrSGdMNVQzaTZxaEppVTVPTEtfVTZRNzhvMEE2YzFVUEkya0EyQ25uOUhVR29Ld3hjTHJkbmYzdGhHNmZNaGRsN3RhWWFOWXo3S1o0VXVENFlUUTIzNUxSTmhYaEpWQTRpcE9tUWlCNFhYQUhjSVFRSW9WbEF4Tk1NakZZcUJlWkZqeHJsUTBIWUdWbVBBcVHSAcgBQVVfeXFMTnVESGNOWEh5ZV9HbzZZN2hBa1A1R1VOU0xzU2Rjc1FTU0VGVU4za2RkQzB6aE1BaE9uU1BSMlc1M0JWcTlTcENRNm1kY09UaXRsek9ORkE1TUhwTGg1VjVIYXFRTFE3Z3pvNzAzd1p6ZGRWMDh5eW52V1I2NlR2R0ZUdjZrdjBuc0hRVGI3NWhFUjNHUTlUb1U1R1A4bjM3Y2xiQkZUYW1IZ29pZjVFS29VTVhfYXhvbmNpVVFrLV9nRTJseFppcm4?oc=5",
+              "snippet": "Siemens USA Appoints Skip Lockard as General Counsel ETLegalWorld.com",
+              "published_date": "2026-03-31",
+              "days_ago": 49,
+              "confidence": "High",
+              "counted_in_score": true
+            },
+            {
+              "id": "news_016",
+              "signal_type": "product_platform_launch",
+              "all_categories": [
+                "product_platform_launch"
+              ],
+              "source_type": "company_news_page",
+              "title": "Siemens launches\nAI-powered service to further drive autonomous building operations",
+              "url": "https://siemens.com/press",
+              "snippet": "",
+              "published_date": "",
+              "days_ago": -1,
+              "confidence": "Low",
+              "counted_in_score": false
+            }
+          ],
+          "sonar_relevance_score": 5.5,
+          "score_breakdown": {
+            "cloud_ai_transformation": 2.5,
+            "product_platform_launch": 2.0,
+            "leadership_change": 0.5,
+            "recency_bonus": 0.5,
+            "total": 5.5
+          },
+          "sonar_relevance_reason": "",
+          "summary": "Unable to generate news summary.",
+          "confidence": "High",
+          "limitations": [
+            "Claude interpretation error: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+          ],
+          "sources_checked": [
+            {
+              "url": "https://news.google.com/rss/search?q=%22Siemens+AG%22+%28cybersecurity+OR+breach+OR+vulnerability+OR+hacked+OR+ransomware+OR+%22data+leak%22+OR+CVE%29&hl=en-US&gl=US&ceid=US:en",
+              "source_type": "google_news_rss",
+              "fetch_status": "success"
+            },
+            {
+              "url": "https://news.google.com/rss/search?q=%22Siemens+AG%22+%28%22cloud+migration%22+OR+%22digital+transformation%22+OR+%22AI+initiative%22+OR+%22generative+AI%22+OR+DevOps+OR+MLOps%29&hl=en-US&gl=US&ceid=US:en",
+              "source_type": "google_news_rss",
+              "fetch_status": "success"
+            },
+            {
+              "url": "https://news.google.com/rss/search?q=%22Siemens+AG%22+%28%22platform+engineering%22+OR+%22engineering+transformation%22+OR+%22cloud-native%22+OR+%22SaaS+migration%22%29&hl=en-US&gl=US&ceid=US:en",
+              "source_type": "google_news_rss",
+              "fetch_status": "success"
+            },
+            {
+              "url": "https://news.google.com/rss/search?q=%22Siemens+AG%22+%28launches+OR+%22major+release%22+OR+%22new+platform%22+OR+%22general+availability%22+OR+%22developer+platform%22%29&hl=en-US&gl=US&ceid=US:en",
+              "source_type": "google_news_rss",
+              "fetch_status": "success"
+            },
+            {
+              "url": "https://news.google.com/rss/search?q=%22Siemens+AG%22+%28new+CTO+OR+new+CISO+OR+%22VP+Engineering%22+OR+%22Chief+Technology+Officer%22+OR+appoints%29&hl=en-US&gl=US&ceid=US:en",
+              "source_type": "google_news_rss",
+              "fetch_status": "success"
+            },
+            {
+              "url": "https://siemens.com/newsroom",
+              "source_type": "company_news_page",
+              "fetch_status": "not_found"
+            },
+            {
+              "url": "https://siemens.com/press",
+              "source_type": "company_news_page",
+              "fetch_status": "success"
+            }
+          ]
+        },
+        "company_position": {
+          "company": "Siemens AG",
+          "position_label": "AI Leader",
+          "confidence": "Medium",
+          "classification_score": 4,
+          "sonar_relevance_score": 4,
+          "dimension_scores": {
+            "ai_innovation_news": 2,
+            "hiring_signals": 0,
+            "tech_stack_maturity": 0,
+            "engineering_visibility": 0,
+            "leadership_messaging": 2
+          },
+          "skeptic_flags": [],
+          "evidence": [
+            {
+              "source_signal": "public_news",
+              "dimension": "ai_innovation_news",
+              "evidence_text": "News signals detected: product_platform_launch, cloud_ai_transformation",
+              "source_url": "",
+              "confidence": "High",
+              "supports": "leader",
+              "id": "pos_001"
+            },
+            {
+              "source_signal": "public_news",
+              "dimension": "ai_innovation_news",
+              "evidence_text": "News: \"Siemens Joins AZuR to Support Digital Transformation in Tyre Recycling - Tyre & Rubber Recycling\"",
+              "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1Y0VG1iTUpocG1ITzN2U2dfNExZVGxpNXY0U2N2MmdjdHRYN251VTNSWnZIRl9fbm5aVFZCVUJJa3JIcUxLakQ4MUxFWFFpVnJoQkd1X3hLbXFMR0MxUEFyT25ZcFplNWdJYU41UXVOY0JWQmhOXy1kRmlmRmZwWFA5UHBFYk9kbzJ2NGNjVGdmVDYxVC1pTkV6cXM1WnFUSVF3UkVyUzJWSkRvalRNWlZZTUlld3lIeF9pc2xjb3NfQm1EX2NSSlQzQ2JrUQ?oc=5",
+              "confidence": "High",
+              "supports": "leader",
+              "id": "pos_002"
+            },
+            {
+              "source_signal": "public_news",
+              "dimension": "leadership_messaging",
+              "evidence_text": "Leadership change detected (new CTO / CISO / VP Engineering)",
+              "source_url": "",
+              "confidence": "High",
+              "supports": "leader",
+              "id": "pos_003"
+            }
+          ],
+          "summary": "Unable to generate company position summary.",
+          "classification_reason": "",
+          "recommended_sales_angle": "",
+          "limitations": [
+            "Claude interpretation error: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+          ]
+        },
+        "company_profile": {
+          "company": "Siemens AG",
+          "domain": "siemens.com",
+          "status": "error",
+          "snapshot": {
+            "what_they_do": "",
+            "who_they_sell_to": "",
+            "regions_scale": "",
+            "business_model": "",
+            "key_acquisition": "",
+            "strategic_direction": "",
+            "ai_posture": ""
+          },
+          "sources_checked": [],
+          "limitations": [
+            "ANTHROPIC_API_KEY is not configured"
+          ],
+          "confidence": "Low"
+        },
+        "pain_points": {
+          "company": "Siemens AG",
+          "domain": "siemens.com",
+          "status": "error",
+          "detected_categories": [],
+          "sonar_relevance_score": 0,
+          "score_breakdown": {
+            "company_linked_pain": 0.0,
+            "security_quality_urgency": 0.0,
+            "delivery_pressure": 0.0,
+            "sonar_or_competitor_pain": 0.0,
+            "recency_repeat_bonus": 0.0,
+            "total": 0.0
+          },
+          "summary": "",
+          "sonar_relevance_reason": "",
+          "recommended_sales_angle": "",
+          "confidence": "Low",
+          "evidence": [],
+          "limitations": [
+            "ANTHROPIC_API_KEY is not configured"
+          ],
+          "sources_checked": []
+        },
+        "signal_advisor": {
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+          "hook_title": "",
+          "hook_rationale": "",
+          "strategy_note": "",
+          "suggested_signals": []
+        }
+      },
+      "total_score": 9.5,
+      "token_usage": {
+        "tech_stack": {
+          "input": 0,
+          "output": 0
+        },
+        "hiring_patterns": {
+          "input": 0,
+          "output": 0
+        },
+        "public_news": {
+          "input": 0,
+          "output": 0
+        },
+        "company_position": {
+          "input": 0,
+          "output": 0
+        },
+        "company_profile": {
+          "input": 0,
+          "output": 0
+        },
+        "pain_points": {
+          "input": 0,
+          "output": 0
+        },
+        "signal_advisor": {
+          "input": 0,
+          "output": 0
+        }
+      },
+      "rank": 1
+    }
+  ]
+}
