@@ -60,7 +60,7 @@ st.markdown("---")
 st.subheader("Account Detail")
 for i, r in enumerate(results):
     col1, col2, col3 = st.columns([1, 5, 2])
-    col1.write(f"#{r['rank']}")
+    col1.write(f"#{r.get('rank', '—')}")
     col2.write(f"**{r['company']}** — Score: {round(r['total_score'], 2)}")
     if col3.button("View Findings", key=f"view_{i}"):
         st.session_state["selected_account_idx"] = i

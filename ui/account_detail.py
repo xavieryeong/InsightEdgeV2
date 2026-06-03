@@ -23,7 +23,7 @@ if st.button("← Back to Account List"):
     st.switch_page("ui/account_list_detail.py")
 
 st.title(r["company"])
-st.caption(f"Rank #{r['rank']}  ·  Propensity Score: {round(r['total_score'], 2)}  ·  Domain: {r.get('domain', '—')}")
+st.caption(f"Rank #{r.get('rank', '—')}  ·  Propensity Score: {round(r['total_score'], 2)}  ·  Domain: {r.get('domain', '—')}")
 st.markdown("---")
 
 # ── Company Profile ───────────────────────────────────────────────────────────

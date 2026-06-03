@@ -351,7 +351,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
             )
 
         row_cols[1].markdown(
-            f"<div style='color:{MUTED};font-weight:600;padding-top:10px'>{r['rank']}</div>",
+            f"<div style='color:{MUTED};font-weight:600;padding-top:10px'>{r.get('rank', '—')}</div>",
             unsafe_allow_html=True,
         )
 
@@ -432,7 +432,7 @@ def _build_markdown(results: list, idxs: list[int]) -> bytes:
     for i in idxs:
         r = results[i]
         sigs = r.get("signals", {})
-        lines.append(f"# {r['company']}  (Rank #{r['rank']} · Score {round(r['total_score'], 1)})")
+        lines.append(f"# {r['company']}  (Rank #{r.get('rank', '—')} · Score {round(r['total_score'], 1)})")
         lines.append(f"*Industry:* {_industry(r)}  ·  *Position:* {_position_label(r)}  ·  *Domain:* {r.get('domain', '—')}")
         adv = sigs.get(AGENT_ADVISOR, {}) or {}
         if adv.get("hook_title"):
@@ -526,7 +526,7 @@ def _render_hero(r: dict, sigs: dict, velocity_mode: bool = False):
     )
     st.markdown(
         f"<div style='display:flex;align-items:baseline;gap:14px;flex-wrap:wrap'>"
-        f"<span style='color:{MUTED};font-size:{TYPE['caption']}'>Rank #{r['rank']}</span>"
+        f"<span style='color:{MUTED};font-size:{TYPE['caption']}'>Rank #{r.get('rank', '—')}</span>"
         f"{domain_link}"
         f"</div>",
         unsafe_allow_html=True,
