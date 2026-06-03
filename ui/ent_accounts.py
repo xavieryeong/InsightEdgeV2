@@ -72,7 +72,7 @@ for i, tab_config in enumerate(st.session_state[TABS_KEY]):
                 f"{data['metadata'].get('date', '')[:16].replace('T', ' ')}  ·  {data['metadata']['company_count']} companies"
             )
             st.markdown("---")
-            render_run_content(data["results"], tab_config["path"], TABS_KEY)
+            render_run_content(data["results"], tab_config["path"], TABS_KEY, tab_idx=i)
 
         elif tab_config["type"] == "account":
             data = load_run(tab_config["run_path"])

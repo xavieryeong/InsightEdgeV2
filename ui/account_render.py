@@ -241,10 +241,11 @@ def _sort_arrow(tabs_key: str, run_path: str, field: str) -> str:
     return " ↓" if d == "desc" else " ↑"
 
 
-def render_run_content(results: list, run_path: str, tabs_key: str, show_position: bool = True):
+def render_run_content(results: list, run_path: str, tabs_key: str, show_position: bool = True, tab_idx: int = 0):
     """Dashboard ranked-table view for a single run."""
-    search_key = f"{tabs_key}_{run_path}_search"
-    sel_prefix = f"{tabs_key}_{run_path}_sel_"
+    ck = f"{tabs_key}_{tab_idx}"
+    search_key = f"{ck}_search"
+    sel_prefix = f"{ck}_sel_"
 
     # ── Toolbar: search + bulk actions ────────────────────────────────────
     tb_search, tb_actions = st.columns([2.5, 2])
@@ -1163,17 +1164,20 @@ def _render_email_panel(r: dict, sigs: dict, selected_items: list, ck: str,
                     except (ValueError, IndexError):
                         pass
 
-            pers_cols = st.columns(len(_PERSONALITY_OPTIONS))
             personality = []
-            for col, opt in zip(pers_cols, _PERSONALITY_OPTIONS):
-                with col:
-                    checked = st.checkbox(
-                        opt,
-                        value=(opt == default_personality),
-                        key=f"eml_pers_{ck}_{opt}",
-                    )
-                    if checked:
-                        personality.append(opt)
+            row1_opts = _PERSONALITY_OPTIONS[:3]   # Red, Blue, Green
+            row2_opts = _PERSONALITY_OPTIONS[3:]   # Yellow, Unknown
+            for row_opts, n in [(row1_opts, 3), (row2_opts, 2)]:
+                row_cols = st.columns(n)
+                for col, opt in zip(row_cols, row_opts):
+                    with col:
+                        checked = st.checkbox(
+                            opt,
+                            value=(opt == default_personality),
+                            key=f"eml_pers_{ck}_{opt}",
+                        )
+                        if checked:
+                            personality.append(opt)
             if not personality:
                 personality = ["Unknown"]
 
