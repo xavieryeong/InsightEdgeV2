@@ -272,7 +272,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
                 data=csv_bytes,
                 file_name=f"{_safe_filename(run_path)}.csv",
                 mime="text/csv",
-                key=f"{tabs_key}_{run_path}_csv_all",
+                key=f"{ck}_csv_all",
                 use_container_width=True,
             )
         with a2:
@@ -282,7 +282,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
                 data=sel_csv,
                 file_name=f"{_safe_filename(run_path)}_selected.csv",
                 mime="text/csv",
-                key=f"{tabs_key}_{run_path}_csv_sel",
+                key=f"{ck}_csv_sel",
                 disabled=n_sel == 0,
                 use_container_width=True,
             )
@@ -293,7 +293,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
                 data=md_bytes,
                 file_name=f"{_safe_filename(run_path)}_brief.md",
                 mime="text/markdown",
-                key=f"{tabs_key}_{run_path}_md_sel",
+                key=f"{ck}_md_sel",
                 disabled=n_sel == 0,
                 use_container_width=True,
             )
@@ -318,7 +318,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
         with col:
             if st.button(
                 f"{label}{_sort_arrow(tabs_key, run_path, field)}",
-                key=f"{tabs_key}_{run_path}_sort_{field}",
+                key=f"{ck}_sort_{field}",
                 type="tertiary",
                 use_container_width=True,
             ):
@@ -359,7 +359,7 @@ def render_run_content(results: list, run_path: str, tabs_key: str, show_positio
         with row_cols[2]:
             if st.button(
                 r["company"],
-                key=f"row_{tabs_key}_{orig_idx}",
+                key=f"row_{ck}_{orig_idx}",
                 type="tertiary",
             ):
                 add_tab(tabs_key, {
