@@ -106,8 +106,10 @@ If a finding mentions both a qualifying signal AND an ignore topic, include it �
 
 **Critical rules:**
 - Return ONLY valid JSON. No markdown fences. No prose before or after.
-- Every evidence item must have a real `source_url` from a page you actually fetched via web search. Do NOT fabricate URLs.
-- `source_url` may only be empty string for `industry_mapping` source_type items.
+- **Maximum 2 evidence items.** Pick only the strongest 1-2 findings. Quality over quantity.
+- **Only include evidence from pages you actually fetched** via web search. If you could not load a page, do not include it.
+- All evidence must be `source_type: official_regulator_website` or `company_website`. Do NOT include `industry_mapping` items — if you cannot find a real page, leave evidence empty.
+- Every evidence item must have a real `source_url` you actually visited. Do NOT fabricate URLs.
 - Every `score_breakdown` key with a non-zero value must have evidence backing it.
 - Use cautious language: "may be subject to", "public sources indicate", "official guidance suggests" — do NOT claim non-compliance unless explicitly stated.
 
