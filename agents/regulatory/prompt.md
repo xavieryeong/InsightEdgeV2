@@ -92,12 +92,18 @@ If the company is in a financial services industry:
 
 ## Step 3: Search for Active Regulatory Actions
 
-Search for direct evidence about this specific company:
-- Active fines, enforcement actions, regulatory investigations
+Use the web_search tool to find real, verifiable evidence. Search for:
+- Active fines, enforcement actions, regulatory investigations for this company
 - Lawsuits or legal actions related to data, security, or compliance
 - Compliance audits, certifications, or assessments announced publicly
 - Regulatory guidance or requirements that name this company or their sector
 - Recent news about compliance programs, certifications achieved or in progress
+
+**Search strategy:**
+- Search the company's own domain for trust center, compliance, certifications, and governance pages
+- Search the relevant regulator's website for guidance specific to this company's industry and country
+- Search news sources for any active enforcement actions or audit announcements
+- Only include evidence from URLs you actually retrieved via web search — do NOT fabricate or guess URLs
 
 ---
 

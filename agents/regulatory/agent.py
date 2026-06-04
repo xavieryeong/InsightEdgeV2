@@ -6,8 +6,7 @@ RegulatoryImpactAgent — ENT only.
 3-layer discovery:
   1. Google News RSS  (4 regulatory-targeted queries, keyword-filtered)
   2. Company compliance / trust / privacy pages  (heading extraction)
-  3. Claude (no web search) — uses training knowledge + Python evidence
-     to assess applicable regulations, score, and return JSON.
+  3. Claude with web_search_20250305 — live web search for real, verifiable URLs.
 """
 
 import json
@@ -22,7 +21,8 @@ from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
 from dateutil import parser as dateutil_parser
 
-from agents.base import BaseAgent, safe_create
+from agents.base import BaseAgent, safe_create  # noqa: F401 (safe_create used by layers 1-2)
+from agents.regulatory.claude_reg_search import run_reg_search
 from agents.regulatory.config import (
     SCORE_CAPS,
     TOTAL_SCORE_CAP,
@@ -94,24 +94,21 @@ class RegulatoryImpactAgent(BaseAgent):
         pre_evidence = rss_evidence + page_evidence
         limitations_pre = rss_limitations + page_limitations
 
-        # ── Layer 3: Claude web search with pre-found context ────────────────
+        # ── Layer 3: Claude + live web search ────────────────────────────────
         system_prompt, user_message = self._build_prompt(
             company, domain, country, industry, pre_evidence
         )
 
         try:
-            response = safe_create(
-                self.client,
+            raw_text, search_limitations, loop_in, loop_out = run_reg_search(
+                client=self.client,
                 model=self.model,
-                max_tokens=8192,
-                system=system_prompt,
-                messages=[{"role": "user", "content": user_message}],
+                system_prompt=system_prompt,
+                user_message=user_message,
             )
-            raw_text = response.content[0].text
-            usage = {
-                "input": response.usage.input_tokens,
-                "output": response.usage.output_tokens,
-            }
+            usage = {"input": loop_in, "output": loop_out}
+            if search_limitations:
+                limitations_pre.extend(search_limitations)
         except Exception as e:
             return self._safe_fallback(
                 company, domain, f"Regulatory research API error: {e}"
@@ -364,24 +361,24 @@ class RegulatoryImpactAgent(BaseAgent):
             "## Target Company\n\n"
             f"Company: {company}\n"
             f"Domain: {domain or 'not provided'}\n"
-            f"Country/Market: {country or 'detect from your knowledge'}\n"
-            f"Industry: {industry or 'detect from your knowledge'}\n\n"
+            f"Country/Market: {country or 'unknown — detect via web search'}\n"
+            f"Industry: {industry or 'unknown — detect via web search'}\n\n"
             "## Pre-found Evidence (Python scraping)\n\n"
             "The following signals were scraped by Python before you were invoked:\n\n"
             f"{pre_ev_text}\n\n"
             "## Instructions\n\n"
-            f"Research {company}'s regulatory situation using your training knowledge. "
+            f"Use the web_search tool to research {company}'s regulatory situation. "
             "Specifically:\n\n"
-            f"1. Check what you know from {company}'s own website ({domain}), "
-            "including their trust center, cybersecurity governance pages, press releases, "
-            "newsroom, and annual reports — for any certifications (ISO 27001, SOC 2, TISAX, "
-            "PCI DSS, HIPAA, etc.) they hold or compliance programs they participate in.\n\n"
-            f"2. Check what you know from {company}'s press releases and public announcements "
-            "about compliance, security certifications, audits, or regulatory actions.\n\n"
-            "3. Based on their industry and country, identify which regulations apply to them "
-            "that are directly relevant to SOFTWARE SECURITY, CODE QUALITY, SECURE SDLC, "
-            "APPLICATION SECURITY, or CYBERSECURITY compliance — these are the only areas "
-            "where Sonar provides value.\n\n"
+            f"1. Search {company}'s own website ({domain}) for their trust center, "
+            "cybersecurity governance pages, press releases, newsroom, and annual reports "
+            "— look for certifications (ISO 27001, SOC 2, TISAX, PCI DSS, HIPAA, etc.) "
+            "they hold or compliance programs they participate in.\n\n"
+            f"2. Search for {company} press releases and public announcements about "
+            "compliance, security certifications, audits, or regulatory actions.\n\n"
+            "3. Based on their industry and country, search the relevant regulator's "
+            "website for guidance that applies to this company — only include regulations "
+            "directly relevant to SOFTWARE SECURITY, CODE QUALITY, SECURE SDLC, "
+            "APPLICATION SECURITY, or CYBERSECURITY compliance.\n\n"
             "SCOPE RULES — only include these regulation types:\n"
             "- Cybersecurity laws and directives (NIS2, DORA, IT-Sicherheitsgesetz, KRITIS)\n"
             "- Software coding standards (MISRA C/C++, ISO 26262, DO-178C, IEC 62443)\n"
