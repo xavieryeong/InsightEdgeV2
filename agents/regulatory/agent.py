@@ -86,20 +86,12 @@ class RegulatoryImpactAgent(BaseAgent):
                 "ANTHROPIC_API_KEY is not configured",
             )
 
-        # ── Layer 1: Google News RSS ──────────────────────────────────────────
-        rss_evidence, _, rss_limitations = self._fetch_rss(company)
-
-        # ── Layer 2: Company compliance pages ────────────────────────────────
-        page_evidence, _, page_limitations = (
-            self._fetch_compliance_pages(domain) if domain else ([], [], [])
-        )
-
-        pre_evidence = rss_evidence + page_evidence
-        limitations_pre = rss_limitations + page_limitations
-
-        # ── Layer 3: Claude + live web search ────────────────────────────────
+        # ── Layer 1: Claude live web search (primary — regulator website first) ─
+        # Claude searches the assigned regulator's website, then the company site,
+        # then enforcement/news. This is the most important layer.
+        limitations_pre: list[str] = []
         system_prompt, user_message = self._build_prompt(
-            company, domain, country, industry, pre_evidence
+            company, domain, country, industry, pre_evidence=[]
         )
 
         try:
@@ -124,9 +116,6 @@ class RegulatoryImpactAgent(BaseAgent):
                 usage=usage,
             )
 
-        print(f"[REG DEBUG] raw_text length={len(raw_text)}")
-        print(f"[REG DEBUG] raw_text[:800]:\n{raw_text[:800]}\n---")
-
         result = self._parse_response(raw_text)
         if result is None:
             return self._safe_fallback(
@@ -139,22 +128,36 @@ class RegulatoryImpactAgent(BaseAgent):
         result["company"] = company
         result["domain"] = domain
 
+        # ── Layer 2: Google News RSS (supplementary — recent enforcement/news) ─
+        # Runs after Claude so it adds recent news the web search may have missed.
+        rss_evidence, _, rss_limitations = self._fetch_rss(company)
+        if rss_evidence:
+            result.setdefault("evidence", [])
+            existing_urls = {e.get("source_url") for e in result["evidence"]}
+            for item in rss_evidence:
+                url = item.get("source_url", "")
+                if url and url not in existing_urls:
+                    result["evidence"].append({
+                        "id": f"rss_{len(result['evidence']) + 1:03d}",
+                        "type": "general_regulatory_mention",
+                        "value": item.get("title", ""),
+                        "source_type": "public_news",
+                        "source_url": url,
+                        "evidence_text": item.get("snippet", ""),
+                        "regulation": "",
+                        "regulator": "",
+                        "country": country,
+                        "industry": industry,
+                        "confidence": "Low",
+                        "counted_in_score": False,
+                    })
+                    existing_urls.add(url)
+        if rss_limitations:
+            limitations_pre.extend(rss_limitations)
+
         if limitations_pre:
             result.setdefault("limitations", [])
             result["limitations"].extend(limitations_pre)
-
-        # Debug: if score is still 0 after parsing, surface evidence count so user can see why
-        if result.get("sonar_relevance_score", 0) == 0:
-            ev_count = len(result.get("evidence", []))
-            counted = sum(
-                1 for e in result.get("evidence", []) if e.get("counted_in_score")
-            )
-            result.setdefault("limitations", [])
-            result["limitations"].append(
-                f"[Debug] Score=0 after parsing. Evidence items: {ev_count}, "
-                f"counted_in_score=True: {counted}. "
-                f"Raw response (first 600 chars): {raw_text[:600]}"
-            )
 
         result["_usage"] = usage
         return result
