@@ -29,6 +29,9 @@ from agents.regulatory.config import (
     VALID_SCORE_CATEGORIES,
     VALID_STATUSES,
     VALID_CONFIDENCE,
+    COUNTRY_REGULATOR_MAP,
+    QUALIFYING_SIGNAL_KEYWORDS,
+    REGULATOR_IGNORE_SIGNALS,
 )
 from config.settings import ANTHROPIC_API_KEY, CLAUDE_MODEL  # noqa: F401
 
@@ -357,28 +360,66 @@ class RegulatoryImpactAgent(BaseAgent):
         else:
             pre_ev_text = "None found by Python scraping."
 
+        # ── Regulator block (deterministic lookup from config) ────────────────
+        country_key = (country or "").strip().lower()
+        regulator_info = COUNTRY_REGULATOR_MAP.get(country_key)
+
+        if regulator_info:
+            reg_name = f"{regulator_info['short_name']} ({regulator_info['full_name']})"
+            reg_website = regulator_info["website"]
+            reg_pages = "\n".join(f"  - {p}" for p in regulator_info["target_pages"])
+            reg_look_for = "\n".join(f"  - {s}" for s in regulator_info["look_for"])
+            regulator_block = (
+                f"## Assigned Regulator\n\n"
+                f"The relevant regulatory authority for {company} is:\n"
+                f"**{reg_name}** — {reg_website}\n\n"
+                f"Search these specific pages on the regulator's website first:\n"
+                f"{reg_pages}\n\n"
+                f"On the regulator's website, look specifically for:\n"
+                f"{reg_look_for}\n\n"
+            )
+        else:
+            regulator_block = (
+                "## Assigned Regulator\n\n"
+                f"No regulator pre-mapped for country '{country}'. "
+                "Use web search to identify the relevant financial or cybersecurity "
+                "regulator for this company's country and industry, then search their "
+                "official website for cybersecurity and technology risk requirements.\n\n"
+            )
+
+        # ── Qualifying and ignore keyword blocks (from config) ────────────────
+        qualifying_str = "\n".join(f"  - {k}" for k in QUALIFYING_SIGNAL_KEYWORDS[:20])
+        ignore_str = "\n".join(f"  - {k}" for k in REGULATOR_IGNORE_SIGNALS[:15])
+
         user_message = (
             "## Target Company\n\n"
             f"Company: {company}\n"
             f"Domain: {domain or 'not provided'}\n"
             f"Country/Market: {country or 'unknown — detect via web search'}\n"
             f"Industry: {industry or 'unknown — detect via web search'}\n\n"
+            f"{regulator_block}"
             "## Pre-found Evidence (Python scraping)\n\n"
             "The following signals were scraped by Python before you were invoked:\n\n"
             f"{pre_ev_text}\n\n"
-            "## Instructions\n\n"
+            "## Research Instructions\n\n"
             f"Use the web_search tool to research {company}'s regulatory situation. "
-            "Specifically:\n\n"
-            f"1. Search {company}'s own website ({domain}) for their trust center, "
-            "cybersecurity governance pages, press releases, newsroom, and annual reports "
-            "— look for certifications (ISO 27001, SOC 2, TISAX, PCI DSS, HIPAA, etc.) "
-            "they hold or compliance programs they participate in.\n\n"
-            f"2. Search for {company} press releases and public announcements about "
-            "compliance, security certifications, audits, or regulatory actions.\n\n"
-            "3. Based on their industry and country, search the relevant regulator's "
-            "website for guidance that applies to this company — only include regulations "
-            "directly relevant to SOFTWARE SECURITY, CODE QUALITY, SECURE SDLC, "
-            "APPLICATION SECURITY, or CYBERSECURITY compliance.\n\n"
+            "Follow this order:\n\n"
+            f"1. **Regulator website first** — Go to the assigned regulator above. "
+            "Search the specific pages listed. Find requirements that directly mandate "
+            "software security, application security, secure SDLC, vulnerability management, "
+            f"or IT risk controls for companies like {company}.\n\n"
+            f"2. **Company's own website** — Search {domain} for their trust center, "
+            "cybersecurity governance pages, press releases, and annual reports. "
+            "Look for certifications (ISO 27001, SOC 2, PCI DSS, etc.) and any "
+            "compliance programs they publicly claim.\n\n"
+            f"3. **Enforcement and news** — Search for any active enforcement actions, "
+            f"regulatory fines, or cybersecurity incidents involving {company} specifically.\n\n"
+            "## What qualifies as a Sonar-relevant signal\n\n"
+            "ONLY include findings that relate to at least one of these:\n"
+            f"{qualifying_str}\n\n"
+            "## What to IGNORE\n\n"
+            "Do NOT include findings that are only about (with no software/security angle):\n"
+            f"{ignore_str}\n\n"
             "SCOPE RULES — only include these regulation types:\n"
             "- Cybersecurity laws and directives (NIS2, DORA, IT-Sicherheitsgesetz, KRITIS)\n"
             "- Software coding standards (MISRA C/C++, ISO 26262, DO-178C, IEC 62443)\n"
