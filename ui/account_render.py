@@ -1085,38 +1085,48 @@ def _render_email_panel(r: dict, sigs: dict, selected_items: list, ck: str,
                     )
 
                 col_note, col_rerun = st.columns([3, 1])
-                col_note.caption("Untick any signal you want to remove.")
+                col_note.caption("Tick any signal you want to re-analyse.")
                 if col_rerun.button("Re-analyse", key=f"adv_rerun_{ck}", type="secondary"):
                     from agents.advisor.agent import SignalAdvisorAgent
                     _type_to_key = {
-                        "hiring":     "hiring_signal",
-                        "news":       "news_signal",
-                        "tech_stack": "tech_stack",
-                        "regulatory": "regulatory_impact",
-                        "pain_points": "pain_points",
+                        "hiring":           "hiring_signal",
+                        "news":             "news_signal",
+                        "tech_stack":       "tech_stack",
+                        "regulatory":       "regulatory_impact",
+                        "pain_points":      "pain_points",
                         "company_position": "company_position",
-                        "personality": "personality_inference",
+                        "personality":      "personality_inference",
                     }
+                    # Ticked = replace this signal. Unticked = keep as-is.
+                    signals_to_keep = [
+                        sig for idx, sig in enumerate(suggested)
+                        if not st.session_state.get(f"adv_sig_{ck}_{idx}", True)
+                    ]
                     excluded_keys = {
                         _type_to_key.get(sig.get("type", ""), sig.get("type", ""))
                         for idx, sig in enumerate(suggested)
-                        if not st.session_state.get(f"adv_sig_{ck}_{idx}", True)
+                        if st.session_state.get(f"adv_sig_{ck}_{idx}", True)
                     }
                     filtered_sigs = {k: v for k, v in sigs.items() if k not in excluded_keys}
-                    # clear old checkbox states so new suggestions start all-ticked
                     for idx in range(len(suggested)):
                         st.session_state.pop(f"adv_sig_{ck}_{idx}", None)
                     with st.spinner("Re-analysing signals…"):
                         adv_result = SignalAdvisorAgent().analyse(r["company"], filtered_sigs)
+                    # Merge: kept signals first, then new suggestions from advisor
+                    new_suggestions = signals_to_keep + adv_result.get("suggested_signals", [])
+                    adv_result["suggested_signals"] = new_suggestions
                     st.session_state[f"adv_result_{ck}"] = adv_result
                     _save_advisor_to_run(run_path, r["company"], adv_result)
                     st.rerun()
 
-    effective_selected = (
-        advisor_selected_items
-        if (adv_result and not (adv_result.get("error") and not adv_result.get("hook_title")))
-        else selected_items
-    )
+    # All ticked signals — advisor suggestions + any manually ticked signals, deduped
+    _seen: set = set()
+    effective_selected = []
+    for _item in advisor_selected_items + selected_items:
+        _key = _item.get("content", "")
+        if _key not in _seen:
+            _seen.add(_key)
+            effective_selected.append(_item)
 
     spacer("md")
 
@@ -1243,7 +1253,7 @@ def _render_email_panel(r: dict, sigs: dict, selected_items: list, ck: str,
         ):
             from agents.email.agent import EmailDraftAgent
             tone_hint = _TONE_PRESETS.get(st.session_state.get(chosen_tone_key, ""), "")
-            note = (strategy_note + "\n\n" + tone_hint).strip() if tone_hint else strategy_note
+            note = tone_hint
             with st.spinner("Drafting email…"):
                 result = EmailDraftAgent().draft(
                     company=r["company"],
