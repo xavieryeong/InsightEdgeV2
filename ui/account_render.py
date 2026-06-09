@@ -1088,8 +1088,26 @@ def _render_email_panel(r: dict, sigs: dict, selected_items: list, ck: str,
                 col_note.caption("Untick any signal you want to remove.")
                 if col_rerun.button("Re-analyse", key=f"adv_rerun_{ck}", type="secondary"):
                     from agents.advisor.agent import SignalAdvisorAgent
+                    _type_to_key = {
+                        "hiring":     "hiring_signal",
+                        "news":       "news_signal",
+                        "tech_stack": "tech_stack",
+                        "regulatory": "regulatory_impact",
+                        "pain_points": "pain_points",
+                        "company_position": "company_position",
+                        "personality": "personality_inference",
+                    }
+                    excluded_keys = {
+                        _type_to_key.get(sig.get("type", ""), sig.get("type", ""))
+                        for idx, sig in enumerate(suggested)
+                        if not st.session_state.get(f"adv_sig_{ck}_{idx}", True)
+                    }
+                    filtered_sigs = {k: v for k, v in sigs.items() if k not in excluded_keys}
+                    # clear old checkbox states so new suggestions start all-ticked
+                    for idx in range(len(suggested)):
+                        st.session_state.pop(f"adv_sig_{ck}_{idx}", None)
                     with st.spinner("Re-analysing signals…"):
-                        adv_result = SignalAdvisorAgent().analyse(r["company"], sigs)
+                        adv_result = SignalAdvisorAgent().analyse(r["company"], filtered_sigs)
                     st.session_state[f"adv_result_{ck}"] = adv_result
                     _save_advisor_to_run(run_path, r["company"], adv_result)
                     st.rerun()
