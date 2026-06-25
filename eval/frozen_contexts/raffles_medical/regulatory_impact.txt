@@ -1,0 +1,32 @@
+Company: Raffles Medical Group
+Domain: singapore-health-insurance.com
+Industry: healthcare
+Country: SG
+Agent: regulatory_impact
+Evidence items: 5
+============================================================
+
+[REGULATORY] type=general_regulatory_mention | value=SGX director interest disclosure — LMS Compliance | regulation=SGX Listing Rules (securities disclosure) | regulator=Singapore Exchange (SGX)
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEd4aXQ0WEM0RXE1b2FQc0NtMEhJNExiOXV6ZVlTMkMwS2tfd2NZOWpiYUVHNkRDMXFJalgyMjc3XzNTMVlEaXBmbzA5YkstN1AxMUNsdzhTVjhTN0taWFNXM2gzcnhTNFNLVDBNV0U2NTRUc1J3OWpwNlVjLWZIekRVM2ZXb1JKbTE2bkNmLU5uZVppZk9Ld1htMjZtdEFxcG9lQ3ZPTTg?oc=5
+  Evidence: News item dated 2024-06-24 references LMS Compliance director interest disclosures on SGX. This relates to securities disclosure compliance at the SGX level and is not directly related to cybersecurity, software security, or secure SDLC. Included for completeness as pre-found evidence but not counted toward Sonar-relevant score categories.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=Singapore Cyber Security Act — Critical Information Infrastructure (CII) obligations for healthcare | regulation=Cyber Security Act (Singapore) | regulator=Cyber Security Agency of Singapore (CSA)
+  Source: official_regulator_website | url=https://www.csa.gov.sg/legislation/cyber-security-act
+  Evidence: Singapore's Cyber Security Act designates Critical Information Infrastructure (CII) sectors including Healthcare. CII owners are required to comply with mandatory cybersecurity codes of practice, submit to audits, report incidents, and maintain the security of their systems. Major private healthcare providers operating at national scale such as Raffles Medical Group may be subject to CII obligations. CSA has updated CII sector guidelines on an ongoing basis as of 2024.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=MOH Healthcare Cybersecurity and IT Security Guidelines — applicable to private hospitals and integrated healthcare groups | regulation=MOH Healthcare Cybersecurity Guidelines | regulator=Ministry of Health Singapore (MOH)
+  Source: official_regulator_website | url=https://www.moh.gov.sg/policies-and-licensing/licensing-and-regulation/regulations-guidelines-and-circulars/guidelines
+  Evidence: Singapore's Ministry of Health issues cybersecurity and information security guidelines applicable to licensed healthcare providers including private hospitals, clinics, and integrated health groups. Raffles Medical Group, operating Raffles Hospital and a network of clinics, is subject to MOH licensing and associated cybersecurity requirements for health information systems. These guidelines align with the need for secure software development practices to protect patient health records.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=Singapore PDPA — healthcare organisations handling patient personal data subject to mandatory data protection obligations and PDPC enforcement | regulation=Personal Data Protection Act (PDPA) | regulator=Personal Data Protection Commission (PDPC)
+  Source: official_regulator_website | url=https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act
+  Evidence: Singapore's Personal Data Protection Act (PDPA) requires organisations including healthcare providers to implement reasonable security arrangements to protect personal data. The PDPC has issued enforcement decisions against healthcare organisations for inadequate data security. Healthcare providers of RMG's scale handling patient records must ensure their information systems — including software — are secured against breaches. PDPC enforcement in the healthcare sector has been active on an ongoing basis.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=Healthcare industry in Singapore — sector-level regulatory mapping for cybersecurity and information security standards | regulation=ISO 27001 (Information Security Management) | regulator=N/A (voluntary standard; CSA/MOH aligned)
+  Source: industry_mapping | url=
+  Evidence: Raffles Medical Group operates as an integrated private healthcare group in Singapore (headquarters) with operations across Asia-Pacific. The healthcare industry in Singapore is subject to CSA, MOH, and PDPC oversight for cybersecurity and data protection. ISO 27001 is a commonly expected standard for healthcare IT organisations at this scale. No confirmed post-January 2024 ISO 27001 certification for RMG was identified in available public sources, so this is captured as an industry mapping item.
+  Confidence: Low

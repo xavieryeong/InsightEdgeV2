@@ -1,0 +1,74 @@
+Company: Bank Indonesia
+Domain: bi.go.id
+Industry: Financial Services
+Country: Indonesia
+Agent: public_news
+Evidence items: 10
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxQdE9rb0h4UHY0TEtxSzgzSFhkbnVDN1J0LVo0Y19FN0N3ZGduUnBnZWZ4VXBQRnNrazhjY3AwR0lsMXI2UVNLcjZpcE12ZjItM2JybXFISEUwVHNTUERNVGlNN0dSUEJQRUk3Vmg3M0hVSmgzSHdkbExDUVVxdG5Kd1BTZFVDWm5WaHlpZEtvMERVS1hYd1FKVGx4Z24xeVlqb2pHTDgyWXhrbklTXzBCRVJ1bTg3andRb21CeA?oc=5
+  Title: Shinhan Bank Indonesia Launches Flazz Top-Up Feature on SOL Indonesia Application - Jakarta Globe
+  Snippet: Shinhan Bank Indonesia Launches Flazz Top-Up Feature on SOL Indonesia Application Jakarta Globe
+  Published: 2026-06-03 (0 days ago)
+  Summary: Shinhan Bank Indonesia added a Flazz card top-up feature to its SOL Indonesia mobile banking application.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmg5RjlZMmVHUEc0UWo4dFo1dnNLa0RXeGRiYXRoclFtdTlua0ZXVWp0Umd5OU1RNEhycUFNd0J1ODJXQkJXc1NCdERfSkdYalZkRGJvbnl3TkZPYjZfWDRVR09mMTRhY0Z3OWVzMEJDMlBySHQwSGdfcVdrRHY3aWFpSENpSkpfWDNKRTh1LVNqY0k?oc=5
+  Title: Indonesia Launches Cross-Border QRIS With China Today - Gotrade
+  Snippet: Indonesia Launches Cross-Border QRIS With China Today Gotrade
+  Published: 2026-04-30 (34 days ago)
+  Summary: Bank Indonesia officially launched cross-border QR payment interoperability between Indonesia's QRIS system and China on April 30, 2026.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhUTUk4SW9TdlVIM3hXUm16VC1OR3M4S0hMZzctekpEMXdRanUwRGd1UTF3anBWbFJESHlTVkFNNzFZRmtfQUZqc01IYzdIcW1hdjVsSjBJMlhmLXZKNHJHdnB4cUExc2J6NFhNbXBieXFWQV9vTHBxcm5CcEV0WHpmajVWaXc3bTVoSzczMDJqSUFpVnVLTHRIYkhEaVF2Ui1OeTFpMkItUWNvUDBpQUpybmrSAboBQVVfeXFMTlNLUjFyajJuT3ItNGxkQVlPTkF0TnBfcTl0Qmk4RDRJbG9XajZSWHNiVGRTc0d3Q2ROREx3VVltemdlN2lWUVlnVXc0YkVERm05cXJ3WlJNd2lSQlJnM3N0My0xQUZzdk5vU1U4akFiZk5PLWIzTUp2VXVOY0drWlhMOWV4WWFfc0RpOVd4aUpqXzN1Q2o1Y094TEhrSXRUNjJTV04xeTl1RGpPbXFjUW4taEYzYlBkZ29n?oc=5
+  Title: Bank of Korea launches QR payment link in Indonesia - The Korea Times
+  Snippet: Bank of Korea launches QR payment link in Indonesia The Korea Times
+  Published: 2026-04-01 (63 days ago)
+  Summary: The Bank of Korea activated a QR payment linkage enabling Korean users to pay at Indonesian QRIS merchants.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEFqdFYxMHZzbjRNd1BrRXhGWTlDajJSYWx5Z3NyZGlkbFlLelJDcDhmSHpJZkRmak82MzdlRldmOEhCUlVxUlUycXBSRFkxWTNFWGdlVFJoSmxqS3ktdEsyQTJoaGwzN1NOQ09nczBnOTVGQk15RDZYNkFSbEZkQXFEWG1qSE9WXzlhRnQwRkEteGVEajVTSnQxWVdITElpN0hPNmRnaTV3R2ZJSTBTTmRLOA?oc=5
+  Title: Bank Indonesia Launches QRIS Cross-Border Payments With China - CEO Insights Asia
+  Snippet: Bank Indonesia Launches QRIS Cross-Border Payments With China CEO Insights Asia
+  Published: 2026-04-30 (34 days ago)
+  Summary: Bank Indonesia and China launched a bilateral QRIS cross-border payment service, allowing QR-based transactions between the two countries.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3VybzFlcHZ1cVRmVVJ4cHVBOVVUZDF0T1UxVEZtcjhyX0d2Z1VWdkhHd3FYc2VyT2V3bEQybUMtZEZpeVNoblhKakdOSS1CRlNZU2Y0T0wxbDM5U2h1OFpyNWhiTF9iR1Y1VmFGWEF6M2l1bjJ5TklBVnRtYTI4Sg?oc=5
+  Title: Indonesia launches QRIS payments with China - Tech in Asia
+  Snippet: Indonesia launches QRIS payments with China Tech in Asia
+  Published: 2026-04-30 (34 days ago)
+  Summary: Indonesia extended its QRIS payment network to China, enabling cross-border QR transactions between Indonesian and Chinese consumers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMid0FVX3lxTE5iRW1wa3FaWWk4Z3FIVnNMcnZRc3NkRVBrcmJEQ2NJN2dwd3kxOG16dzB2d2pLRm5Jc245WW9TdUtaNFJ4QzZ0RVk5VFBFQ0paYW1xdmhLQ29KNzJZa0IzZHhSX2ZrWjNlelo4SXhtZUVTMjNxQkww?oc=5
+  Title: In-Depth] KB Kookmin Bank launches Korea-Indonesia QR payment service - The Korea News Plus
+  Snippet: In-Depth] KB Kookmin Bank launches Korea-Indonesia QR payment service The Korea News Plus
+  Published: 2026-04-02 (62 days ago)
+  Summary: KB Kookmin Bank launched a Korea-Indonesia QR payment service connecting Korean banking customers to Indonesia's QRIS infrastructure.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHJxeGVrRTFrZFJZUWRPbUd4a2VGTjlscTFIZTg3QWVZbzlWV2V3VmRtTEJwaGczWEtsYzlIYUl5WW5lY08xRHk5akRpNWxzUUdHS0FSUHJoVDEyTXYydF96Rlp1TS1UcnFMNThxcmx1ZE4yanB2bi1JZHNRTmU0RExMNFVlQmVkTTVxZ0Y0QnVhY3NkQUE?oc=5
+  Title: Indonesia-China QR connectivity launches in Jakarta - TTR Weekly
+  Snippet: Indonesia-China QR connectivity launches in Jakarta TTR Weekly
+  Published: 2026-05-12 (22 days ago)
+  Summary: Indonesia and China activated QR payment connectivity in Jakarta, enabling real-time cross-border payments via QRIS.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnNOV3F6eEtVRjdzUDFrQ3h5ZU9ROXIwQ3BUQmVkdjdSTFRRNkFUM0ZPcFM2Z0w1b044eHo5a0FjWVk1SnE2SHdNdG9zUUNWZ2loZ1Y2T0FhOWZRQUxtWktlcGZKZ1dDOTF5YWhRdy11MnVWN1BVZXJOb3BBM20wMVJfeS1Ra0hsVlJCVTlvUGE0bVVEQ1BJcFhMTXU?oc=5
+  Title: Indonesia Launches QRIS Cross-Border Payment Service with China - Tempo.co English
+  Snippet: Indonesia Launches QRIS Cross-Border Payment Service with China Tempo.co English
+  Published: 2026-04-30 (34 days ago)
+  Summary: Bank Indonesia launched a cross-border payment service with China using the QRIS QR code standard.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWhmblNmMUlyUEtlazRCTDZjdzN2RzNrSnZCaXVMMDA3djhhOFdYRUEtMlFELVVHaW1uTzdvZy1qMU9jeDEtdmx1bGU5azhSZVZqUEVhUk44eDVYNDktUl9qNDB6OWNFX01jb01uN1JfbkZHdmVvY0p0YjFtcFpncjdsYzE3clUyakJhVFZ1N2w2MFA0Q2tKX0VXVUdpb1doUmE5aA?oc=5
+  Title: Cross-Border Payments Grow as Indonesia's QRIS Launches in South Korea - Tempo.co English
+  Snippet: Cross-Border Payments Grow as Indonesia's QRIS Launches in South Korea Tempo.co English
+  Published: 2026-04-02 (62 days ago)
+  Summary: Indonesia expanded its QRIS cross-border payment program to South Korea, growing its international QR payment network.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://bi.go.id/en/default.aspx/newsroom
+  Title: BI Governor Appoints New Work Unit Leaders at Bank Indonesia
+  Confidence: Low

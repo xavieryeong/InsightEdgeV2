@@ -1,0 +1,84 @@
+Company: TAL
+Domain: tal.com.au
+Industry: Financial Services
+Country: Australia
+Agent: public_news
+Evidence items: 11
+============================================================
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU5RVmxuRnlsWUx5bnhCQkQyYkExYTdHUEM0amNEWU1SVDB0aE5KWjZTdlN1SzhIM1pYX09NdEVVMldFSzVWZFFpTTQwVGVqTHVCWWZHcXlRdWhsLWRQMHpKN1VaeUJPcmxLYU1wRGFfVXVQQnd6WmxUYmlnQVhOR19xUnBGblY1N1I3SEVELXlNbXVNczBsQjVNTU1zR1c0UXc?oc=5
+  Title: CTERA Appoints Tal Sarfaty to Lead Cybersecurity Strategy, as Gartner Identifies Growing Gap in Enterprise Resilience with The Gartner Market Guide for Cyberstorage - Yahoo Finance
+  Snippet: CTERA Appoints Tal Sarfaty to Lead Cybersecurity Strategy, as Gartner Identifies Growing Gap in Enterprise Resilience with The Gartner Market Guide for Cyberstorage Yahoo Finance
+  Published: 2026-05-27 (7 days ago)
+  Summary: CTERA appointed Tal Sarfaty as cybersecurity strategy lead, coinciding with a Gartner Market Guide highlighting gaps in enterprise cyber resilience.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdk9sX3k0UjJoWkYybnFJbVZRMHUxUU9TUFRHaTdOUUVTWEZXWU4zMGpCXzktaDRrbVdqR25SNllqVHFERVVpVkVHMVpUWm1fcjFEb3VFWGdDQUlNYjIxV25NRjhhMGpQaXFKN1hydngzMDFDVlJOemVQSFZUNkVPTGo0QlVpQnRDSzdqdzFFR29nSGpUc09oOTVoMEZ6TU5SSHFjczMyQ0J4MHc3UEpwOS1FUFdsMTZseUptdHJLcFVLQWVERzVSaDFtOS03Sm5GZ0VRclAyLWQyZw?oc=5
+  Title: TAL expands Microsoft partnership to accelerate digital transformation and uplift AI skills - Microsoft Source
+  Snippet: TAL expands Microsoft partnership to accelerate digital transformation and uplift AI skills Microsoft Source
+  Published: 2026-04-21 (43 days ago)
+  Summary: TAL (Australian life insurer) expanded its Microsoft partnership to accelerate digital transformation and build AI skills across the organisation.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxORWhSandHTW51NlZNS2hKdURxc3lMSUhMeUNoUUNQY2NDRV8xZV9PbERfZm0yLXBvN2oza2QzU3M1QmRROTRVWEtEUHNQOTViRmpEc3JtZ0hWMEZDVmptOC1lM0JDdkJZclMxMTVoRzVNWG9PRWlrWHQtM3JscUpBRlVqTGRmTkxDdktzUTYxeXY3eVNtdkJWd3RlMy1LSFhqR1pKNHc2ZVR3NE5nMU9rR0FxdmhkRTA?oc=5
+  Title: HUB24 Launches Lifetime Super Product With TAL, Expanding Retirement Income Options - Moomoo
+  Snippet: HUB24 Launches Lifetime Super Product With TAL, Expanding Retirement Income Options Moomoo
+  Published: 2026-05-19 (15 days ago)
+  Summary: HUB24 and TAL jointly launched a Lifetime Super product to broaden retirement income options for Australian consumers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFNZa2FoaWJ5ZmVZRUtLRmxNQmVBREtSY1hQSmduc2RiX2tnQ3NGNUFuVWlQSFlRTUVHZEY1bDRWLWFISFF4YkJTbHNUSXlHS2k3b3cxcVdzaENpc3BTOF9DSWpLQnBRRXZ1MUhCUmJLUjlTU3lJZ1dDekwtaWdKNVFXUU5ZajdreHF2N3c4NG5BMVBlc3FOdWRqcXBNUEJ1TW9oVHlPN0NyWjAxVE1ZUHlFbE5md25UcG5QWjB2R2x0MnU0Sm50NA?oc=5
+  Title: Core Home’s Tal Brand Launches Hydration Collection With Lifestyle Influencer Duprie - HomePage News
+  Snippet: Core Home’s Tal Brand Launches Hydration Collection With Lifestyle Influencer Duprie HomePage News
+  Published: 2026-03-24 (71 days ago)
+  Summary: Core Home's TAL drinkware brand launched a new hydration product collection in partnership with lifestyle influencer Duprie.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVZ1VTJjODdrVk80QWUyd1JzZ2luSjZ2NklBdkVFS196R1I3X2x0Sks3YzVEZDBqM0JIRWZhT0hSUzY4aFhNeTBwWlFaM1FER0RmeFp0X0laTXljUWdtbm5TaHJjVTlUeFBjRkJ1T0Uyd0RiemNUdDQ2bi0yMER1YVlVRnhlSFI4Qnp5NUgxLURjSG93Y0JQb2lMZ0w2bExPRmVuMTRyb1VvWmRjb1VfSnVUQ2RtYVltYlBv?oc=5
+  Title: Qué tal Móvil launches platform powered by Amdocs connectX - Investing.com Australia
+  Snippet: Qué tal Móvil launches platform powered by Amdocs connectX Investing.com Australia
+  Published: 2026-05-14 (20 days ago)
+  Summary: Qué tal Móvil launched a new telecom platform built on Amdocs connectX technology.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEtrRDJuY0E2LWVaREVHSUdjZUY0R0lkdVVfdTgtbk50bmRuWWZhWTNvTzlFZ3FUZXZHcVBMSjl0OUcwVXZoSVRibG0wbmhJNFVuVm45SHhsX2tINFhvVU44anBCdHpKQUJKajZKTW9reVp4MUNyYTVQbWVNbUNqUnQ3ZUx2Q0JBTXc?oc=5
+  Title: Toyota Industries Launches Toyota Automated Logistics (TAL) on April 1, 2026 - GetTransport.com
+  Snippet: Toyota Industries Launches Toyota Automated Logistics (TAL) on April 1, 2026 GetTransport.com
+  Published: 2026-03-18 (77 days ago)
+  Summary: Toyota Industries launched Toyota Automated Logistics (TAL) as a new subsidiary effective April 1, 2026.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiekFVX3lxTE5ENUs3UWNtZktuaFloV2lUR1ZQNWlTallhOUJFbjRmcTZxeWhtQnF1N1pMUmt5bnVFd0d0LTJHWFVNUGRiTmRGTnZSOGIxS2ZwQlE5Y2czWjMtRjhYSmtvZEREbHA3N3NUd1ZRR0I5d1pUVWJEbEJEOGF3?oc=5
+  Title: TAL launches TPL 2026 cricket season in London - Hyderabad Mail
+  Snippet: TAL launches TPL 2026 cricket season in London Hyderabad Mail
+  Published: 2026-05-19 (15 days ago)
+  Summary: A group called TAL launched the TPL 2026 cricket season at an event held in London.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2VtVzREd2tXYnMxMW9IZHhhbkRjQ29CRV9xSnRNM2FDcDBvd0Q4V3dkNnYwT2ZaaERTdzdPY054R3dGQVJiYlNDNEdsYTg5clpJWHZwSk9sUlhJcmZHdmNSVEJQZDcyNGhhSWw0RFQzNlZLbVlSUFBXTFVnd3NuTTVGTmxWczllandWbEtJMmFEbUs5SlFxTEU3M3lOQXVldmR5Qg?oc=5
+  Title: TalTech launches ice cream enriched with fibre and beneficial probiotic bacteria - TalTech
+  Snippet: TalTech launches ice cream enriched with fibre and beneficial probiotic bacteria TalTech
+  Published: 2026-03-16 (79 days ago)
+  Summary: TalTech (Estonian university) launched a new ice cream product enriched with dietary fibre and probiotic bacteria.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlJmcFdNSEd6enNxV3BOTy1ZWF9wN21rZE5wWF9MOXFrb1dEbHo2LWJxWURweXMzREhxYm95eWktcC1MZTUyQXBQVFFwUjdGMXl0QTJ6d3YtbXZLWmczQW5mQmg4UFhod3BDZ0cxNjRwZFFMM3RmSFQ3Z0JPb1NIaWc1ZTNIVFBLOTl0R3ozd1FFeHJUcTh1aVBmcVZSUXF5blFIOHhJSQ?oc=5
+  Title: 'Ma tagħmlu xejn ma' Tal-Ajkla': ever-hopeful Żaren launches campaign - Times of Malta
+  Snippet: 'Ma tagħmlu xejn ma' Tal-Ajkla': ever-hopeful Żaren launches campaign Times of Malta
+  Published: 2026-05-01 (33 days ago)
+  Summary: A Maltese political supporter of Tal-Ajkla launched a fan campaign ahead of an upcoming event.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMic0FVX3lxTE80NldZVlBpdWxvS0llT3JLSkFFUVVSdVVXbE5kdUxqazliQXJPV3NjTlBIeXRUaE1IWGk3MW4tQzU2QXJtR1dnVFBJeWxPNDZYYnZvaUczTWpZN3lkMEtCcFFrdnppOTNOWnI0VEpUNnlzZXM?oc=5
+  Title: P•TAL Appoints New Chief Culinary Partner - safariindia.com
+  Snippet: P•TAL Appoints New Chief Culinary Partner safariindia.com
+  Published: 2026-04-13 (51 days ago)
+  Summary: P•TAL (Indian cookware brand) appointed a new Chief Culinary Partner to lead culinary innovation initiatives.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd0ZoRXZjdTNnVXpEVFJsSXhpaXlhNGZPR3JoWGxOSTd6UkpVU3YyVGNsTDR5UGhfdDRpMTNyb0RsRFpYYUd5dWRmN0twMjhXZnBZUmV4ejh3UmV5MUNHRVdIYkZSVDJmNUdhMmw4cHpkeFNKWVdjMG1GR2RUcmhleFJnZUNWYjc1TGxFMEUyOXpZSXFWQUtXejFQU2QxMmFzTl96N1NiX2NtSHFBamhJVGJOb0NyZjZSZE9EMXNMYkZULWJzTGVmdW5yLTBYeHBmTm55SVJzdmYzNi1KZnNaM05zczd1OUdjd1BHTGhaekdKbzDSAfgBQVVfeXFMTjBqVXQwZ3phcG53SzFaVTJLTWxndy15NVVRMDNKSHE1dlpCMW5DSHlpcVJKSXB5SWRrREdGX2xfa0ZOeXozcHo0aS1DXzM5VUVpbThnOU95dy1KRWhTRlZ5RVZab2NUQVE2cUUyVGRyRUhNTjJmQ2ZFcG92YkRRWTV6TlFZZXJmMmNPVm1KLUpubnNUTFg3Y1VyMUZ0R1dSZW95dTIyWnduUUhkWFo5Rm9TdUE5ek5UYXBhelVrb2ctQ1hXWVRrc1BFb1NIUGpFMERvckxCWEZ1WVd6YjliUnhkQk9xLVdoem9Lc096R3pCODVDd3J6ZFI?oc=5
+  Title: P•TAL Appoints Chef Natasha Gandhi as Chief Culinary Partner, Marking a New Era of Culinary Innovation and Heritage - ThePrint
+  Snippet: P•TAL Appoints Chef Natasha Gandhi as Chief Culinary Partner, Marking a New Era of Culinary Innovation and Heritage ThePrint
+  Published: 2026-03-30 (65 days ago)
+  Summary: P•TAL appointed Chef Natasha Gandhi as Chief Culinary Partner to spearhead culinary heritage and innovation efforts.
+  Confidence: High

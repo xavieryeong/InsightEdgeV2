@@ -1,0 +1,28 @@
+Company: Hexaware
+Domain: hexaware.com
+Industry: Technology & IT Services
+Country: India
+Agent: public_news
+Evidence items: 3
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGYtOHNLc0tFcnR1VTlOVmJpSVlyeFQ3RnFQMnY1bU9lVnhKZ1hCSGVZRTJZLVRyaU1EMzA0OXRnUFhFckVyTFVTQ1UxSDBqQkNqdVRsX1FnS0ViemVFY1hTVVpjcEVIZGplME1PMkpUcWstV24waTlYQmpoQkNuNkdULS1jZ2N3VnA3LUFvc0dNZ1RjSl90LXpraFNHNlhhZ3c3S0I5OERaQnczMkdsWGFGcGdWZm02cS1xZTBVVS1wMGs1czUxWnJWSjVVd9IB0wFBVV95cUxOU1RPRnNseHRUalcxSmVqS3lPRWtibkZYSkpXY1RRUUlXT0J2aTJRSkllSGNjV1FIU19DRThDanF2WXVDSU5xX2E4WFZmRXFXN09HMFZsTTVZYXp3VUxiejVfeEpxNlgzUU5yV0MzS0picXN4NGN3YXk0SzFRQzBWOVFickhtV1ZkZTFCR0gxOGFWZXZVbFYxcE1lWk5RSVhLWEtBN2tmSG91V2hsOFVPRm1KSXlyMFN4TXBDTEV1anc4dTZxVy1sR3dWWHZNQjl1MXJB?oc=5
+  Title: Hexaware Launches Agentverse™, an Enterprise AI Agent Platform with 600+ Ready-to-Deploy Agents - TheWire.in
+  Snippet: Hexaware Launches Agentverse™, an Enterprise AI Agent Platform with 600+ Ready-to-Deploy Agents TheWire.in
+  Published: 2026-03-18 (82 days ago)
+  Summary: Hexaware launched Agentverse™, an enterprise AI agent platform offering over 600 ready-to-deploy agents for business automation, reported by TheWire.in.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX013Z3VmRDdXQ1BLLTEyZ3k1WW9LRzNZT2xncnB3cnQwY21kQTVBTGEwTzJ6UndyS20tVGRzMXBTMHpZcVNYQjRFZGw1SGNHb1NtN1NiaUs4dEdVMm4xYjRUUEpjeHAxSGFxUlBNU0xwb0hVYlpqNDVLelV5WG5RMVJuVmhwNWU3RzdRNUZvU3lpX0xkS2FSQkpWS1VwVy1PVVNMckQ0dEFUMkpOUmNxa0xodVJ1bUJmYlA0VFprVjVaWHB6dzh2dk41ZEFPZHViSlVFcEZiZVFkaXRpbW5z0gHkAUFVX3lxTE5WVS0xTElBSTBwbkhTLXhCOXVKcmtacW1Pc1EwbEt3NlllX3ctU2RWRzJWd3AwSThmd2p1Q3NMT3o3bU1lblFPa2xzaExjbC1CX0tDbWlLUEhWakxiMmoxWlR2YzZqTktYMjlIR0RpdGlWbWpWSXFJUmtST19BZjF1VDM3OVRmek15VEZ5OWlvR0xueFIxZWVZY041a3Q0UmxMd09vQ3RvQVRnSW12RTA3dHZKY1pKQjFSNnJreUlXSDhPZlN4ZVpLS29DakoxYnh1UWxGSjdnN2tpcXFQeFI2YnVXWQ?oc=5
+  Title: Hexaware launches AI platform with 600+ ready-to-use tools to automate business tasks - CNBC TV18
+  Snippet: Hexaware launches AI platform with 600+ ready-to-use tools to automate business tasks CNBC TV18
+  Published: 2026-03-17 (83 days ago)
+  Summary: CNBC TV18 reported Hexaware's launch of an AI platform with 600+ ready-to-use tools designed to automate enterprise business tasks.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMVhuc2VXSFJXV0RjeHFlLUg3dTJYdU5ydXAwZ1NWVTUxaEc0TERjVWxtRG9TdXB0LUh5UDhmODB1aHlqYkJBTG9yRjdadDRuMmhHSTJqY1F5NWgwbTVSSUFfMWNHUnUyejJJenhvVjVKWXllMTVZbzlNVGlOOFZoT2VoWDlxcktOUXNwTlhyTjR6UFkzdmZsdXdXTnUwX05PVDB3SG9wOVI2UktqaVNLTVV1bXFQLVFDYkhfQlRFcUg4VFkzdjgxUUw2SFZ0WWkwc1F5SWVsbk9TQQ?oc=5
+  Title: Hexaware Technologies Launches Agentverse™ AI Platform with 600+ Ready-to-Deploy Agents - scanx.trade
+  Snippet: Hexaware Technologies Launches Agentverse™ AI Platform with 600+ Ready-to-Deploy Agents scanx.trade
+  Published: 2026-03-17 (83 days ago)
+  Summary: Scanx.trade reported Hexaware Technologies' release of the Agentverse™ AI platform, featuring 600+ ready-to-deploy agents for enterprise use.
+  Confidence: High

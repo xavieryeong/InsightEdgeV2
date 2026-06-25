@@ -1,0 +1,77 @@
+Company: Hexaware
+Domain: hexaware.com
+Industry: Technology & IT Services
+Country: India
+Agent: regulatory_impact
+Evidence items: 14
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (ITG-RC&AP) — effective April 1, 2024 — mandates VAPT (vulnerability assessment at least every 6 months, penetration testing annually for critical/DMZ systems), IT audit trails, and vulnerability management for all RBI-regulated entities. | regulation=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (2023/2024) | regulator=Reserve Bank of India (RBI)
+  Source: official_regulator_website | url=https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12562
+  Evidence: RBI/2023-24/107 DoS.CO.CSITEG/SEC.7/31.01.015/2023-24 — Master Direction on IT Governance, Risk, Controls and Assurance Practices, applicable to Scheduled Commercial Banks, Small Finance Banks, Payments Banks, NBFCs, Credit Information Companies, and All India Financial Institutions.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=The RBI ITG-RC&AP Master Direction mandates VAPT — vulnerability assessment at least every 6 months and penetration testing at least annually for critical/DMZ systems. Penetration testing must be performed on the production environment. Hexaware's banking clients are subject to this, and as a material IT vendor, Hexaware's security practices are subject to downstream audit. | regulation=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (2023/2024) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://www.cybernx.com/vapt-requirements-in-the-rbi-master-direction-on-it-governance-risk-controls-and-assurance-practices/
+  Evidence: The Master Direction comes into effect from 1 April 2024. A critical component of the Master Direction is the emphasis on Vulnerability Assessment (VA) and Penetration Testing (PT), collectively known as VAPT. Vulnerability assessment: at least once every six months; penetration testing: at least once every 12 months (for critical/DMZ systems).
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=RBI's 2024 Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators explicitly mandate secure-by-design SDLC and security audits/VAPT before deployment or redeployment of payment services. Hexaware's PaymatiX platform and banking IT services expose it to clients governed by these directions. | regulation=RBI Master Directions on Cyber Resilience and Digital Payment Security Controls (July 2024) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://www.cybernx.com/rbi-master-directions-guide/
+  Evidence: Payment-security controls for PSOs: Enforce secure-by-design SDLC. Security audits and VAPT must be carried out before deployment or redeployment of services. The Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank PSOs, 2024, issued on 30 July 2024.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=RBI Master Direction on Outsourcing of IT Services (2023) — applicable from October 2023 — requires banks and NBFCs to conduct security due diligence and audits of IT service providers like Hexaware, and mandates that IT vendors meet security and data protection standards. Hexaware as a material IT outsourcing vendor to Indian banks is directly in scope. | regulation=RBI Master Direction on Outsourcing of Information Technology Services (2023) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://treelife.in/legal/rbi-outsourcing-of-information-technology-services-master-directions-2023/
+  Evidence: The Reserve Bank of India has introduced the Outsourcing of Information Technology Services Master Directions, 2023, effective from October 1, 2023. Key provisions include establishing a comprehensive governance framework, conducting thorough due diligence of service providers, implementing robust risk management practices, and ensuring continuous oversight of outsourced IT activities.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=RBI NBFC Managing Risks in Outsourcing Directions (November 2025) — deadline April 10, 2026 — require NBFCs to audit material IT vendors or rely on globally recognised certifications. This creates immediate compliance pressure on Hexaware's NBFC clients to verify Hexaware's secure development and security controls. | regulation=RBI NBFC Managing Risks in Outsourcing Directions (2025) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://vinodkothari.com/2026/02/it-outsourcing-under-the-rbis-2025-directions-what-has-changed/
+  Evidence: The RBI has mandated compliance of agreements with the Outsourcing Directions by April 10, 2026. NBFCs are suggested to conduct audits of material service providers to verify compliance. Alternatively, the Company may also rely on globally recognised third-party certifications made available by the service provider in lieu of conducting independent audits.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=Hexaware publicly holds ISO/IEC 27001:2022 certification across all delivery centers, SOC 2 Type II (AICPA SSAE 18 / ISAE 3402), PCI DSS certification, HITRUST, and HIPAA. These are ongoing, subject to periodic audits and surveillance reviews. The company's security policies are aligned with ISO/IEC 27001:2022 and ISO 22301:2019 BCMS standards. | regulation=ISO/IEC 27001:2022; SOC 2 Type II; PCI DSS; HITRUST; HIPAA | regulator=Multiple (BSI/accredited bodies; AICPA; PCI SSC; HITRUST Alliance)
+  Source: company_website | url=https://hexaware.com/about-us/information-and-cyber-security/
+  Evidence: Hexaware's security policies are aligned with the ISO/IEC 27001:2022 and ISO 22301:2019 Business Continuity Management System (BCMS) standards which are Certified all our Delivery Centers. Hexaware certified/Assessed to international standards and as per our customer services such as GDPR, AICPA SSAE 18 (SOC1 Type II), ISAE 3402 & SOC2 Type II, Payment Card Industry Data Security Standards (PCI DSS) Certification, Cyber Essentials, HITRUST Certification, HIPAA.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=Hexaware operates a Board-level Cybersecurity Committee, reconstituted in February 2026, demonstrating board-level governance of cybersecurity as required under RBI's IT governance framework and consistent with ISO 27001 governance obligations. | regulation=Corporate Governance / RBI IT Governance Framework / ISO 27001:2022 | regulator=SEBI / RBI
+  Source: public_news | url=https://scanx.trade/stock-market-news/stocks/hexaware-technologies-submits-annual-secretarial-compliance-report-for-fy2025/33409776
+  Evidence: The company has reconstituted multiple committees including Audit, Nomination & Remuneration, Risk Management, ESG, and Cybersecurity committees with Mr. Misra's inclusion.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=Hexaware is a major IT services provider to the banking and financial services sector globally, including payment platforms (PaymatiX) and business process services for the world's largest banks. This makes Hexaware a material IT outsourcing vendor subject to RBI scrutiny, VAPT requirements, and secure SDLC mandates flowing from its banking clients. | regulation=RBI IT Governance / Outsourcing Directions (indirect applicability as vendor) | regulator=Reserve Bank of India (RBI)
+  Source: company_website | url=https://hexaware.com/industries/banking/
+  Evidence: Hexaware is ranked among the top 50 in the prestigious IDC FinTech Rankings 2022, recognizing the world's top technology providers to the financial services industry. The AI-driven PaymatiX platform offers real-time card insights, while data-first governance helps banks stay competitive and regulation ready.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Hexaware's information security page references information security audits and control assessments to identify and mitigate cybersecurity, business continuity, and data privacy risks — consistent with RBI IT governance expectations for IT service providers serving regulated entities. | regulation=ISO 27001:2022 / RBI IT Governance Framework | regulator=Reserve Bank of India (RBI) / ISO
+  Source: company_website | url=https://hexaware.com/about-us/information-and-cyber-security/
+  Evidence: The Objective of the information security audits, and control assessments are to identify and assess Risk related to Cyber security, Business Continuity, Data privacy and mitigate them to maintain the baseline security posture.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Indian IT firms deem DPDP compliance timelines workable, warn smaller firms could be left scrambling - Moneycontrol.com | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZHktMDRHTEdWa3JkdF9yQ3pVMDlJbkN0eDNjT181dlNhREtJOGNvcHNjOHU2VElOUWhKYlpvTTNqYkVqY3pOZ0JHanhwa2RfdDN0N2UtVGIyX2JiX1IzemdJNnVLeW9OTDRLS1NMOFROTnRXZEZISnlKbEt3cmlmM0NrOUFMSzJwTDY2VDIwZXFpbzJ5N1pmMmhTRWJRTnJFdzgtQUNnUkxaMVRhc2g1NDl6UjZzbEEyWjBCbndzdnNKRVRnNjFkNzZlRExpVi10X29DUHBKcUoxR3NjaDJHeXFIaXZqblZqZzBVcnZCN1lHa03SAfgBQVVfeXFMTmpaa0tvbVVTSmtkd1FXcE9DUGJ3RXJTMndCYlhCRlpZZFVkNWxtOXMxalBwQmJSWVhzV0FacFRqLWxJRkJGZDRlLVM1eHJMYnV5RlVHZEROcXRLdk9wY2V2YjluSXZfWmk3OEVST2dBdlRORGFHN0lwLTdoSkFOdk43N0pTYWx3ZzlGVjRoTzF6ejkwS1V5MFF1UHZrbVJCa3I2YkQtZDkweVJ1VHNTZUwzN3NuODZfcGRXdGxsYmpBREh2ZzV6MzRCcjF1cExUSkxPYm9wUUFZN3JHZVRqR0RSWVg1X29PTFRSVWRTRHJTY1UxbGNpbTk?oc=5
+  Evidence: Indian IT firms deem DPDP compliance timelines workable, warn smaller firms could be left scrambling Moneycontrol.com
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Hexaware Technologies Submits Annual Secretarial Compliance Report for FY2025 - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmxnYXJHc3d2Y25JdkdjajcxYWJrZTY3MnNHdG9PazNRdEdYaklXeEx5TEhCSmdpSE5jY1EzbXVsbTFQbnRHUGpad2NaRmIzT2prbG4tX2hMeUo3M2dmZXM1aENsc3BVSjRPUTcwQmxNa05oRmdwVl9PNkJxYThQbGg4RTVvYjZsckp0VXNPeWdfcE5oRmlYMjlfZC0tU2VVOUZWQVl6ZUF2azdGUWtOLUFqRmdULVVIOXR1Q1VyVHFhemVBOE56ZmhaRQ?oc=5
+  Evidence: Hexaware Technologies Submits Annual Secretarial Compliance Report for FY2025 scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Hexaware Technologies Submits SEBI Compliance Certificate for Q4 FY26 - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxQVm9reUkwdWtDWF9vWWs1VG9iNVFNOUZkZmhyUFd5bmY2LUFUcDNSNnRiN2tPc0FsSkt5TFBmMFc5TTlrU3VmaXVPSHlycjRUTFFDME9HMGZCRUo1ZXdmdEdjbkdVN3p1b3VIVHJzU3NORko4UkRvTHhlS1VVY0NiSWNORHNRdmZKb2dzNUJ0bHhkNXduNkFuRDZxQUlELWRCam80dDFjb0lyUzdVZVFuc0FnRDNmVGx0bU1hYm9TWDRySE90?oc=5
+  Evidence: Hexaware Technologies Submits SEBI Compliance Certificate for Q4 FY26 scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Hexaware Technologies Receives RBI Penalty of ₹11.64 Lakh for Delayed Form FC TRS Filing - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMUxUNURGUTkwdzd0b1hwWGdwQ1RNMF9kdnNQVjJFRWxOdDdwUHVtTFh1NE5fbDllLVk4Y2hjOUZ1WEYzMUxUanp4RlUwWlc5MUplWnFfVFJja25xN3NFQUM2NWVEQjdlYTBfeF9rUkl3bFk0aG5zQ3V5Mzh5aW84TElIMkNrYlNxQ2pfTUJNZ01WVlhYYXU3UUhPbXBlVDNZYWxSdFpfTU0xRkxKZExNcXpMdVRuU3ljdlNkc2lPdllfdTBOZjc3V2pWdWlDdU93Z3VuLUd5bG5qNmtK?oc=5
+  Evidence: Hexaware Technologies Receives RBI Penalty of ₹11.64 Lakh for Delayed Form FC TRS Filing scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=US firm sues Hexaware for patent breach, seeks $500 million - The Times of India | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1RlOG0taEcyRXZzcl9LOG1wVm4xZ1ZWaWU0RVBFdjN5VUxNSTFaY1YtM1VObndWMm8tRERjemM3Q01pRmJPX1FzQ0NHMXQzTWVmNFc4QW9xQjNISDZkbk40a0dtYmlKempheHFlVlh5cnNQMWt2cTVvSjRDR2RGOEYxQVl5TlR3SlJLUG1PNG9oNTgyeHYwcDhMMDFSYmxNNWFNS3V2em5aNkhVcTNZTXJMN1VmVDdkYVJDd25EV0lhQWNTYzR6OWhIMVpKZlc0ZFBtY19KRDVFVVXSAeABQVVfeXFMUEdIN0gyQUhGc2xKemFFTWNLbEg3eEg5cjUtOG9qdjFnQjJ4WnZ0cGJmcnZaRGo2TFlOVE56ektDX2hERXZPY2VlT3ZfWkw3LTJFSHZscHV3ZkRUT0NhdzlZUUJMMFd1N21ubEFBM1JCSWxuVUc1M1ROY0U3ZjZTaE1RT3A5anRqODZkODRkR0NiMHlWcjNndmdTTmxVR1BaaWV4bUhMOGs3Nk9EcXlnaktqQUlKQkxQRUh2V1RkQ01PT25XODM0Nmg5ajVheng1M3BNSVNsZGRadWNwZ3VtMU8?oc=5
+  Evidence: US firm sues Hexaware for patent breach, seeks $500 million The Times of India
+  Confidence: Low

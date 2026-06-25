@@ -1,0 +1,57 @@
+Company: Siemens
+Domain: siemens.com
+Industry: manufacturing
+Country: DE
+Agent: regulatory_impact
+Evidence items: 10
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=NIS2 / IT-Sicherheitsgesetz 2.0 applies to Siemens as a German critical infrastructure operator and OT supplier | regulation=NIS2 / IT-Sicherheitsgesetz 2.0 | regulator=BSI (Bundesamt für Sicherheit in der Informationstechnik)
+  Source: official_regulator_website | url=https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Kritis/kritis_node.html
+  Evidence: BSI's KRITIS framework and IT-Sicherheitsgesetz 2.0 (transposing NIS2 into German law) impose cybersecurity obligations on operators of critical infrastructure and their suppliers, including requirements for secure software development, supply chain security, and incident reporting. Siemens, as a major operator and supplier in energy, transport, and industrial automation sectors, is within scope of these obligations.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=BSI KRITIS regulation confirmed relevant for Siemens's German operations and OT product supply | regulation=IT-Sicherheitsgesetz 2.0 / KRITIS | regulator=BSI
+  Source: official_regulator_website | url=https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Kritis/kritis_node.html
+  Evidence: BSI's KRITIS framework identifies sectors including energy, transport, and industrial manufacturing as critical infrastructure. Siemens operates in all three sectors as both an operator and a technology supplier, placing it within scope of BSI's cybersecurity requirements and audit obligations under IT-Sicherheitsgesetz 2.0.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=IEC 62443 secure development lifecycle requirements apply to Siemens as an ICS/OT product supplier | regulation=IEC 62443 | regulator=IEC / BSI
+  Source: company_website | url=https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/highlights/cybersecurity.html
+  Evidence: Siemens publicly references IEC 62443 compliance for its industrial automation and control system products, including TIA Portal and SIMATIC product lines. IEC 62443-4-1 mandates a secure product development lifecycle for component suppliers, requiring SAST, secure coding, and vulnerability management practices integrated into development pipelines.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=Siemens has publicly disclosed IEC 62443 certification for industrial automation products — ongoing | regulation=IEC 62443 | regulator=TÜV / IEC
+  Source: company_website | url=https://www.siemens.com/global/en/products/automation/topic-areas/industrial-security/overview.html
+  Evidence: Siemens's industrial security pages document IEC 62443 compliance across its OT product portfolio. This includes third-party certifications for SIMATIC S7 PLCs and other automation components. Certification is ongoing and requires continuous adherence to the IEC 62443-4-1 secure development lifecycle standard.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=ISO 26262 and MISRA C/C++ apply to Siemens automotive and mobility embedded software development | regulation=ISO 26262 / MISRA C/C++ | regulator=ISO / TÜV
+  Source: industry_mapping | url=
+  Evidence: Siemens develops embedded software for automotive and rail applications through its Smart Infrastructure and Mobility divisions. ISO 26262 (functional safety for road vehicles) requires software quality processes including compliance with MISRA C/C++ coding standards. These apply to Siemens's embedded software teams developing safety-critical systems.
+  Confidence: Low
+
+[REGULATORY] type=specific_regulation_applies | value=MISRA C/C++ coding standards apply to Siemens embedded software in safety-critical domains | regulation=MISRA C / MISRA C++ | regulator=MISRA Consortium
+  Source: industry_mapping | url=
+  Evidence: Siemens develops safety-critical embedded software across energy, rail, building automation, and industrial sectors — all domains where MISRA C/C++ is the standard coding guideline for functional safety. Industry mapping confirms applicability; no specific 2024-2025 Siemens-specific source available to cite.
+  Confidence: Low
+
+[REGULATORY] type=compliance_audit | value=Siemens holds ISO 27001 certification across multiple business units — ongoing | regulation=ISO 27001 | regulator=ISO / TÜV / DQS
+  Source: company_website | url=https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/highlights/cybersecurity.html
+  Evidence: Siemens publicly references ISO 27001 certification as part of its security governance framework. Multiple Siemens divisions and data centers maintain ISO 27001 certification, which requires ongoing audit of information security controls including secure software development practices. This certification is ongoing as of 2025.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=Siemens actively working on medical software standards compliance for LinuxOS — confirmed 2025 | regulation=IEC 62304 / EU MDR | regulator=EU / TÜV
+  Source: public_news | url=https://news.google.com/rss/articles/CBMicEFVX3lxTE52OHJoUjI3RXdxQjdIMFRQaXNNRlNLcHZzQXQwRGpxcXRPclk2TExaZHZfVHF0N0RsRkh6aEtWdEhGemhybEtITmhERmZEaWRIR1VCclZQeGU3dU9yTDZrWk5FcFo0UlhlNkktODU0ZE8
+  Evidence: A Siemens press release from August 2025 confirms Siemens is streamlining medical standards compliance for LinuxOS-based software. This signals active regulatory compliance work under IEC 62304 (medical device software lifecycle) and EU MDR (Medical Device Regulation), both of which require controlled software development and quality management practices directly addressable by Sonar.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=Siemens Government Technologies subject to CMMC requirements for US federal/defense contracts | regulation=CMMC / NIST SP 800-171 | regulator=US DoD / CMMC-AB
+  Source: company_website | url=https://www.siemens.com/us/en/company/about/siemens-government-technologies.html
+  Evidence: Siemens Government Technologies (SGT), Siemens's US federal business entity, works with US Department of Defense and federal agencies. US federal and DoD contracts require CMMC (Cybersecurity Maturity Model Certification) compliance, which mandates secure software development lifecycle controls, access management, and third-party security assessments under NIST SP 800-171.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=Siemens maintains active compliance program with dedicated Chief Compliance Officer | regulation=General Compliance Governance | regulator=Internal / Multi-regulator
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1FPUkZ2d3JtNWw5M2hWVHYxU01zZlpILWJSZi1sVWd3bmZqME90aDZyck9tVzAzVWp6eXQyTmVhMUVwYkJHY21aSDVTcEIyczExMlJhelpfQjdVWXZ3UW1JQ2o3YjYtNkhxS1ZzaUFiNEQxaHY5R3dDOUlXNmV3Z2s0R3IwUWZLZm5SR2V1V1Y3enBFT1JWTVhtWmRhUkVzM080TDJrZ3Z4NUI1WldudFc4Y3ZtT045cWgweXZYQnhmMUMxc0doLQ
+  Evidence: Siemens press release confirms a dedicated Chief Compliance Officer role (Annette Kraus appointed), indicating a mature enterprise compliance governance structure. While this covers general compliance broadly, it signals Siemens's organizational commitment to meeting regulatory obligations across domains including cybersecurity and software quality.
+  Confidence: Medium

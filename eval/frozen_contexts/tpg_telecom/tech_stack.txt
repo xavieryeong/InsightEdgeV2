@@ -1,0 +1,57 @@
+Company: TPG Telecom
+Domain: tpgtelecom.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: tech_stack
+Evidence items: 10
+============================================================
+
+[TECH] TPG Telecom GitHub Organisation | category=engineering_visibility | source=github | url=https://github.com/tpgtelecom
+  Evidence: TPG Telecom Limited has a verified GitHub organisation at github.com/tpgtelecom. The org has no public repositories and no public members visible, confirming presence but revealing no code or language data.
+  Repo: https://github.com/tpgtelecom
+  Confidence: High
+
+[TECH] IT Modernisation – Active Software Delivery Programme | category=engineering_visibility | source=claude_web_search_result | url=https://www.itnews.com.au/news/tpg-targets-lean-architecture-with-single-it-stack-by-2026-615337
+  Evidence: TPG Telecom is on track to streamline its operations onto a single technology stack by FY26, reducing from 800 applications and seven IT stacks inherited post-merger. As of 2024, TPG cut 97 applications and has 568 in operation, signalling large-scale active development and rationalisation.
+  Repo: https://www.itnews.com.au/news/tpg-targets-lean-architecture-with-single-it-stack-by-2026-615337
+  Confidence: High
+
+[TECH] GitLab | category=ci_cd_maturity | source=tech_listing | url=https://rocketreach.co/tpg-telecom-technology-stack_b43db1dfc19c9a39
+  Evidence: RocketReach third-party tech listing names GitLab as a technology in use at TPG Telecom, alongside GitHub. Attribution confidence is medium as this is a third-party aggregator, not a company-owned source.
+  Repo: https://rocketreach.co/tpg-telecom-technology-stack_b43db1dfc19c9a39
+  Confidence: Low
+
+[TECH] GitHub | category=ci_cd_maturity | source=tech_listing | url=https://rocketreach.co/tpg-telecom-technology-stack_b43db1dfc19c9a39
+  Evidence: RocketReach third-party tech listing names GitHub as a technology used at TPG Telecom. Corroborated by the existence of the verified GitHub org at github.com/tpgtelecom.
+  Repo: https://rocketreach.co/tpg-telecom-technology-stack_b43db1dfc19c9a39
+  Confidence: Medium
+
+[TECH] AWS (Amazon Web Services) | category=cloud_native_presence | source=developer_docs | url=https://www.helixops.ai/customers/tpg-telecom.html
+  Evidence: BMC Helix case study confirms TPG Telecom's Public Cloud Services team uses DevOps toolchain to provision Amazon Web Services (AWS) resources, naming AWS explicitly in the context of TPG Telecom's cloud operations.
+  Repo: https://www.helixops.ai/customers/tpg-telecom.html
+  Confidence: High
+
+[TECH] Google Cloud (Apigee / GCP) | category=cloud_native_presence | source=developer_docs | url=https://cloud.google.com/blog/products/api-management/tpg-telecom-selects-apigee-for-api-management/
+  Evidence: Google Cloud blog confirms TPG Telecom selected Apigee (GCP) for API management, going live in 2022 on a multi-year journey to connect six platforms with up to 300 underlying systems. TPG Telecom explicitly cited moving to a 'decentralised, cloud-native platform' and adopting 'agile, centralised DevSecOps'.
+  Repo: https://cloud.google.com/blog/products/api-management/tpg-telecom-selects-apigee-for-api-management/
+  Confidence: High
+
+[TECH] Docker | category=cloud_native_presence | source=tech_listing | url=https://leadiq.com/c/tpg-telecom/5fc72a604133a8a89a778132
+  Evidence: LeadIQ third-party tech listing names Docker as part of TPG Telecom's tech stack alongside Workstream, Alation, Oracle E-Business Suite, Okta, and Atlassian Jira. Medium confidence as this is a third-party aggregator source.
+  Repo: https://leadiq.com/c/tpg-telecom/5fc72a604133a8a89a778132
+  Confidence: Medium
+
+[TECH] Cloud-Native Architecture (5G Core) | category=cloud_native_presence | source=claude_web_search_result | url=https://www.ericsson.com/en/press-releases/7/2023/tpg-telecom--ericsson-complete-cloud-native-core-network
+  Evidence: Ericsson press release confirms TPG Telecom completed migration of its 4G and 5G data services onto Ericsson's cloud-native dual-mode 5G Core network. TPG Telecom's CTO and GM of Core Network Applications explicitly described the platform as 'a truly cloud-native solution'.
+  Repo: https://www.ericsson.com/en/press-releases/7/2023/tpg-telecom--ericsson-complete-cloud-native-core-network
+  Confidence: High
+
+[TECH] Android and iOS Mobile App Publishing | category=engineering_visibility | source=claude_web_search_result | url=https://www.appbrain.com/dev/TPG+Telecom/
+  Evidence: TPG Telecom publishes Android apps (My TPG, TPG BizPhone) on Google Play and iOS apps via the App Store, indicating an active mobile software development capability.
+  Repo: https://www.appbrain.com/dev/TPG+Telecom/
+  Confidence: Medium
+
+[TECH] DevSecOps Programme Reference | category=engineering_visibility | source=developer_docs | url=https://cloud.google.com/blog/products/api-management/tpg-telecom-selects-apigee-for-api-management/
+  Evidence: TPG Telecom's own statement in the Google Cloud blog explicitly references moving from an 'outsourced, diverse development model to an agile, centralised DevSecOps' approach, confirming a structured software engineering and security delivery programme.
+  Repo: https://cloud.google.com/blog/products/api-management/tpg-telecom-selects-apigee-for-api-management/
+  Confidence: High

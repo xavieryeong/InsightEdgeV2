@@ -1,0 +1,82 @@
+Company: Siemens
+Domain: siemens.com
+Industry: manufacturing
+Country: DE
+Agent: tech_stack
+Evidence items: 15
+============================================================
+
+[TECH] Python | category=relevant_languages | source=github | url=https://github.com/orgs/siemens/repositories
+  Evidence: The Siemens GitHub org at github.com/siemens lists multiple public Python repositories, including a Python SDK (156 stars) and a vLLM Python deployment repo, confirming active Python development under the Siemens org.
+  Repo: https://github.com/orgs/siemens/repositories
+  Confidence: High
+
+[TECH] TypeScript | category=relevant_languages | source=github | url=https://github.com/siemens/element
+  Evidence: Siemens maintains multiple active TypeScript repositories under github.com/siemens, including siemens/element (design system, MIT, updated April 2026) and siemens/sw360-frontend, confirming TypeScript as an actively used language.
+  Repo: https://github.com/siemens/element
+  Confidence: High
+
+[TECH] C# | category=relevant_languages | source=github | url=https://github.com/siemens/ros-sharp
+  Evidence: The Siemens GitHub org publishes ROS# (C#, 1.2k stars), a set of open source libraries for communicating with ROS from .NET applications, and simatic-s7-webserver-api — a .NET API Client Library in C#, confirming active C# development.
+  Repo: https://github.com/siemens/ros-sharp
+  Confidence: High
+
+[TECH] JavaScript | category=relevant_languages | source=github | url=https://github.com/siemens/linux-entra-sso
+  Evidence: The Siemens GitHub org includes active JavaScript repositories such as siemens/linux-entra-sso (browser plugin, Mozilla Public License, updated July 2025), confirming JavaScript in active use.
+  Repo: https://github.com/siemens/linux-entra-sso
+  Confidence: High
+
+[TECH] C++ | category=relevant_languages | source=github | url=https://github.com/siemens
+  Evidence: Siemens Industrial Edge documentation at siemens.com confirms that microservices can be deployed in Python and C++, and the Siemens GitHub org includes C++ repositories (e.g., Verilator fork in SiemensEnergy org).
+  Repo: https://github.com/siemens
+  Confidence: Medium
+
+[TECH] GitLab CI | category=ci_cd_maturity | source=claude_web_search_result | url=https://about.gitlab.com/customers/siemens/
+  Evidence: GitLab's official customer case study explicitly states Siemens has exceeded 38 million CI builds since adopting GitLab, and runs 1.5 million CI/CD builds every month via GitLab CI runners hosted on AWS. Siemens has over 40,000 GitLab users on its code.siemens.com internal platform.
+  Repo: https://about.gitlab.com/customers/siemens/
+  Confidence: High
+
+[TECH] AWS | category=cloud_native_presence | source=claude_web_search_result | url=https://about.gitlab.com/customers/siemens/
+  Evidence: GitLab's Siemens case study states 'code.siemens.com has its IT infrastructure on AWS' with EC2, S3, RDS, ElastiCache, EFS, and ELB in use, all managed as Infrastructure as Code. A separate cloud architecture case study confirms Siemens uses Amazon EKS on AWS for production workloads.
+  Repo: https://about.gitlab.com/customers/siemens/
+  Confidence: High
+
+[TECH] Kubernetes | category=cloud_native_presence | source=claude_web_search_result | url=https://livewyer.io/case-studies/kubernetes-as-a-service-platform/
+  Evidence: LiveWyer's published case study states that 'Siemens Digital Industries' core infrastructure is now delivered by a Kubernetes and Cloud Native Platform' that has expanded to over 100 clusters. Separately, Siemens Industrial Edge at siemens.com explicitly names 'Native Docker and Kubernetes-based management' with automated CI/CD workflows.
+  Repo: https://livewyer.io/case-studies/kubernetes-as-a-service-platform/
+  Confidence: High
+
+[TECH] Docker | category=cloud_native_presence | source=developer_docs | url=https://www.siemens.com/en-us/products/industrial-edge/edge-computing-architecture/
+  Evidence: Siemens' official Industrial Edge product page states 'Built on Docker-standard containers, the architecture supports any programming language for rapid app development' and that the platform is a 'docker-based platform to manage distributed devices.'
+  Repo: https://www.siemens.com/en-us/products/industrial-edge/edge-computing-architecture/
+  Confidence: High
+
+[TECH] Infrastructure as Code | category=cloud_native_presence | source=claude_web_search_result | url=https://about.gitlab.com/customers/siemens/
+  Evidence: The GitLab Siemens case study explicitly states the infrastructure 'evolved to a highly tuned and sophisticated setup, with a large amount of EC2 instances all managed as Infrastructure as Code.'
+  Repo: https://about.gitlab.com/customers/siemens/
+  Confidence: High
+
+[TECH] Public GitHub Org + Open Source Portal | category=engineering_visibility | source=github | url=https://github.com/siemens
+  Evidence: Siemens maintains a verified GitHub org (github.com/siemens) with 210+ public repositories and an active open source portal at opensource.siemens.com and developer.siemens.com, including a formal Open Source Manifesto. The blog.siemens.com engineering blog covers technology topics including open source contributions.
+  Repo: https://github.com/siemens
+  Confidence: High
+
+[TECH] Siemens Lint / Code Quality Tooling (internal) | category=engineering_visibility | source=github | url=https://github.com/siemens/lint
+  Evidence: Siemens maintains a public 'lint' repository on GitHub described as 'Collection of linter configuration files and plugins used at Siemens,' providing ESLint (TypeScript/Angular), stylelint, and commitlint presets — indicating an active internal code quality culture.
+  Repo: https://github.com/siemens/lint
+  Confidence: High
+
+[TECH] CycloneDX / SBOM tooling | category=engineering_visibility | source=github | url=https://github.com/siemens/cyclonedx-property-taxonomy
+  Evidence: Siemens maintains an official CycloneDX property taxonomy on GitHub for SBOM generation, indicating a structured approach to software supply chain security and open source license compliance at scale.
+  Repo: https://github.com/siemens/cyclonedx-property-taxonomy
+  Confidence: High
+
+[TECH] Microservices architecture | category=cloud_native_presence | source=developer_docs | url=https://www.siemens.com/en-us/products/industrial-edge/edge-computing-architecture/
+  Evidence: Siemens' official Industrial Edge product page describes a 'microservices-based architecture' with 'Open API support (RESTful integration, GraphQL, Swagger/OpenAPI documentation)' as a core architectural pattern.
+  Repo: https://www.siemens.com/en-us/products/industrial-edge/edge-computing-architecture/
+  Confidence: High
+
+[TECH] GitLab (code.siemens.com internal platform) | category=ci_cd_maturity | source=developer_docs | url=https://developer.siemens.com/resources/opensource/index.html
+  Evidence: Siemens' official developer portal states 'Siemens is one of the largest contributors to GitLab, which powers our self-hosted social coding platform,' confirming GitLab is the primary internal SCM and CI/CD platform.
+  Repo: https://developer.siemens.com/resources/opensource/index.html
+  Confidence: High

@@ -1,0 +1,17 @@
+Company: MB Bank
+Domain: mbbank.com.vn
+Industry: Financial Services
+Country: Vietnam
+Agent: regulatory_impact
+Evidence items: 2
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=SBV Circular 77/2025/TT-NHNN — Mandatory quarterly mobile banking application vulnerability assessments and OWASP Top 10 compliance for web banking (effective March 1, 2026) | regulation=SBV Circular 77/2025/TT-NHNN (amending Circular 50/2024/TT-NHNN) | regulator=State Bank of Vietnam (SBV)
+  Source: official_regulator_website | url=https://www.vietnam.vn/en/mobile-banking-phai-dap-ung-chuan-bao-mat-moi-tu-ngay-1-3-2026
+  Evidence: Banks and credit institutions are required to conduct security and safety assessments of all versions of their mobile banking applications at least every three months. If a vulnerability is assessed as high or serious, the credit institution must immediately implement control measures, including restricting or suspending transactions. For online banking applications developed via web platforms, the SBV requires banks and institutions to ensure defenses against the top ten common security vulnerabilities listed by OWASP.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=MB Bank operates a dedicated internal Vulnerability Research and Exploit Development (VRED) team, publicly documented at vred.mbbank.com.vn, confirming active investment in application-layer security and vulnerability research. | regulation=Internal security program aligned with SBV Circular 09/2020/TT-NHNN and Circular 77/2025/TT-NHNN requirements | regulator=State Bank of Vietnam (SBV)
+  Source: company_website | url=https://vred.mbbank.com.vn/about
+  Evidence: MB Vulnerability Research and Exploit Development — team focused on learning and sharing knowledge in the Cyber Security field in general, and Vulnerability Research in particular. Content maintained by members of the MB VRED (Vulnerability Research and Exploit Development) team.
+  Confidence: High

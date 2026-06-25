@@ -1,0 +1,13 @@
+Company: Advance Intelligence Group
+Domain: advancegroup.com
+Industry: ai_fintech
+Country: SG
+Agent: public_news
+Evidence items: 1
+============================================================
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3N3STZHWXlDZTZkZWZ2d1FzdlhSSjZPYU4zWmw5U3c5WjE1WktuZ1FMa19nbm0yTFRXeHFROHZRWFd3dW1FSXVaUnZDODVGaGtiOUN3Uy1rUy12RVB2Y1c3VVpTdjFVTnJ5RmRGNkcyeTVzM0xBQ3V6MENOaVByRy1mR0g0NHluMWFuNHBKdUpEclBvOXlNM2NMQm1QV2NaX2NXUFBB?oc=5
+  Title: ADVANCE.AI appoints fintech and payments veteran to lead India expansion - intlbm
+  Snippet: ADVANCE.AI appoints fintech and payments veteran to lead India expansion intlbm
+  Published: 2022-06-02 (1426 days ago)
+  Confidence: High

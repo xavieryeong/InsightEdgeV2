@@ -1,0 +1,87 @@
+Company: SafetyCulture
+Domain: safetyculture.com
+Industry: Technology & Software
+Country: Australia
+Agent: tech_stack
+Evidence items: 16
+============================================================
+
+[TECH] Go (Golang) — primary microservices language | category=relevant_languages | source=engineering_blog | url=https://medium.com/safetycultureengineering/why-go-is-a-good-language-for-microservices-b4fc6a5a532c
+  Evidence: SafetyCulture engineering blog explicitly states: 'Early last year, we decided to move to Go (Golang) as the language of our choice for our microservices at SafetyCulture. Before this, our microservices were written in Node.js (a mixture of CoffeeScript, Javascript and TypeScript).'
+  Repo: https://medium.com/safetycultureengineering/why-go-is-a-good-language-for-microservices-b4fc6a5a532c
+  Confidence: High
+
+[TECH] Go — confirmed in public GitHub repos and engineering profiles | category=relevant_languages | source=github | url=https://medium.com/safetycultureengineering/about
+  Evidence: SafetyCulture Engineering Medium 'About' page lists engineer bios including 'Software Engineer helping teams build scalable microservices in Go and gRPC' confirming active Go usage.
+  Repo: https://medium.com/safetycultureengineering/about
+  Confidence: High
+
+[TECH] TypeScript and JavaScript — prior microservices stack, SDK | category=relevant_languages | source=github | url=https://github.com/SafetyCulture/safetyculture-js
+  Evidence: SafetyCulture maintains a public 'safetyculture-js' repo (JavaScript/Node.js and Client SDK for the SafetyCulture API). Engineering blog also confirms microservices were previously written in 'a mixture of CoffeeScript, Javascript and TypeScript'.
+  Repo: https://github.com/SafetyCulture/safetyculture-js
+  Confidence: High
+
+[TECH] Python — SDK and exporter tooling | category=relevant_languages | source=github | url=https://github.com/SafetyCulture/safetyculture-sdk-python
+  Evidence: SafetyCulture maintains a public 'safetyculture-sdk-python' repository on GitHub, described as 'Python SDK for interacting with the SafetyCulture API'. The README notes it is no longer the primary exporter but confirms Python usage.
+  Repo: https://github.com/SafetyCulture/safetyculture-sdk-python
+  Confidence: High
+
+[TECH] Swift — iOS mobile development | category=relevant_languages | source=github | url=https://github.com/orgs/SafetyCulture/repositories
+  Evidence: SafetyCulture's GitHub org lists repositories including 'a reusable framework for parsing JSON in Swift' and iOS-related repos, indicating Swift usage for mobile application development.
+  Repo: https://github.com/orgs/SafetyCulture/repositories
+  Confidence: Medium
+
+[TECH] Java — Android development | category=relevant_languages | source=github | url=https://github.com/SafetyCulture/expr-for-Android
+  Evidence: SafetyCulture GitHub org includes 'expr-for-Android' described as 'Evaluate mathematical expressions in Java', and the org packages page lists 'protoc-java', indicating Java use for Android development.
+  Repo: https://github.com/SafetyCulture/expr-for-Android
+  Confidence: Medium
+
+[TECH] GitHub Actions — active CI/CD workflows in public repos | category=ci_cd_maturity | source=github | url=https://github.com/SafetyCulture/safetyculture-exporter/actions
+  Evidence: SafetyCulture's public 'safetyculture-exporter' repo shows 288 GitHub Actions workflow runs including 'Tests', 'package', and 'Security Scan' jobs. The workflow YAML shows 'runs-on: ubuntu-latest' using 'actions/setup-go' and 'actions/checkout' — confirming active GitHub Actions CI usage.
+  Repo: https://github.com/SafetyCulture/safetyculture-exporter/actions
+  Confidence: High
+
+[TECH] GitHub Actions — release automation confirmed | category=ci_cd_maturity | source=github | url=https://github.com/SafetyCulture/safetyculture-exporter/releases
+  Evidence: Releases for safetyculture-exporter are published by 'github-actions' bot (e.g., v5.0.0 on 19 May 2025), confirming GitHub Actions is used for automated release pipelines.
+  Repo: https://github.com/SafetyCulture/safetyculture-exporter/releases
+  Confidence: High
+
+[TECH] Buildkite and Helm — referenced CI environment | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/safetycultureengineering/the-safetyculture-journey-to-kubernetes-ac7f9615710f
+  Evidence: SafetyCulture's engineering blog on Medium describes 'How we used Helm within our Buildkite CI environment to simplify our deployments to a single downstream pipeline (from 1 per service) AND how this helped us cut deployment times to <50 seconds.'
+  Repo: https://medium.com/safetycultureengineering/the-safetyculture-journey-to-kubernetes-ac7f9615710f
+  Confidence: Medium
+
+[TECH] Dependabot — active dependency automation | category=ci_cd_maturity | source=github | url=https://github.com/SafetyCulture/safetyculture-exporter-ui/actions
+  Evidence: SafetyCulture's 'safetyculture-exporter-ui' repo shows active Dependabot workflow runs for Go module updates (e.g., 'go_modules in / - Update #1087637236 Dependabot Updates #17'), confirming Dependabot is enabled.
+  Repo: https://github.com/SafetyCulture/safetyculture-exporter-ui/actions
+  Confidence: High
+
+[TECH] AWS — confirmed primary cloud provider | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/safetycultureengineering/tagged/aws
+  Evidence: SafetyCulture Engineering's Medium publication has an AWS-tagged article series, with the intro: 'Welcome to the first in a multi-part series about the SafetyCulture journey to using Kubernetes (on Amazon EKS) as our microservice orchestrator.' Also confirms AWS ECS usage.
+  Repo: https://medium.com/safetycultureengineering/tagged/aws
+  Confidence: High
+
+[TECH] Kubernetes (EKS), AWS ECS, Docker, microservices at scale | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/safetycultureengineering/the-safetyculture-journey-to-kubernetes-ac7f9615710f
+  Evidence: SafetyCulture engineering blog states: 'We run a varied collection of Microservices... approximately 300 containers running in production across 120+ microservices.' The post covers migrating from AWS ECS to Kubernetes on Amazon EKS. Helm and Prometheus/Grafana are also mentioned as part of the stack.
+  Repo: https://medium.com/safetycultureengineering/the-safetyculture-journey-to-kubernetes-ac7f9615710f
+  Confidence: High
+
+[TECH] Security Scan workflow — tool not publicly named | category=security_tooling_signal | source=github | url=https://github.com/SafetyCulture/safetyculture-exporter/actions
+  Evidence: The safetyculture-exporter repo shows a workflow named 'Security Scan' with active runs. The underlying tool is not visible from the public actions page (workflow YAML is internal). This indicates a security scanning step exists in CI but the specific tool (Snyk, Semgrep, SonarCloud, etc.) cannot be confirmed.
+  Repo: https://github.com/SafetyCulture/safetyculture-exporter/actions
+  Confidence: Low
+
+[TECH] SafetyCulture Engineering — active public GitHub org and Medium engineering blog | category=engineering_visibility | source=github | url=https://github.com/safetyculture
+  Evidence: SafetyCulture maintains a public GitHub org (github.com/safetyculture) with active repositories and an engineering publication on Medium (medium.com/safetycultureengineering, last published March 2025) covering topics including Go microservices, Kubernetes migration, and AWS infrastructure.
+  Repo: https://github.com/safetyculture
+  Confidence: High
+
+[TECH] New CPTO appointment — technical debt reduction and enterprise readiness focus | category=engineering_visibility | source=developer_docs | url=https://safetyculture.com/media-releases/safetyculture-appoints-world-class-technology-leader-jeremy-ginsberg-as-chief-product-technology-officer
+  Evidence: SafetyCulture's official press release (December 2025) announces new CPTO Jeremy Ginsberg, who will focus on 'reducing technical debt, maturing SafetyCulture's enterprise readiness, and improving the speed and consistency of product delivery.' Previous experience includes Twitter, Google, and Color Health.
+  Repo: https://safetyculture.com/media-releases/safetyculture-appoints-world-class-technology-leader-jeremy-ginsberg-as-chief-product-technology-officer
+  Confidence: High
+
+[TECH] SafetyCulture Developer Portal — public REST API and developer documentation | category=engineering_visibility | source=developer_docs | url=https://developer.safetyculture.com/
+  Evidence: SafetyCulture maintains a public developer portal (developer.safetyculture.com) with REST API documentation, webhook support, and integration SDK guidance, confirming active platform engineering culture.
+  Repo: https://developer.safetyculture.com/
+  Confidence: High

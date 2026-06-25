@@ -1,0 +1,72 @@
+Company: IAG
+Domain: iag.com.au
+Industry: Financial Services
+Country: Australia
+Agent: tech_stack
+Evidence items: 13
+============================================================
+
+[TECH] InsuranceAustraliaGroup GitHub Organisation (AppAuth-iOS) | category=engineering_visibility | source=github | url=https://github.com/InsuranceAustraliaGroup
+  Evidence: IAG has a verified public GitHub org (github.com/InsuranceAustraliaGroup, linking to iag.com.au) with one public repository: a fork of AppAuth-iOS (iOS/macOS SDK for OAuth 2.0 and OpenID Connect), written in Objective-C. The org has limited public activity.
+  Repo: https://github.com/InsuranceAustraliaGroup
+  Confidence: High
+
+[TECH] Python/Postgres — iag-geo GitHub Org | category=relevant_languages | source=github | url=https://github.com/iag-geo
+  Evidence: A GitHub organisation named 'iag-geo' hosts repositories including Python and Postgres scripts for apportioning data between Australian census and administrative boundaries, labelled as IAG Geo. Attribution to Insurance Australia Group's geospatial team is strong based on naming and content.
+  Repo: https://github.com/iag-geo
+  Confidence: Medium
+
+[TECH] C# — Unit Testing Workshop held at IAG | category=relevant_languages | source=github | url=https://github.com/eric-software-engineering/Unit-Tests-Workshop
+  Evidence: A third-party GitHub repo describes a Unit Testing and SOLID principles workshop conducted at IAG (Insurance Australia Group). The repository is 100% C#, confirming C# was in use at IAG at the time of the workshop. Attribution is to an external presenter, so confidence is lower.
+  Repo: https://github.com/eric-software-engineering/Unit-Tests-Workshop
+  Confidence: Low
+
+[TECH] IAG Geospatial GitHub Org (iag-geo) — multiple active repos | category=engineering_visibility | source=github | url=https://github.com/iag-geo
+  Evidence: The iag-geo GitHub org contains multiple repositories including psma-admin-bdys, spark_testing, geoworkshop, and image-classification, indicating an active data/geospatial engineering team with open-source contributions linked to IAG.
+  Repo: https://github.com/iag-geo
+  Confidence: Medium
+
+[TECH] Java / Spring Boot — IAG Developer Interview & Job Roles | category=relevant_languages | source=claude_web_search_result | url=https://www.glassdoor.com.au/Interview/Insurance-Australia-Group-Interview-Questions-E12762.htm?filter.jobTitleExact=Java+Developer+-+Spring+Boot+API
+  Evidence: Glassdoor lists a 'Java Developer - Spring Boot API' interview role at Insurance Australia Group. Interview questions confirmed covered Spring Boot, Java exception handling, REST API development, and Spring Bean scopes, confirming Java/Spring Boot as an active language at IAG.
+  Repo: https://www.glassdoor.com.au/Interview/Insurance-Australia-Group-Interview-Questions-E12762.htm?filter.jobTitleExact=Java+Developer+-+Spring+Boot+API
+  Confidence: Medium
+
+[TECH] MuleSoft Anypoint API Platform — 600 APIs | category=cloud_native_presence | source=claude_web_search_result | url=https://www.itnews.com.au/news/iag-prepares-integration-engineering-for-ai-624023
+  Evidence: iTnews (March 2026) reported that IAG has deployed MuleSoft's Anypoint API Experience Hub integration platform and is migrating approximately 600 APIs onto the platform, signalling a large-scale API engineering footprint and active software delivery.
+  Repo: https://www.itnews.com.au/news/iag-prepares-integration-engineering-for-ai-624023
+  Confidence: High
+
+[TECH] AWS — Atlassian Data Center Migration | category=cloud_native_presence | source=claude_web_search_result | url=https://www.atlassian.com/customers/IAG
+  Evidence: An Atlassian customer case study confirms IAG shifted Atlassian Data Center to AWS, increasing speed, stability, and scalability as an interim step toward full Atlassian Cloud migration.
+  Repo: https://www.atlassian.com/customers/IAG
+  Confidence: High
+
+[TECH] Google Cloud Platform (BigQuery) — IAG Data Mesh | category=cloud_native_presence | source=claude_web_search_result | url=https://www.simplemachines.com/case-studies/iags-data-mesh-accelerating-time-to-value-in-the-cloud
+  Evidence: A Simple Machines case study confirms IAG's Data Mesh architecture runs on Google Cloud (known internally as the Google Data Platform / GDP), leveraging BigQuery and multiple GCP services, used by over 500 engineers and data product owners.
+  Repo: https://www.simplemachines.com/case-studies/iags-data-mesh-accelerating-time-to-value-in-the-cloud
+  Confidence: High
+
+[TECH] Red Hat OpenStack — Private Cloud Infrastructure | category=cloud_native_presence | source=claude_web_search_result | url=https://www.redhat.com/en/success-stories/iag
+  Evidence: A Red Hat press release and success story confirms IAG used Red Hat OpenStack Platform to consolidate its IT infrastructure into a single private cloud environment, managing data from 20+ warehouses across multiple technology systems.
+  Repo: https://www.redhat.com/en/success-stories/iag
+  Confidence: High
+
+[TECH] IAG Digital & Technology Careers Hub — Large Engineering Org | category=engineering_visibility | source=developer_docs | url=https://careers.iag.com.au/global/en/c/digital-technology-jobs
+  Evidence: IAG maintains a dedicated Digital & Technology careers section on its careers site, advertising roles such as 'Specialist II, Developer', and describes itself as 'a tech hub' with opportunities spanning data, AI, engineering, and innovation. This indicates a substantial, active in-house engineering function.
+  Repo: https://careers.iag.com.au/global/en/c/digital-technology-jobs
+  Confidence: High
+
+[TECH] IAG $180M Technology Transformation — CGU Commercial Enterprise Platform | category=engineering_visibility | source=claude_web_search_result | url=https://www.iag.com.au/newsroom/customer/cgu-releases-first-product-under-180m-technology-transformation
+  Evidence: IAG's official newsroom confirms CGU released its first product under a $180M Commercial Enterprise Platform (CEP) technology transformation, replacing legacy infrastructure with a modernised platform. This signals active, large-scale software engineering investment.
+  Repo: https://www.iag.com.au/newsroom/customer/cgu-releases-first-product-under-180m-technology-transformation
+  Confidence: High
+
+[TECH] iag-nz GitHub Org — Jenkins PowerShell repository (NZ subsidiary) | category=engineering_visibility | source=github | url=https://github.com/IAG-NZ
+  Evidence: A GitHub org 'iag-nz' (likely IAG New Zealand subsidiary) contains an archived Jenkins PowerShell repository labelled 'Restored jenkins repository'. This is low-confidence evidence of historical Jenkins CI/CD use, attributed to the NZ subsidiary rather than IAG Australia directly.
+  Repo: https://github.com/IAG-NZ
+  Confidence: Low
+
+[TECH] IAG Technology Newsroom — Advanced Technology Platforms | category=cloud_native_presence | source=developer_docs | url=https://www.iag.com.au/newsroom/technology
+  Evidence: IAG's newsroom has a dedicated 'Technology' section with multiple articles on innovation and technology transformation dating from 2018 to 2025, indicating ongoing investment in technology and engineering practices.
+  Repo: https://www.iag.com.au/newsroom/technology
+  Confidence: Medium

@@ -1,0 +1,152 @@
+Company: Telstra
+Domain: telstra.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 29
+============================================================
+
+[REGULATORY] type=compliance_audit | value=Telstra holds an active ISO/IEC 27001:2022 information security management system certification, recertified December 2024, covering policies, controls and procedures | regulation=ISO/IEC 27001:2022 | regulator=BSI Group ANZ (certifying body)
+  Source: company_website | url=https://www.telstra.com.au/business-enterprise/support/customer-assurance
+  Evidence: Telstra maintains an information security management system including policies, controls and procedures that are certified to ISO/IEC 27001:2022 information security management standard.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=Telstra ISO/IEC 27001:2022 certificate issued December 2024 — active and verifiable via BSI client directory | regulation=ISO/IEC 27001:2022 | regulator=BSI Group ANZ
+  Source: company_website | url=https://www.telstra.com.au/content/dam/shared-component-assets/tecom/support/customer-assurance/telstra-iso27001-certification-dec-2024.pdf
+  Evidence: Operates an Information Security Management System which complies with the requirements of ISO/IEC 27001:2022. This certificate was issued electronically and remains the property of BSI Group ANZ Pty Limited.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Act ERP Act 2024 Schedule 5 (commenced 4 April 2025) directly applies to Telstra as a carrier responsible entity for critical telecommunications assets, mandating a Telecommunications Security and Risk Management Program (TSRMP/CIRMP) with a compliance deadline of October 2025 | regulation=Security of Critical Infrastructure Act 2018 (SOCI Act) + ERP Act 2024 — TSRMP Rules 2025 | regulator=Cyber and Infrastructure Security Centre (CISC) / Department of Home Affairs
+  Source: official_regulator_website | url=https://www.cisc.gov.au/information-for-your-industry/communications/telecommunications
+  Evidence: The most significant addition is the increased cyber security framework compliance requirements for carrier assets. A responsible entity for a critical telecommunications asset must protect the asset from all-hazards, including security risks.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=Cyber Security Act 2024 imposes ransomware payment reporting obligations (within 72 hours) and IoT security standards on Telstra as a responsible entity for critical infrastructure assets; CIRMP obligation for telecommunications carrier assets commenced 4 October 2025 | regulation=Cyber Security Act 2024 + SOCI Act TSRMP Rules 2025 | regulator=CISC / Australian Cyber Security Centre (ACSC)
+  Source: public_news | url=https://www.gtlaw.com.au/insights/everybody-wants-to-rule-the-telco-world
+  Evidence: The TSRMP Rules require responsible entities to adopt and maintain a CIRMP for all Nominated Telco Assets. The CIRMP obligation commences on 4 October 2025 for existing Nominated Telco Assets.
+  Confidence: High
+
+[REGULATORY] type=active_fine_lawsuit | value=ACMA fined Telstra $1,551,000 in July 2024 and ordered improvements after finding 168,000 failures to follow correct customer identity verification processes; ACMA ordered Telstra to review training and make systems improvements | regulation=Telecommunications Act 1997 — ACMA carrier licence conditions | regulator=Australian Communications and Media Authority (ACMA)
+  Source: public_news | url=https://ia.acs.org.au/article/2024/telstra-fined--1-5m-after-customers-left-vulnerable-to-scams.html
+  Evidence: Australia's communications regulator has fined Telstra $1,551,000 and ordered it to make improvements after the telco giant left thousands of its customers more vulnerable to mobile fraud and SIM-swap scams.
+  Confidence: High
+
+[REGULATORY] type=active_fine_lawsuit | value=ACMA issued Telstra a formal remedial direction (July 2024) following 163,000+ carrier licence breaches from unlisted customer number data leakage; ACMA ordered independent audit of Telstra's systems and compliance procedures; Telstra faces up to $10M per contravention if it breaches the direction | regulation=Telecommunications Act 1997 — ACMA carrier licence conditions | regulator=Australian Communications and Media Authority (ACMA)
+  Source: official_regulator_website | url=https://www.acma.gov.au/articles/2024-07/telstra-discloses-thousands-unlisted-phone-numbers
+  Evidence: Telstra has been directed to reconcile its customer data with its White Pages and directory assistance database listings every 6 months, implement a training program for staff, and have its systems and compliance procedures independently audited.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA CPG 234 (Information Security practice guide) explicitly references secure software development and acquisition as a required control outcome; as a major IT/infrastructure services provider to APRA-regulated banks and insurers, Telstra's software security practices are subject to downstream CPS 234 third-party scrutiny | regulation=APRA CPG 234 Information Security (third-party / service provider applicability) | regulator=Australian Prudential Regulation Authority (APRA)
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: The outcome of secure software development and acquisition is to ensure that software continues to function as intended regardless of unforeseen circumstances.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra disclosed a November 2024 data exposure incident: a file containing data on ~47,300 Telstra employees and partners was listed for sale online, sourced from a pre-production test environment for an internal fault-logging system — directly implicating SDLC and test data management practices | regulation=Privacy Act 1988 (Australia) — Notifiable Data Breaches | regulator=Office of the Australian Information Commissioner (OAIC)
+  Source: company_website | url=https://www.telstra.com.au/exchange/telstra-employee-and-partner-data-breach--what-you-need-to-know-
+  Evidence: Using this data we identified the relevant data set and that it came from a pre-production test environment for an internal system used to log faults.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG dragged by directors to finally reopen client data investigation - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSW80bS1mNGZYOThaZnlSbVB5RUdsNHZoaF9EVWcyNGV1ZWRzeHpydjNXdVBsS0xhTjktYVpHWHdOLW5jbFI0aW1zWEkyREZfOVBGWWY2VFNnWGZueWYyVExad0lfcXBNeG9JZ3QxR2gzNF9DUTUxWG93d1g2UU5qdlQ5V0lsMjNwVHQ1eTZvUWtxa29aZEt1YUpNT3hmMnFjOTZhUG9ZVWlaTzdId21xVUtGLU00RkdEcDdfYUttT1lXbnVpRGlsV01id29UR3NYX1RR?oc=5
+  Evidence: KPMG dragged by directors to finally reopen client data investigation AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG CEO quits as audit leaks scandal spreads to Telstra, Optus - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdLaDl4NV9DOHJqVEIyclJjOHNXOUJZSktoeGFacVpXRWc2M01lMUhFb081cE8yX3d4LVpUMWk0Y3Z3Sldhd1g0MTBSNzA4NS1aUzVmbC1BRlpyNUFCYnRlSXBUclJkS2huVFljZTdLcjJHaHg3Qk9CZ0dEbm1RSjB6TWJtTzBpbU5DeHRCRjhseDhsMmljMnVHdjNQSFBxR0FNbXhicjJYWmlPWURyNFJ2bDZkRkg2UzBuX0hoUVdlNzY3UGdr?oc=5
+  Evidence: KPMG CEO quits as audit leaks scandal spreads to Telstra, Optus AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra warns network upgrade funds being eaten up by compliance costs - iTnews | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjNmeFNveW82dUpxTGhzSTBqN21FLWtFNWxCRllqTGdVaFMzSjYtYUEyWmtTb2lqYjB1ZU9SNERhdUtqWXZjckhsTkN3Ql9yX2pvSFlkeEhlVWJSRWpZRkZFQjVWRDF3b1BfTXpibHg1bmJSU2xueWNBZTBiaUhndDZJaUhIRTN6R1haYm4zd1Q5cnFQU3NnVVJmVnl3cEtqd1FXVHAxZ292YzZE?oc=5
+  Evidence: Telstra warns network upgrade funds being eaten up by compliance costs iTnews
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=‘Clayton’s investigation’: Inside the sudden downfall of KPMG chief - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxNWE1WdVJjRVpUaG5DVkdST3JXeU9LcGs3STVpZG9WZHpvc05wT2pPaEhFUUd5WkE4NG9XRDYxakY3eW41UFJuUFRZWVRmY0NuOThiWUlBQ0gtOXg5dDhxcWZWUk1jWHJORW1iQ1dFT3o5M0JQUjR1aW9LUFQ1bmRKMGc2RnIzaE9HZUpOeWlRRGs3Zm5zS3c1TlpJXzU1cDl5WE9GQkliZDhmeVhqa1Z3VTFSVUdGV3VWaGNmNWp4OXhiQWJoeHR4ZEY3NTY?oc=5
+  Evidence: ‘Clayton’s investigation’: Inside the sudden downfall of KPMG chief AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra slugged with $1.5M penalty for ID authentication failures - ARNnet | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjY5bFFueThYNUFheFhPZ25nRmlLNEtKN2lDQWo3NzczakFrU0ZkV2s1SjlYNmtuQzBpLVcxRk93VmMxNmYwb0xyVHlTS281Y21uMGlYclFiRUExTFNSdXd2TWxuZWRBbWlhV3lRMHk2cjJaOEtXbXROSExWdEk1Y1lTV2oyZjFaTmdLN01XMlc4ZXRYek8xUDRIM0NwR09MZ2lodEVMZmJrT19IdjdWLQ?oc=5
+  Evidence: Telstra slugged with $1.5M penalty for ID authentication failures ARNnet
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=AI compliance platform Haast raises $6m to expand into US market - FinTech Global | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHNlMmcyQl92Yjc4U0lXNHdaQ3RpT1o3alFWaHF3WGl3TnpBZGMwZnRFM0lPbENRXzUtQkFfQzJvSG9wZnVyamlXczhOVDFkOXR0T3JiRE9vUmtpaEF6MmRoZm9CZmlZZm4zQ0w1TC16ekRLOUtQOHBKcGVIWnhTaEVsSXJaYTVFM0dDZXMzWjVETzRFXzNvYi1TekhycWM?oc=5
+  Evidence: AI compliance platform Haast raises $6m to expand into US market FinTech Global
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Audit office finds Telstra's universal services were good politics, bad deals - The Register | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiygFBVV95cUxNWk1iRWVhYlpYZWtvQm4yc0xDenFzNnZJZFJUYldMTm45WlBlN2pZTHZHVHl1QWJwOVdQRjk2eGZ1RzlSWGRPaGR4TFV6c1B0WGJMR2ptQVgzZUFNX3h0Rm1JR0NEUGFWdEZPb2tNUjNNOXk5bHg5N044NUlvR0phZFlHYzVKZHhtajZrdEhnSkFXZzNONXU5WmJ2eC1OV0I3QVNwcFBEeHFFcE5LWUFqcXRUc2k4WGJEY3o1UVdfYkdJajlaUXR6V2JB?oc=5
+  Evidence: Audit office finds Telstra's universal services were good politics, bad deals The Register
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG allegedly misused Lendlease data to win audit work - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjFwWkc1MDBTcDBfV0F6TnlTR013M2xHcjJRWFlmS0RQUzY3alBFLTVIdThEV3BMa2EyR2pEby1hVkl0eDZMVExUWXA3MUladXVaM0E5b0M0d2lfQnNaUzJRb1h0dUJoTEJBeHFGQnRXcmNObV9KcUJWUUx2ZEhRQnNjZTllUzdwakwzY1BQb2d1clY1SFdQUGhNeDg1NUtYY2lmbDlRdks2S2JneFZZR1ROb3BFVTdEUWhJTXJzdEM?oc=5
+  Evidence: KPMG allegedly misused Lendlease data to win audit work AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra appoints new director and auditors - Telecompaper | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxNWURkQVlKeHI0SExmdDFhcWtjTGxjNG05WmZROGRpM1VyNXlrVTVLbWxwaFBWWVZreW1XQzZCWWpjVDE0UlJJU3RSd0NPZGFPQjBidTBYSnNpWTdITHRraDgxQUdVRnRoODVZcWNLYlpyajFwM3MxYXlvY182Q2FTLW9Ma0tLbmltY3BuMUJ3?oc=5
+  Evidence: Telstra appoints new director and auditors Telecompaper
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Another KPMG leader steps aside amid audit leak scandal fallout - Australian Broadcasting Corporation | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNybm81Y3NpRUhTMFJYZFpvZnllMFBobGtwYzczNmp0cnVyRklmQ2g5YWw2Wmlmc3NPSE5tWGZCdERJT3pxa0k4WXhYSUZHZkhvRVh0bjlpOXhsTE4xbUpseFJSVV9EZDJwaGpyLWJTakd5LWNLeFhSVWt2Y1ZRc3NkX0FYTkFqWnI3bjlKbUlabk5UV1VlU1VBWFpLXzdtc0RoTE1ZMUNNS1k5Y1Q5VXRsSQ?oc=5
+  Evidence: Another KPMG leader steps aside amid audit leak scandal fallout Australian Broadcasting Corporation
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra investigated for environmental breaches in SA national park - Australian Broadcasting Corporation | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzZuQUFaNDFvQU95NW5IUGkwV2JuMEZmOFRpaUFodllRUUNKc1FJNHdJbE4yTVhqdnBOY2M1U2RDT1hhOU55Z2xjSDZkcjh0TnVZVWdpdDZ1XzRvTkstUGV1QlhRNjBGLVhxajRTaC1OYW11SGl3QkxyWFpyUUF5dG5RM1lWd0tWSHFoRm9GR1F1NE9WNHZPNmdGMWN6NHc2cGpFNFdHbm9WZWVPdHpueg?oc=5
+  Evidence: Telstra investigated for environmental breaches in SA national park Australian Broadcasting Corporation
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Key Telstra & Optus Partner Facing A1.5 Billion Dollar Fine Following Corruption Investigation - channelnews.com.au | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzU4ZXNUcXJNUjdyU3FSTUhCS0dfOHFLQkdqd3pRVFNNVUM1TV95YTBTa0tKYjItZ0JzRmRuVnAteHdRLVJUUkFjM1ZWZGZad3c5c1dzRHBrWlYxbXlKVUlla21DYVB6OWdKR3BINjBDZHhEZ0hhRjdqZEZRNWY2WE5valRBS1ZlMzVhSk9ITmNjcjhjZ1JUZWtXNmRNQUZxTkNUbFc0dzdhR2lhQ1RnNWFNOGF5Y1BWTFhiM3FYQndjZw?oc=5
+  Evidence: Key Telstra & Optus Partner Facing A1.5 Billion Dollar Fine Following Corruption Investigation channelnews.com.au
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TPG went eight hours before notifying Telstra about outage affecting emergency calls, investigation finds - Nine.com.au | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNl9sNTl1bWVqdGZNRUJQX3V2cUc0UE5WQ0V1VnRlVXJOZ2ROZnFZSEMwbDdna1JxYmxONkFUZWlkVTQyTGlESHgwTjQ2NWpaaDcwdlJWVFFTVjRrMlE4UjE4SF9xcnNvWDJyT2dTS0ZrcUkwNUR6bkp5RTBaT1ZLTTVPQ0lGQjJ0dWtSX2pxeHJpcEhjM0R0WmJTRUh2bmlhandySlRCMjRCZ2p3TmYtMGg3OU1uQzV5VHF1N3dyd19hWldTWG9Ibno2dVMtWWJZcVNDS1BNcEZhS25n?oc=5
+  Evidence: TPG went eight hours before notifying Telstra about outage affecting emergency calls, investigation finds Nine.com.au
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Inside Telstra's Triple Zero investigation into fatal fire - Information Age | ACS | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMingFBVV95cUxQRmJGMlJDc003RFVweEFpbzNsb0czVmlxMTVnYlVHX1BGYW9wcFRQSFRySnRQUHFKZGdLcUhlalFPMjBON0RCcWIzRmhYMnFlWFJYdHZhT0RvaVB4d2k5aTlmcEU5c1JSWklKRGFTOV9lVGtrUW1aUnFWYXA0MVltT1JJMS1nMWNtdUVMVGRjSXJWWUF6bVpMOE85U1YtQQ?oc=5
+  Evidence: Inside Telstra's Triple Zero investigation into fatal fire Information Age | ACS
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra penalised for spam breaches - ACMA | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMifEFVX3lxTE85YndESlRUaFVSV1h2TWV6MEtIV2xkQVpLWDFoNUlPb3MxRC1mbEJrVjdaaGtZX0RDaUVjVjVpb0hKcVFIb0Q0WXdVRTV3cmVfMG9xQUR3QjlyLVBVTWxnbUtIcDBtYXdjS2pDRS14QnFUanJ0U2NBVFczb3g?oc=5
+  Evidence: Telstra penalised for spam breaches ACMA
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telco giant hit with $600,000 fine: 'No excuse' - Yahoo Finance Australia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiygFBVV95cUxONGd0SWxVYWpXUzBNbHJKaDNKb0ZiSDhXYXhoUWZoSVlDa0tJMUo0YkFDZ3Nial9NU244WEVPVUc2emRMUEcwcUIxZXI5M2thZUI5Q0hLeDRUb092Y1VILVlQbkZrV0lfR0FJcFlKNEQ5S1BNcmhXTk5USzAtWEQ1bF81cl9Edm1CY1JFV0ZpSEJ2dEwtRFp4cDJTX09US1pXTm53dVoxdlhUUXJ6OEt2ZDY4SmhpNzhUcHhBMnRManJGWmNLM055aUFn?oc=5
+  Evidence: Telco giant hit with $600,000 fine: 'No excuse' Yahoo Finance Australia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra pays $3 million penalty for Triple Zero outage - ACMA | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMilAFBVV95cUxObjdSeWdoZkFsWVVnejI1dXZSZjJGSElBVVF5WFJYVF9ORVZzZVdlVFpISnBsWmJIUk1HMmtZdGk1VVZqbXNLRk5XWUtpa1RUdzZqQkpjVzVaRktNMlMxZk1WVEotT2xPYjJrOVZGaG9sWmh1enQ3cWxNTjFrZ3JaRmxVZU41b29TVVJEa2lTTGFhNGNC?oc=5
+  Evidence: Telstra pays $3 million penalty for Triple Zero outage ACMA
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Litany of failures 'not of this magnitude before' and still under investigation caused triple-0 outage, Telstra CEO says - Australian Broadcasting Corporation | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWdiX1hicVcxS1Q1UzJyUnZQa1VzaGswMVBJWExUSlNpXzZIT1B5di1SUjcxcHZzYWR5S0dUbjRnMkhCc0REZXV4TWJqUGVXNms4bkF5VWRibGpsS2Z1Qkd6VkwwQ25aT0t1ekd6eUw4azZxSEtQcl9qQkpxUkxBWE5GYXhqbW4zOUdTcE1OU190SzE3Q2JObExzUHRhR1hqZU10d29pQldLZlVMYzhBQXQzdw?oc=5
+  Evidence: Litany of failures 'not of this magnitude before' and still under investigation caused triple-0 outage, Telstra CEO says Australian Broadcasting Corporation
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra penalised $1.5m for scam rule breaches - ACMA | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmJkWlplMWRKbnV4a0VMd2pyQnRENkNGM1AwLW5YVU5PcnlVQ182SHJSY3RrOGMzeEdra1NHdVduY2cxWXNWblRmaW5qeTdfQU4ySlVnZ1lzdUxPQXpTZF9UR1dRNzJkakUwTmZNMDY0T0VGdnFyNlJqTUQtek9xajQwdU5tSUU0?oc=5
+  Evidence: Telstra penalised $1.5m for scam rule breaches ACMA
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telstra pays $394,000 penalty for NBN migration failures - ACMA | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3d6VmpxNjBKaEI2VXk5Q3ZyYXRBQVpyUkFYUUtkclR0Wm9DajZGZG5TNGxtQ2JGQmpneUVNUHYxTV9QTExuRGRRMWhvc3NMeVNzT3ZOcF9qNmlkd3RQYTNHVTRaTUpxSWQ5c2ZycWFZcXo1MndnWGZmM3RNODVSdkpmTm9kMjU3LVpxYUJxa3FqMEtMemc?oc=5
+  Evidence: Telstra pays $394,000 penalty for NBN migration failures ACMA
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Starlink satellites posing cyber security and regulatory concerns - ARNnet | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXkzdVN0YnkwQnhhTlNOSExZSDRmdDIxbmQyMEF5R3NjbWItQ2NWVG9BeFNwWklGWThZWjE2R2x3UkVsaEZlWW4xaFlna3R4b204cVZNOWlwRXdkZ0tEWDNCTDVfWUJ1OEdyQ2dQREJvWnNjaER6QnQzNjY1dnl6dG5tODVibEtra3ZWZGdEZ05hbTdnZFlwX2VqVWx1bHNWZG9JcTltdm83ZkY5Ulh5NmRR?oc=5
+  Evidence: Starlink satellites posing cyber security and regulatory concerns ARNnet
+  Confidence: Low

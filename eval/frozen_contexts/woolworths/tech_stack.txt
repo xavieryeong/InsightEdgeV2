@@ -1,0 +1,87 @@
+Company: Woolworths
+Domain: woolworths.com.au
+Industry: Retail & Consumer Goods
+Country: Australia
+Agent: tech_stack
+Evidence items: 16
+============================================================
+
+[TECH] C# / .NET — WooliesX Recruitment GitHub Org | category=relevant_languages | source=github | url=https://github.com/wooliesx-recruitment/dotnet-api-techchallenge
+  Evidence: WooliesX's official recruitment GitHub org (wooliesx-recruitment) maintains a public repository named 'dotnet-api-techchallenge', directly indicating C#/.NET as a hiring and production language at WooliesX, the digital arm of Woolworths Group.
+  Repo: https://github.com/wooliesx-recruitment/dotnet-api-techchallenge
+  Confidence: High
+
+[TECH] C# / .NET — WooliesX Azure Functions Tech Challenge | category=relevant_languages | source=github | url=https://github.com/hilmij/WooliesX
+  Evidence: A publicly available WooliesX candidate tech challenge solution references C# and Azure Functions ('The function app implements both the routes as a workaround. C#, Azure Functions.'), confirming C# as a WooliesX engineering language.
+  Repo: https://github.com/hilmij/WooliesX
+  Confidence: Medium
+
+[TECH] C# / .NET — LeadIQ Tech Stack Listing | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Evidence: LeadIQ lists Woolworths Group's tech stack as including '.NET' alongside RxJS, GraphQL, Auth0, iOS, and Azure Defender — directly attributing .NET to Woolworths Group.
+  Repo: https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Confidence: Medium
+
+[TECH] TypeScript — WooliesX GitHub Developer Profile | category=relevant_languages | source=github | url=https://github.com/wooliesx-apirillo
+  Evidence: A WooliesX-affiliated GitHub profile (wooliesx-apirillo) has forked adobe/aem-spa-page-model-manager, a TypeScript project, with TypeScript listed as the primary language on their public activity, indicating TypeScript use within the WooliesX engineering org.
+  Repo: https://github.com/wooliesx-apirillo
+  Confidence: Medium
+
+[TECH] TypeScript — WooliesX Developer (LeadIQ / RxJS) | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Evidence: LeadIQ lists RxJS (a TypeScript/JavaScript reactive library) as part of Woolworths Group's tech stack, corroborating front-end TypeScript/JavaScript use.
+  Repo: https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Confidence: Medium
+
+[TECH] Python — WooliesX Senior Software Engineer | category=relevant_languages | source=claude_web_search_result | url=https://www.linkedin.com/in/laurence-smith-727553143/
+  Evidence: A WooliesX Senior Software Engineer LinkedIn profile lists Python (Flask/SQLAlchemy), Docker, distributed systems, and C#/VB.NET as their active stack at WooliesX, corroborating Python as an engineering language used internally.
+  Repo: https://www.linkedin.com/in/laurence-smith-727553143/
+  Confidence: Low
+
+[TECH] JavaScript (Node.js) — WooliesX Tech Challenges | category=relevant_languages | source=github | url=https://github.com/rayvafa/wooliesx-tech-challenge
+  Evidence: WooliesX tech challenge repositories and candidate submissions reference JavaScript/Node.js (npm, swagger), indicating JavaScript as a language used in WooliesX engineering evaluation criteria.
+  Repo: https://github.com/rayvafa/wooliesx-tech-challenge
+  Confidence: Low
+
+[TECH] CI/CD Pipelines — Woolworths Group (via NZ / shared platform) | category=ci_cd_maturity | source=developer_docs | url=https://cloud.google.com/customers/woolworths-new-zealand
+  Evidence: A Google Cloud case study on Woolworths New Zealand explicitly states that 'the developer services team included specific automation, CI/CD, observability and golden paths in the final product', and notes collaboration with Woolworths Group Australia on networking, cloud, and hosting — indicating shared CI/CD platform practices at the Group level.
+  Repo: https://cloud.google.com/customers/woolworths-new-zealand
+  Confidence: Low
+
+[TECH] Microsoft Azure — SAP ERP Migration | category=cloud_native_presence | source=engineering_blog | url=https://news.microsoft.com/en-au/features/woolworths-completes-large-scale-sap-cloud-transformation-improving-efficiency-flexibility-and-speed-to-market/
+  Evidence: Microsoft's official case study confirms Woolworths Group migrated mission-critical SAP ERP (20 applications, 75TB of data, 135 database servers, 435 application servers) to Microsoft Azure, described as one of the largest SAP cloud migrations in the Asia-Pacific region.
+  Repo: https://news.microsoft.com/en-au/features/woolworths-completes-large-scale-sap-cloud-transformation-improving-efficiency-flexibility-and-speed-to-market/
+  Confidence: High
+
+[TECH] Microsoft Azure — Azure Defender / Cloud Security | category=cloud_native_presence | source=tech_listing | url=https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Evidence: LeadIQ lists 'Azure Defender' in Woolworths Group's technology stack, confirming active Azure cloud security tooling use alongside broader Azure platform adoption.
+  Repo: https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Confidence: Medium
+
+[TECH] Google Cloud Platform — 5-Year Strategic Partnership | category=cloud_native_presence | source=engineering_blog | url=https://www.woolworthsgroup.com.au/au/en/our-newsroom/latest-news/2025/woolworths-group-and-google-cloud-extend-partnership.html
+  Evidence: Woolworths Group's official newsroom confirms a new five-year strategic agreement with Google Cloud (announced April 2025), building on a partnership since 2017, with 90% of company-wide data onboarded to Google Cloud and Google Cloud named Technology Partner of the Year.
+  Repo: https://www.woolworthsgroup.com.au/au/en/our-newsroom/latest-news/2025/woolworths-group-and-google-cloud-extend-partnership.html
+  Confidence: High
+
+[TECH] Google Cloud — MILKRUN eCommerce App (composable, cloud-native) | category=cloud_native_presence | source=claude_web_search_result | url=https://commercetools.com/customer-stories/woolworths
+  Evidence: A commercetools case study confirms Woolworths built its MILKRUN on-demand grocery app using Google Cloud (via Google Cloud Marketplace), with iOS and Android channels, describing a 'scalable and robust cloud-native infrastructure' supporting composable commerce architecture.
+  Repo: https://commercetools.com/customer-stories/woolworths
+  Confidence: High
+
+[TECH] Google Cloud — Agentic AI / Gemini for Digital Assistant Olive | category=cloud_native_presence | source=claude_web_search_result | url=https://www.computerweekly.com/news/366636923/Woolworths-to-power-Olive-digital-assistant-with-agentic-AI
+  Evidence: Woolworths Group is the first Australian retailer to adopt Google Cloud's Gemini Enterprise for Customer Experience, powering their AI digital assistant Olive — confirming deep, active GCP cloud-native usage in production as of early 2026.
+  Repo: https://www.computerweekly.com/news/366636923/Woolworths-to-power-Olive-digital-assistant-with-agentic-AI
+  Confidence: High
+
+[TECH] Azure Defender — Cloud Security Tooling | category=security_tooling_signal | source=tech_listing | url=https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Evidence: LeadIQ lists Azure Defender as part of Woolworths Group's confirmed technology stack, indicating investment in cloud-native security tooling. No SonarQube, SonarCloud, Snyk, Checkmarx, or Semgrep were found in public sources.
+  Repo: https://leadiq.com/c/woolworths-group/5a1d9590230000520084412a
+  Confidence: Low
+
+[TECH] WooliesX GitHub Org and Developer Profiles — Active Engineering Culture | category=engineering_visibility | source=github | url=https://github.com/wooliesx-recruitment
+  Evidence: Multiple WooliesX-affiliated GitHub accounts are publicly visible (wooliesx-recruitment org, wooliesx-apirillo, Charles-Wang-WooliesX, matt-clarke-wooliesx, felix-wooliesx, sean-wooliesx, jithesh-wooliesx), confirming an active engineering culture using GitHub as the corporate SCM platform.
+  Repo: https://github.com/wooliesx-recruitment
+  Confidence: High
+
+[TECH] Innersource and Open-Source Culture — iTnews Engineering Report | category=engineering_visibility | source=claude_web_search_result | url=https://www.itnews.com.au/news/woolworths-looks-to-mobilise-software-engineers-between-projects-business-areas-563836
+  Evidence: iTnews reports that Woolworths is undergoing a developer culture transformation 'with a lean towards open source and innersource', and that 'Woolworths indicated its corporate support for tools like GitHub made it easier to attract talent', directly confirming GitHub as the engineering platform.
+  Repo: https://www.itnews.com.au/news/woolworths-looks-to-mobilise-software-engineers-between-projects-business-areas-563836
+  Confidence: High

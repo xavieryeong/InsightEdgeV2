@@ -1,0 +1,47 @@
+Company: Telstra
+Domain: telstra.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 7
+============================================================
+
+[HIRING] type=security_compliance | value=Cyber Security Engineer | source=linkedin | url=https://au.linkedin.com/jobs/telstra-cyber-security-jobs
+  Title: Cyber Security Engineer – Telstra (Canberra)
+  Evidence: LinkedIn lists a 'Cyber Security Engineer' role at Telstra in Canberra, Australian Capital Territory, posted 1 day ago (as of search date ~2026-06-03), flagged 'Be an early applicant'.
+  Date posted: 2026-06-02
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Senior Cyber Security Engineer | source=linkedin | url=https://au.linkedin.com/jobs/telstra-cyber-security-jobs
+  Title: Senior Cyber Security Engineer – Telstra (Canberra)
+  Evidence: LinkedIn lists a 'Senior Cyber Security Engineer' role at Telstra in Canberra, ACT, posted 1 day ago (as of search date ~2026-06-03), flagged 'Be an early applicant'.
+  Date posted: 2026-06-02
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Senior Security Engineer | source=linkedin | url=https://au.linkedin.com/jobs/telstra-jobs
+  Title: Senior Security Engineer – Telstra (Melbourne)
+  Evidence: LinkedIn's Telstra jobs aggregation lists 'Senior Security Engineer' in Melbourne, Victoria, posted 'Be an early applicant 1 week ago', confirmed as Telstra hiring.
+  Date posted: 2026-05-27
+  Confidence: Medium
+
+[HIRING] type=devsecops_appsec | value=Security Engineer – Telco Edge and Cloud Security | source=linkedin | url=https://au.linkedin.com/jobs/telstra-jobs-greater-sydney-area
+  Title: Security Engineer – Telco Edge and Cloud Security (Sydney, Actively Hiring)
+  Evidence: Telstra is actively hiring a Security Engineer for Telco Edge and Cloud Security in Sydney, listed as 'Actively Hiring 1 week ago'. The detailed JD references DevSecOps, CI/CD pipeline security, and cloud-native security — directly aligning with AppSec/DevSecOps practices.
+  Date posted: 2026-05-27
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer | source=linkedin | url=https://au.linkedin.com/jobs/telstra-jobs-greater-sydney-area
+  Title: Software Engineer – Telstra (Millers Point / Sydney)
+  Evidence: LinkedIn lists a Software Engineer role at Telstra in Millers Point, New South Wales, posted approximately 2 weeks ago, indicating continued software engineering headcount growth.
+  Date posted: 2026-05-20
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Security Engineer – DevSecOps and Cloud | source=ats_platform | url=https://au.linkedin.com/jobs/view/security-engineer-telco-edge-and-cloud-security-at-telstra-3716429910
+  Title: Security Engineer – Telco Edge and Cloud Security (DevSecOps focus)
+  Evidence: Full JD on LinkedIn for Telstra's Security Engineer – Telco Edge and Cloud Security requires 'ability to work with DevSecOps and Cloud Security teams on CI/CD and orchestration security for virtual and containerised network functions and applications', confirming active CI/CD pipeline security work.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=DevSecOps – Established Program (contextual evidence) | source=claude_web_search_result | url=https://business-of-infosec.com/articles/telstra-paypal-australia-myob-execs-champion-devsecops/
+  Title: Telstra Cyber Optimisation Principal champions DevSecOps + SAST/SCA
+  Evidence: Telstra's Cyber Optimisation Principal publicly stated the company uses 'automated static application security testing and software composition analysis tools' embedded in developer workflows, providing strong contextual evidence for an existing AppSec toolchain.
+  Confidence: High

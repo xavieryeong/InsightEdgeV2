@@ -1,0 +1,61 @@
+Company: Hexaware
+Domain: hexaware.com
+Industry: Technology & IT Services
+Country: India
+Agent: hiring_patterns
+Evidence items: 10
+============================================================
+
+[HIRING] type=devops_platform | value=DevOps Track Engineer | source=careers_page | url=https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Title: DevOps Track Engineer — Hexaware Careers (jobs.hexaware.com)
+  Evidence: Hexaware's own careers portal lists a DevOps Track Engineer role requiring CI/CD expertise. The job description explicitly lists SonarQube alongside Jenkins, Git, Terraform, and Kubernetes as required toolchain skills.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Track Sr. Engineer | source=careers_page | url=https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+  Title: DevOps Track Sr. Engineer — Hexaware Oracle HCM ATS (Posted 2026-06-05)
+  Evidence: Hexaware's official Oracle HCM ATS system lists a DevOps Track Sr. Engineer posted on 2026-06-05 in India, confirming active recent hiring for senior-level CI/CD and platform engineering talent. The role involves CI/CD toolchain maintenance, cloud infrastructure architecture, and security-aligned pipeline automation.
+  Date posted: 2026-06-05
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Site Reliability Engineering Lead | source=job_board | url=https://www.dice.com/jobs/q-hexaware+technologies+inc-jobs
+  Title: Site Reliability Engineering Lead — Hexaware Technologies, Fort Mill SC (Fulltime)
+  Evidence: Dice.com lists a Site Reliability Engineering Lead role explicitly as 'Fulltime with Hexaware Technologies' in Fort Mill, SC. The role involves owning SRE strategy, leading an SRE team, and driving reliability, automation, and scalability across the organization.
+  Confidence: Medium
+
+[HIRING] type=devsecops_appsec | value=Application Threat Modeling Program — Security Architecture Role | source=job_board | url=https://www.glassdoor.com/Job/hexaware-technologies-jobs-SRCH_IN1_KO0,21.htm
+  Title: Security Architecture / Application Threat Modeling Role — Hexaware Technologies (Glassdoor, May 2026)
+  Evidence: A role listed under Hexaware Technologies jobs on Glassdoor (May 2026 aggregation) calls for supporting the Security Architecture team to 'develop and mature an Application Threat Modeling Program by defining processes, procedures, controls, KRI's/KPI's.' Skills include cloud infrastructure, Node.js, and C#.
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Security Engineer with Windows (Vulnerability Management) | source=linkedin | url=https://www.linkedin.com/jobs/view/security-engineer-with-windows-at-hexaware-technologies-3803384333
+  Title: Security Engineer with Windows — Hexaware Technologies (LinkedIn, Actively Hiring ~2026-05-25)
+  Evidence: LinkedIn lists Hexaware Technologies as actively hiring a Security Engineer with a focus on Security Remediation and Vulnerability Management, with 10+ years required. Salary range provided by Hexaware Technologies ($130K–$140K). Marked 'Actively Hiring 2 weeks ago' on the global jobs feed.
+  Date posted: 2026-05-25
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Java Full Stack Engineer – Professional | source=careers_page | url=https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+  Title: Java Full Stack Engineer - Professional — Hexaware Oracle HCM ATS (Posted 2026-06-06)
+  Evidence: Hexaware's official Oracle HCM ATS shows a Java Full Stack Engineer - Professional posted on 2026-06-06 in Mexico. Also confirmed on Glassdoor (3 days ago) and Indeed with Hexaware branding. Skills include Java, React, Gen AI, Docker/Kubernetes, Terraform, and MQ/Apache stack.
+  Date posted: 2026-06-06
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Java Backend Developer / Java Software Engineer | source=linkedin | url=https://www.linkedin.com/jobs/hexaware-jobs
+  Title: Java Backend Developer & Java Software Engineer — Hexaware (LinkedIn, Actively Hiring)
+  Evidence: LinkedIn's Hexaware jobs page shows multiple active Java Software Engineer and Java Backend Developer postings in Plano, TX (actively hiring within 1–2 weeks), and Java Full Stack Developer postings in McLean, VA. Combined with 731 total Hexaware US jobs listed on LinkedIn.
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Cloud Application Architect | source=job_board | url=https://www.glassdoor.com/Jobs/Hexaware-Technologies-US-Jobs-EI_IE29098.0,21_IL.22,24_IN1.htm
+  Title: Cloud Application Architect — Hexaware Technologies (Glassdoor, ~2026-05-31)
+  Evidence: Glassdoor's Hexaware Technologies US jobs page lists a Cloud Application Architect role posted '8 days ago' (as of research date ~June 8, 2026), placing posting around May 31, 2026. Requires experience with AWS, Azure, secure deployment architectures, and microservices.
+  Date posted: 2026-05-31
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Server Infrastructure Engineer | source=job_board | url=https://www.glassdoor.com/job-listing/server-infrastructure-engineer-hexaware-technologies-JV_KO0,30_KE31,52.htm?jl=1010053762600
+  Title: Server Infrastructure Engineer — Hexaware Technologies (Glassdoor)
+  Evidence: Glassdoor explicitly identifies this as a Hexaware Technologies job, with responsibilities including hybrid on-premises/AWS infrastructure, vulnerability remediation, infrastructure hardening, and access controls. Listed as 30d+ on Glassdoor.
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=DevOps (Azure) — UK Hiring Spree | source=careers_page | url=https://hexaware.com/press-release/hexaware-announces-hiring-spree-plans-to-recruit-around-8000-employees-globally/
+  Title: Hexaware Global Hiring Spree — 8,000 Employees Including DevOps (Azure) and Java Full Stack
+  Evidence: Hexaware's official press release (hexaware.com) confirms a global hiring push of ~8,000 employees, including DevOps (Azure) professionals in the UK and Cloud Application Architects (Azure) and Java Full Stack Engineers in the US, Canada, and Mexico.
+  Confidence: Medium

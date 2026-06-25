@@ -1,0 +1,192 @@
+Company: Airtel
+Domain: airtel.in
+Industry: Telecommunications
+Country: India
+Agent: regulatory_impact
+Evidence items: 37
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices — effective April 1, 2024 — mandates VAPT of critical systems (VA every 6 months, PT annually), vulnerability management, and written vendor confirmation that application code is free of known vulnerabilities. Applies to Payments Banks including Airtel Payments Bank. | regulation=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (2024) | regulator=Reserve Bank of India (RBI)
+  Source: official_regulator_website | url=https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12562&Mode=0
+  Evidence: RBI/2023-24/107 — Master Direction on Information Technology Governance, Risk, Controls and Assurance Practices — addressed to Scheduled Commercial Banks, Small Finance Banks, Payments Banks, Non-Banking Financial Companies, Credit Information Companies, and All India Financial Institutions.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=RBI Master Direction effective April 1, 2024 enforces procedures around vulnerability testing on critical information systems, remote access to application systems, and data migration — directly applicable to Airtel Payments Bank. | regulation=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (2024) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://www.hewardmills.com/rbi-sets-new-it-governance-standards-for-banks-and-nbfcs-to-enhance-data-protection/
+  Evidence: The Information Technology Governance, Risk, Controls and Assurance Practice Directions, effective from April 1, 2024, will enforce procedures around data migration, remote access to companies' application systems, vulnerability testing on critical information systems.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=RBI 2024 Master Direction explicitly mandates VAPT frequency: vulnerability assessment at least every six months, penetration testing at least annually for critical/DMZ systems. Also mandates secure-by-design SDLC for PSOs and written vendor confirmation that application code is free of known vulnerabilities. | regulation=RBI Master Direction on IT Governance, Risk, Controls and Assurance Practices (2024) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://www.cybernx.com/vapt-requirements-in-the-rbi-it-governance-risk-guidelines/
+  Evidence: Vulnerability assessment: at least once every six months; penetration testing: at least once every 12 months (for critical/DMZ systems). Payment-security controls for PSOs: enforce secure-by-design SDLC. REs should obtain a written confirmation from the application developer or vendor stating that the application is free of known vulnerabilities.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=RBI Master Directions on Cyber Resilience and Digital Payment Security Controls (July 2024) apply to non-bank Payment System Operators and mandate security audits and VAPT before deployment or redeployment of services, plus a secure-by-design SDLC. Large PSOs must comply by April 1, 2025. | regulation=RBI Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank PSOs (2024) | regulator=Reserve Bank of India (RBI)
+  Source: public_news | url=https://www.cybernx.com/rbi-master-directions-guide/
+  Evidence: Security audits and VAPT must be carried out before deployment or redeployment of services. Payment-security controls for PSOs: enforce secure-by-design SDLC. Large PSOs by April 1, 2025; medium PSOs by April 1, 2026.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=Airtel Payments Bank publicly confirmed compliance with RBI's directive to migrate to the .bank.in domain as part of its cybersecurity obligations to enhance digital banking security (October 2025), demonstrating active engagement with RBI cybersecurity mandates. | regulation=RBI Cybersecurity Domain Migration Directive | regulator=Reserve Bank of India (RBI)
+  Source: company_website | url=https://www.airtel.in/bank/social/news/airtel-payments-bank-moves-to-a-new-domain-as-per-rbi-guidelines
+  Evidence: Following the Reserve Bank of India's (RBI) recent mandate, Airtel Payments Bank has transitioned to a new and more secure website domain. As per RBI's directive, all banks in India are to migrate to the '.bank.in' domain in a bid to enhance cybersecurity and protect customers from online fraud.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=DoT notified Telecommunications (Telecom Cyber Security) Rules, 2024 on November 21, 2024, directly applying to Airtel as a licensed telecom entity. Rules mandate a comprehensive cybersecurity policy including vulnerability assessments, penetration testing, network hardening, SOC establishment, and 6-hour incident reporting. | regulation=Telecommunications (Telecom Cyber Security) Rules, 2024 | regulator=Department of Telecommunications (DoT)
+  Source: official_regulator_website | url=https://eservices.dot.gov.in/cyber-security/
+  Evidence: The Telecom Cyber Security Rules, 2024 were notified on 21.11.2024 under sub-section (1) of section 22 of the Telecommunications Act, 2023. Every telecommunication entity shall implement measures to ensure telecom cyber security. The rules aim to strengthen the telecom cyber security framework of telecom networks and services in India.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=DoT Telecom Cyber Security Rules 2024 explicitly require telecom operators to conduct vulnerability assessments, penetration testing, and network hardening as part of a mandatory cybersecurity policy, and to establish Security Operations Centres. Airtel commented on the draft rules, confirming it is directly in scope. | regulation=Telecommunications (Telecom Cyber Security) Rules, 2024 | regulator=Department of Telecommunications (DoT)
+  Source: public_news | url=https://authbridge.com/blog/telecom-cyber-security-rules-2024/
+  Evidence: Telecom operators are required to establish a robust cyber security policy. This policy must focus on: Risk Management: Implementing measures to identify vulnerabilities and prevent potential risks. Network Testing: Conducting vulnerability assessments, penetration testing, and hardening of telecom networks. Telecom operators must establish Security Operations Centres (SOCs) to monitor and address cyber security threats.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=DoT amended the Telecom Cyber Security Rules on October 22, 2025, expanding scope to include Telecommunication Identifier User Entities (TIUEs). Airtel's payments and app-based services that use mobile number verification may be subject to these extended cybersecurity obligations. | regulation=Telecommunications (Telecom Cyber Security) Amendment Rules, 2025 | regulator=Department of Telecommunications (DoT)
+  Source: public_news | url=https://telecomtalk.info/dot-amends-telecom-cyber-security-rules-2024/1002065/
+  Evidence: The Department of Telecommunications has amended the telecom cyber security rules, 2024, on October 22, 2025. These amendments expand scope to include Telecommunication Identifier User Entities (TIUEs) and will ensure that Indian consumers and enterprises are safe and secure when it comes to cyber security.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=Airtel Africa's 2025 Sustainability Report (Airtel Africa is the parent group's Africa arm) confirms the group fully integrated a secure code review platform that identifies security flaws in application source code as developers write it, and expanded its security assurance team with a specialist for vulnerability management and application security (November 2024). This signals active investment in software-level security controls at the group level. | regulation=Internal security governance / group cybersecurity programme | regulator=N/A (company disclosure)
+  Source: company_website | url=http://cdn-webportal.airtelstream.net/website/investor/main/SR2025/reports/p025-data-security-15073.html
+  Evidence: In November 2024, we expanded our security assurance team with the addition of a specialist responsible for vulnerability management and application security. We fully integrated a secure code review platform, which identifies security flaws in application source code as developers write it.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=In July 2024, unverified reports claimed data of up to 375 million Airtel subscribers was listed for sale on the dark web. Airtel denied the breach, but the incident generated significant media and regulatory scrutiny, placing the company's application and data security posture under public examination. | regulation=N/A (security incident report) | regulator=N/A
+  Source: public_news | url=https://techcrunch.com/2024/07/05/indias-airtel-dismisses-data-breach-reports-amid-customer-concerns/
+  Evidence: India's Airtel dismisses data breach reports amid customer concerns. Airtel denied any breach of its systems following reports of an alleged security lapse.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=RBI Imposes ₹31.80 Lakh Penalty On Airtel Payments Bank For Non-Compliance With Disclosure Norms - LiveLawBiz | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzB2YzN1N0ZTSXpwaUdHdGY0S0NXZHVTWW1sMUc3eUpNM2VyV19VN3RBNHZUamxUSDZwU0sxb0xyMDVvYXlkN0lQejNPc0RraDJ4M0w5ZW82aXZLa2NtQWs5Wkl6enRRa29fZVV3V3EtX1I4N1dCVkp3LV9yZV9DM2NRZG15Z3lNZ3NQNWZzOFdIMnZ3TlBoQl8xVmhoM0dsc3NTNGZ3dWZWYjVVMXBUcmZHNXQ1eVpORzNNRHI0bmzSAcYBQVVfeXFMTkY4NzY1aUJUNm1MXzFNUGhfdHRxUWVUVW5xWFRvaXlWOHR0V0VMWEZsSkswT21tb3VXeDFZMm1waE9iLWVFSlRZQWVoTGpBdl9nS0FVeGN1WlBwdjlOVFpxbkVkZTlLOVlqbnFuYkFCdU1kcy1IamExc3o1NlRJM3B0T3BxWktTeHVUckczX3hIbEtZNlpfejl5WnhmMGI0M1ItVTJZbUVHNl9FcUFMbnYxM2lDNy1mc2s5OExJdmJycnBXazdR?oc=5
+  Evidence: RBI Imposes ₹31.80 Lakh Penalty On Airtel Payments Bank For Non-Compliance With Disclosure Norms LiveLawBiz
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=RBI imposes monetary penalty on Airtel Payments Bank - ETLegalWorld.com | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdEszX290S0h0ZkxtUEwwZkk2aGtpYy1GdmVZdzRNXzlieUZHQ2ptMWxjdllCLXJoanRJaWFURG5QNWt1UTdBX0V2OTJGdnl1aEo0akgtZ2NVZS1CaTdLUkpEazcyS1J2VGk5REpFcnlXUkliLW1VaDNvYnMyRXlETFdrYUZGc2ZLVUtpNjZqS1ZBN1Atc3MxNUdoSmx0Qzd3TWF5anlIaHlPWWJLVGUybGo3VFRYYWc1SG5OMGhiLVdPampOT0k5SFAyVEFGbFNPQ0FFdER3STFHSWtxeC1QYXNBT1ZBb3NYaEZCOUNSTHXSAfYBQVVfeXFMUFFiT244X1pkZlpxSmJnOE1HOWpaOGFzdWlIU2JWYVRtNFJkY0tZU2hXVmJhSnoyVnZpRERpb0pNQ3FTdXBxVlZUYVhGdng2R0xXNi03YU1iVWc5cjZGWkJLMTNvY0JQeDRzVXhqa3hMWVlNT0VKLW8xaVppR21rNU5OaXhiYzZWWXhlUGZkY3ByLURsNUE4b0pCSG1CdkpEU1h0QnpsTzR4Q2VnamF3TTk5Y0I1QlRJUzBBZUhpcHJBM0lIYzZ5YW9UOUJkUE8tMU90LS1iS2xiZnNtMmMtQmpVTl9JM0FFZGtObVliTHNrTXU0UjdR?oc=5
+  Evidence: RBI imposes monetary penalty on Airtel Payments Bank ETLegalWorld.com
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=RBI Imposes Penalty On Airtel Payments Bank - NDTV Profit | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTZxT3BVdHliNmlyOXdBY2MtWWdPZms3S2MyblRtbG5uU1ZtTmM2S19QWWs5RGZERl9samQ4cVgtM1hTeDByaXRBck5tajlyVXpWNmN2U3ZkVDcwWEw5a3c2V1h2R09IYmkzTHR1dE9xSU05anU0TV9tVzBiQUVRelgwRVNVZ2xMaDdFMzFwamNRUdIBmgFBVV95cUxOb0FpVEFubGt3SW51T3ZCOGlXdk9mOXh5cXJWZlk3NDNoVWVaTzhjNnhsckFfUDBOOTVtNmVKdWI4dEhyVHQ2NlVQdFFnOUdxS0JETDBRdE1udTBNVk1RaFVTUEtHTWlncG10cnMwWFhxcEdxLVJwQl9aRHhFOHlhQ1RFR0FRNk16LWUtX3d6NTRPSlQ3b3UtYzR3?oc=5
+  Evidence: RBI Imposes Penalty On Airtel Payments Bank NDTV Profit
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel Submits Declaration of Unmodified Audit Opinion on Q4 FY26 Financial Results - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYUFmVnpnUTJTWkNYenl1SWdsSWdSMGJJRWh2NDZXemJvR25GMXExV3JuQ3hOOGpsdHJld0M3YXVCMzJpVHhsYThNbGhjYUNxYUNwV201MHNNTTJQM0VPQXZVRk9lU1hRUy03VjU5WnFSeUNPVXYxbm1kR1Mya2dTamx5MFl2aTgwSVFOdWdabUE4Yng5LVNBN0NkMWpVVVpvdVNmRVV2STFQMG1kSHBNcFlBLTdIbUZlVkM0bGRiWE5heHVDVURoa0pjYm5USy1HLTlGWnpEeEpQNng0RGs1aA?oc=5
+  Evidence: Bharti Airtel Submits Declaration of Unmodified Audit Opinion on Q4 FY26 Financial Results scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Airtel Africa begins process to recruit new external auditor - Punch Newspapers | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXJZSklzSG5kWkx2OXcySGZmY2o5eHRPcEtpSXpTYUJzZVdwVGFKM2pINXZVdkNNVkwwVVVsWmxjNFYzdlNJelRxY01ybWFxUmR4NW9rV01aT2h2SFlpNlNUdlBLbnBhN2NpUkNtdHdkTWU3djBjakNvTERfNmRad3B4SDRmRzlR?oc=5
+  Evidence: Airtel Africa begins process to recruit new external auditor Punch Newspapers
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel pays Rs 1.57 lakh DoT penalty for verification norms - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDNCczBJczFZQUswVE5wYi1LcDI5U2l1dS1SekZGb0drR3JWbUFyd0xqS3A0SXlvSkEweW1BSmZSbVFVaUQ5a1hTcDVKRXBzZUdacm50RjRJQUpWQlFlaDc0ZVNrbi04aXB1MWUyVVQyNER6MU5jNUFTMWdFVTlhbElkRHFaVEY0QUhscXJXMFI3QUx4c3dOVTVIc0FWZERHTlNUcXN3UGFIZl8zZDExNTZTV01DcU90SmtwVWNKams?oc=5
+  Evidence: Bharti Airtel pays Rs 1.57 lakh DoT penalty for verification norms scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TRAI Imposes INR 51.10 Lakh Financial Disincentive on Bharti Airtel for Regulatory Non-Compliance - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUxhcWpQelhyb3llSmJmTEVtNEN6UFhjRjdnQ0k1QWd0Z3Z5cWwyMlluaDVqRzZFakhaNjB4OXN4NmFadzkxM3pXRlAwU0lrb2RITzNxRFNUMC1TS1g5V0djdWZ0Ym9JbUNNbWdwc2Z3TWlyTEtzRHc1QXo1TDIxNEJlZUphQ3lka3h5Z2JqT0RDSU96bTgtaWdhaURKS3BFeWh2R1dCNkphUUcxN0JROVJSYXphU3gzTzZqb1FibzkxLWMyTmpybnY1NkFMTXllTXJhV1BIVHg5cFhJTXRuTzhLWlF6VjVfM2c?oc=5
+  Evidence: TRAI Imposes INR 51.10 Lakh Financial Disincentive on Bharti Airtel for Regulatory Non-Compliance scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel pays Rs 2.09 lakh DoT penalty - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2Z0aWJXNEtjVHBSVmN4N0lTamdRVXNheXlBRVduZkRMZDlCdENGU3BiUklxNXRJdDl2NDJjQ2hVVHd1YUM0RElHWnVCaVNWTG84d0gtbjFEelZubDlra1lQaXI3OEx5MDZZYnVPeURqRUNIaTZkVW4xTGRJM3FtRE9sUWR4d3JWdGdnamFnTk5FSDhXRXJBMXMxV29JN1ROZXc?oc=5
+  Evidence: Bharti Airtel pays Rs 2.09 lakh DoT penalty scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel Receives ₹17.01 Lakh TRAI Penalty for Regulatory Non-Compliance - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQWhUOVl3QWYxd3E5NnhRWW1FSU9sWEtZN2RheW5qdDFLYm9STmpEVUFaZ21pZGN3NlVyQjY2eDNSenVSQU9OMVl3N012QWwzYlNUZnVIU3YwTkNUdE1DNVdVU3FyNTR1Q01uZXA1ZllXclp3YmpzRmg0cTNoTFZYbzZrZDJsaFVrQkx0bzhsSHZsbnQyT1Bjb3F2cklCdXZDYi01blkwTzNVMFRqbVlzX1o2X1V2Z3ZiYWZfSW9VQzg5NmlWM25WV2VlUVNYTm9GMnpaUEZvUDI5TFRfbFE?oc=5
+  Evidence: Bharti Airtel Receives ₹17.01 Lakh TRAI Penalty for Regulatory Non-Compliance scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel Receives Rs. 1,06,000 Penalty Notice from Department of Telecommunications for Subscriber Verification Violation - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMijwJBVV95cUxNSzZMa2RiZGlVbU1kWjhkWGpYa2ppaDFfVEdhVFVxY3NJYUp4Zm1MZ2NPUlhXS3NWQnNtT2FOekw5LWlMamdRUnEtX2VKOEhYYTdXU3FFT1JuMkVVUFB5MWpUclhEMXB0cXNXVG1vUDNCVTBhcU9oa3IxSDZ0dVVuUXM3b2o4NGhhTzBkbDM4b1pwel9ILTlqXzlqUjFya2pyenhVTXZtNUtCRzh3bVJNQk9YeHpCeEhoZWR6c2k1Q3hYWi02eFlReWpwaERiMVBrTzV3NmRmaUNHVmVnTHJ3OF9kNUVyeDJkc1ZSRjdhZE5zYXBFR3Q3dzZfNUhLTEtvRXJPWEtPZ1dvU0pObC1n?oc=5
+  Evidence: Bharti Airtel Receives Rs. 1,06,000 Penalty Notice from Department of Telecommunications for Subscriber Verification Violation scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel Appoints S.R. Batliboi & Associates LLP as Statutory Auditors - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUlVZnhTbkxHejFlRXczWmtacmVCRlFWWUhITzFodEJETUF6S2Zzb1BkZDhSOHZWM3h0SWhIVXJaTGNxdUhxZVU1R1FRY1RibmlvbXk0alEwVmJJZmI0X19NU3E0dmIwS3VsZ3FJdmxla0NwQ09ZMHZCZURYR0RudDdwakpNdWNzUE5lVDlXMmlDTC1TR25aejB5WkhxUER2R3VwRHMyZHE4N1pTWjZpUkhkRTZETk14SHNBRk1adFZ1T2hDS1RlaWc5V0szelpPcTIzQTRyM0g?oc=5
+  Evidence: Bharti Airtel Appoints S.R. Batliboi & Associates LLP as Statutory Auditors scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TRAI Imposes ₹21.07 Lakh Financial Penalty on Bharti Airtel for Quality of Service Non-Compliance - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdXBScXpIcGNGQUZhVmZOMVUyNW84VkRHUC1XeFI3YVFoWTVNNkZybW1IWVdrX1JYRGV2SEVHaHp1MFN0dEstaUZXeTZBdXB3Q3RCTGRRSHNJUHkzV2JNcFhKRTROUGlsajA5bVNIQ2lhbWxDRy1sSER1aFpkRzNIVUhzUFVkTkNPZExDcjhpUmtvQ3FMZFZqVkl6RjFtOHFfTUVjcU9tSldfNHhMcTlHQ0wzYWdzaWF2RXVJUUNiVlI2TjZMRUd6eEJoaDNqVUxfUjBhZUdzLVRfYW1YZU1aRThVclR0bjNu?oc=5
+  Evidence: TRAI Imposes ₹21.07 Lakh Financial Penalty on Bharti Airtel for Quality of Service Non-Compliance scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Airtel Payments Bank Appoints Amar Kumar as Chief Compliance Officer - Financial IT | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWd3QjNTMTlFREdCQlJiMVRpV3lXcTRxSXRQU2FTTHBQam1URVU1alJXOG9mOGp0MmhfNko1SThZUWJlQmM0X0Z4d1ZPRlZEa0tTRTNfazdja18zRk1zc181ZUU0aFZzVHFpT1Jwa19PQ1BHdTVQTFk5NFVzYXhIOUJwblZBVllhWTRnMU85dVMzRzU2N1VxMFJ5NFFaelFZYWFLVTk4VFNUZHc?oc=5
+  Evidence: Airtel Payments Bank Appoints Amar Kumar as Chief Compliance Officer Financial IT
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=DoT slaps ₹2.14 lakh fine on Airtel for subscriber norms violation - ET Telecom | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjhzWjByQ2hfczhvZjctYnMzaDQ0THREYUZxWFVyZzhyRVdBcUJ0V2hSM2xSOFhVdXduVHFVblE3RjdQUzh1RWswY3RPenFLRk5jb2JRc0RpdGxxeHZQalFFcWNzZ01oMVlNXzhPWloxRVoxVW84b3Y2Q1phRWxBNG1SbjlNdm4xbU0tcjd0aW40MkFPQmRwaWhCeE1wdndnX1N6VVFFUENWenNxWkp4TnBOVnQ?oc=5
+  Evidence: DoT slaps ₹2.14 lakh fine on Airtel for subscriber norms violation ET Telecom
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=PRESS RELEASE - Bank of Kigali Leads Rwanda in Card Security with PCI DSS Recertification - KT PRESS - | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1RFWTVwWkQwLXlGVmZjYlFFV0FKemVSMzBNZDVsSEJLZzFLWmVrWHJNallqbjBQdzFpR3kwVU5yQ3ZTaFhnNWZQT3BsMXlxLWgxOU5uTW1oOEhmckJtVElldkN1R0FicTBORU9tTUU4a2Z2cDlGZkZfWnNQRXI5a2lwUGNSU2tOcEc2NEp2TFpsbnBRZ1NUeHdwSkE5MFRRSWlyYXd6akFKaUZWYnR2dUJmTXFLXzg1UG5j?oc=5
+  Evidence: PRESS RELEASE - Bank of Kigali Leads Rwanda in Card Security with PCI DSS Recertification KT PRESS -
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Airtel, MTN Mobile Money Services Under Investigation for Misleading Customers - The Kenyan Wallstreet | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMingFBVV95cUxQM0NqeS12RDJfY2lvZHIxLS1BOGt1UzJfbXVQMUVlQkxCMGdsX0VSRG4tcjhiM3NVb2pKQzd2Y0FFWDVwWVRXY1FncnEtTHVkX3dRNTM3bEw0RnlpaW5Yc1pVUk5fOWNNbE4xa2NXLVZsM0xNU1QxSXZtSERrbklGUHJGS1lYWW0tS0lfdkxDOVduMVlmZlRrLW5LdDRhQQ?oc=5
+  Evidence: Airtel, MTN Mobile Money Services Under Investigation for Misleading Customers The Kenyan Wallstreet
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel to approach DoT for AGR dues settlement after Vodafone Idea - The New Indian Express | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkZ4azVoYWN4eUNfV2J2V0NVNm5ZV3RLX0hJdERCUktESWQ5OFVhQTVKRWhUNzRnUWJhYVBKSWdtbzJZMC1WU2Z3WjE0X1cydDdTVWYxaXh3Qm5BZkRCMXBqMm5NOGNUYWJmQmJJdEc3TXNUX1l2Q0pZQTRoVDJGdzdtQzU0QXhDR0N3VUtjZjd1MmRocllCRE1LZVRkcjNsTGNlYnNhYjlveElXWXVkam9WSVlLamVTVkJDRDRqdWRfUzBHUWfSAdMBQVVfeXFMTWlCZU9ZUUw3dDJfbmpiempRaGxTbC1rR3BZT1dDTFRoZGtaNVJiOWRrUEJEMVAySlNqX1FoQkxWWVhMOVZDa21TdWdhNGJxTF90VldRN2EzTHdWdXV0R2hVMUVMUEtNNDVTaXE4NnhVWndfQVQxQjlrRndSNlBBSnBlbmFRem1OSEdQYjRmSmJnaHUtMDFCRzlfR2Jqek9idGN3WW5EcVI1NTNOUFFWQ0dqQVBrZnFIUkt4b1BSRExzQnY1S25GTU9kdi12Y2UwNDFNQQ?oc=5
+  Evidence: Bharti Airtel to approach DoT for AGR dues settlement after Vodafone Idea The New Indian Express
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Airtel opts for out-of-court settlement, to pay Kenyan telecom regulator $17.5 million for expired licence - Business Insider Africa | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdW1UOWVEV3BoazZicXBwMjhZTU5uSFczenFhbHhSZ21leVdjX1IwUnItQ0RxYVFYMm5CZ19RZG5kX2UtM2kxR3JCRnVVZEdlZFBiTnUzalFESFY3YWpmbWdINWUxa092dG1DcmJwS0FlOUxrSzlPQ2FWZnVWcUlHdHd4WWtLczVTMlhjUUFta2hKdDJOaUZVVGU5RkZsdlBSRENNZ1pnOUlpTVJXdF9mdDVRdHhmUDBETDk4QjhMUVRkOUVVTjYzd2dCUGFmVWs5QVFOQ0xfYw?oc=5
+  Evidence: Airtel opts for out-of-court settlement, to pay Kenyan telecom regulator $17.5 million for expired licence Business Insider Africa
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=AGR dues: Bharti Airtel pays ₹3,004 crore as full and final settlement - The Hindu | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0tnSEFlOEdPMm82SC1UT3VwclNBRW8zRkJ2YVkwTVI2MkVFRVBWNW4xbEpQY3VfejY2aWs0M2ZWMEV6cndqazBlRkpmTU5rS1M1alFzSFZKOTRCNnpUNzBhckZTOENValRZNWU1VUI4MXFjZGxUU0ZRbElQSzRzYUswc2NMeXhHVXVyUE5nUjd1UVE0VC02blpKTTlnbDRZdkhicEVxa3RoTjkxRWJwMWE5T0hJc2kxbW1FRWx3SEJ1N002X21KVF9R0gHQAUFVX3lxTFBmVTR0cEhfdXRsVnJsbGdDYlJHb0xvVDVsTkRVdlllY0NZMW5pUEVERHladUtZTnVtX19zampVWXRBZ295Wkp3YV9YS1JpcUx1STMzZFRFMnhOV1ZBZ0RkdTJjV0VTNVUxUWRrUGxuUVhGWnUyR1VNdzhRYzJFWmxGTDE0anlnSndNSVJ2cm9xZ0lOcXh5cjRyemkwS0ZHNzc4NmlwQW1GdzZZdk1XZkxjR2VRQlFRaHZCdnBBa0YxdGE3cnE3dk45SklWNnVYOXo?oc=5
+  Evidence: AGR dues: Bharti Airtel pays ₹3,004 crore as full and final settlement The Hindu
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Beyond the Headlines: 5 Riveting Indian Police Series That Reveal the Human Face of Law Enforcement - Airtel | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDNCQlNvRTUwNG92cV8zWFJnTTFJYmVhcm0tYlA4akdSM2RZc3hrbTZrZGp0TG9scWxHNk9Lb0RLNDhrNlEyRDFXQUlCWjduOWpMQjRfM29VQzZBQ1EyRWx4dXE2V19ncWs3bXV5alQ1alBHUzZpUTQ3a3p2MW5XbUdvMGlRODhxNUVHT1VpOVBUR1RxcXdGOWtzSWFJLTB5aUhTcGtabC1XUldUdEZHWjZZLU5YeE5ob3hveGZjMXZnbFlIS2x1dkxB?oc=5
+  Evidence: Beyond the Headlines: 5 Riveting Indian Police Series That Reveal the Human Face of Law Enforcement Airtel
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=ZICTA Fines Airtel, Orders K5.2M in Compensation Over June Data Outage - TechAfrica News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTFOVGlvd1UwM3AzMTFFR2dFR2ZZT2xoQnlORUVidjZoUmlTb21ZUnJNSDRoeUsxVktsZkdXejF4SWVNTmRFanVud25uOVZvTUFLYmE1Yk5mS3htcEE4YTRwWlNWUTlsZWc2OGJYQTc2cEdOdk4xdGZGcENuN0g5cFJ6ZjdEYUdQa0otVUM0OURkbjJFMWJUWW05N0dGTTVkMUJVbm93Zjg2Zjk0?oc=5
+  Evidence: ZICTA Fines Airtel, Orders K5.2M in Compensation Over June Data Outage TechAfrica News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=COMESA competition commission commences investigations into ATC and Airtel Africa - Techpoint Africa | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMijAFBVV95cUxONWJEbHZvR09fNU9mWEwtTnVmWV9vSzk1ZTBMN2FTMDVqamZ4WWhzMHR6cjJsSkdwV1A5MUpCcVhtMml0X1NaVU8xVVBqNmxPME1SblJuYnFsbTVTelNuWkw1N0s2WHdkcE0yTjNleFliOXVuMXl0MkJPLUc0eDhMaURKODNWMDJ5TlphMQ?oc=5
+  Evidence: COMESA competition commission commences investigations into ATC and Airtel Africa Techpoint Africa
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Alton hails FCCPC for DEON enforcement suspension - MSN | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1hma0RwWmwwWDd1SDJCVE5XQl9kYnZKR3JJODd3QnZFQWx5UHdxeWdfalZGYURvUlZMR1REM0dEUTFmQXZhbC1fVGZwTGFYaldqTXZYM3BnVVhKd01KeGVfRWlyMXFPdU90aHhlLXpzSVIzdUE2Tkh1bXNzMDJsaXVaaWE3OHpSNDNmcC1iY2JNS3Q4NEF4WVBWZE5LZFJ5NDEyMA?oc=5
+  Evidence: Alton hails FCCPC for DEON enforcement suspension MSN
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Airtel Denies Data Breach Of 375 Million Users, Calls It "Desperate Attempt To Defame" - NDTV | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc21mRExVYW5CZnI2UTN0Q2VoYmN0ZmhBbzltd0NPOWxDUng2ZFR2NXhJclNRQ1d5TDhnRzFSMjVuV1F2MTMxLUhYdDd0ekprMnhOZWh2ZEZCNGhNRWhxbm9VVFJlaHQxVHRRMWNPczFMREpPMExDR3UzMjVpdW9fR2xUN3VHdHJ5UGRMbUd0TjNncXIxS3huX3hFVWlDN0tzZ0NFdTN6RkltUWFUYzVoTGRDMXlad05hUGIwazdfSVrSAcgBQVVfeXFMT0F1NXI5VmpYN2xjSEUyMHlyN2FIcGZqdW52QjJrSXNhRlc3Uk5SRUctTG42YkVsUTF1eUExWlF6dXRhczVaeHl6aWppS2xKdU9kR2pCZ245cXZyZGN4cXZrQm9tbTFFR3lQcHRpR0xzWnRGSXhhbElzRFEyNUNWR0dmT2xRcUkzQlBxRy1IeFJRbHJqa0wyMF9hZTZtRkM2MFVJT183YXBVandOLVQ4T2ZJVXl5bFEtOHhYRjJWOEpxV0pVTDhjYWw?oc=5
+  Evidence: Airtel Denies Data Breach Of 375 Million Users, Calls It "Desperate Attempt To Defame" NDTV
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Telecoms operators warn of regulatory conflicts in Digital Economy Bill - The Guardian Nigeria News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMisgFBVV95cUxNWm5lT1hjTVN6cjd2cjlVTzlnVEtvY1RxY3hBMlJ0eWl1T045MWxmUnQ1clJCRDFFMWE3RXlBcS1NU2wyb1dlc25fSlZ4Q0lRU3J1dTBQMWNwRV84ZElxMVc0azVQSkctRzdMV0V2T2ZPZ0sxWXNoaVBOT09Pbm5GMWpmaDBwa0hhOThZSWtqN0NkWUhFVWRMbzh3cTY2NnJGQTN3SEF2RUJQVnVwVFh6ZXZ3?oc=5
+  Evidence: Telecoms operators warn of regulatory conflicts in Digital Economy Bill The Guardian Nigeria News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Bharti Airtel Faces Rs 2.24 Lakh Penalty for Subscriber Verification Lapses - scanx.trade | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2N5UjBKbGpiN3I0Q3BSYXg0LXRpMm5XMlVIQ0hSQmR4emVYRUNpcksxTm04YUd6SDNfbVRtSWwtcWFCTnRUb21QbXZLOHllRjRFcUROSUJsZ3JRWER5bHdqVWd4S29xekRteC00UlpveGQwRFRHTnk1SXR0WURnVGt2aDh0cWV3TkVUQ1RrZ19oXzNZbFpMUE1oN3J1YU51QWw3LTRNZFJ3NzJRVWZpcTNTY2dPc296cXA2UFlLSjdnMHByZmxhZw?oc=5
+  Evidence: Bharti Airtel Faces Rs 2.24 Lakh Penalty for Subscriber Verification Lapses scanx.trade
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value='New telecom cybersecurity rules to increase compliance costs, may make mobile services costlier' - ET Telecom | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaUtnYWFUX2NIUWFSazBJbGRiZ25JYlNSOFpyR0tDZ3FQOHg3M1FNbHlqWUVrdG1Ma3Z1YUQxMnZ3T1lfWFF1bGZ3cGtxdThCb2YwS3RFblBrN2F4RUQ0Qi14aFZvM3dNTzFabUNzM0Y4UlQxSzlDWllSRHZXdVNkeG5fUThQdVNVMEMzRGFBZk84VlFQWnFzVVZldlI4WnB1VGtOd3l5QVN4NUxPWWp1S0wwTGtaNC1wVlpJRzNhM3JuVnhjUXVjS0VuMjV3aGwzYWhkY1pKOXdkbUxHRlFmMnNzUHNnZWlUVWJ0SjhvT0NZd3B3YUE?oc=5
+  Evidence: 'New telecom cybersecurity rules to increase compliance costs, may make mobile services costlier' ET Telecom
+  Confidence: Low

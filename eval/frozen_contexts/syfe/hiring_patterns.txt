@@ -1,0 +1,62 @@
+Company: Syfe
+Domain: syfe.com
+Industry: fintech
+Country: SG
+Agent: hiring_patterns
+Evidence items: 11
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Security Engineer (Mid-Senior) – SAST, DAST, OWASP, Source Code Review | source=careers_page | url=https://careers.syfe.com/jobs/k_pcdxOfSDa3/security-engineer
+  Title: Hiring for Security Engineer for Gurugram – Mid-Senior level
+  Evidence: Role explicitly requires 'Hands-on experience with SAST, DAST, and open-source vulnerability management tools' and 'Experience conducting application security reviews, API design, code reviews, root cause analysis, and system architecture' in collaboration with software development teams. Also requires improving security throughout SDLC.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Sr. Security Engineer – SDLC, Code Reviews, AWS Security, CI/CD | source=careers_page | url=https://careers.syfe.com/jobs/-AhcrhRH4B0v/sr-security-engineer
+  Title: Hiring for Sr. Security Engineer for Gurugram – Mid-Senior level
+  Evidence: Role requires 'Experience working in collaboration with product managers and software engineering teams to improve security throughout SDLC' and 'Experience conducting application security reviews, API design, code reviews, root cause analysis'. Tagged CI/CD, AWS, VULNERABILITY ASSESSMENT, PENETRATION TESTING.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Security Engineer (Associate) – OWASP, Source Code Review, Penetration Testing | source=careers_page | url=https://careers.syfe.com/jobs/f9-kAL-ke574/security-engineer
+  Title: Hiring for Security Engineer for Gurugram – Associate
+  Evidence: Role requires 'Experience conducting source code and architecture reviews in coordination with the Software Development team to identify vulnerabilities' and 'Strong understanding of OWASP Top 10'. Posted by Syfe with tags PENETRATION TESTING, OWASP, VULNERABILITY ASSESSMENT.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Software Engineer – DevOps (Gurugram, Associate) | source=careers_page | url=https://careers.syfe.com/jobs/ZAvsGnHfumsB/
+  Title: Hiring for Software Engineer – DevOps for Gurugram – Associate
+  Evidence: Syfe-posted role seeking engineer to 'lead infrastructure automation and reliability initiatives'. Requires 3+ years in DevOps/SRE/infrastructure, hands-on with Jenkins, Git, Docker, Kubernetes, Terraform, and AWS. Tagged DEVOPS, KUBERNETES, DOCKER, JENKINS, Terraform, AWS.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior DevOps Engineer (Gurugram, Mid-Senior) | source=ats_platform | url=https://syfe-talent.freshteam.com/jobs/iqFboXOK5qLj
+  Title: Hiring for Senior DevOps Engineer for Gurugram – Mid-Senior level
+  Evidence: Syfe-posted role requiring 6+ years in DevOps/SRE/platform engineering, expert in AWS, Kubernetes, and CI/CD pipelines. Role drives 'improvements across the software delivery lifecycle'. Tagged DEVOPS, CI/CD, KUBERNETES, Terraform, AWS.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Backend SDE I (Gurugram, Entry Level) | source=careers_page | url=https://careers.syfe.com/jobs/piQRw7r7wjSn/backend-sde-i
+  Title: Hiring for Backend SDE I for Gurugram – Entry level
+  Evidence: Syfe hiring Backend Engineers to 'develop and own state of the art products'. Engineering team is actively growing. Stack: Python, Java, Golang, Node.js, distributed systems. Tagged BACKEND, DISTRIBUTED SYSTEMS, python, java, GOLANG, NODE.JS.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Principal Engineer – Backend (Gurugram, Mid-Senior) | source=careers_page | url=https://careers.syfe.com/jobs/LxMhZ4ZcjNBO/principal-engineer-backend
+  Title: Hiring for Principal Engineer – Backend for Gurugram – Mid-Senior level
+  Evidence: Syfe hiring Principal Backend Engineer to 'develop and own state of the art products'. Tagged DISTRIBUTED SYSTEMS, ARCHITECTURE, SYSTEM DESIGN, MICROSERVICES. Indicates scaling backend engineering org.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Backend SDE II – confirmed on syfe.com/careers | source=careers_page | url=https://www.syfe.com/careers/sde---backend-sde-ii
+  Title: Backend (SDE II) – Syfe Careers
+  Evidence: Syfe's own domain (syfe.com/careers) lists a Backend SDE II role, confirming active software engineering growth at multiple seniority levels (SDE I, SDE II, Principal).
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud-native infrastructure requirement (AWS, Kubernetes, Terraform) across DevOps roles | source=careers_page | url=https://careers.syfe.com/jobs/ZAvsGnHfumsB/
+  Title: DevOps Engineer – AWS, Kubernetes, Terraform stack
+  Evidence: Both DevOps Engineer roles require 'Strong experience designing and managing cloud-native architectures (AWS preferred; Azure or GCP also valued)' and expertise in Kubernetes, Terraform, and cloud security best practices. Senior role requires AWS Certification.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Sr. Security Engineer – LinkedIn confirmation | source=linkedin | url=https://in.linkedin.com/jobs/view/sr-security-engineer-at-syfe-3329831312
+  Title: Syfe hiring Sr. Security Engineer in Gurugram, Haryana, India | LinkedIn
+  Evidence: LinkedIn lists Syfe hiring a Sr. Security Engineer in Gurugram, independently corroborating the careers.syfe.com posting. Responsibilities include VAPT, vulnerability management adhering to ISMS policy and regulatory compliance, and source code reviews.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Security Intern – DevSecOps / Secure SDLC awareness signal | source=linkedin | url=https://in.linkedin.com/jobs/view/security-intern-at-syfe-3361273590
+  Title: Syfe hiring Security Intern in Gurugram, Haryana, India | LinkedIn
+  Evidence: Syfe listed a Security Intern role on LinkedIn requiring 'Basic understanding of DevSecOps or Secure SDLC process', signalling that Syfe is building a security team pipeline with awareness of DevSecOps practices from the ground up.
+  Confidence: Medium

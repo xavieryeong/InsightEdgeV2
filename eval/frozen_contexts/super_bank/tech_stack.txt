@@ -1,0 +1,37 @@
+Company: PT Super Bank Indonesia
+Domain: superbank.id
+Industry: Banking
+Country: ID
+Agent: tech_stack
+Evidence items: 6
+============================================================
+
+[TECH] Fully cloud and microservices-based infrastructure | category=cloud_native_presence | source=developer_docs | url=https://www.superbank.id/en/hubungan-investor/proposisi-investasi
+  Evidence: Superbank's official investor relations page states: 'The technological infrastructure is fully cloud and microservices-based, supporting a rapid development and deployment cycle averaging eight deployments daily.' Approximately 50% of employees are dedicated to engineering, data science, and product management.
+  Repo: https://www.superbank.id/en/hubungan-investor/proposisi-investasi
+  Confidence: High
+
+[TECH] Active software engineering culture and mobile apps (iOS + Android) | category=engineering_visibility | source=developer_docs | url=https://play.google.com/store/apps/details?id=id.co.bankfama.android
+  Evidence: PT Super Bank Indonesia is the developer of the Superbank Android and iOS mobile banking apps, available on Google Play and the Apple App Store, demonstrating an active in-house mobile development capability.
+  Repo: https://play.google.com/store/apps/details?id=id.co.bankfama.android
+  Confidence: High
+
+[TECH] Golang and JavaScript (backend engineering at Superbank) | category=relevant_languages | source=claude_web_search_result | url=https://www.linkedin.com/in/suryanto-djong-hrs/
+  Evidence: A LinkedIn profile for a Backend Engineer at Superbank lists the tech stack as: 'Golang, Javascript, Postgres, Redis, NSQ, gRPC, Git' for affiliate marketing and backend work at Superbank.
+  Repo: https://www.linkedin.com/in/suryanto-djong-hrs/
+  Confidence: Medium
+
+[TECH] Azure (engineer-level migration reference at Superbank) | category=cloud_native_presence | source=claude_web_search_result | url=https://www.zoominfo.com/p/Andre-Ramadhani/2482701770
+  Evidence: A ZoomInfo profile of a Software Engineer (Backend) at Superbank (email domain superbank.id) references migrating tech stacks to Azure and using Kafka for background jobs.
+  Repo: https://www.zoominfo.com/p/Andre-Ramadhani/2482701770
+  Confidence: Low
+
+[TECH] CTO with Grab engineering background; active engineering hiring | category=engineering_visibility | source=developer_docs | url=https://www.superbank.id/en/tentang-kami/manajemen-dewan-komisaris
+  Evidence: Superbank's CTO Ditesh was one of the early technology leaders at Grab, leading payments, lending, and rewards technology teams. Superbank is actively hiring Engineering Managers, Software Engineers, and QA roles, confirming active in-house software development.
+  Repo: https://www.superbank.id/en/tentang-kami/manajemen-dewan-komisaris
+  Confidence: High
+
+[TECH] AI and Tech-First DNA with ~50% engineering headcount | category=engineering_visibility | source=developer_docs | url=https://www.superbank.id/en/hubungan-investor/proposisi-investasi
+  Evidence: Superbank's investor proposition page describes 'a strong AI and Tech-First DNA' and states approximately 50% of employees are dedicated to engineering, data science, and product management.
+  Repo: https://www.superbank.id/en/hubungan-investor/proposisi-investasi
+  Confidence: High

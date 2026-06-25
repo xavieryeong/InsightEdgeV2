@@ -1,0 +1,53 @@
+Company: Security Bank Corporation
+Domain: securitybank.com
+Industry: Banking
+Country: PH
+Agent: hiring_patterns
+Evidence items: 9
+============================================================
+
+[HIRING] type=security_compliance | value=IT Security Analyst (DevSecOps / API Security) | source=careers_page | url=https://www.securitybank.com/career/it-security-analyst/
+  Title: IT - Security Analyst | Security Bank Philippines
+  Evidence: Role explicitly states the analyst will support the organization's 'DevSecOps practice, particularly with Agile DevOps pipelines,' and involves API security, code reviews, and advising development teams — on the official securitybank.com domain. Page crawl date is March 2023; role may still be active as the careers page is continuously updated.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer (AWS) | source=careers_page | url=https://www.securitybank.com/career/devops-engineer-2/
+  Title: DevOps Engineer | Security Bank Philippines
+  Evidence: Confirmed Security Bank Philippines careers page lists a DevOps Engineer role requiring minimum 5 years experience in banking systems and AWS cloud solutions, with responsibilities covering UAT/production environment management, automation, and cloud-based initiative education. Page date July 2023; posting may still be active.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=DevOps Cloud Manager (AWS) | source=careers_page | url=https://www.securitybank.com/career/devops-cloud-manager/
+  Title: DevOps Cloud Manager | Security Bank Philippines
+  Evidence: Security Bank careers page lists a DevOps Cloud Manager responsible for 'overall management, stability and optimization of existing Cloud environments, preferably AWS,' including cloud prod/dev issues and project delivery. Confirmed on company domain; page date November 2022.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=IT Developer (Java/.NET) | source=ats_platform | url=https://boards.greenhouse.io/securitybankbettercareers/jobs/3059936
+  Title: Job Application for IT - Developer (Java/.NET) at Security Bank Careers
+  Evidence: Greenhouse ATS board clearly labeled 'Security Bank Careers' lists an IT Developer (Java/.NET) role requiring SDLC knowledge, software quality assurance, and programming in RPG/.Net/Java. Company is explicitly named in the page title and URL slug.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=IT Security Engineer | source=careers_page | url=https://www.securitybank.com/career/it-security-engineer/
+  Title: IT SECURITY ENGINEER | Security Bank Philippines
+  Evidence: Security Bank Philippines careers page confirms an IT Security Engineer role responsible for supporting SBF's information security group in keeping IT assets secured, involving risk assessment and security implementation. Confirmed on company domain; page date November 2022.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=IT Security Developer (Secure Coding / Java APIs) | source=careers_page | url=https://www.securitybank.com/career/it-security-developer/
+  Title: IT Security Developer | Security Bank Philippines
+  Evidence: Security Bank careers page lists an IT Security Developer role requiring 'at least 3 years of relevant experience in secure coding, testing, measuring, remediating, or developing the security of APIs and/or interfaces written in Java.' Confirmed on official company domain; page date March 2023.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud Solutions Architect | source=careers_page | url=https://www.securitybank.com/career/solutions-architect-sb-finance/
+  Title: Cloud Solutions Architect | Security Bank Philippines
+  Evidence: Security Bank Philippines careers page confirms a Cloud Solutions Architect role at SB Finance (subsidiary). Confirmed on official company domain; page date March 2023.
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Test Automation Senior Engineer (CI/CD, Jenkins, Docker) | source=careers_page | url=https://www.securitybank.com/career/test-automation-senior-engineer/
+  Title: Test Senior Automation Engineer | Security Bank Philippines
+  Evidence: Security Bank careers page lists a Test Automation Senior Engineer requiring knowledge of 'CI/CD tools and processes i.e. Jenkins and Git' and proficiency with Docker and Git version control — confirmed on company domain. Indicates active CI/CD pipeline investment. Page date January 2023.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Contextual: Cloud-Native Microservices Payments Platform Deployed (May 2026) | source=claude_web_search_result | url=https://ffnews.com/newsarticle/paytech/aci-worldwide-and-security-bank-philippines-set-new-benchmark-for-enterprise-wide-payments-modernization/
+  Title: ACI Worldwide and Security Bank Philippines win Best Payment Technology Initiative Asia-Pacific 2026
+  Evidence: Security Bank Corporation won a 2026 global fintech award for deploying a 'modern, microservices-based architecture' in a 'cloud-native environment' for enterprise-wide payments processing. This is a strong contextual signal of active software engineering complexity requiring quality and security tooling — but is not a job posting.
+  Date posted: 2026-05-15
+  Confidence: High

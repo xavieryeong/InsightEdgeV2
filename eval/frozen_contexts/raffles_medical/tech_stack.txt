@@ -1,0 +1,52 @@
+Company: Raffles Medical Group
+Domain: singapore-health-insurance.com
+Industry: healthcare
+Country: SG
+Agent: tech_stack
+Evidence items: 9
+============================================================
+
+[TECH] Node.js (JavaScript) | category=relevant_languages | source=tech_listing | url=https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Evidence: 6sense lists Node.js as one of the top technologies used by Raffles Medical Group, alongside VB.NET and Algolia, across 116 technologies tracked in 18 categories.
+  Repo: https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Confidence: Medium
+
+[TECH] VB.NET | category=relevant_languages | source=tech_listing | url=https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Evidence: 6sense explicitly names VB.NET as one of the top technologies used by Raffles Medical Group. ASP.NET is also listed as part of the stack.
+  Repo: https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Confidence: Medium
+
+[TECH] ASP.NET (C#) | category=relevant_languages | source=tech_listing | url=https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Evidence: 6sense lists ASP.NET as part of Raffles Medical Group's technology stack, consistent with the VB.NET and Microsoft platform signals observed.
+  Repo: https://6sense.com/company/raffles-medical-group/5c3b05a6d55ae49f1b7df7ea
+  Confidence: Medium
+
+[TECH] C++ | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/raffles-medical-group/5a1d8aca24000024006505b4
+  Evidence: LeadIQ lists C++ among the 8 technology products and services used by Raffles Medical Group, alongside Module Federation and Facebook Pixel.
+  Repo: https://leadiq.com/c/raffles-medical-group/5a1d8aca24000024006505b4
+  Confidence: Low
+
+[TECH] Microsoft Azure | category=cloud_native_presence | source=tech_listing | url=https://www.appsruntheworld.com/customers-database/customers/view/raffles-medical-group-singapore
+  Evidence: AppsRunTheWorld identifies Raffles Medical Group as having purchased Microsoft Azure Cloud Services for Application Hosting and Computing Services in 2019, corroborated by their broader cloud and AI investment narrative.
+  Repo: https://www.appsruntheworld.com/customers-database/customers/view/raffles-medical-group-singapore
+  Confidence: Medium
+
+[TECH] AWS | category=cloud_native_presence | source=claude_web_search_result | url=https://www.smartosc.com/credentials/raffles-connect/
+  Evidence: SmartOSC's case study for 'Raffles Connect' — a platform launched in partnership with Raffles Medical Group via CareHealth — references use of an AWS multi-account environment for security. Attribution is to CareHealth, not directly to RMG.
+  Repo: https://www.smartosc.com/credentials/raffles-connect/
+  Confidence: Low
+
+[TECH] In-house EMR Development Team | category=engineering_visibility | source=claude_web_search_result | url=https://www.zoominfo.com/p/Vishalsingh-Randhay/2488613255
+  Evidence: A ZoomInfo profile for an RMG Deputy Manager confirms in-house development of the Raffles Electronic Medical Record (EMR) system, used by 1,500 medical staff across 120 clinics and built by an internal team of developers.
+  Repo: https://www.zoominfo.com/p/Vishalsingh-Randhay/2488613255
+  Confidence: Medium
+
+[TECH] CTO + 42-person IT Department | category=engineering_visibility | source=claude_web_search_result | url=https://rocketreach.co/raffles-medical-group-it-department_b5c6a944f42e0cec
+  Evidence: RocketReach lists Raffles Medical Group's IT department as having 42 employees, led by Chief Technology Officer Terence Foo, indicating a structured internal engineering function.
+  Repo: https://rocketreach.co/raffles-medical-group-it-department_b5c6a944f42e0cec
+  Confidence: Medium
+
+[TECH] Raffles Connect Digital Platform (DevSecOps engagement) | category=engineering_visibility | source=claude_web_search_result | url=https://www.smartosc.com/credentials/raffles-connect/
+  Evidence: SmartOSC's published case study documents a DevSecOps engagement for Raffles Connect, a platform in strategic partnership with Raffles Medical Group, including automation testing, ISO/IEC 27001 certification, and feature development by an augmented engineering team.
+  Repo: https://www.smartosc.com/credentials/raffles-connect/
+  Confidence: Low

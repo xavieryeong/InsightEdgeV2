@@ -1,0 +1,42 @@
+Company: Bank Indonesia
+Domain: bi.go.id
+Industry: Financial Services
+Country: Indonesia
+Agent: regulatory_impact
+Evidence items: 7
+============================================================
+
+[REGULATORY] type=general_regulatory_mention | value=ICDX compliance with Bank Indonesia's new PUVA derivatives regulation (2025) | regulation=Bank Indonesia PUVA Derivatives Regulation | regulator=Bank Indonesia
+  Source: public_news | url=https://www.bi.go.id/en/publikasi/peraturan/Pages/PBI_022024.aspx
+  Evidence: ICDX vows compliance with Bank Indonesia's new PUVA derivatives regulation, confirming Bank Indonesia's active role in issuing and enforcing new financial regulations in 2025. While this specific regulation relates to derivatives, it demonstrates Bank Indonesia's ongoing regulatory activity and the compliance obligations it creates for market participants — including its own operational systems.
+  Confidence: Medium
+
+[REGULATORY] type=regional_regulator_relevance | value=Bank Indonesia payment system technology regulation and cybersecurity governance framework | regulation=Bank Indonesia Technology Risk Management / Payment System Cybersecurity | regulator=Bank Indonesia
+  Source: official_regulator_website | url=https://www.bi.go.id/en/publikasi/peraturan/Pages/PBI_022024.aspx
+  Evidence: Bank Indonesia publishes and enforces technology risk management and cybersecurity requirements for payment system operators via its regulatory framework (PBI/PADG regulations). As the central bank, Bank Indonesia is both the issuer of these requirements and an entity that must comply with equivalent international standards for its own IT operations and payment infrastructure. The BI website contains published regulations on information technology risk and cybersecurity for the financial sector.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=Bank Indonesia payment system overhaul and digital payment regulations — ongoing through 2024-2025 | regulation=Bank Indonesia Blueprint for Payment System 2025 / PBI Payment System Technology | regulator=Bank Indonesia
+  Source: public_news | url=https://globalcompliancenews.com/2021/02/03/indonesia-digital-stargazing-through-2021-bank-indonesia-overhauls-payment-system-regulations/
+  Evidence: Bank Indonesia has been systematically overhauling its payment system regulations, including technology risk, cybersecurity, and secure software requirements for payment infrastructure. The payment system regulatory framework (Blueprint for Payment System 2025) mandates technology governance and security standards for all payment system operators, including Bank Indonesia's own systems such as BI-FAST and RTGS. These requirements are ongoing and active through 2025.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=ISO 27001 information security management — applicable to Bank Indonesia's IT operations and software development | regulation=ISO 27001 | regulator=ISO / Bank Indonesia internal governance
+  Source: industry_mapping | url=
+  Evidence: Central banks operating national payment infrastructure are expected to maintain ISO 27001-aligned information security management systems. Bank Indonesia's role as operator of BI-FAST, RTGS, and national payment infrastructure makes ISO 27001 controls (including Annex A.14 on secure software development) directly applicable to its internal software engineering and IT operations. No specific public certification announcement for 2024-2025 was found; this is assessed as an ongoing requirement based on industry standards and BI's own published IT governance frameworks.
+  Confidence: Low
+
+[REGULATORY] type=specific_regulation_applies | value=PCI DSS 4.0 Requirement 6.2 — bespoke software security for payment infrastructure | regulation=PCI DSS 4.0 | regulator=PCI Security Standards Council
+  Source: industry_mapping | url=
+  Evidence: Bank Indonesia operates national payment processing infrastructure including BI-FAST real-time retail payment system and RTGS high-value settlement system. As an entity that develops and operates payment processing software handling card and fund transfer data, PCI DSS 4.0 Requirement 6.2 (requiring that all bespoke and custom software be reviewed for security vulnerabilities) is applicable to Bank Indonesia's internal software development practices. This is an industry mapping assessment; no specific PCI DSS certification announcement from Bank Indonesia was found in 2024-2025 public sources.
+  Confidence: Low
+
+[REGULATORY] type=regional_regulator_relevance | value=Indonesia P2SK Law — financial technology supervision including technology risk and cybersecurity | regulation=P2SK Law (Indonesian Financial Sector Development and Strengthening Law) | regulator=OJK / Bank Indonesia
+  Source: public_news | url=https://www.globalcompliancenews.com/2022/12/22/https-insightplus-bakermckenzie-com-bm-banking-finance_1-indonesia-supervision-of-the-financial-technology-sector-under-the-p2sk-law_12212022/
+  Evidence: Indonesia's P2SK Law (Financial Sector Development and Strengthening Law, enacted 2022, with implementation regulations ongoing through 2024-2025) restructured the supervision of financial technology and digital financial services. The law includes provisions for technology risk management, cybersecurity, and IT governance for financial sector entities. Bank Indonesia's payment system operations align with the technology governance requirements under this framework, which are actively being implemented through 2024-2025.
+  Confidence: Medium
+
+[REGULATORY] type=regulated_industry | value=Bank Indonesia is Indonesia's central bank and national payment system regulator — operates in heavily regulated financial services sector | regulation=Central Bank Act / Payment System Law | regulator=Bank Indonesia (self-governing central bank)
+  Source: company_website | url=https://www.bi.go.id/en/default.aspx
+  Evidence: Bank Indonesia is the Republic of Indonesia's central bank, established under Law No. 23 of 1999. It operates national payment infrastructure (BI-FAST, BI-RTGS, SKNBI), manages monetary policy, and supervises the payment system. As a central bank and payment system operator, Bank Indonesia operates in one of the most heavily regulated sectors globally and must maintain the highest standards of IT security, software integrity, and operational resilience for its critical financial infrastructure.
+  Confidence: High

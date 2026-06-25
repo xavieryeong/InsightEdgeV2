@@ -1,0 +1,64 @@
+Company: EnergyAustralia
+Domain: energyaustralia.com.au
+Industry: Utilities & Energy
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 10
+============================================================
+
+[HIRING] type=security_compliance | value=Security Operations Manager | source=linkedin | url=https://au.linkedin.com/jobs/energyaustralia-jobs
+  Title: Security Operations Manager — EnergyAustralia, Melbourne
+  Evidence: EnergyAustralia posted a Security Operations Manager role (Melbourne, ~1 day ago on LinkedIn and visible on SEEK) described as: 'Strengthen EnergyAustralia's defence capability by leading investigation and response to complex security incidents across IT and OT environments.' Company explicitly named.
+  Date posted: 2026-06-02
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Test Engineer | source=linkedin | url=https://au.linkedin.com/jobs/energyaustralia-jobs
+  Title: DevOps Test Engineer — EnergyAustralia, Melbourne
+  Evidence: EnergyAustralia LinkedIn jobs page lists 'DevOps Test Engineer' in Melbourne, posted approximately 22 hours ago (~2026-06-02). Role is explicitly listed under EnergyAustralia's company page on LinkedIn.
+  Date posted: 2026-06-02
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=IT Solutions Architect | source=linkedin | url=https://au.linkedin.com/jobs/energyaustralia-jobs
+  Title: IT Solutions Architect — EnergyAustralia, Docklands VIC
+  Evidence: EnergyAustralia LinkedIn jobs page lists 'IT Solutions Architect' in Docklands, Victoria, posted approximately 17 hours ago (~2026-06-02). Clearly attributed to EnergyAustralia company page.
+  Date posted: 2026-06-02
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud Engineering (Greenfield) | source=job_board | url=https://www.seek.com.au/Energy-Australia-jobs/in-All-Melbourne-VIC
+  Title: Cloud Engineer (Greenfield) — EnergyAustralia Services Pty Ltd, Docklands Melbourne
+  Evidence: SEEK listing attributed to 'EnergyAustralia Services Pty Ltd' in Docklands, Melbourne (~22 days ago, ~2026-05-12) reads: 'Greenfield opportunity in the Cloud Engineering practice | Join an industry leading organisation | Permanent, Ongoing role.' Company name explicitly present in SEEK listing.
+  Date posted: 2026-05-12
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Configuration Management Practice Lead | source=job_board | url=https://au.seek.com/Energy-Australia-jobs/in-All-Melbourne-VIC
+  Title: Configuration Management Lead — EnergyAustralia, Melbourne
+  Evidence: SEEK and LinkedIn listings for EnergyAustralia show: 'Lead the design, delivery and continuous improvement of EnergyAustralia's Configuration Management practice' under Networks & Systems Administration / ICT. Company explicitly named in listing.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Graduate Data Engineer | source=linkedin | url=https://au.linkedin.com/jobs/energyaustralia-jobs
+  Title: Graduate Data Engineer — EnergyAustralia, Melbourne
+  Evidence: EnergyAustralia's LinkedIn jobs page lists 'Graduate Data Engineer' in Melbourne (~4 hours ago / 1 day ago, ~2026-06-02). A third-party job aggregator (datayoshi.com) confirms this role sits in EnergyAustralia's Data Office, with tech stack including AWS Cloud, Azure, Databricks and Redshift, and notes the company is 'currently executing a cloud migration.'
+  Date posted: 2026-06-02
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Data Engineer – Customer | source=job_board | url=https://www.seek.com.au/companies/energy-australia-432734/jobs
+  Title: Senior Data Engineer – Customer — EnergyAustralia, Melbourne
+  Evidence: SEEK company profile for EnergyAustralia (company ID 432734) lists 'Senior Data Engineer - Customer' in Melbourne VIC as a permanent role, posted 3 days ago (~2026-05-31). Described as a 'Senior Data Engineer opportunity within EnergyAustralia's Technology Data office.'
+  Date posted: 2026-05-31
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Security Incident Response (IT & OT) — corroborating SEEK signal | source=job_board | url=https://www.seek.com.au/Energy-Australia-jobs
+  Title: Security Operations / Incident Response — EnergyAustralia (SEEK listing)
+  Evidence: SEEK listings attributed to EnergyAustralia repeatedly surface: 'Strengthen EnergyAustralia's defence capability by leading investigation and response to complex security incidents across IT and OT environments.' This corroborates the LinkedIn Security Operations Manager signal and confirms OT security scope.
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Tech stack signal: AWS, Terraform, Docker, Python | source=claude_web_search_result | url=https://www.zoominfo.com/c/energyaustralia/77433334
+  Title: ZoomInfo: EnergyAustralia Engineering & Technical roles at 6-month high
+  Evidence: ZoomInfo (updated 3 days ago) states EnergyAustralia 'has more open roles in Engineering & Technical than it has had at any time in the past 6 months,' and lists technologies including Unix, HashiCorp Terraform, Python, Amazon EC2, Amazon AWS, and Docker — consistent with a cloud-native DevOps environment.
+  Date posted: 2026-06-01
+  Confidence: Medium
+
+[HIRING] type=devsecops_appsec | value=Cybersecurity pillar — careers page signal | source=careers_page | url=https://jobs.energyaustralia.com.au/
+  Title: EnergyAustralia Technology Team — Cybersecurity focus confirmed
+  Evidence: EnergyAustralia's official careers site (jobs.energyaustralia.com.au) describes its Technology team as: 'From cybersecurity to advanced analytics, we enable smarter, faster, and more connected ways of working.' This confirms cybersecurity as an explicit hiring domain, though no specific AppSec/DevSecOps title was confirmed within the 90-day window.
+  Confidence: Medium

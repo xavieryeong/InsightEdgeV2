@@ -1,0 +1,37 @@
+Company: OwnBank
+Domain: ownbank.com.ph
+Industry: Banking
+Country: PH
+Agent: tech_stack
+Evidence items: 6
+============================================================
+
+[TECH] OwnBank Mobile App (Android/iOS) | category=engineering_visibility | source=claude_web_search_result | url=https://bitpinas.com/fintech/ownbank-update/
+  Evidence: OwnBank's mobile application is available on Google Play, App Store, and App Gallery, with more than 500,000 downloads on Google Play Store as of late 2024. The platform is described as a neo-banking service with active digital product delivery.
+  Repo: https://bitpinas.com/fintech/ownbank-update/
+  Confidence: Medium
+
+[TECH] OwnBank IT Department / CTO | category=engineering_visibility | source=tech_listing | url=https://rocketreach.co/ownbank-it-department_b7edfa44c2ef6c97
+  Evidence: RocketReach lists OwnBank's IT department as led by Franco Nazareno (Chief Technology Officer) with approximately 5 IT employees, indicating a small but structured internal engineering function.
+  Repo: https://rocketreach.co/ownbank-it-department_b7edfa44c2ef6c97
+  Confidence: Low
+
+[TECH] JavaScript / HTML (website front-end only) | category=relevant_languages | source=tech_listing | url=https://rocketreach.co/ownbank-technology-stack_b7edfa44c2ef6c97
+  Evidence: RocketReach lists OwnBank as using 12 technologies including JavaScript, HTML, Nginx, and Cloudflare. These are inferred from web-crawl analysis of OwnBank's public website and reflect front-end/CDN tooling only — not backend application development languages.
+  Repo: https://rocketreach.co/ownbank-technology-stack_b7edfa44c2ef6c97
+  Confidence: Low
+
+[TECH] Cloudflare CDN / Cloudflare DNS | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/ownbank-technology-stack_b7edfa44c2ef6c97
+  Evidence: RocketReach lists Cloudflare, CloudFlare CDN, and Cloudflare DNS among OwnBank's detected technologies. This reflects web delivery infrastructure for the public-facing website and does not confirm backend cloud hosting (AWS, Azure, GCP) or application infrastructure.
+  Repo: https://rocketreach.co/ownbank-technology-stack_b7edfa44c2ef6c97
+  Confidence: Low
+
+[TECH] OwnBank Digital Banking Platform — Akulaku/Ant Financial-backed | category=engineering_visibility | source=claude_web_search_result | url=https://the-ken.com/story/how-digital-banks-are-cropping-up-in-the-philippines-despite-a-freeze-on-digital-bank-licences/
+  Evidence: OwnBank (formerly Rural Bank of Cavite) was acquired and rebranded by Indonesia-based Akulaku, backed by Alibaba affiliate Ant Financial, and relaunched as a digital bank in October 2023. The platform scaled from 1,500 to ~500,000 loan accounts, indicating significant active software product development.
+  Repo: https://the-ken.com/story/how-digital-banks-are-cropping-up-in-the-philippines-despite-a-freeze-on-digital-bank-licences/
+  Confidence: Medium
+
+[TECH] No company-owned GitHub org found | category=engineering_visibility | source=github | url=https://github.com
+  Evidence: A search for site:github.com 'OwnBank' returned only one result — a third-party developer's personal repository (thachln/lti-spring) containing a Java package namespace 'mks.ownbank'. This is not an OwnBank-owned repository and cannot be attributed to the company. No company-owned GitHub org was found.
+  Repo: https://github.com
+  Confidence: Low

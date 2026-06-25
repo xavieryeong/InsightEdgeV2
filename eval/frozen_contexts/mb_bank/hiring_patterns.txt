@@ -1,0 +1,44 @@
+Company: MB Bank
+Domain: mbbank.com.vn
+Industry: Financial Services
+Country: Vietnam
+Agent: hiring_patterns
+Evidence items: 7
+============================================================
+
+[HIRING] type=devsecops_appsec | value=DevSecOps Engineer — Phòng Công nghệ tự động hóa (Automation Technology Dept), Trung tâm Công nghệ nền tảng, Khối Công nghệ thông tin (HO26.96) | source=job_board | url=https://ub.com.vn/t/tuyen-dung-mb-bank-devsecops-engineer-phong-cong-nghe-tu-dong-hoa-trung-tam-cong-nghe-nen-tang-khoi-cong-nghe-thong-tin-tai-ha-noi-29-05-2026/460154
+  Title: MB Bank — DevSecOps Engineer (HO26.96), Hanoi, posted 29/05/2026
+  Evidence: MB Bank is recruiting a DevSecOps Engineer in the Automation Technology department within the Platform Technology Center, IT Division, Hanoi. The ub.com.vn listing is explicitly attributed to MB Bank with a posting date of 29/05/2026, and the same role (HO26.96) is cross-listed on Indeed referencing careers.mbbank.com.vn as the official application destination.
+  Date posted: 2026-05-29
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer — Khối Công Nghệ Thông Tin (HO26.95) | source=job_board | url=https://www.topcv.vn/brand/nganhangthuongmaicophanquandoi/tuyen-dung/devops-engineer-khoi-cong-nghe-thong-tin-ho26-95-j2104873.html
+  Title: MB Bank (NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK) — DevOps Engineer (HO26.95), Hanoi
+  Evidence: TopCV explicitly attributes this DevOps Engineer posting to NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK. The role requires building and optimizing DevOps/DevSecOps pipelines, managing CI/CD and IaC automation tools (GitLab, Jenkins, Nexus, Docker, Kubernetes), and designing security-compliant non-functional components from the product development stage.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer — Khối Công nghệ Thông tin (Indeed cross-listing, HO26.95) | source=job_board | url=https://vn.indeed.com/viewjob?jk=643110c2e042064a
+  Title: MB Bank — DevOps Engineer, Khối Công nghệ Thông tin, Hanoi (Indeed)
+  Evidence: Indeed Vietnam lists this DevOps Engineer role attributed to MB Bank (rated 4.9/5), with job description explicitly referencing 'DevOps or DevSecOps process optimization, automation principles, CICD/IaC solutions, and Containerization/Kubernetes.' The listing cross-references DevSecOps Engineer HO26.96 as a related MB Bank opening.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=[Junior, Senior] BackEnd Engineer (Java, Go) — Khối CNTT | source=job_board | url=https://bebee.com/vn/jobs/junior-senior-backend-engineer-java-go-khoi-cntt-mb-bank-ha-noi--theirstack-659901162
+  Title: MB Bank — Backend Engineer (Java, Go), Hanoi, deadline 09/06/2026
+  Evidence: BeBee attributes this Backend Engineer role to MB Bank, developing systems serving 30M individual and 300K enterprise customers. The job description explicitly references CI/CD, Docker/Kubernetes (K8s), GraphQL, and EventSourcing as technology stack, with a deadline of 09/06/2026 confirming it is an active, recent listing.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Backend Developer (Java, Spring Boot, MongoDB) + Mobile Application Developer | source=job_board | url=https://itviec.com/companies/mb-bank
+  Title: MB Bank ITviec company page — multiple active IT roles, posted 4–19 days ago
+  Evidence: ITviec's MB Bank company page shows multiple concurrent active postings including Backend Developer (Java, Spring Boot, MongoDB, PostgreSQL) posted 19 days ago, Mobile Application Developer (Flutter, Kotlin, Swift), and multiple AI/ML Engineer roles posted 4–5 days ago — all explicitly attributed to MB Bank. The company profile notes 1,000+ IT staff (MBITers), ranked 'Vietnam Best IT Companies 2025.'
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud Data Engineer (multi-cloud: GCP, Azure, AWS) | source=job_board | url=https://itviec.com/it-jobs/cloud-data-engineer-mb-bank-5833
+  Title: MB Bank — Cloud Data Engineer, Hanoi, posted 4 days ago (~2026-05-30)
+  Evidence: ITviec attributes this Cloud Data Engineer role to MB Bank, requiring the candidate to build and develop large-scale data platforms on cloud-native multi-platform environments (GCP, Azure, AWS). Required skills listed include Python, AWS, Docker, Google Cloud, and Microsoft Azure. Posted approximately 4 days before the search date (≈ 2026-05-30).
+  Date posted: 2026-05-30
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Chuyên Viên Bảo Mật Dữ liệu — Senior Data Security Specialist | source=job_board | url=https://jobs.vn.indeed.com/q-mb-bank-thực-tập-jobs.html
+  Title: MB Bank — Senior Data Security Specialist (CVCC Bảo mật Dữ liệu), Hanoi
+  Evidence: Indeed Vietnam lists a Data Security Specialist role explicitly attributed to MB Bank Hanoi, requiring the design and implementation of a unified Data Security Framework, data classification and tagging. Posting date cannot be confirmed precisely from snippet alone.
+  Confidence: Medium

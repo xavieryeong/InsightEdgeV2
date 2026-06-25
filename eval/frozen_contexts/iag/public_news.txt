@@ -1,0 +1,308 @@
+Company: IAG
+Domain: iag.com.au
+Industry: Financial Services
+Country: Australia
+Agent: public_news
+Evidence items: 64
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMid0FVX3lxTFBDSElZOXFBeWRrQVVKME9YQzZuRGJlTVo3UnZhMFRmN3lqV1FPREptVG9uZFBQLW1hYlA5RTNVaVB2RHB4NHM1TUdYMEE3U0pTZVZYLTEybWZReEVlTXl5MXliSThjcEdtZUVIMGpPS2FuNGhGbnZB?oc=5
+  Title: IAG Cargo launches new Madrid-Monterrey service - Cargo Airports & Airline Services
+  Snippet: IAG Cargo launches new Madrid-Monterrey service Cargo Airports & Airline Services
+  Published: 2026-05-21 (13 days ago)
+  Summary: IAG Cargo launched a new cargo service between Madrid and Monterrey, expanding its transatlantic freight network.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQtUU1MNHNjblB3ZENzM2V6U2hIRlFkaExsby1hd1RjNm41eENSM08tWTE0QlRYbVp2TUY0dHVNeTlXRGkwOFdPTWhfSDVYa2hKUFMwVWN2Qk81NG5rUm1SZEktT291azhhQXNrMW5QSndXSW9YS0VodXR5cG1LR2IySHhNYkNzdXVBeEpPMEJ4STJUWHptQnZBRV9QXzNlVkpOcVh4T05KUWg3dG02Zk9CM3RTVVBvVEgzQg?oc=5
+  Title: IAG Launches Of €500 Million Share Buyback Programme - TradingView
+  Snippet: IAG Launches Of €500 Million Share Buyback Programme TradingView
+  Published: 2026-05-15 (19 days ago)
+  Summary: IAG announced a €500 million share buyback programme, signalling strong financial confidence.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0RsZjQ2T3FJUVBxVFRseWJYcTVMMGtXNTBaUFlGVDgzdVBzREMzaTNfWGVsV3B4ZkdMQVRnTFFSV2s5OXI3Yk4wMzIwTWk4UldUb0x1TzBYMkFnNmZaWU1Dc0NUbFBQclFMZHR6QmJpem9ITkVmSW5JcjZxRnVKazJHTk1WQ0FJeDF6S2VBY2NaQmRoVXZmUjgtbk92RExJdFJMOW52OEtwRVEtZU1V?oc=5
+  Title: IAG launches second €500 million share buyback program - Investing.com
+  Snippet: IAG launches second €500 million share buyback program Investing.com
+  Published: 2026-05-15 (19 days ago)
+  Summary: IAG launched a second €500 million share buyback program, continuing its capital return strategy to shareholders.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGxTSDBkNTRJc1pRUWZJU1BKTGlMOWNEMXBubUZQQWp6MzFFa2pXV0tHWVozY3JKbTdrUXAtRjR1T2NSWmFSaHJfSXF0TWtqclplcTg1N1VCU1VWRWVOTzA3V2N3b0VnQWFqQzBJZUdpUEI4TWxJQkVzNV9PejRuSEJKLTRMNUpuRHY2M3U1ZHI0Y3F1OHc?oc=5
+  Title: IAG Launches EUR500 Million Share Buyback Program - Moomoo
+  Snippet: IAG Launches EUR500 Million Share Buyback Program Moomoo
+  Published: 2026-05-18 (15 days ago)
+  Summary: IAG launched a €500 million share buyback program, as reported by financial platform Moomoo.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifkFVX3lxTE5mcWU1c01FSG1FWjFfV2h6NHBSNXpfY2FuakVpNXA0bE10U05lOGNQWUJ1UHIzOElSQVoxYlUzM25fR3NsUTRfaW1CTDUzU0lTdHJEQllRa0pPbXNCcjNEeks4bVNDUVJLSmRkay1CczlKOUxvR1VTSnY5VXRfUQ?oc=5
+  Title: IAG Cargo launches new Madrid-Monterrey route - Container News
+  Snippet: IAG Cargo launches new Madrid-Monterrey route Container News
+  Published: 2026-05-22 (12 days ago)
+  Summary: IAG Cargo officially launched its new Madrid-to-Monterrey cargo route, reported by Container News.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxPLTB6ellPMTB1enBKa1RQOXh3aFdsMnRTU24xZjlNVUlndmlTdHFzSngxMFY2c2YxVE1yNURkcFptZm1DOHFtekFxbHU2LVZXRGJGRkxEZWh5QXJ5LXpYUUpVbHNYckNtYXZma0doUmpkWGFXMWZZcVFNeDJ6S2ZGWFRKZTZWZWFEUGpoT2t1dlNlZ21RdGJuNGxkM3ZOQQ?oc=5
+  Title: IAG Cargo launches virtual work experience programme - Air Cargo News
+  Snippet: IAG Cargo launches virtual work experience programme Air Cargo News
+  Published: 2026-05-21 (13 days ago)
+  Summary: IAG Cargo launched a virtual work experience programme aimed at developing future talent in the air cargo sector.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDBVdndNcER5VDFFbEFzY25iMTVQZ3BvNGhHRUJEa3k4VjVoZkhpWVFYVFJEMzl0STZHLWI5RXFTMllGcEV0NFlkMHR0YU9SVEFITG9qcUFpRXJCZkQ0M3BQR1BZeVkyZzBuOFAya0pFVzRLSVl4ZTJpYUljQTlBUEhTdV9nWGl1cHI2RF93VDJfcXJkaW5uNUExWUU3eVVJd0NnOXYwZw?oc=5
+  Title: IAG launches new buyback; Forgent settles legal case - marketscreener.com
+  Snippet: IAG launches new buyback; Forgent settles legal case marketscreener.com
+  Published: 2026-05-15 (19 days ago)
+  Summary: IAG launched a new share buyback programme, covered alongside unrelated Forgent legal news by MarketScreener.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWxVYjNkamVZcjZpZXIxUmxmbEV5RGlTUXd4dVZNbVlwNlJWMWZJRUtDY3B1cm5VYVE5RVdkbWdpa0hlTXpud1dDWWRndXB0NUh3QnhRVkIxUnF0emdXWkt3dlFURk5CRjJRMU9haFRTbGRnaDFxaDVUZGxTNTZkbVF3?oc=5
+  Title: Hoiana launches new Sky Casino for VIP members - IAG – Inside Asian Gaming
+  Snippet: Hoiana launches new Sky Casino for VIP members IAG – Inside Asian Gaming
+  Published: 2026-05-24 (10 days ago)
+  Summary: Hoiana resort (covered by Inside Asian Gaming) launched a new Sky Casino VIP facility — unrelated to IAG the airline group.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGlLYXJTQkw2cGp6djJfbGl5Nk05VHRYbVhkaHhza3RBZDBiLXJyMnhQeFY2R3JCYnhkSnVaZDJGakt4SDdyVjREZDFhT24tQy00MktMUVI4aE5CNDJLX1lCQmVpejlMRktCYVNPeVUtTThXdHVEQm5vVWZ4STZtOHJadmlMck1tUm9POFpXZGdTNndJWlRaeWJHMjRXX2Z6NlFiREs4YlZIdGhmbU5CX2FDUQ?oc=5
+  Title: IAG launches repurchase offer for €825m convertible bonds - Investing.com
+  Snippet: IAG launches repurchase offer for €825m convertible bonds Investing.com
+  Published: 2026-05-11 (23 days ago)
+  Summary: IAG launched a repurchase offer for €825 million in convertible bonds as part of its debt management strategy.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFV5OWQ1TWh6bThUT2Y0RU8wWDZBV2dPclROVkktbW9YZEZOOTJjTXRGVEh0Q0FnTHJqUlAtc2hUTDhabmMxZG9zem9JUkItOXdKYktoQjhPZFhUWUQtQXM5enVJbTR0QjlMRGpBdV9MVTVaaXlpc0lzV0JObVJNa3JaeWRJSVpHU25MYnhxVTdhRFNWSUFn?oc=5
+  Title: IAG launches Ambition 2030 strategy for market dominance - grafa.com
+  Snippet: IAG launches Ambition 2030 strategy for market dominance grafa.com
+  Published: 2026-05-11 (22 days ago)
+  Summary: IAG launched its 'Ambition 2030' long-term strategy targeting market dominance across its airline portfolio.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWs1cV80c08zelU1cUZlT0tIS1AxbWRDT21vSTdsSjBPR3NhTDc2bGk2ZThXd1VtTi1EenRBRFdLS1NEUEFnUXJqR0JhSlFDdkhBc0ppN0oxVGRZX3VhcjlFNDkzZ2RmYV9NOXlvSUh4Y1d0U2lPYW90MnplS0RaV09xc2NteDlvMlIzbkFCdFR5N3NtNnlIUG1BYnJNMUticXJR?oc=5
+  Title: Japan’s Aichi Prefecture launches RFP process, details candidate criteria - IAG – Inside Asian Gaming
+  Snippet: Japan’s Aichi Prefecture launches RFP process, details candidate criteria IAG – Inside Asian Gaming
+  Published: 2026-04-01 (63 days ago)
+  Summary: Japan's Aichi Prefecture launched an RFP process for casino candidates, as reported by Inside Asian Gaming publication.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihgFBVV95cUxPMXRJTDNTb183T0EzdlRpZWxWSjNvb0hvX2ZXbTRTZjgzTzNDc1pOajJYWEtjVmtUZ2F3TkFWSE9WSG1MRTY5T2RvcWlwRVhiTk55bUZqMlN4NldNWC1YTl9wU0F2bFhuUExFVzdjTEQxeVNuUHMzOGRndWw1SmhIUWJOcnhUdw?oc=5
+  Title: Hann Resorts launches Summer Temptations campaign - IAG – Inside Asian Gaming
+  Snippet: Hann Resorts launches Summer Temptations campaign IAG – Inside Asian Gaming
+  Published: 2026-04-10 (54 days ago)
+  Summary: Hann Resorts launched a Summer Temptations promotional campaign, covered by Inside Asian Gaming publication.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE84YjJsS1d6QUp1dTlsUDFKUnpDemdPU0xSMC1wY0czeHJETFJoUXVTQU9TdVZRTC11Q21JVmdWZXBRLV9fY0VLc3gyNjBmOWt4RlFCejRLcFE5M3dnNjhtXy1MV1dqX3ZuTW9mVU4tWmppQmY3ODBXak12TTM1aXBpLTB2VldzU05ibTlUdVFoaFFGZVdPUlNlUjUwUWw0aEtyUlRXcw?oc=5
+  Title: MGM China officially launches playing card recycling and upcycling program - IAG – Inside Asian Gaming
+  Snippet: MGM China officially launches playing card recycling and upcycling program IAG – Inside Asian Gaming
+  Published: 2026-03-24 (71 days ago)
+  Summary: MGM China launched a playing card recycling and upcycling programme, as reported by Inside Asian Gaming publication.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjllOEJtaHNZbmdDaW5EbkRPdjJsQWw3YzdkN2R5VGVFY0dBZlFhQ2cybEhNLTdoc2szQlNQQmlHWVQ5MDdvdVZ6NmJoazl5dXM0VUZuaXd1akFwY01yMmlMU2JXdFVXejA0Rmx4UmNoQ2JXQXpXS0dnakg3cV9BZ1NGRC1RSTdURlFxSGxaTERpWThNdlE?oc=5
+  Title: Bee Macau launches casino‑grade playing card factory in Macau - IAG – Inside Asian Gaming
+  Snippet: Bee Macau launches casino‑grade playing card factory in Macau IAG – Inside Asian Gaming
+  Published: 2026-05-07 (27 days ago)
+  Summary: Bee Macau launched a casino-grade playing card manufacturing factory in Macau, per Inside Asian Gaming.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGpDWFNIVU00YU91RDgzQnFNYk5TaGVXeWMtX3k2TlhnWFBwNmViSUlMeWVZbk5uWGlBejY0eVIxbUJQRkd0YlhzZEtKR2cwWjB4bVd6RlhTU2tseklDeHk3OFVETW95Z2M1RkN2Tms3SEJaT2lvNXVyczA4dm95M0V1UTh3N3g4WUN0U3Fn?oc=5
+  Title: Philippines President Marcos appoints new tourism chief - IAG – Inside Asian Gaming
+  Snippet: Philippines President Marcos appoints new tourism chief IAG – Inside Asian Gaming
+  Published: 2026-04-11 (53 days ago)
+  Summary: Philippines President Marcos appointed a new tourism chief, as reported by Inside Asian Gaming — unrelated to IAG airline group.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG CFO William McDonnell appointed Chair of the Australian Sustainable Finance Institute (ASFI)
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Phillip Gibson Chief Executive NZ
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Emily Roberts as Chief Customer and Marketing Officer
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG launches national study of driver-assist technology to improve safety outcomes
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: Ashes Spirit Hits the Road: NRMA Insurance Ashes Trophy Tour Launches Ahead of Iconic Series
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG launches Severe Weather in a Changing Climate report
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance launches new Help Fund initiative to support climate resilience
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints JoAnne Stephenson to Board
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: CGU Insurance launches STRIVE Podcast to simplify the complex
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG’s Intermediated Insurance Australia division launches innovative paid work initiative for High School graduates
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance launches ‘The Summer of Community Cricket’ with nationwide grants for local clubs
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG Launches Specialist Cyber Underwriting Agency
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: News Corp Australia and NRMA Insurance unite to launch campaign calling for urgent action to fix Bruce Highway
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Robert Cutler as Group General Counsel
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG Graduate Program 2025: Launch Your Career with Purpose
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance appoints Accenture Song to help reimagine end-to-end customer experience
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints interim Group General Counsel
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: WFI Insurance issues important safety reminder as it launches season 2 of ‘Good People to Know’ podcast
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints William McDonnell as Chief Financial Officer
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Michelle Klein as Chief Customer and Marketing Officer
+  Confidence: Low
+
+[NEWS] signal=cloud_ai_transformation | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG sponsors 2nd edition of Responsible AI Index, recommits to responsible AI across its suite of AI initiatives
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints new Director – Wendy Thorpe
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG and Rhelm launch new Planned Relocation report
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG launches report to help small businesses become more resilient to natural disasters
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: WFI launches podcast series to support regional communities
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance launches Carbon Offset Program
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: Our New Zealand brands launch their first Wild Weather Tracker and call for greater infrastructure investment
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance supports launch of new disaster resilient house designs and handbooks to help Australians build better
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG Firemark Ventures launches second $75 million fund
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Group Chief Risk Officer
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG launches new Climate & Disaster Resilience Action Plan
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Chief Insurance and Strategy Officer
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance launches Wild Weather Tracker
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: Full Stop Foundation launches Domestic Violence Impact Line with help from NRMA Insurance
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG CEO appoints CFO and announces executive changes
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: Nick Hawkins appointed IAG Managing Director and CEO
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: NRMA Insurance launches First Saturday initiative
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: CGU Insurance launches mentoring program for First Nations small business owners
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Steve Marshall as Executive General Manager Business Distribution
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: CEO Peter Harmer to retire by end 2020 and Nick Hawkins appointed Deputy CEO
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG launches Financial Inclusion Action Plan
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Chief Strategy & Innovation Officer
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG and SAP Ariba launch a diversity initiative for purpose-driven spending
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Peter Horton as Group General Counsel
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Christine Stasi Group Executive People, Performance and Reputation
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints new Board director
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints two Board directors
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: David Watts appointed Chief Risk Officer
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://iag.com.au/newsroom
+  Title: IAG appoints Group Executive Technology
+  Confidence: Low

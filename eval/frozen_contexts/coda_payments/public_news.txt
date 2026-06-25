@@ -1,0 +1,43 @@
+Company: Coda Payments
+Domain: coda.com
+Industry: payments
+Country: SG
+Agent: public_news
+Evidence items: 6
+============================================================
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxnLW44SkV5TDExRTN3aUlLQUpHYWZpMy1xUHlBQl85VjY1ZE5EaWsxV1hSWGJIVmJHY2U5UGVrOHgzWExWXzNiMjBPeWpmSE5aUlRuSXk2eFBzSzZ5Um56SjBibWtlYlhNVjlMd1FMTngyOVZPQi1YeHkxX0s2NDVCTE1XVlloTlJ5MEJOdzVuT1NIRmk2UFdOOGhCcXdKeVlsNDFrNWw1aW9zc3c?oc=5
+  Title: Coda Payments Appoints Shane Happach as Chief Executive Officer - FinTech Futures
+  Snippet: Coda Payments Appoints Shane Happach as Chief Executive Officer FinTech Futures
+  Published: 2025-06-22 (310 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlFxZU9wUjlsZi1XU0ZnWTBlYXhZeGVEM2RfR01MalM1cEF2UjFicHoxb1Z3QkVLbHpCTDVVRUFKdnF2OHNtcm5mT0QtSVFtd0Ezd3RPZUVKemVxLXF6QWJ3ZWo4NGRWZGdUUU1fTW1iWFBySGdNbWQ5em9WZ0lEZG55TkFzWjhYWThNSzhHVWJ1dzZPTVhLMFktTWphZGZ0cmxj?oc=5
+  Title: Coda Payments Appoints Ex-Worldpay Executive Shane Happach as CEO - PYMNTS.com
+  Snippet: Coda Payments Appoints Ex-Worldpay Executive Shane Happach as CEO PYMNTS.com
+  Published: 2023-02-02 (1181 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiXEFVX3lxTE9laFVCT3FJTnRKVC12ZzZWMWpyNE9wdWpYYzhhRXlkaS1PZjFDT0FVTGd0dXQ0cDJUMlJwSWVSRTJXWHRyUkt2Ry1sczVKX3F5RFVVODM5UGVvek9B?oc=5
+  Title: Coda Payments brings transactions to all mobile phones, launches with Indonesian operator Axis - The Next Web
+  Snippet: Coda Payments brings transactions to all mobile phones, launches with Indonesian operator Axis The Next Web
+  Published: 2013-02-12 (4823 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzVmSG5ZMU0xZEpoUFp0VXVNblBVYmRlSUVWTzBybDVQZmRpVnFKV0FxaXNoQkYxbTE0QzZxRmtWczlaMmwyM0dSTFBXcmFiWkdwMGxnN2dpQkoxZDJMLTVWZXc4VVFZdzk1QS1XWE1naUVidlo0ZUQ2dmRLZXF3aU0zNFNQSXp6am5pQlhB?oc=5
+  Title: Coda Payments Partners With Axis, Launches PulsaQ in Indonesia - Yahoo Finance Singapore
+  Snippet: Coda Payments Partners With Axis, Launches PulsaQ in Indonesia Yahoo Finance Singapore
+  Published: 2013-02-12 (4823 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikgJBVV95cUxNWDJkVEJYUmYwd1pNeVBGUlZtdTlzSXBNMThoSHREcUlHeWJwSE1aYTdSSkU4MUJsQXpJbVVndW9WczRvWmhZb3JoQXoteUZHdnFkaDdZbjRield5NnVKQ1JXN2xhZHBYVGs0cVdHQTJ2UG1lUzAyN0lQMHBDQ2xNT1BsN2k0Y2hrT2E5TWhsdFNGTXlZM001dThtNTNHS25TbTMtZlkwYm00ajE5WXBMbVpQdlliRGhtMEZnRmdqX2JpZnNWd0dVZFVad0VMeW1HS2lvaVlKMDFxZ2hNSElvbUVQZ2ZtclVpUjNkRGNyMWVadEx5YVZQQWlDWVZpYlk1Uk52OVdHd05vY1BkYi1FUDdB?oc=5
+  Title: Codashop Fan Art Fest launches October 8, featuring art from Genshin Impact, the blockbuster open-world action RPG - GlobeNewswire
+  Snippet: Codashop Fan Art Fest launches October 8, featuring art from Genshin Impact, the blockbuster open-world action RPG GlobeNewswire
+  Published: 2022-10-06 (1300 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW1sdFFDcHE0OVc1bnpoZ0NNalVkTm92dTlGNW1TaG9KVmRFcS1Ia0QyQnVYQ3NsTUJEdUxaXzBReGVLMWUyWUQxam5LYXhZbDNIQ2ttQm5pTE1qLTcxbFZSV0RhTmJvZi1PUkc3TTUxWEx6TjBQV0FSUnBUSFdDTURwQjNiZk1OYTNRRkg5ZlFnRkcyczBWLWJmZURFUDZxVlowZ3l6S2FWUQ?oc=5
+  Title: Coda launches new Call of Duty®: Mobile in-game items, available exclusively on Codashop - Punch Newspapers
+  Snippet: Coda launches new Call of Duty®: Mobile in-game items, available exclusively on Codashop Punch Newspapers
+  Published: 2023-08-16 (986 days ago)
+  Confidence: High

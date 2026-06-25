@@ -1,0 +1,32 @@
+Company: Syfe
+Domain: syfe.com
+Industry: fintech
+Country: SG
+Agent: pain_points
+Evidence items: 5
+============================================================
+
+[PAIN] category=static_analysis_pain | source=company_forum | url=https://in.linkedin.com/jobs/view/sr-security-engineer-at-syfe-3329831312
+  Title: Syfe Sr. Security Engineer job requires source code and architecture reviews
+  Evidence: Syfe's published LinkedIn job posting for Sr. Security Engineer explicitly states a key responsibility is to 'coordinate with the Software Development team and perform source code and architecture reviews to identify vulnerabilities.' This confirms Syfe is currently building manual source code review capability into its security function, a gap Sonar's SAST and IDE integration is designed to systematise and scale.
+  Confidence: High
+
+[PAIN] category=ci_cd_integration_pain | source=company_forum | url=https://syfe-talent.freshteam.com/jobs/iqFboXOK5qLj
+  Title: Syfe hiring Senior DevOps Engineer for CI/CD, Kubernetes, AWS, Terraform
+  Evidence: Syfe's own talent portal lists a Senior DevOps Engineer opening in Gurugram, seeking someone to 'own critical infrastructure' and 'drive improvements across the software delivery lifecycle.' The role is tagged DEVOPS, CI/CD, KUBERNETES, Terraform, AWS — indicating active pipeline infrastructure scaling. Concurrent hiring for Software Engineer – DevOps at Associate level also confirms the team is growing.
+  Confidence: High
+
+[PAIN] category=security_incident_pain | source=company_engineering_blog | url=https://www.syfe.com/bug-bounty
+  Title: Syfe operates active HackerOne bug bounty programme, migrated March 2025
+  Evidence: Syfe's own bug-bounty page confirms that 'from March 2025, the Syfe Bug Bounty Programme has moved to HackerOne.' The page also acknowledges that 'we run regular scans with these services and try to improve our score gradually' regarding security header tools — indicating awareness of ongoing vulnerability surface management but without automated code-level scanning tooling mentioned. External researchers are regularly rewarded for disclosing vulnerabilities.
+  Confidence: High
+
+[PAIN] category=developer_velocity_pain | source=company_forum | url=https://careers.syfe.com/jobs
+  Title: Syfe scaling engineering team rapidly across Gurugram with multiple concurrent SDE and DevOps roles
+  Evidence: Syfe's careers portal currently lists Backend SDE I, SDE II, Backend Engineer SDE III, Frontend SDE I, Mobile Engineer SDE II, Senior DevOps Engineer, Software Engineer - DevOps, and multiple QA roles — all simultaneously open in Gurugram. This breadth of concurrent engineering hiring across levels signals a rapidly scaling engineering organisation where code quality consistency and security governance tooling can quickly become a bottleneck.
+  Confidence: Medium
+
+[PAIN] category=security_incident_pain | source=company_forum | url=https://in.linkedin.com/in/mrr0w07
+  Title: Syfe security team member confirms active vulnerability disclosures and ongoing security engineer hiring
+  Evidence: A LinkedIn profile clearly identified as a Syfe employee posted about receiving a reward from Syfe for reporting a vulnerability, and also shared that 'we are currently hiring a security engineer at Syfe' with a link to the role. This confirms ongoing vulnerability activity being managed through the bug bounty and the security engineering function is still being staffed.
+  Confidence: Medium

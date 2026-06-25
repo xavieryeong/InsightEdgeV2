@@ -1,0 +1,32 @@
+Company: Bank Indonesia
+Domain: bi.go.id
+Industry: Financial Services
+Country: Indonesia
+Agent: tech_stack
+Evidence items: 5
+============================================================
+
+[TECH] Department of Information System Management (DPSI) & Department of Digital Development and Innovation | category=engineering_visibility | source=developer_docs | url=https://www.bi.go.id/id/tentang-bi/profil/organisasi/Pages/Departemen-Pengembangan-dan-Inovasi-Digital%E2%80%8B.aspx
+  Evidence: Bank Indonesia's official org page confirms dedicated departments for information systems management and digital development & innovation (led since 2023), indicating an active internal software engineering function with stated goals around cyber resilience and digital services.
+  Repo: https://www.bi.go.id/id/tentang-bi/profil/organisasi/Pages/Departemen-Pengembangan-dan-Inovasi-Digital%E2%80%8B.aspx
+  Confidence: High
+
+[TECH] SNAP Developer Site and Open API Sandbox | category=engineering_visibility | source=developer_docs | url=https://www.bi.go.id/en/layanan/standar/snap/default.aspx
+  Evidence: Bank Indonesia has created and operates a SNAP Developer Site providing published technical/security standards, data standards, and an online sandbox application for testing SNAP-based open API payments — confirming developer-facing platform engineering at the central bank level.
+  Repo: https://www.bi.go.id/en/layanan/standar/snap/default.aspx
+  Confidence: High
+
+[TECH] Citizen Development Management Platform Procurement | category=engineering_visibility | source=developer_docs | url=https://www.bi.go.id/id/layanan/lelang-jasa-barang/announcement/Pages/Pengadaan-Penyediaan-Jasa-Implementasi-Citizen-Development-Management-Platform-di-Bank-Indonesia.aspx
+  Evidence: A procurement notice on bi.go.id (October 2025) references active implementation of a Citizen Development Management Platform at Bank Indonesia, indicating ongoing internal software platform investment.
+  Repo: https://www.bi.go.id/id/layanan/lelang-jasa-barang/announcement/Pages/Pengadaan-Penyediaan-Jasa-Implementasi-Citizen-Development-Management-Platform-di-Bank-Indonesia.aspx
+  Confidence: Medium
+
+[TECH] Digital Workplace System (digiworkplace.bi.go.id) | category=engineering_visibility | source=developer_docs | url=https://digiworkplace.bi.go.id/
+  Evidence: Bank Indonesia operates a self-hosted Digital Workplace (DWP) information system developed to support internal decision-making, suggesting custom-built internal software development capability.
+  Repo: https://digiworkplace.bi.go.id/
+  Confidence: Medium
+
+[TECH] IT Risk Management Framework (DPSI, COBIT 5 / ISO 31000) | category=engineering_visibility | source=claude_web_search_result | url=https://repository.its.ac.id/63365/
+  Evidence: An academic study (ITS, 2015) conducted within Bank Indonesia's DPSI examined IT risk identification processes using COBIT 5 and ISO 31000 frameworks, confirming a structured IT governance and risk management function exists within the bank.
+  Repo: https://repository.its.ac.id/63365/
+  Confidence: Low

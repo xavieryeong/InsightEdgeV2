@@ -1,0 +1,32 @@
+Company: Raffles Medical Group
+Domain: singapore-health-insurance.com
+Industry: healthcare
+Country: SG
+Agent: hiring_patterns
+Evidence items: 5
+============================================================
+
+[HIRING] type=security_compliance | value=Senior Cybersecurity Engineer | source=job_board | url=https://www.mycareersfuture.gov.sg/job/information-technology/senior-cybersecurity-engineer-raffles-medical-group-727f13a70f4f1ecf6ac133d0fb95ab89
+  Title: Senior Cybersecurity Engineer – Raffles Medical Group
+  Evidence: Singapore's MyCareersFuture government jobs portal lists a Senior Cybersecurity Engineer role with Raffles Medical Group explicitly named in the page URL slug and listing title under the Information Technology category.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Cybersecurity Engineer | source=linkedin | url=https://sg.linkedin.com/jobs/view/cybersecurity-engineer-at-raffles-medical-group-2849047144
+  Title: Cybersecurity Engineer – Raffles Medical Group (LinkedIn)
+  Evidence: A prior LinkedIn job posting URL explicitly names 'cybersecurity-engineer-at-raffles-medical-group', confirming RMG has historically recruited for cybersecurity engineering talent. Posting appears older and may be expired.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer | source=claude_web_search_result | url=https://www.glassdoor.sg/Salary/Raffles-Medical-Group-Senior-Software-Engineer-Singapore-Salaries-EJI_IE139031.0,21_KO22,46_IL.47,56_IM1123.htm
+  Title: Raffles Medical Group – Senior Software Engineer Salary Data (Glassdoor)
+  Evidence: Glassdoor lists salary data for Senior Software Engineer at Raffles Medical Group in Singapore based on 2 anonymously submitted salaries, confirming active or recent employment of software engineers at the company.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Software Engineer | source=claude_web_search_result | url=https://www.indeed.com/cmp/Raffles-Medical-Group/reviews
+  Title: Raffles Medical Group – Popular Job Titles on Indeed
+  Evidence: Indeed lists Software Engineer as one of the popular job titles at Raffles Medical Group, alongside healthcare roles, confirming an in-house software engineering function.
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Microsoft Azure Cloud Services (technology signal, not a job posting) | source=claude_web_search_result | url=https://www.appsruntheworld.com/customers-database/customers/view/raffles-medical-group-singapore
+  Title: Raffles Medical Group Technology Stack – AppsRunTheWorld
+  Evidence: Third-party tech intelligence source confirms RMG uses Microsoft Azure Cloud Services for application hosting and computing services, adopted in 2019. This is a technology signal, not a confirmed job posting — not scored.
+  Confidence: Medium

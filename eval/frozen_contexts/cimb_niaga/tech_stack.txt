@@ -1,0 +1,57 @@
+Company: CIMB Niaga
+Domain: cimbniaga.co.id
+Industry: Financial Services
+Country: Indonesia
+Agent: tech_stack
+Evidence items: 10
+============================================================
+
+[TECH] Java (legacy microservices) | category=relevant_languages | source=engineering_blog | url=https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Evidence: CIMB Niaga's own engineering blog confirms: 'our digital team undertook a significant initiative to migrate our critical microservices from Java to Rust.' Java was the prior production language for core banking microservices.
+  Repo: https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Confidence: High
+
+[TECH] Rust (active production microservices) | category=relevant_languages | source=engineering_blog | url=https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Evidence: CIMB Niaga Engineering blog (authored by their Application DevOps Head) explicitly states Rust now powers production microservices for OCTO Mobile and OCTO Clicks, with authentication service startup time reduced from ~31.9 seconds (Java) to <1 second (Rust).
+  Repo: https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Confidence: High
+
+[TECH] Microservices architecture | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Evidence: CIMB Niaga's engineering blog explicitly references 'critical microservices' underpinning their digital banking platforms OCTO Mobile and OCTO Clicks, confirming a distributed, cloud-native delivery model.
+  Repo: https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5
+  Confidence: High
+
+[TECH] CIMB Niaga Engineering — Medium publication | category=engineering_visibility | source=engineering_blog | url=https://medium.com/cimb-niaga-engineering
+  Evidence: CIMB Niaga maintains an active company engineering publication on Medium ('CIMB Niaga Engineering') where internal engineers and the Application DevOps Head publish technical articles, confirming a visible, active software engineering culture.
+  Repo: https://medium.com/cimb-niaga-engineering
+  Confidence: High
+
+[TECH] Red Hat OpenShift (container platform / DevOps) | category=cloud_native_presence | source=claude_web_search_result | url=https://www.redhat.com/en/about/press-releases/cimb-niaga-named-winner-red-hat-apac-innovation-awards-2020-indonesia
+  Evidence: Red Hat's official press release confirms CIMB Niaga won the Red Hat APAC Innovation Award 2020 for Digital Transformation and Cloud-Native Development, having built 'an agile platform using Red Hat OpenShift, enabling it to develop and deploy applications more rapidly in an automated and more secure manner' after engaging Red Hat Open Innovation Labs for DevOps best practices.
+  Repo: https://www.redhat.com/en/about/press-releases/cimb-niaga-named-winner-red-hat-apac-innovation-awards-2020-indonesia
+  Confidence: High
+
+[TECH] Google Cloud Platform (GCP) — Jakarta region | category=cloud_native_presence | source=claude_web_search_result | url=https://www.googlecloudpresscorner.com/2026-04-14-CIMB-Niaga,-Google-Cloud,-and-Artefact-Debut-Enterprise-AI-Agents-to-Deliver-Life-Centric-Banking-for-Millions-of-Indonesians
+  Evidence: Google Cloud press release (April 2026) confirms CIMB Niaga hosts systems on Google Cloud's Jakarta region for data residency compliance, and built AI agents using Google Cloud's Vertex AI platform through their internal AI Center of Excellence (CoE) in a multi-year collaboration.
+  Repo: https://www.googlecloudpresscorner.com/2026-04-14-CIMB-Niaga,-Google-Cloud,-and-Artefact-Debut-Enterprise-AI-Agents-to-Deliver-Life-Centric-Banking-for-Millions-of-Indonesians
+  Confidence: High
+
+[TECH] AWS | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/cimb-niaga-technology-stack_b5c0df77f42e084c
+  Evidence: RocketReach third-party tech listing for CIMB Niaga includes Amazon Web Services (AWS) among 99 listed technologies. Attribution confidence is medium as RocketReach is a third-party aggregator and may reflect inferred or outdated signals.
+  Repo: https://rocketreach.co/cimb-niaga-technology-stack_b5c0df77f42e084c
+  Confidence: Low
+
+[TECH] DevOps practice (Application DevOps Head role confirmed) | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/@gilangkusumajati
+  Evidence: The author of the CIMB Niaga Engineering blog post on the Java-to-Rust migration is identified as 'Application DevOps Head at CIMB Niaga', confirming a formal DevOps function within the bank's engineering organization.
+  Repo: https://medium.com/@gilangkusumajati
+  Confidence: Medium
+
+[TECH] Public API Developer Portal with sandbox | category=engineering_visibility | source=developer_docs | url=https://api.cimbniaga.co.id
+  Evidence: CIMB Niaga operates a publicly accessible API developer portal (api.cimbniaga.co.id) with sandbox environment, full API documentation, and integration testing support, confirming active internal software development and an externally-facing engineering capability.
+  Repo: https://api.cimbniaga.co.id
+  Confidence: High
+
+[TECH] IBM Security AppScan | category=security_tooling_signal | source=tech_listing | url=https://rocketreach.co/pt-bank-cimb-niaga-technology-stack_b5c56e9df42e0e11
+  Evidence: RocketReach third-party tech listing for PT Bank CIMB Niaga includes IBM Security AppScan among listed technologies, suggesting some application security tooling investment. Attribution confidence is low as this is a third-party aggregator listing.
+  Repo: https://rocketreach.co/pt-bank-cimb-niaga-technology-stack_b5c56e9df42e0e11
+  Confidence: Low

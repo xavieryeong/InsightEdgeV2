@@ -1,0 +1,28 @@
+Company: TPG Telecom
+Domain: tpgtelecom.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: public_news
+Evidence items: 3
+============================================================
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivwFBVV95cUxPUW8wWDJyQVdiYVJlUHNLSTJFTWp6N3BQX0UzVmFuM21DQnJKR01YbVlUOW5iTjNkMUV4cHVDRnhRV3ItcTdNMWRGeTZaR1JFOHlpT21ENGszTEV6SWlZSTdGZndscUFkMnBFczJJdm42SnNTSWpScFUwUnA2LUNySzQ3ci1WNFJMbDhkakl6OVR0eExpSno4ck8yakJyblFUbEtMNXdabGx1eDlienF5RnRCeTVnRDFpUGZkZE1sOA?oc=5
+  Title: Australia Telecom Market: Steady Growth Powered by 5G, IoT, and Digital Transformation - vocal.media
+  Snippet: Australia Telecom Market: Steady Growth Powered by 5G, IoT, and Digital Transformation vocal.media
+  Published: 2026-03-24 (71 days ago)
+  Summary: Australian telecom market report highlights steady sector growth driven by 5G expansion, IoT adoption, and broad digital transformation initiatives.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUlaTjBOZzRtZlhHS3I1VGpZR2VUeU5yRXhJOTV0Rm5mNFlzVHV6VFNvZ2Fkb3liaDVSazU1bkVxTGVHLWRKMHJZQnpUeGFoQ0dHYnh4dW5hNHgydDVSY3hXdFZySlBpLXdoNlBra3JpY29NNHRwcllrVUt6aEcwT3U2WlRsRlpnNmRyTFBjbGZXWnAzX1lHX180S09lRmxpbkRYYw?oc=5
+  Title: Is ASX 200 Telecom Sector Advancing with AI Platforms? - Kalkine Media
+  Snippet: Is ASX 200 Telecom Sector Advancing with AI Platforms? Kalkine Media
+  Published: 2026-03-18 (77 days ago)
+  Summary: Kalkine Media examines whether ASX 200 telecom companies are progressing with AI platform deployments and digital capability upgrades.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnNjMEhkaHBBN0NSQ2lwVDF5eUNmWlNYMm5EcDNWbjNpNjN3OUJmeVNIVE1SYzhxUWdMWmxqNWFVLXJRNjV1Y0VHbnBLVmZWVjdZMU0yTjhMbkZwdTNHOGVvUkRvREFibURHNURfY3U2OENzRHRUNXJrSXZkeTlMbVA3SDdjMVB5M0hOYjJPRS1adGoyRUJ1YS16bXpBZVZkc0k2eA?oc=5
+  Title: Vocus appoints former Zayo executive Nikos Katinakis as CTO - Telecompaper
+  Snippet: Vocus appoints former Zayo executive Nikos Katinakis as CTO Telecompaper
+  Published: 2026-05-11 (23 days ago)
+  Summary: Vocus appointed former Zayo executive Nikos Katinakis as its new CTO, signalling a senior technology leadership change at the Australian telco.
+  Confidence: High

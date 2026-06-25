@@ -1,0 +1,43 @@
+Company: CIMB Niaga
+Domain: cimbniaga.co.id
+Industry: Financial Services
+Country: Indonesia
+Agent: hiring_patterns
+Evidence items: 6
+============================================================
+
+[HIRING] type=security_compliance | value=Data, Technology & Cyber Security (multiple open roles) | source=careers_page | url=https://career.cimbniaga.co.id/jobs
+  Title: Data, Technology & Cyber Security – O725 Operations, Technology, Analytics & AI ID
+  Evidence: CIMB Niaga's official careers portal lists multiple 'Data, Technology & Cyber Security' roles posted on 29 May 2026, 25 May 2026, and 23 May 2026 under the O725 Operations, Technology, Analytics & AI division. Company name explicitly confirmed in domain (career.cimbniaga.co.id) and page copyright.
+  Date posted: 2026-05-29
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Governance, Risk, Assurance & Compliance (multiple open roles) | source=careers_page | url=https://career.cimbniaga.co.id/jobs
+  Title: Governance, Risk, Assurance & Compliance – O725 Operations, Technology, Analytics & AI ID
+  Evidence: CIMB Niaga's official careers portal shows 'Governance, Risk, Assurance & Compliance' roles posted on 29 May 2026 and 25 May 2026 under the Operations, Technology, Analytics & AI division, confirming active investment in compliance and security governance.
+  Date posted: 2026-05-29
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer (Frontend and Backend) | source=linkedin | url=https://www.linkedin.com/jobs/cimb-niaga-jobs-worldwide
+  Title: Software Engineer (Frontend and Backend) – CIMB Niaga, Tangerang, Banten
+  Evidence: LinkedIn's public job listing page for CIMB Niaga shows 'Software Engineer (Frontend and Backend)' listed as Actively Hiring, posted approximately 2 weeks ago (~20 May 2026), located in Tangerang, Banten, Indonesia.
+  Date posted: 2026-05-20
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Management Information System Analyst | source=linkedin | url=https://www.linkedin.com/jobs/cimb-niaga-jobs-worldwide
+  Title: Management Information System Analyst – CIMB Niaga, Jakarta
+  Evidence: LinkedIn's CIMB Niaga jobs page shows 'Management Information System Analyst' listed as Actively Hiring, posted 1 day ago (~2 June 2026) in Jakarta, Indonesia.
+  Date posted: 2026-06-02
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=IT Asset Management | source=job_board | url=https://id.jobstreet.com/companies/cimb-niaga-168551184744548/jobs
+  Title: IT Asset Management – CIMB Niaga, West Jakarta
+  Evidence: JobStreet lists an 'IT Asset Management' role at CIMB Niaga in West Jakarta, posted 18 days ago (~16 May 2026), described as managing hardware, software, and network infrastructure. Company name explicitly present in the listing page URL and content.
+  Date posted: 2026-05-16
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=CIPTA IT Trainee – Testing Muda (IT Testing Program) | source=careers_page | url=https://career.cimbniaga.co.id/job/ID-20260330090148290
+  Title: CIPTA IT Trainee – Testing Muda O125 – CIMB Niaga
+  Evidence: CIMB Niaga's official careers portal (career.cimbniaga.co.id) lists a 'CIPTA IT Trainee – Testing Muda' role, posted 30 March 2026, indicating ongoing IT developer/testing trainee intake. This is just outside the strict 90-day window (posted 65 days before June 3) and is included as supporting context only.
+  Date posted: 2026-03-30
+  Confidence: High

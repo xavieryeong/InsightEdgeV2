@@ -1,0 +1,45 @@
+Company: Airtel
+Domain: airtel.in
+Industry: Telecommunications
+Country: India
+Agent: hiring_patterns
+Evidence items: 7
+============================================================
+
+[HIRING] type=devops_platform | value=Senior Manager – DevOps | source=linkedin | url=https://in.linkedin.com/jobs/view/market-support-building-permission-at-airtel-2853174439
+  Title: Airtel hiring Senior Manager – DevOps in Bangalore Urban, India
+  Evidence: LinkedIn's Airtel jobs page for Bangalore Urban surfaces a 'Senior Manager - DevOps' listing attributed to Airtel, marked as posted '2 days ago' from the date of search (~June 6, 2026), indicating an active and very recent opening.
+  Date posted: 2026-06-06
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=DevOps Engineer | source=linkedin | url=https://in.linkedin.com/jobs/view/devops-engineer-at-airtel-x-labs-2915424759
+  Title: airtel X Labs hiring DevOps Engineer in Gurugram, Haryana, India
+  Evidence: LinkedIn job posting explicitly names 'airtel X Labs' as the hiring entity for a DevOps Engineer role in Gurugram. The JD specifies Terraform, Kubernetes, Ansible, Datadog, Prometheus, and Kafka — a modern cloud-native DevOps stack.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Sr. Software Engineer – SRE | source=job_board | url=https://www.glassdoor.com/Jobs/Bharti-Airtel-Software-Engineer-Jobs-EI_IE38320.0,13_KO14,31.htm
+  Title: Bharti Airtel Software Engineer Jobs – Glassdoor (includes Sr. Software Engineer – SRE and Sr. Software Engineer – DevOps)
+  Evidence: Glassdoor's dedicated Bharti Airtel job page lists multiple live openings including 'Sr. Software Engineer - SRE' and 'Sr. Software Engineer - Devops', with 178 Bharti Airtel Software Engineer postings visible. Company identity is unambiguous in the Glassdoor URL and page title.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Sr. Software Engineer – Backend Engineer (multiple) | source=job_board | url=https://www.glassdoor.com/Jobs/Bharti-Airtel-Software-Engineer-Jobs-EI_IE38320.0,13_KO14,31.htm
+  Title: Bharti Airtel – Sr. Software Engineer BE and Sr. Software Engineer (Glassdoor)
+  Evidence: Glassdoor lists 'Sr. Software Engineer – BE' and multiple 'Sr. Software Engineer' roles under Bharti Airtel, alongside a total of 178 software engineer postings, indicating a large-scale active engineering hiring programme.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Software Development Engineer | source=claude_web_search_result | url=https://www.placementstore.com/airtel-careers/
+  Title: Bharti Airtel Recruitment 2026 – Software Development Engineer and Information Security Analyst (via official careers page)
+  Evidence: A recruitment aggregator dated April 2026 reports that Bharti Airtel's official careers page (careers.airtel.com) lists active vacancies including 'Software Development Engineer' and 'Information Security Analyst' among other roles, sourced directly from the Airtel Careers portal.
+  Date posted: 2026-04-27
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Information Security Analyst | source=claude_web_search_result | url=https://www.placementstore.com/airtel-careers/
+  Title: Bharti Airtel Recruitment 2026 – Information Security Analyst (via official careers page)
+  Evidence: The same April 2026 aggregator page lists 'Information Security Analyst' as an active Bharti Airtel vacancy sourced from the official careers.airtel.com portal, confirmed as a current opening.
+  Date posted: 2026-04-27
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Tools Architect – ITSM and Observability | source=linkedin | url=https://www.linkedin.com/in/divanshu-khanna-627783b4/
+  Title: Airtel Cloud Solutions – Tools Architect (ITSM and Observability), 10-15 years exp
+  Evidence: A LinkedIn profile activity snippet mentions 'Airtel Cloud Solutions is seeking a Tools Architect specialized in ITSM and Observability with 10-15 years of experience.' Attribution is via a LinkedIn post, not a direct job listing page; company link is indirect.
+  Confidence: Low

@@ -1,0 +1,107 @@
+Company: TAL
+Domain: tal.com.au
+Industry: Financial Services
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 20
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 234 Information Security — mandatory for life insurers; requires secure SDLC, vulnerability management, penetration testing, and IT audit | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/information-security-requirements-for-all-apra-regulated-entities
+  Evidence: CPS 234 applies to authorised deposit-taking institutions (ADIs), general insurers, life insurers, private health insurers, licensees of registrable superannuation entities (RSE licensees) and authorised or registered non-operating holding companies. These information security requirements are designed to ensure APRA-regulated entities have in place appropriate information security capabilities to be resilient against information security incidents.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=CPG 234 explicitly references secure software development and acquisition as a required practice for APRA-regulated entities | regulation=APRA CPG 234 Information Security (Prudential Practice Guide) | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: The outcome of secure software development and acquisition is to ensure that software continues to function as intended regardless of unforeseen circumstances. CPG 234 reinforces the need for an ongoing approach to software security, including identifying requirements, design, selection and configuration, and adherence to standards and guidelines.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA 2025-26 Corporate Plan explicitly targets insurers for CPS 234 cyber resilience supervisory engagement with potential enforcement action | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/apra-corporate-plan-2025-26
+  Evidence: In 2025-26, APRA will prioritise targeted supervisory engagements to assess entities' progress in uplifting cyber resilience. These engagements will focus on evaluating specific cyber control areas and identifying potential single points of failure within entity systems, processes and dependencies. Initial efforts will concentrate on superannuation trustees, insurers and smaller banks.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=APRA CPS 234 requires systematic security testing program including penetration testing of software, annual IT security audits, and independent control testing — ongoing obligation for TAL | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/apra-explains-cyber-security
+  Evidence: Since CPS 234 came into effect, APRA has closely monitored how well our regulated entities are complying with the prudential standard. APRA has publicly called out common areas of weakness in a bid to lift standards in this crucial area, and warned of possible enforcement action against entities failing to comply with their CPS 234 obligations. CPG 234 explicitly identifies penetration testing (for network protection, unauthorised access, software security) and red team testing as expected testing approaches.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 230 Operational Risk Management (in force July 2025) explicitly requires sound IT capability and references CPS 234 for technology risk management | regulation=APRA CPS 230 Operational Risk Management | regulator=APRA
+  Source: official_regulator_website | url=https://handbook.apra.gov.au/standard/cps-230
+  Evidence: An APRA-regulated entity must maintain appropriate and sound information and information technology (IT) capability to meet its current and projected business requirements and to support its critical operations and risk management. In managing technology risks, an APRA-regulated entity must monitor the age and health of its information assets and meet the requirements for information security in Prudential Standard CPS 234 Information Security (CPS 234).
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Australian Cyber Security Act 2024 introduces mandatory ransomware payment reporting (72-hour) for large entities — applicable to TAL given its scale | regulation=Australian Cyber Security Act 2024 | regulator=Department of Home Affairs / ASD
+  Source: public_news | url=https://www.hsfkramer.com/notes/cybersecurity/2025-posts/cyber-security-two-months-in-retrospect-may-june-2025
+  Evidence: From 30 May 2025, many Australian businesses are subject to mandatory ransom payment reporting to the Australian Signals Directorate (ASD), within 72 hours of making a payment or becoming aware one was made on their behalf. The new reporting regime, introduced under the Cyber Security Act 2024, applies to both monetary and non-monetary payments, including gifts or services.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=TAL is confirmed as Australia's largest life insurer, directly APRA-regulated, with 5+ million customers, active cloud-first digital transformation, and a dedicated CISO function | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: company_website | url=https://www.tal.com.au/security
+  Evidence: TAL takes a range of electronic, physical, technological, and other security measures to protect the personal information we hold about you from unauthorised access, unauthorised disclosure, loss, misuse, or interference. These safeguards enable us to keep your information secure while providing products and services.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=TAL publicly operates a CISO function and has deployed enterprise cybersecurity infrastructure (Microsoft Sentinel, Defender) — demonstrating active compliance posture under CPS 234 oversight | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: public_news | url=https://news.microsoft.com/en-au/features/tal-strengthens-cyber-security/
+  Evidence: Dr Venkat Balakrishnan is TAL's Chief Information Security Officer and wants to make cyber security a differentiator for the business. Having visibility of all the threats that TAL faced delivered much more peace of mind to the business, and is also useful as a demonstration to regulators that the firm is doing everything in its power to protect customer data.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=TAL's tech stack includes ISO/IEC 27001 indicators (per third-party intelligence), consistent with CPS 234 compliance alignment and ongoing certification obligations | regulation=ISO/IEC 27001 (Information Security Management) | regulator=APRA
+  Source: public_news | url=https://leadiq.com/c/tal-australia/5a1d7e0124000024005795ec
+  Evidence: TAL Australia's tech stack includes ISO/IEC 27001 as a technology component, alongside Sitecore, DocuSign, Python, and Adobe Tag Manager.
+  Confidence: Low
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA 2024-25 Corporate Plan explicitly identified cyber resilience monitoring for insurers under CPS 234, with intensified supervision and enforcement action for entities with significant vulnerabilities | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: public_news | url=https://www.ashurst.com/en/insights/apra-releases-its-2024-25-corporate-plan-notes-improving-cyber-risk-management/
+  Evidence: Cyber resilience – APRA will monitor insurers to ensure they are meeting requirements under CPS 234. Where appropriate, APRA may intensify supervision, require root cause analysis, request remediation plans, and consider enforcement action.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=From Ukraine to Gaza: IHL Compliance as a Tool for Preventing Moral Injury - Just Security | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2YxVHB3OE95elhtcHd6d05NMTNOdHRSRDdWYmhTamRadW1LVVJ6QlBQOWVnOHU1Sy1mb08zUDFzeFFTd3g0NE4yR0pHWXZHTGc5WmdnOG54UXdGWjJDSnpYMHF0c0F6dU4wS2F4VmtXaGp5V2drUm1jd2t2alFLS0Fncw?oc=5
+  Evidence: From Ukraine to Gaza: IHL Compliance as a Tool for Preventing Moral Injury Just Security
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=DOGE audit makes Manatee County a test case for defying DeSantis and developers - Suncoast Searchlight | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDItbmY4bUE0elpyWk9NZzBQUEQ1VHlocE9LVjJCY1N0N1dTTDJ3U1dTV05kVjA2VnhvLTlDVHl0WW9XbWVKWlVVOU1BeTZxVFlNNXNwSXFhMUJ2Y0hnTHduMmtUZWpscW5BNnBUSlNXdV9pNG1qNnZmcmVDSmxqUmZWaG14bl9OTThz?oc=5
+  Evidence: DOGE audit makes Manatee County a test case for defying DeSantis and developers Suncoast Searchlight
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TalTech IT Scientists Helped Make E-Voting Auditing More Transparent - TalTech | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMimwFBVV95cUxQYktjc3Vud1NNazloQ3dFOW9kaFY2ZmhEeXlobjl3LTlXaWZ5TmxPeUpmeHVWNzBiUExqMGMzT3gxQ2hzUnBNYm9PRl9nN09lc0JNVmltZjBLQVJKWHRIZ3F0MFBSWGthTFVfdlpFdkhlOXJzR1hTcEQ5ZjlQOGg4ZEh1ZzBkSlFFUEh1VmRNaElvMThwR0oyOE0zVQ?oc=5
+  Evidence: TalTech IT Scientists Helped Make E-Voting Auditing More Transparent TalTech
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Konovo Names Jessica Santos as Chief Compliance and Privacy Officer - Business Wire | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNTNkRXVzT2ZCWkZxcGVlZmhmVlJ5QkwzMjFza1M1ZllZTzUwVXhkTnV4NTdBencyakNCejVoOGxFNnU4cHllRmpZNnl1NUtyVXkxU2x1Q0pPTFBfNF93QTl6dGJmYVo3OGdBOXRMdjhYaUgtS093ampnYVFxTGdGVnB4NU9TdThISWhHRDE2TXRSblMxQTBxZzEwRVlvelZ6UC1BQkozVkpaZEE3elVVSzJTeG1NTm4zSHNkWjdYRlRkUQ?oc=5
+  Evidence: Konovo Names Jessica Santos as Chief Compliance and Privacy Officer Business Wire
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=CyFox CEO Yossi Tal: “There is no other agentic compliance solution in the market like ours” - CTech | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SczFkYjRzbmFKN3h5dTJsOUpDVlBDTTg2RkJXcFRhUGswUC1oSmFjdW81QWtVcDVLbkRQLVlZcGloNVpGSnZNWXdTSl9DS0l0akxMNFAwZWRpNC1hZ0pld2VmS1p1WjdB?oc=5
+  Evidence: CyFox CEO Yossi Tal: “There is no other agentic compliance solution in the market like ours” CTech
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=DOJ Civil Rights Division Underscores Risk of Discrimination Claims When Requesting Information from Applicants and Employees for Export Compliance - Akin | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalFSbGlLYjdPNUY4NXR5c2hoSFZtUGw1amhGVF9fM2I2ZU1YbG9LOGNSVDVkS1pYOVVOMVR5S0c2YVZmZWZYcWUyYTlQT1hMcU1RSWg2SUZlcFNPMzVVZmRvTTF0MHZDSjV2Nmc1NTU3QVB5dzlYYVJFeVFnU1p5cEZxd1ZPQUdUN2FPWHV5bjZxWmJIcWR1enlzRTBlMGE5eEE0Q284ckRtLW40VHRQMjNNSjNMdy1r?oc=5
+  Evidence: DOJ Civil Rights Division Underscores Risk of Discrimination Claims When Requesting Information from Applicants and Employees for Export Compliance Akin
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Tal Education $14.1M Securities Settlement Class Action - Claim Depot | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUl9WeFRHVUljc0ZZYzRNOS1fSlZEeC1kREVnODd0YVRGa3M5OG1hS3lKZ1A0ZTBRM0VSUUlNYy00dkJIQ004b0lURDJfb2YtbkpuMG5EWnFkd0RnYWFwVWI2Yw?oc=5
+  Evidence: Tal Education $14.1M Securities Settlement Class Action Claim Depot
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Sabotage of Terna line in Friuli, repercussions on Tal pipeline. Dda and Ros investigations - Il Sole 24 ORE | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxOZllmUTZiYU9EX0N0WE9zeHZramFITDRkWjdmQUJRTFozb1hOQ1ZjVU4yRjZaYi1OZVlJc0VwbDU0X1hYYXJhaDVELXpjdk52QkFaZDF0YnpCR1dpdzctaEVWNHY4TjMyMVBwbmwtTjhIQ2VjUHlNY3BYUjc3bklUWXZrNDBBQUU1V2lkUkhLdGVmaF9CNi11Um5nUkVtT2xJR0JWV2pmem1UbV96cHRmcEtHa2VuQ0xaUTBwejl0V0kzaEVEUkpRa2YyUQ?oc=5
+  Evidence: Sabotage of Terna line in Friuli, repercussions on Tal pipeline. Dda and Ros investigations Il Sole 24 ORE
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Alexander brothers settle breach of contract lawsuit with Side - HousingWire | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUNYNk5TZHA0eVdja05xZ0I4S0NvNHhwRlpSTXV6T3JXMUJTMHFkUkdFR2RWdFhoZTVjc254ZFBRQTNfd1lyVTZ0WmJMTURPOEN1bGtnTTluVXRNUnlndnFvTGMxZVVCU3pjUVFyVE5jcXhiVVBOWVFkTENhLVhyZGFuSk9BQmtGTzR1R05WU216VHZzVGIyNm1n?oc=5
+  Evidence: Alexander brothers settle breach of contract lawsuit with Side HousingWire
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Trends In Healthcare Data Breach Statistics - The HIPAA Journal | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5
+  Evidence: Trends In Healthcare Data Breach Statistics The HIPAA Journal
+  Confidence: Low

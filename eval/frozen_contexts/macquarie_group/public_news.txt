@@ -1,0 +1,19 @@
+Company: Macquarie Group
+Domain: macquarie.com
+Industry: Financial Services
+Country: Australia
+Agent: public_news
+Evidence items: 2
+============================================================
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://jobs.wallstreetfriends.org/companies/macquarie-group/jobs/74334123-platform-engineering-lead
+  Title: Platform Engineering Lead @ Macquarie Group | Wall Street Friends Job Board
+  Snippet: Platform Engineering Lead @ Macquarie Group | Wall Street Friends Job Board JOB BOARD If Opportunity doesn't Knock, Build a Door.... companies Jobs Search jobs Explore companies Join talent network Talent My job alerts Platform Engineering Lead Macquarie Group This job is no longer accepting applications See open jobs at Macquarie Group . See open jobs similar to " Platform Engineering Lead " Wall Street Friends . Software Engineering Posted on Apr 15, 2026 The Macquarie Cyber Engineering team brings exciting opportunities for engineers to innovate, design, build and maintain solutions. As par
+  Published: 2026-04-15 (49 days ago)
+  Summary: Macquarie Group posted a Platform Engineering Lead role, signaling active investment in scaling cloud platform capabilities.
+  Confidence: Medium
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://medium.com/macquarie-engineering-blog/the-journey-to-creating-our-next-generation-cloud-control-plane-part-three-streamlining-the-2b361bc6c83f
+  Title: Macquarie Group's next-generation cloud control plane: streamlining cloud-native service onboarding (Macquarie Engineering Blog, April 2025)
+  Snippet: By Jason Poley, Global Head of Engineering & Jake Wright, Principal Engineer, Core and Personal Technology at Macquarie Group. In this final installment, we shift focus to one of the biggest challenges in cloud-native environments: rapidly onboarding new cloud services while maintaining security, compliance, and operational consistency. CI systems use Markdown files and build Rego artefacts to verify that all deployments abide by security requirements. Semantic versioning and pull request review
+  Confidence: Low

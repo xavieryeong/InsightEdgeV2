@@ -1,0 +1,50 @@
+Company: Macquarie Group
+Domain: macquarie.com
+Industry: Financial Services
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 8
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Senior Application Security Engineer | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Application-Security-Engineer/18351
+  Title: Senior Application Security Engineer – Macquarie Group (Job #17497)
+  Evidence: Confirmed on recruitment.macquarie.com. Job description explicitly lists DevSecOps practices, SAST, DAST, SCA, OWASP, NIST, ISO 27001, CI/CD, and Kubernetes as required experience, with fluency in Java, Python, or Go. Directly names Macquarie Group across the listing.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Junior Platform Security Engineer | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Junior-Platform-Security-Engineer/20505
+  Title: Junior Platform Security Engineer – Macquarie Group (Job #20505)
+  Evidence: Confirmed on recruitment.macquarie.com. Role involves building next-generation cloud platforms with a focus on security, scalability, and performance. Company explicitly named in page title and URL slug. Date not determinable from search snippet.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Platform Engineer | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=21181
+  Title: Platform Engineer – Macquarie Group (Job #21181, 16-Mar-2026)
+  Evidence: Confirmed on recruitment.macquarie.com, dated 16-Mar-2026. Role involves designing, building, and maintaining container-based infrastructure and cloud environments using Kubernetes, AWS, ArgoCD, GitOps tooling, and observability platforms (Prometheus, Grafana). Works closely with engineering, product, and security teams.
+  Date posted: 2026-03-16
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior Platform Engineer (GCP control plane) | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20591
+  Title: Senior Platform Engineer – Macquarie Group (Job #20591)
+  Evidence: Confirmed on recruitment.macquarie.com. Role involves building and supporting a Google Cloud Platform control plane enabling secure cloud use and automation, using Kubernetes, Golang, and GCP data/AI services. Date not confirmed from snippet.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Principal Software Engineer – Capital Markets / Risk Technology | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=21355
+  Title: Principal Software Engineer – Macquarie Group (Job #21355, 17-Mar-2026)
+  Evidence: Confirmed on recruitment.macquarie.com, dated 17-Mar-2026. Senior role requiring SDLC ownership, CI/CD, infrastructure as code, containerised services, and polyglot backend development (Python, Scala, Java, C/C++). Focused on automated model risk and control systems within Commodities and Global Markets.
+  Date posted: 2026-03-17
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=BFS Software Engineer (Banking and Financial Services) | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/FeaturedJobs/?jobRecordsPerPage=9&jobOffset=9
+  Title: BFS Software Engineer – Macquarie Group (Job #20740, 29-Apr-2026)
+  Evidence: Confirmed on recruitment.macquarie.com featured jobs listing, dated 29-Apr-2026. Category listed as 'BFS - Software Engineer', indicating hiring within the Banking and Financial Services division, consistent with the broader digital bank build-out described in other postings.
+  Date posted: 2026-04-29
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud Data Platform Engineer (GCP/Kubernetes) | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Cloud-Data-Platform-Engineer/19303
+  Title: Cloud Data Platform Engineer – Macquarie Group (Job #19303)
+  Evidence: Confirmed on recruitment.macquarie.com. Role targets 100% cloud adoption on GCP and AWS using Kubernetes, ArgoCD, Hashicorp Vault, and Go operators. Explicitly describes building 'automated, extensible and secure cloud capabilities underpinning our Digital Bank.' Date not confirmed.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud DevOps Engineer | AI Platform | source=careers_page | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Cloud-DevOps-Engineer-AI/15627
+  Title: Cloud DevOps Engineer | AI – Macquarie Group (Job #15627)
+  Evidence: Confirmed on recruitment.macquarie.com. Role involves supporting the Macquarie AI Platform, managing cloud-based AI infrastructure stability, patching, and operations. Reflects investment in cloud-native AI infrastructure atop existing DevOps platforms. Date not confirmed.
+  Confidence: High

@@ -1,0 +1,17 @@
+Company: Viettel
+Domain: viettel.com.vn
+Industry: Telecommunications
+Country: Vietnam
+Agent: regulatory_impact
+Evidence items: 2
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=Vietnam Cybersecurity Law No. 116/2025/QH15 — mandatory cybersecurity assessments, data security, and incident response obligations for telecommunications operators, effective 1 July 2026 | regulation=Law on Cybersecurity No. 116/2025/QH15 | regulator=National Assembly of Vietnam / Ministry of Public Security
+  Source: official_regulator_website | url=https://english.luatvietnam.vn/lawoncybersecurityno116-2025-qh15dateddecember102025ofthenationalassembly-422396-doc1.html
+  Evidence: The Law identifies information systems critical to national security, including telecommunications. Such systems are required to undergo cybersecurity assessments, certification, monitoring, and incident response measures before being put into operation and must be subject to regular cybersecurity examination and monitoring during operation. Operators must apply data protection measures and store data in Vietnam.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=Viettel publicly holds ISO 27001, CREST (Pentest/SOC), and PCI DSS certifications — active as of 2024/2025 | regulation=ISO 27001 / PCI DSS / CREST | regulator=ISO / PCI Security Standards Council / CREST
+  Source: company_website | url=https://viettelamerica.com/cyber-security/
+  Evidence: Viettel's cybersecurity division lists: 'Certified ISO 27001 Information Security Management System; CREST (Pentest, SOC); PCI DSS Compliant; VB 100 virus' as active certificates, covering 16,000 applications and 50,000 endpoints across 11 countries.
+  Confidence: High

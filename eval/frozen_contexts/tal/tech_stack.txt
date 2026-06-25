@@ -1,0 +1,57 @@
+Company: TAL
+Domain: tal.com.au
+Industry: Financial Services
+Country: Australia
+Agent: tech_stack
+Evidence items: 10
+============================================================
+
+[TECH] Microsoft Azure (primary cloud platform) | category=cloud_native_presence | source=developer_docs | url=https://news.microsoft.com/source/asia/2026/04/21/tal-expands-microsoft-partnership-to-accelerate-digital-transformation-and-uplift-ai-skills/
+  Evidence: TAL's new five-year Microsoft agreement explicitly targets consolidating TAL's data on Azure and building AI tools, described by TAL as its largest ever technology deal. Microsoft will jointly invest in TAL's engineering capability on Azure.
+  Repo: https://news.microsoft.com/source/asia/2026/04/21/tal-expands-microsoft-partnership-to-accelerate-digital-transformation-and-uplift-ai-skills/
+  Confidence: High
+
+[TECH] Azure OpenAI Service (in-production engineering use) | category=cloud_native_presence | source=developer_docs | url=https://www.tal.com.au/about-us/media-centre/tal-microsoft-partnership
+  Evidence: TAL's Head of Digital Engineering confirmed active engineering use of Azure OpenAI to build scalable AI solutions across the business. TAL's engineering team uses Azure OpenAI Service in production for claims knowledge tools.
+  Repo: https://www.tal.com.au/about-us/media-centre/tal-microsoft-partnership
+  Confidence: High
+
+[TECH] Java | category=relevant_languages | source=tech_listing | url=https://www.slintel.com/company/tal-australia/5c3b0663d55ae49f1b7f183c
+  Evidence: Slintel lists TAL Australia (tal.com.au) as using Java as one of its active programming languages, alongside JavaScript and VB.NET.
+  Repo: https://www.slintel.com/company/tal-australia/5c3b0663d55ae49f1b7f183c
+  Confidence: Medium
+
+[TECH] JavaScript | category=relevant_languages | source=tech_listing | url=https://www.slintel.com/company/tal-australia/5c3b0663d55ae49f1b7f183c
+  Evidence: Slintel explicitly lists JavaScript as a technology used by TAL Australia (tal.com.au), alongside Java and Microsoft Azure.
+  Repo: https://www.slintel.com/company/tal-australia/5c3b0663d55ae49f1b7f183c
+  Confidence: Medium
+
+[TECH] Python | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/tal-australia/5a1d7e0124000024005795ec
+  Evidence: LeadIQ lists TAL Australia's tech stack as including Python, alongside Sitecore, Quantcast Measure, DocuSign, and reCAPTCHA. LeadIQ confirms the official website is tal.com.au.
+  Repo: https://leadiq.com/c/tal-australia/5a1d7e0124000024005795ec
+  Confidence: Medium
+
+[TECH] Bitbucket Pipelines | category=ci_cd_maturity | source=tech_listing | url=https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Evidence: 6sense lists Bitbucket Pipelines as one of the top technologies used by TAL (the Australian life insurer), alongside Azure Test Plans and Cucumber.
+  Repo: https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Confidence: Medium
+
+[TECH] Azure Test Plans | category=ci_cd_maturity | source=tech_listing | url=https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Evidence: 6sense lists Azure Test Plans as one of the top technologies used by TAL. JUnit and NUnit are also listed, indicating multi-language test frameworks in active use.
+  Repo: https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Confidence: Medium
+
+[TECH] GitHub Copilot (active engineer adoption) | category=engineering_visibility | source=developer_docs | url=https://www.insurancebusinessmag.com/au/news/technology/tal-enhances-customer-and-employee-experience-with-microsoft-deal-496402.aspx
+  Evidence: Insurance Business Magazine confirms that TAL's engineers use GitHub Copilot to improve coding accuracy and accelerate development of customer and partner solutions.
+  Repo: https://www.insurancebusinessmag.com/au/news/technology/tal-enhances-customer-and-employee-experience-with-microsoft-deal-496402.aspx
+  Confidence: High
+
+[TECH] Active engineering team with named Head of Digital Engineering | category=engineering_visibility | source=developer_docs | url=https://www.tal.com.au/about-us/careers/innovation-and-technology
+  Evidence: TAL's public careers page describes an active Technology & Innovation team. TAL also publicly named a Head of Digital Engineering (Sajeewa Arachchillage) in press materials, indicating a visible and structured engineering organisation.
+  Repo: https://www.tal.com.au/about-us/careers/innovation-and-technology
+  Confidence: High
+
+[TECH] Cucumber (BDD testing framework) | category=ci_cd_maturity | source=tech_listing | url=https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Evidence: 6sense lists Cucumber as a top technology used by TAL, indicating behaviour-driven development practices integrated into TAL's CI/CD workflow.
+  Repo: https://6sense.com/company/tal/5c3b0663d55ae49f1b7f183c
+  Confidence: Medium

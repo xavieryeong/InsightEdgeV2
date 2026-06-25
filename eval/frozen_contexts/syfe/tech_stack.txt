@@ -1,0 +1,42 @@
+Company: Syfe
+Domain: syfe.com
+Industry: fintech
+Country: SG
+Agent: tech_stack
+Evidence items: 7
+============================================================
+
+[TECH] Python, Java, Go, Node.js — Backend Engineer job postings (careers.syfe.com) | category=relevant_languages | source=developer_docs | url=https://careers.syfe.com/jobs/piQRw7r7wjSn/backend-sde-i
+  Evidence: Syfe's Backend SDE I posting explicitly tags the role with 'python, java, GOLANG, NODE.JS'. Multiple Syfe backend job listings across careers.syfe.com and LinkedIn confirm this polyglot backend stack.
+  Repo: https://careers.syfe.com/jobs/piQRw7r7wjSn/backend-sde-i
+  Confidence: High
+
+[TECH] Java, Kotlin, Python, Go — SDE II/III Backend LinkedIn postings for Syfe | category=relevant_languages | source=claude_web_search_result | url=https://in.linkedin.com/jobs/view/sde-ii-backend-at-syfe-3350375698
+  Evidence: Syfe SDE II/III Backend LinkedIn postings list required skills as 'Kotlin, Python, Java, NodeJS and Go Programming (Golang)', corroborating the polyglot backend confirmed in Syfe's own career portal.
+  Repo: https://in.linkedin.com/jobs/view/sde-ii-backend-at-syfe-3350375698
+  Confidence: High
+
+[TECH] Jenkins + Helm + GitHub + AWS EKS CI/CD pipeline | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/@syfe.tech/continuous-integration-deployments-at-syfe-72efec188f75
+  Evidence: Syfe's own engineering blog article 'Continuous Integration & Deployments at Syfe' explicitly names Jenkins (master-agent), AWS EKS, Helmfile, and GitHub PR/webhook-based branching as their CI/CD stack. The pipeline runs end-to-end and deploys to Kubernetes namespaces per developer.
+  Repo: https://medium.com/@syfe.tech/continuous-integration-deployments-at-syfe-72efec188f75
+  Confidence: High
+
+[TECH] Kubernetes (AWS EKS), multi-cluster with per-env isolation | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/@syfe.tech/continuous-integration-deployments-at-syfe-72efec188f75
+  Evidence: Syfe's engineering blog confirms they run Kubernetes on AWS EKS with separate clusters per environment (production/non-production), using Helm charts to spin up the entire application stack across 'N' namespaces. Dynamic UAT environments are provisioned and destroyed automatically.
+  Repo: https://medium.com/@syfe.tech/continuous-integration-deployments-at-syfe-72efec188f75
+  Confidence: High
+
+[TECH] AWS, Docker, Kubernetes, Terraform, Jenkins — DevOps SDE job posting | category=cloud_native_presence | source=developer_docs | url=https://careers.syfe.com/jobs/ZAvsGnHfumsB/
+  Evidence: Syfe's Software Engineer - DevOps job posting (careers.syfe.com) requires 'hands-on with DevOps tooling: Jenkins, Git, Docker, Kubernetes, Terraform' and 'strong experience designing and managing cloud-native architectures (AWS preferred; Azure or GCP also valued)'.
+  Repo: https://careers.syfe.com/jobs/ZAvsGnHfumsB/
+  Confidence: High
+
+[TECH] Syfe Tech Medium engineering blog — active public engineering presence | category=engineering_visibility | source=engineering_blog | url=https://medium.com/@syfe.tech
+  Evidence: Syfe maintains an active engineering blog at medium.com/@syfe.tech, publishing detailed technical articles including their CI/CD architecture. The blog identifies Syfe as a 60+ member development team shipping code daily.
+  Repo: https://medium.com/@syfe.tech
+  Confidence: High
+
+[TECH] Kubernetes, NoSQL, Amazon S3, Ansible — third-party tech listing | category=cloud_native_presence | source=tech_listing | url=https://leadiq.com/c/syfe/5d395a1a6c628d54884236de
+  Evidence: LeadIQ lists Syfe's tech stack as including Kubernetes, NoSQL, Open Graph, and Algolia. RocketReach independently lists Amazon S3 and Ansible among 61 tools attributed to Syfe.
+  Repo: https://leadiq.com/c/syfe/5d395a1a6c628d54884236de
+  Confidence: Medium

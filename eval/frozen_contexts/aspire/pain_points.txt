@@ -1,0 +1,47 @@
+Company: Aspire
+Domain: aspireapp.com
+Industry: fintech
+Country: SG
+Agent: pain_points
+Evidence items: 8
+============================================================
+
+[PAIN] category=developer_velocity_pain | source=company_engineering_blog | url=https://aspireapp.com/blog/aspire-opens-new-hq-in-singapore-to-drive-fintech-innovation
+  Title: Aspire plans to double Singapore engineering headcount to 300 by 2025 with cybersecurity investment
+  Evidence: Aspire officially announced plans to double its local highly skilled fintech workforce to 300 in Singapore, and opened a new financial technology excellence hub through which it will invest in strategic technologies including Artificial Intelligence and Cybersecurity. This is a company-owned source directly naming Aspire.
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=company_engineering_blog | url=https://aspireapp.com/blog/aspire-sets-new-standards-for-compliance-excellence
+  Title: Aspire IT security, risk and compliance teams grew 5x in 24 months (Sept 2024)
+  Evidence: Aspire publicly announced that its compliance, risk, and IT security teams have grown 5x in the last 24 months as of September 2024, with over 600 employees across nine countries. This is a company-owned blog post explicitly naming Aspire and confirming a major security staffing investment cycle.
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=claude_web_search_result | url=https://aspireapp.com/security-and-compliance
+  Title: Aspire embeds 'secure code practices' in SDLC; holds PCI DSS v4.0, ISO 27001:2022, SOC 2 Type II
+  Evidence: Aspire's own security and compliance page states they 'embed security into every layer of operations and product development life cycle' and explicitly cites 'secure code practices' alongside penetration testing. The company holds PCI DSS v4.0, ISO 27001:2022, and SOC 2 Type II certifications — all of which demand documented secure development controls.
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=claude_web_search_result | url=https://cybersecurityasia.net/aspire-5x-growth-it-security-and-compliance/
+  Title: Aspire cites 20% rise in APAC financial crimes as driver for IT security investment
+  Evidence: Third-party security news coverage confirmed Aspire's 5x IT security team growth and noted that 'increasingly sophisticated fraud attacks in APAC leading to a reported 20% increase in financial crimes in the region' is a key driver behind Aspire's security investment. Aspire is explicitly named and directly quoted in the article.
+  Confidence: High
+
+[PAIN] category=developer_velocity_pain | source=company_engineering_blog | url=https://aspireapp.com/blog/how-aspires-senior-ui-developer-is-taking-user-experience-to-the-next-level
+  Title: Aspire confirms Vue.js as primary frontend technology stack
+  Evidence: Aspire's own engineering blog, in an interview with their Senior Frontend Engineer, confirms: 'At Aspire, this [Vue.js] is hugely important as we mostly use this for all our front end technologies.' This confirms the JavaScript/Vue.js tech stack for Sonar targeting purposes.
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=claude_web_search_result | url=https://fintechnews.sg/101536/digital-banking-news-singapore/aspire-bolsters-compliance-team/
+  Title: Aspire compliance team doubled in size in one year amid global expansion (Sept 2024)
+  Evidence: Fintech News Singapore reported Aspire's compliance team doubled in size in one year. The article explicitly names Aspire and quotes the importance of compliance as Aspire expands into new geographies and acquires new regulatory licenses (MSO in Hong Kong).
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=claude_web_search_result | url=https://fintechnews.sg/81345/digital-banking-news-singapore/aspire-unveils-new-singapore-hq-aims-to-double-fintech-workforce-by-2025/
+  Title: Aspire FinTech Excellence Hub: AI and Cybersecurity named as strategic technology investments
+  Evidence: Multiple independent fintech publications confirmed Aspire set up a FinTech Excellence Hub in Singapore to 'drive product R&D and invest in strategic technologies at the core of the Fintech industry, including Artificial Intelligence (AI) and Cybersecurity.' Aspire is explicitly named as the company.
+  Confidence: High
+
+[PAIN] category=code_quality_pain | source=claude_web_search_result | url=https://aspireapp.com/blog/from-dissecting-frogs-to-spearheading-tech-how-aspires-head-of-engineering-builds-a-winning-team
+  Title: Aspire Head of Engineering manages cross-functional teams as product innovation is accelerating
+  Evidence: Aspire's own blog profiles its Head of Engineering managing 'cross-functional teams remotely' while 'constantly conceptualising new products.' This confirms the delivery pressure context of a fast-moving product team needing engineering quality controls as headcount scales.
+  Confidence: Medium

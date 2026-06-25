@@ -1,0 +1,18 @@
+Company: OwnBank
+Domain: ownbank.com.ph
+Industry: Banking
+Country: PH
+Agent: pain_points
+Evidence items: 2
+============================================================
+
+[PAIN] category=security_incident_pain | source=claude_web_search_result | url=https://apps.apple.com/ph/app/ownbank/id1623288463
+  Title: App Store user question about OwnBank app security
+  Evidence: A public App Store review for the OwnBank app (published by OWN BANK, THE RURAL BANK OF CAVITE CITY, INC.) includes the user comment 'Where is the security of this app?' and separate references to other users complaining about missing security features such as Face ID or PIN. This is an end-user complaint, not an engineering or internal security incident signal.
+  Confidence: Low
+
+[PAIN] category=developer_velocity_pain | source=claude_web_search_result | url=https://play.google.com/store/apps/details?id=com.finance.ownbank&hl=en
+  Title: OwnBank Google Play — frequent app updates and user-reported verification bugs
+  Evidence: The OwnBank app on Google Play (developer email: developer@ownbank.com.ph) was last updated April 2, 2026, and App Store on May 13, 2026, suggesting an active release cadence. A user review noted repeated 'Account Upgrade Failed' errors across 7 attempts, suggesting possible quality issues in the verification flow. This is an end-user signal only; no internal engineering or CI/CD pain is documented.
+  Date: 2026-04-02
+  Confidence: Low

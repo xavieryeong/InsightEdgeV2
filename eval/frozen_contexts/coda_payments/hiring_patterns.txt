@@ -1,0 +1,57 @@
+Company: Coda Payments
+Domain: coda.com
+Industry: payments
+Country: SG
+Agent: hiring_patterns
+Evidence items: 10
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Application Security Specialist | source=ats_platform | url=https://jobs.lever.co/codapayments/34b6ea3d-2a3f-470d-b2da-75cc6a155510
+  Title: Coda Payments – Application Security Specialist (Lever)
+  Evidence: Role explicitly requires designing the Secure SDLC with control gates, defining 'operational processes for static and dynamic code analysis tools by integration into the CI/CD pipelines,' threat modelling, penetration testing, and CVSS-based vulnerability risk assessments. Company name 'Coda Payments' is present in the page title and URL slug on jobs.lever.co/codapayments.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Application Security Specialist (corroborated) | source=job_board | url=https://jobs.insightpartners.com/companies/coda-3-b5777da8-9b88-4608-965a-4bc461e98548/jobs/50027020-application-security-specialist
+  Title: Application Security Specialist @ Coda – Insight Partners Job Board
+  Evidence: Same Application Security Specialist role mirrored on the Insight Partners portfolio job board, explicitly attributing the role to Coda (codapayments.com) and listing requirements including OWASP, CVE/CVSS/CWE/CAPEC frameworks, secure source code review, and 5-7 years cybersecurity experience with pentest/bug bounty background. Metadata date: April 30, 2025.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior DevOps Engineer (Cloud Solutions) | source=ats_platform | url=https://jobs.lever.co/codapayments/3245303e-3cef-446b-8354-808acb5cc35e
+  Title: Coda Payments – Senior DevOps Engineer (Cloud Solutions) (Lever)
+  Evidence: Confirmed Coda Payments posting on Lever ATS for a Senior DevOps Engineer focused on cloud solutions, operating within Coda's high-volume AWS-based payments and e-commerce platform. Company name unambiguously present in page title and URL slug.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior AWS DevSecOps Engineer | source=linkedin | url=https://sg.linkedin.com/jobs/view/senior-aws-devsecops-engineer-at-coda-payments-2487765565
+  Title: Coda Payments – Senior AWS DevSecOps Engineer (LinkedIn, Singapore)
+  Evidence: LinkedIn listing explicitly names 'Coda Payments' as the hiring company for a Senior AWS DevSecOps Engineer in Singapore. Role requires CI/CD tools (Jenkins), Terraform, Kubernetes/EKS/Docker, AWS Organizations, cloud security (AWS Well-Architected Framework), and experience with monitoring tools (Grafana, ELK, Prometheus, NewRelic).
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer, Codapay | source=ats_platform | url=https://jobs.lever.co/codapayments/c256c837-d6fd-46e8-b0c7-9db264d57cf4
+  Title: Coda Payments – Software Engineer (Lever)
+  Evidence: Confirmed Coda Payments Lever posting for a Software Engineer on the Payments (CodaPay) team. Role calls for building 'high-scale, distributed systems' and 'scalable, secured payments platforms.' AWS cloud stack, microservices, Quarkus framework, infrastructure-as-code.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior/Staff Software Engineer, Codapay | source=ats_platform | url=https://jobs.lever.co/codapayments/f0f2ce4e-ed5d-47ac-a6b5-effe37db8dfd
+  Title: Coda Payments – Senior/Staff Software Engineer, Codapay (Lever)
+  Evidence: Confirmed Lever posting for Senior/Staff Software Engineer on the Codapay team. Tech stack is 'solidly based on AWS cloud, with infrastructure-as-code and microservices via Quarkus.' Polyglot requirements (Java, Kotlin, Go, Python, Rust, C#) and explicit CI/CD practice expectations.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer, Codapay Platform (All Levels) | source=job_board | url=https://jobs.insightpartners.com/companies/coda-3-b5777da8-9b88-4608-965a-4bc461e98548/jobs/57475698-software-engineer-codapay-platform-all-levels
+  Title: Software Engineer, Codapay Platform (All Levels) @ Coda – Insight Partners
+  Evidence: Open to all levels (Mid, Senior, Staff), explicitly attributing role to Coda on the Insight Partners portfolio board. Requires state-of-the-art CI/CD practices, AWS cloud, Quarkus microservices, polyglot programming. Metadata date: August 28, 2025.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior/Staff Software Engineer, Codashop | source=job_board | url=https://jobs.insightpartners.com/companies/coda-3-b5777da8-9b88-4608-965a-4bc461e98548/jobs/43184789-senior-staff-software-engineer-codashop
+  Title: Senior/Staff Software Engineer, Codashop @ Coda – Insight Partners
+  Evidence: Confirmed Coda role on Insight Partners board for Codashop team. Requirements include CI/CD practices, 5+ years development experience, and building 'highly scalable, reliable, secure, and fault-tolerant systems.' AWS cloud with IaC and Quarkus framework.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Technical Lead | source=ats_platform | url=https://jobs.lever.co/codapayments/2bbb8870-2726-4b82-ad95-0f01e9590ba6
+  Title: Coda Payments – Technical Lead (Lever)
+  Evidence: Confirmed Lever posting for Technical Lead at Coda Payments requiring ownership of core systems, defining technology roadmap, and building 'highly scalable, reliable, secure, and fault-tolerant systems.' AWS cloud, IaC, microservices with Quarkus, OpenTelemetry.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Senior AWS DevSecOps Engineer (AWS/infrastructure focus) | source=linkedin | url=https://sg.linkedin.com/jobs/view/senior-aws-devsecops-engineer-at-coda-payments-2487765565
+  Title: Coda Payments – Senior AWS DevSecOps Engineer (cloud infra dimension)
+  Evidence: Role requirements include deploying and managing AWS cloud production systems, containerized workloads (EKS, Docker, Kubernetes), Terraform and Ansible for IaC, and working with AWS Organizations in a multi-account environment. Confirms AWS-native cloud infrastructure complexity.
+  Confidence: High

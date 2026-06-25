@@ -1,0 +1,57 @@
+Company: DBS
+Domain: dbs.com.sg
+Industry: banking
+Country: SG
+Agent: regulatory_impact
+Evidence items: 10
+============================================================
+
+[REGULATORY] type=active_fine_lawsuit | value=DBS disclosed $74M exposure from Singapore money laundering scandal, triggering compliance reviews and regulatory scrutiny | regulation=MAS supervisory oversight | regulator=MAS (Monetary Authority of Singapore)
+  Source: public_news | url=https://www.complianceweek.com/banking/singapore-bank-dbs-says-74m-exposure-from-money-laundering-scandal/36182.article
+  Evidence: Singapore bank DBS disclosed approximately $74 million in exposure related to Singapore's largest-ever money laundering case in 2023. The scandal triggered significant compliance scrutiny of Singapore banks by MAS and prompted compliance programme reviews across the sector. While primarily AML-related, the regulatory pressure increased MAS's focus on overall institutional compliance posture including technology controls.
+  Confidence: Medium
+
+[REGULATORY] type=active_fine_lawsuit | value=DBS received regulatory reprimand and capital requirement increase from MAS following 2023 service disruptions; MAS imposed additional capital requirements on DBS for repeated digital banking outages | regulation=MAS Technology Risk Management Guidelines | regulator=MAS (Monetary Authority of Singapore)
+  Source: public_news | url=https://www.mas.gov.sg/regulation/enforcement/enforcement-actions
+  Evidence: MAS imposed additional regulatory capital requirements on DBS Bank in 2023 following repeated digital banking service disruptions, citing inadequate technology risk management and resilience. MAS directed DBS to conduct a review of its technology risk management practices and submit findings. This enforcement action by MAS is directly relevant to DBS's technology risk posture and software quality obligations under MAS TRM Guidelines. The enforcement action remains an ongoing compliance obligation for DBS.
+  Confidence: Medium
+
+[REGULATORY] type=regional_regulator_relevance | value=MAS Technology Risk Management Guidelines applicable to DBS as a Singapore-licensed bank | regulation=MAS Technology Risk Management Guidelines | regulator=MAS (Monetary Authority of Singapore)
+  Source: official_regulator_website | url=https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines
+  Evidence: The MAS Technology Risk Management Guidelines (revised 2021, ongoing) set out MAS's expectations for financial institutions in Singapore to maintain robust technology risk management practices. This includes requirements for secure software development lifecycle (SSDLC), application security testing, vulnerability management, and software patch controls. As a MAS-licensed bank, DBS is directly subject to these guidelines. The guidelines explicitly address software security assessment, application vulnerability scanning, and the need for documented SDLC security controls.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=MAS Cyber Hygiene Notice legally mandates patch management, vulnerability assessment, and secure software controls for Singapore FIs including DBS | regulation=MAS Notice on Cyber Hygiene | regulator=MAS (Monetary Authority of Singapore)
+  Source: official_regulator_website | url=https://www.mas.gov.sg/regulation/notices/notice-on-cyber-hygiene
+  Evidence: The MAS Notice on Cyber Hygiene is a legally binding notice applicable to all MAS-regulated financial institutions in Singapore, including banks such as DBS. The notice mandates controls including: patching of software security vulnerabilities, restricting usage of unsupported software, implementation of malware protection, and multi-factor authentication. Application-level vulnerability management and secure software patching are directly relevant to Sonar's capabilities. DBS must demonstrate compliance with these controls on an ongoing basis.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=PCI DSS 4.0 Requirement 6.2 mandates secure development of bespoke software for payment card data environments — applicable to DBS's credit card and payment platforms | regulation=PCI DSS 4.0 | regulator=PCI SSC
+  Source: industry_mapping | url=
+  Evidence: DBS operates one of Asia's largest credit card businesses and digital payment platforms, processing, storing, and transmitting payment card data. PCI DSS 4.0, effective March 2024, requires organisations handling payment card data to implement a secure software development lifecycle for bespoke and custom software (Requirement 6.2). This includes security testing, code review, and use of automated security scanning tools in CI/CD pipelines — directly addressed by Sonar's SAST and quality gate capabilities. DBS as a card issuer and payment processor is subject to PCI DSS compliance.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=DBS has appointed new Group Audit Head (February 2025), signalling active audit governance and internal audit infrastructure investment | regulation=MAS TRM / internal audit governance | regulator=MAS (Monetary Authority of Singapore)
+  Source: public_news | url=https://asianbankingandfinance.net/retail-banking/news/dbs-names-new-group-coo-group-audit-head
+  Evidence: DBS named a new Group COO and Group Audit Head in February 2025, per Asian Banking & Finance. The appointment of a Group Audit Head signals DBS's active investment in audit governance and internal control infrastructure. For Sonar, this creates an opportunity to position code quality and SAST outputs as audit-ready evidence that a newly appointed Group Audit Head would value for demonstrating software security controls to MAS and other regulators.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=DBS deploying AI-driven Alpha Squads to blend legal, compliance, and risk roles — active compliance programme expansion in 2025-2026 | regulation=Internal compliance programme | regulator=MAS (Monetary Authority of Singapore)
+  Source: public_news | url=https://fintechnews.sg/112977/artificial-intelligence/dbs-introduces-alpha-squads-in-legal-and-compliance-as-ai-adoption-expands/
+  Evidence: DBS is introducing 'Alpha Squads' that blend legal, compliance, and risk roles using AI, as reported by Fintech Singapore (April 2026). This signals an active and expanding compliance programme at DBS. The integration of AI into compliance workflows suggests DBS is modernising its compliance infrastructure broadly — an environment where Sonar's automated code quality and security tooling would complement the organisation's compliance-by-design direction.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=DBS named top CCO in Hong Kong and appointed new CCO for India (2024), indicating active compliance leadership investment across jurisdictions | regulation=General compliance governance | regulator=MAS / RBI (India)
+  Source: public_news | url=https://www.legalbusinessonline.com/features/top-15-chief-compliance-officers/debra-au-dbs-hong-kong
+  Evidence: Asian Legal Business named Debra Au (DBS Hong Kong) a Top 15 Chief Compliance Officer in 2024, and DBS appointed Prem P Ranjan as Executive Director & Chief Compliance Officer for India in March 2024. These appointments across multiple DBS markets indicate a sustained, multi-jurisdictional compliance investment. For Sonar, this reinforces that DBS has active compliance leadership who would be key stakeholders for secure SDLC tooling conversations.
+  Confidence: Medium
+
+[REGULATORY] type=regulated_industry | value=DBS is a systemically important financial institution (SIFI) in Singapore, subject to the highest tier of MAS regulatory oversight | regulation=MAS D-SIB Framework / TRM Guidelines | regulator=MAS (Monetary Authority of Singapore)
+  Source: industry_mapping | url=
+  Evidence: DBS Bank is Singapore's largest bank by assets and is designated as a Domestic Systemically Important Bank (D-SIB) by MAS. This status means DBS faces the most stringent regulatory requirements in Singapore, including enhanced technology risk management, operational resilience, and cybersecurity obligations. As a SIFI, DBS is subject to heightened MAS scrutiny and more frequent regulatory review cycles — increasing the urgency of maintaining verifiable, audit-ready software security controls.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=DBS crypto and compliance governance discussed at TRM Labs — DBS actively engaged with crypto compliance and blockchain transaction monitoring | regulation=MAS compliance / crypto asset governance | regulator=MAS (Monetary Authority of Singapore)
+  Source: public_news | url=https://www.trmlabs.com/post/building-a-bank-with-a-heart-inside-dbss-approach-to-crypto-compliance-and-ai-with-chee-kin-lam
+  Evidence: TRM Labs published a feature (March 2026) on DBS's approach to crypto, compliance, and AI with Chee Kin Lam (DBS Group Chief Compliance Officer). The discussion covers DBS's compliance philosophy, including technology-driven compliance. This signals DBS's senior compliance leadership is actively engaged in technology-augmented compliance — a context where Sonar's automated security and quality tooling would be well-received as part of a broader compliance-by-design strategy.
+  Confidence: Medium

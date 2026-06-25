@@ -1,0 +1,82 @@
+Company: DBS
+Domain: dbs.com.sg
+Industry: banking
+Country: SG
+Agent: hiring_patterns
+Evidence items: 15
+============================================================
+
+[HIRING] type=devsecops_appsec | value=AVP/Sr. Assoc, Application Security Engineer, Information Security Services, Group Technology | source=job_board | url=https://www.glassdoor.sg/Jobs/DBS-Bank-cyber-security-engineer-Singapore-Jobs-EI_IE611812.0,8_KO9,32_IL.33,42_IC3235921.htm
+  Title: DBS Bank — Application Security Engineer (AVP/Sr. Assoc), Information Security Services, Group Technology
+  Evidence: Glassdoor lists 'AVP/Sr. Assoc, Application Security Engineer, Information Security Services, Group Technology' as an active open role at DBS Bank. Also listed on the main DBS Bank Glassdoor jobs page with 229 open positions.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=AVP, DevSecOps Engineer, Information Security Services, Group Technology | source=linkedin | url=https://sg.linkedin.com/jobs/view/avp-devsecops-engineer-information-security-services-group-technology-at-dbs-bank-4396566552
+  Title: DBS Bank — AVP, DevSecOps Engineer, Information Security Services, Group Technology (LinkedIn, 3 weeks ago)
+  Evidence: LinkedIn job posting explicitly titled 'AVP, DevSecOps Engineer, Information Security Services, Group Technology' at DBS Bank, posted approximately 3 weeks ago. Also corroborated on Glassdoor DevOps search: 'AVP, DevSecOps Engineer, Information Security Services, Group Technology · Singapore · 27d'.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Senior Associate / Associate, Software Developer (DevSecOps), Information Security Services | source=linkedin | url=https://sg.linkedin.com/jobs/view/senior-associate-associate-software-developer-devsecops-information-security-services-technology-and-operations-at-dbs-bank-3798511414
+  Title: DBS Bank — Senior Associate / Associate, Software Developer (DevSecOps), Information Security Services
+  Evidence: LinkedIn posting confirms DBS Bank is hiring a Developer with explicit knowledge of 'secure coding practices and cryptography' to 'design, develop, test, operate and support security technologies' within the in-house Information Security Services team. Also listed on LinkedIn's information security jobs page for DBS Bank.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=AVP/Senior Associate, DevSecOps Engineer, Access Management, Information Security Services, Group Technology | source=job_board | url=https://www.efinancialcareers.sg/jobs-Singapore-Singapore-AVPSenior_Associate_DevSecOps_Engineer_Access_Management_Information_Security_Services_Group_Technology.id23203707
+  Title: DBS Bank — AVP/Senior Associate, DevSecOps Engineer, Access Management, Information Security Services (eFinancialCareers, Sep 2025)
+  Evidence: eFinancialCareers listing for DBS Bank Limited confirms: 'The Cybersecurity engineer will work with a team of engineers, developers to support IAM infrastructure consisting of components required to provide multifactor authentication (MFA) for DBS employees.' Dated September 2025.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=VP / AVP, SRE Platform Engineer, Tech Services, Technology & Operations | source=job_board | url=https://nodeflair.com/jobs/dbs-bank-vp-avp-sre-platform-engineer-tech-services-technology-operations-87526
+  Title: DBS Bank — VP / AVP, SRE Platform Engineer, Tech Services, Technology & Operations (NodeFlair)
+  Evidence: NodeFlair page explicitly names DBS Bank and lists multiple SRE roles: VP/AVP SRE Platform Engineer, VP SRE Lead (Digital Banking), Associate SRE Engineer, AVP SNOC Site Reliability Engineer Lead, and AVP Site Reliability Engineer – CORE Banking. Role requires experience in 'SRE practices covering monitoring, observability, performance management, automation, and resiliency' and 'DevOps pipelines.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior Associate/Associate, DevOps Engineer, SRE & Governance, Group Technology | source=job_board | url=https://sg.indeed.com/q-dbs-devops-jobs.html
+  Title: DBS Bank — Senior Associate/Associate, DevOps Engineer, SRE & Governance, Group Technology (Indeed)
+  Evidence: Indeed Singapore search for DBS Bank DevOps confirms active listing: 'Senior Associate/Associate, DevOps Engineer, SRE & Governance, Group Technology' with responsibilities including 'Design, Implementation and maintain continuous integration/delivery (CI/CD) pipelines for automated testing, building and deployment' and managing 'cloud services (AWS and Openshift)' with containerization via Docker and Kubernetes.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=ED / SVP, DevOps Transformational Lead, SRE & Governance, Group Technology | source=job_board | url=https://sg.indeed.com/Dbs-Devops-jobs
+  Title: DBS Bank — ED / SVP, DevOps Transformational Lead, SRE & Governance, Group Technology (Indeed)
+  Evidence: Indeed lists a senior leadership DevOps role at DBS Bank at Executive Director / SVP level within SRE & Governance, Group Technology, confirming DBS is investing at a strategic leadership level in DevOps transformation, not just execution-level hiring.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=VP, Change Management & Service Delivery Engineer, SRE & Governance, Group Technology | source=job_board | url=https://www.glassdoor.sg/Jobs/DBS-Bank-devops-Singapore-Jobs-EI_IE611812.0,8_KO9,15_IL.16,25_IN217.htm
+  Title: DBS Bank — VP, Change Management & Service Delivery Engineer, SRE & Governance, Group Technology (Glassdoor, 27d)
+  Evidence: Glassdoor DBS Bank DevOps search returns 'VP, Change Management & Service Delivery Engineer, SRE & Governance, Group Technology · Singapore · 27d' confirming active posting within last month.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Multiple Software Engineering roles — Full Stack, Backend, Data Technology, Application Developer | source=job_board | url=https://www.glassdoor.com/Jobs/DBS-Bank-Software-Engineering-Jobs-EI_IE611812.0,8_KO9,29.htm
+  Title: DBS Bank — Multiple Software Engineering roles across Group Technology (Glassdoor)
+  Evidence: Glassdoor Software Engineering jobs page for DBS Bank lists: Lead/Full Stack Developer (Consumer Banking), Software Engineer (Data Technology), UI Developer (Investment & Trading Technologies), Application Developer (Institutional Banking Group Technology), Software Development Lead (Middle Office Technology), Software Quality Assurance Engineer (EASRE). This breadth spans multiple business units.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Staff Software Engineer (multiple postings) and Snr Assoc/Assoc, DevSecOps — LinkedIn developer jobs | source=linkedin | url=https://sg.linkedin.com/jobs/dbs-bank-developer-jobs
+  Title: DBS Bank — Staff Software Engineer & DevSecOps developer roles (LinkedIn, within 6 days to 2 months ago)
+  Evidence: LinkedIn DBS Bank developer jobs page lists: 'Snr Assoc/Assoc, DevSecOps, Information Security Services, Technology & Operations · Singapore · 6 days ago', 'Staff Software Engineer · Singapore 2 months ago', 'Staff Software Engineer · Singapore 2 weeks ago', and 'Senior DevSecOps Engineer · Singapore 1 month ago.' Multiple concurrent postings confirm active software engineering scaling.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=AVP/Senior Associate, Cloud Engineer roles (Cloud Engineering & Services, Investment & Trading Technology) | source=linkedin | url=https://sg.linkedin.com/jobs/view/vp-avp-cloud-engineer-cloud-engineering-services-technology-operations-at-dbs-bank-1983845731
+  Title: DBS Bank — VP/AVP, Cloud Engineer, Cloud Engineering & Services, Technology & Operations (LinkedIn)
+  Evidence: LinkedIn confirms DBS Bank has a dedicated Cloud Engineering & Services team. Role responsibilities include managing OpenShift platform lifecycle, cloud chaos engineering, and supporting new applications onboarded to public cloud. Also confirmed: DBS Bank has separate private cloud (DevOps engineers) and public cloud (AWS/GCP/Azure management) sub-teams per Computer Weekly interview with DBS cloud engineering leader.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Windows Service Delivery Engineer — Cloud Engineering Services (Private) | source=job_board | url=https://www.glassdoor.com/Jobs/DBS-Bank-Software-Engineering-Jobs-EI_IE611812.0,8_KO9,29.htm
+  Title: DBS Bank — Windows Service Delivery Engineer, Cloud Engineering Services (Private) (Glassdoor)
+  Evidence: Glassdoor lists 'Windows Service Delivery Engineer-Systems Admin/Engineering, Cloud Engineering Services (Private)' under DBS Bank software engineering jobs, confirming both private and public cloud engineering hiring is active.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Analyst, Cyber Security Engineer, Information Security Services, Group Technology | source=job_board | url=https://nodeflair.com/jobs/dbs-bank-analyst-cyber-security-engineer-information-security-services-group-technology-506390
+  Title: DBS Bank — Analyst, Cyber Security Engineer, Information Security Services, Group Technology (NodeFlair, ~1 week ago)
+  Evidence: NodeFlair page explicitly titled 'DBS Bank hiring Analyst, Cyber Security Engineer, Information Security Services, Group Technology' — age metadata indicates approximately 1 week ago. Role involves 'vulnerability assessment and manage such tools/processes, as well as application penetration testing or forensic analysis fields.'
+  Confidence: High
+
+[HIRING] type=security_compliance | value=SVP/VP, Technology Risk Manager, Tech COO, Group Technology | source=job_board | url=https://sg.indeed.com/Dbs-Devops-jobs
+  Title: DBS Bank — SVP/VP, Technology Risk Manager, Tech COO, Group Technology (Indeed)
+  Evidence: Indeed confirms DBS Bank is hiring at VP/SVP level for Technology Risk Management: 'This role ensures that DBS Bank's technology risk framework aligns with global regulatory requirements (MAS, HKMA, RBI, GDPR).' Supporting signal for compliance-driven security posture.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Associate, Data Security Engineer, Information Security Services (CI/CD pipeline, AWS/GCP, cryptography) | source=job_board | url=https://nodeflair.com/jobs/dbs-bank-associate-data-security-engineer-information-security-services-technology-and-operations-wd63711-189448
+  Title: DBS Bank — Associate, Data Security Engineer, Information Security Services (NodeFlair, WD63711)
+  Evidence: NodeFlair page explicitly names DBS Bank; role requires experience with 'deployment using CI/CD pipeline' and responsibilities include 'Build, integrate, test, and deliver solutions using a CI/CD pipeline' and protecting information assets in AWS, GCP, Azure. Demonstrates integration of security into the software delivery pipeline.
+  Confidence: High

@@ -1,0 +1,139 @@
+Company: Syfe
+Domain: syfe.com
+Industry: fintech
+Country: SG
+Agent: public_news
+Evidence items: 22
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnVaVFlkZUd1UndhNk9kVng0Y005V2E4aVFxbkhEaEN0Zm9sY1c5a1ByUGl4X2tDaVZDVUhIaVJ1Q1BISm5qOWdsNmdBY0NhdXdRY1c3MHJKLWVwbEZwYmpDdkRqdXBxc0o2ZkxnZXpJZHRQRU9XOU9uUy1iOXpJcFlOVQ?oc=5
+  Title: Syfe launches JPMAM active ETF portfolio in Singapore - Singapore Business Review
+  Snippet: Syfe launches JPMAM active ETF portfolio in Singapore Singapore Business Review
+  Published: 2026-02-26 (61 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamROLTFKVzNRYkV1WjZyb29ZeWlWVVZTalk0YWpNei05X2dWeDVIZlhIbHA5azlSeUR6U2xsU1dZUjJ1RGpTTVdBRW52Q2tPRDJCNVBhQ09UelZQMHA0Vkl6VWNEWU8tbE1XbjVDdnZHZVRraWRZbDBTWFo0VnF6cjFsQ1JZQl9NaThNOGltRUZvclhodHcyblBNTTBvVi1qdW9XZ1RpaDhsV3RMZk5GVVNBV1c3RFk5bmJDNXZvSlgwcnJUSXBCbzVkczg2aE1Ob2c?oc=5
+  Title: Syfe Officially Launches in Australia, Introducing a Holistic Platform to Invest in US stocks, ETFs and Crypto - Hubbis
+  Snippet: Syfe Officially Launches in Australia, Introducing a Holistic Platform to Invest in US stocks, ETFs and Crypto Hubbis
+  Published: 2022-08-11 (1356 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUTNRUGtoVXM1cENjU0JzZGRvbW95UThCQVA2V3VQYU9HbWQ3MFVOVXg1Q1lRNnVSRmg3Rk92MkZEU3lucUdZMVNEakVKZFpmNHJkVm05WElLMkd2dGFpeGpnUVRaWVFodmg3MXp3ZzNocVdqQnF2MlpGYUNDUQ?oc=5
+  Title: Syfe launches early employee share buyback - Syfe
+  Snippet: Syfe launches early employee share buyback Syfe
+  Published: 2024-10-16 (559 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkJYeEk4LUlNYzFUUS1yRnNrNzZ0YWRPaU5oUXV3YS1kQkFJMHlNWDQzaHFab2FBOWtIbTJqQTliUUlpaVU1VDBqYXhVVlIweUhmMEh0dWJFUmw3cjRaMzFrQ3MyQ083bllLaUF5VTZ1ei11T2sydUZZQ1Q1MHdOQXFVZ3NkWUNfSjd5Ug?oc=5
+  Title: Syfe launches world's first Downside Protected S&P 500 portfolio in Singapore - Yahoo Finance Singapore
+  Snippet: Syfe launches world's first Downside Protected S&P 500 portfolio in Singapore Yahoo Finance Singapore
+  Published: 2024-09-08 (597 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXMtZV93Q0steWxUY0gyV2lkS09mVDBjeFBuUjRMb2JaZ3ZiZTlVWl96SVZlU3RXZXkzX1hkcU1EZTlibDdiWl8xTlhMUUF1QTVEN2NRTkpRcXRUdVlyUHpSTHZWQ3lfUDlLZ1ZWcEJBNkg2UHBfU0UxSmxxcm4wVm1MQW5VZXNNblhGd0NJTldSbzhDNFZ4aVdWNWN3NTU1aFFfOXBQMnNvQUlCN0c1aWF4UmgxdHduQ1ZXdG5YUzQ?oc=5
+  Title: Syfe launches digital brokerage service, allows investors to buy fractional shares in US markets - CNA
+  Snippet: Syfe launches digital brokerage service, allows investors to buy fractional shares in US markets CNA
+  Published: 2021-12-16 (1594 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkdualBLd3daczBnMWM1OXJUNVhaYmc3SC1VVVl5M3V4UHNXY0RVSGxVTUVoNjhNUmViS2ozanBQM0h5MXg5YlFKTzZGS2xFX0JON0VVYmFIUlNQd0ZsLUpFYWVvSmFhU3FodDVqVXR1QkhWUFAyWm9odVFlS3RfRU02SkRhQm5aSU51eFMtRHFZQVZJcWtjWjVPZ0hqZnVlbGYxbjRiMjZXeC1uVVJ4cjRjbk5xV1NmWTNtdTZSRGdNQWdwQk43WlNYTDhVbWJZeGI2N29SX1NrT0pCWV9FdFpubnZhVnpZ?oc=5
+  Title: Syfe launches REIT+ portfolio to give investors easy, affordable access to SGX-listed REITs - Media OutReach Newswire
+  Snippet: Syfe launches REIT+ portfolio to give investors easy, affordable access to SGX-listed REITs Media OutReach Newswire
+  Published: 2020-02-03 (2276 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMioAFBVV95cUxONmFhaUxJbVZJckdiSjd1M2ltZ2pvRzFPakNoLV8wM2w2YnBuZEhmTXBXSDZFX3NvaEpnZFpMOVp6SFQ2ZFhOVU1zZkJJTG1EcUU4TnVpV01nX1F5OXEtUVRySDVwQ2NVbGlkTU1fa2IzWG5EeWFLV3VPRVpJYzdrbUhsMVRYZnJMa2pXUHFtQUdoZTEydHhqbDZsRVZLdDBO?oc=5
+  Title: Syfe launches Syfe Income+ product in Hong Kong, target 6% to 8.6% payouts - Hong Kong Business
+  Snippet: Syfe launches Syfe Income+ product in Hong Kong, target 6% to 8.6% payouts Hong Kong Business
+  Published: 2023-08-10 (992 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sOC1JWC1TNDhSS0JqcHJyakNYSGE5UFJTeV8tbmdFczJUV3hwZWltZlpjZy1jWFU0NERnV0twMUxmSFQ4ZWlENERULUJQXzhTZFB1RTF1MTktYmJQNV93SXRWTEk?oc=5
+  Title: Syfe Launches in Hong Kong - Hubbis
+  Snippet: Syfe Launches in Hong Kong Hubbis
+  Published: 2022-05-19 (1440 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN1hHbFZqOVg3NG03RU1oU0RBTzQtXzE1blpweDI4MFJvcUJWWVBBallBWXotWTlscVRGQTdfeGdzdEtpTUhFeWg0c205QVh4MDZsUi1SUU8tWHAwaDZqb2lRbmFLcDc1RmF0MFR5Snh0a0R5Mjd1MHBnWE1EZw?oc=5
+  Title: Syfe Launches New Cash Management Solution - Syfe
+  Snippet: Syfe Launches New Cash Management Solution Syfe
+  Published: 2021-01-07 (1937 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxPakFDZnhzWUNHZzVPUWdtM0lFcDdQQ3Frdm5qa1FzS3d6WlZZTjVEM0xSTU4zRGtJdFNuSlVIcTV4VGkyV1BTMFl1VEdSWjVnSVlpamZidEk5ek1tWlNWNXlzX3dsSkl2MU1VQ1lPZHNxMlp3TzVyT2paUENDQUJDMEZ3LUtiWEpJSmptWFBSaGR0TXFiRHNvTm9QZGZvMEk?oc=5
+  Title: Syfe Launches First-of-Its-Kind Investment Management Service in Hong Kong - Hubbis
+  Snippet: Syfe Launches First-of-Its-Kind Investment Management Service in Hong Kong Hubbis
+  Published: 2024-03-19 (770 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3V6dGNvODBjd0F4MFozcFNITzNnTkR6Z0FKSjRwa0VqLVp6bExnZ1VqSF9wQkItcnpZRWFva1JDMmFNQkROYzBwMnQwa0x0NWliSGRNMTVZS2VQOGZrWkotVG5YbTJCSmZjckEtelRuZllPRkd0UnBrZkE0UnhXTndNblB1LW5rVUt3Ry0tQzhIbmVCbWV1NHBrVVM3UEF1RjlvanZoLVo5Zw?oc=5
+  Title: Syfe launches first Downside Protected S&P 500 portfolio in S'pore - Singapore Business Review
+  Snippet: Syfe launches first Downside Protected S&P 500 portfolio in S'pore Singapore Business Review
+  Published: 2024-09-10 (595 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGlrY0taRVJpMThIRUxKSjRvUUJPNlZ0ajRvYnl0aWlWdkhNN2QtbVJJeUUxNVU4TkI0Tm9qMkxoaU05bXFGUW0yZlAtVXJaUWZBalA1V0E3VVVfUjBNbzZad1NONFJNYkpCeHRheXlxT19Td0lCS25kQnNFQzJQdXBlVGxpeWdxc2x6Z0I2aXlyaUp6TDQyVkVndDBNR3ZXckZHR1J3?oc=5
+  Title: Syfe Hong Kong launches Income+ with target monthly payouts of up to 8.6% p.a. - Hubbis
+  Snippet: Syfe Hong Kong launches Income+ with target monthly payouts of up to 8.6% p.a. Hubbis
+  Published: 2023-08-10 (992 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHRJNzJIektIY0EzTkpSTnVzckdkaFhHclUxNTlDZXJpaTZQMkFLM29la2VmR2FJRnZ0S0habVZmMFNFZTFKLUxkS0phWWc0UWx1eWtOVksxR05fR25idE9KMUptbzZwYmxBdGdOTTRPWTJNRTkwYm1VVmd5dVBFVkxubmJ0Q0lQekttUHBXRVhOWlNPb015OXdJOWdnQWpzTm5KcjZ1VDdrLV9VaC03b0w0YUhOSDZlY1JpbzNBdzZQeWZDMW9hYlYtdXM1ZlZYT0E?oc=5
+  Title: Syfe Trade - Singapore’s First Neobroker Officially Launches, Securing 30,000 Users on the Platform Pre-Launch - Syfe
+  Snippet: Syfe Trade - Singapore’s First Neobroker Officially Launches, Securing 30,000 Users on the Platform Pre-Launch Syfe
+  Published: 2022-01-20 (1559 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikwFBVV95cUxQQS1JcG1wb3lSQ3owbGtIbzVhdTVDQmxDTGVSWXQ4VjFiZXhnTkV3enlGZlhZY0dQdUExUzRfTmNKOWJCNDVCQmdibUFxam5UZFJuemYtSWtyOGxNWWtNNXN4dDBJMDVuUWR0eUVwUE5BTG1EX2lEMGxDRjRCd0h1WFpablBOZ2N2VHNHQVRhb3YtRUE?oc=5
+  Title: Syfe Accelerates Asia Expansion Plan, Launches In Hong Kong - Syfe
+  Snippet: Syfe Accelerates Asia Expansion Plan, Launches In Hong Kong Syfe
+  Published: 2022-05-18 (1441 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXlwZFktLWpkQlE4RFlYbzE3WG9VNTFGQnRSbG1hU0o0di1ncWUwNllzZzNvWWNPbEt0eG1yb1J4WjBTN0lPUUUwUEJnR1d4ZnZrUm5UYUlZdWdFeHF0cE5VY2g5Nm5ZM1RwMnNVeUVneGkxSkE1YWVsakxDSFpqeG9MYkZ0UzJTNWFyZDRvTmFBR1hrbGxzaDFEWjVNYndnT3l1QWRoczZPWnhiRjBuZzRkZ0ItQ0tm?oc=5
+  Title: Digital wealth manager Syfe launches brokerage platform Syfe Trade - The Edge Singapore
+  Snippet: Digital wealth manager Syfe launches brokerage platform Syfe Trade The Edge Singapore
+  Published: 2021-12-16 (1594 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiYkFVX3lxTE9acWF4OXpicDQ1bWVoeWhKU0x5V0NyU18wX1NQVXF2bXlpRGU5VHdneFhObnlUd3dZQzgzcndYdUlOcDRUQ3FUekZoYzQ5ZkdzMU5OS3FVZEZmNVkzWFhMY2Nn?oc=5
+  Title: Digital Wealth Manager Syfe Launches In S’pore – Raises S$5.2M Seed Funding - Vulcan Post
+  Snippet: Digital Wealth Manager Syfe Launches In S’pore – Raises S$5.2M Seed Funding Vulcan Post
+  Published: 2019-07-17 (2477 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHVrZXJzcWFHRVhQakliTG5BbFQwNlo3Y0JDTWVyRVVJOXk3VjUyazNfVWxMbTg5RUFJUG5SaUtUaXc2aUlSVDA1aWNGdm5DV3RrUUZiQUV2ak8wQnlLT3pnQ1AweXlrbzZXb0QybTFZRnVpcTFMQ01CcHJTMHdSWngyc3Jua3hIaFhFY0VidFlKZjdPSGNlUzFfTUhpSjBvc0YwekRyNldYQy13ZkNlZFlBcHhaMy10Sy03cTRqRFhtVndjSUlPLXpJOA?oc=5
+  Title: Syfe launches takeover bid for Australia-listed brokerage SelfWealth, besting existing offer by 12% - The Edge Singapore
+  Snippet: Syfe launches takeover bid for Australia-listed brokerage SelfWealth, besting existing offer by 12% The Edge Singapore
+  Published: 2025-02-04 (448 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSldscF9tUldPS0ZXdEE4OEVQc2Fhb3h2eVlFNjhsUEVGRWR0MlMwTUE5cHdnNzJ5Z1JrT0xCTlFEVExIeDJ5MzhTcGxNT1c5dXozbGtOQS1IWjFNM0xXRkRLQkt4WUFTMlYtSlNhRzhGSVBUZkltVGdlTlgxc0lzaEpDLXhkaHlpU3pqY0pVa0NPdTBhejY4VHVwanh2Q0dyRmR6clUwdmxhX3ZWNDZOU0diYmxqMXhkYmJ0azV2eTlrUjJ3My1nRGRPNDRsUWhzWjhuSA?oc=5
+  Title: Syfe, Singapore’s Leading Digital Investment Platform Launches in Hong Kong - Media OutReach Newswire
+  Snippet: Syfe, Singapore’s Leading Digital Investment Platform Launches in Hong Kong Media OutReach Newswire
+  Published: 2022-05-17 (1442 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxOXy05VWVfQi1mZWxPczhGU0VTT1ZUS3BYWXhSSXBXWmEzOHNDWjY4NmtpdmdiOVhtOTlMLTBCUGVueVdVZTY1NU1weHYxdzVfZ21WOWktM3ZzbWpzdTNBbHAyT3FJbGIwMmxubmh6djExblRZWExjbDBUZF9XRU00SDIyNklnSlBVWEs4Ym9RYVlacktDQ3pQVnF6cHVHVHZlcXJpVl9PMnlQMDhJ?oc=5
+  Title: Syfe launches Singapore’s first customisable ETF portfolio builder - Singapore Business Review
+  Snippet: Syfe launches Singapore’s first customisable ETF portfolio builder Singapore Business Review
+  Published: 2021-09-08 (1693 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAJBVV95cUxQMTRseFZnaFg2Qk9rZnNUUmJGWmR3SmJ6ZGJIRWwwWC0zdHl6RUlCcWc4MUl6QUxnWHdyWTdoZFJrNTk0U2hxUmZnajNrU2FuNlI1R1NiWEZINVNHUUhRc253bGV3QzhnUUFqUnVZbjg0Rk54anV2TS04Tk1SanlvUnZrd0JtU0tEdDBCU2tRdEFFUDQtOUxTXzlzdDdrTlhjQmt0ZEJONnBfRm4wTTdFQmp0TTZyMlBCV201Uk5UekhvSmtDNGJMeWlkcGg3RERYNlF5dEZYM3o1eWl0ZUl1ZERyUmdTV0w0LWRCdkEwbHZkWTZMb1lHUFpZU1NWOXJsNE5yQlFOTy1Ub3ZPUExWWg?oc=5
+  Title: [Press release] Syfe appoints new Head of Hong Kong and Head of Investments to accelerate the development of its all-in-one digital investment platform | Magazine | Syfe HK - Syfe
+  Snippet: [Press release] Syfe appoints new Head of Hong Kong and Head of Investments to accelerate the development of its all-in-one digital investment platform | Magazine | Syfe HK Syfe
+  Published: 2023-06-29 (1034 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWZ3QmZMa0VpUTBpbnBRUGVHWEtVRFVOQ1BTUGZqZ1dqcHRiSklHa2dob1h6X3RndWNXQ3ZQdGVpNHlnem9OQ2sxM1FwanVsMko3Zk9CNWwwRWY2bjl4dkJFVnh3eEsyU0NzSlBtQkVERmJiSFN1dVdUU0ZDYk82ajZUNVhnSE5zRjhCUVlfTU45dDVkLXF3ZXh5X3FSUG14OFZvZEt1TTg3QQ?oc=5
+  Title: Syfe appoints Saurabh Seth as head of talent acquisition in India - HR Katha
+  Snippet: Syfe appoints Saurabh Seth as head of talent acquisition in India HR Katha
+  Published: 2022-06-09 (1419 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVlHRmxGeHZiMktXU1VpWVZoSlRUeXk0NGhObHVEeVdkWnFJc0NzQWFESURjT05HbHE5TXRwNC1KNU1QZUItZmRJRUVpeXFOVXQ5N2d2emZwak5XVmxLVzFwUk9ucDhEWk9YUmYyNWgxZVNyY1hBUkJjSVlmYXFDT2VuclR1dmZvc2hiaXEzMXBacVVBcVlndERMU0JlcjlldXh5UW5fVDZTRkluZ3Vv?oc=5
+  Title: Up the ranks: Syfe appoints Saurabh Seth as its Head of Talent Acquisition - Human Resources Online
+  Snippet: Up the ranks: Syfe appoints Saurabh Seth as its Head of Talent Acquisition Human Resources Online
+  Published: 2022-06-28 (1400 days ago)
+  Confidence: High

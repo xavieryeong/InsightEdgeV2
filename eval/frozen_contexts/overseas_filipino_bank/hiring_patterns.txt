@@ -1,0 +1,12 @@
+Company: Overseas Filipino Bank
+Domain: ofbank.com.ph
+Industry: Banking
+Country: PH
+Agent: hiring_patterns
+Evidence items: 1
+============================================================
+
+[HIRING] type=software_engineering_growth | value=Customer Associate (2 openings), Accountant (1 opening) | source=careers_page | url=https://www.ofbank.com.ph/careers
+  Title: OFBank Careers Page — Active Listings
+  Evidence: The official OFBank sitemap (ofbank.com.ph/sitemap) confirms two live career categories: 'CUSTOMER ASSOCIATE (2 ITEMS)' and 'ACCOUNTANT (1 ITEM)'. No engineering, security, DevOps, cloud, or platform roles are listed. The careers page directs applicants to email ofbcareer@mail.landbank.com, reinforcing that technical hiring may be managed via parent LandBank.
+  Confidence: High

@@ -1,0 +1,137 @@
+Company: Macquarie Group
+Domain: macquarie.com
+Industry: Financial Services
+Country: Australia
+Agent: tech_stack
+Evidence items: 26
+============================================================
+
+[TECH] Java | category=relevant_languages | source=engineering_blog | url=https://www.macquarie.com/au/en/careers/our-people/irah-rosete-transforming-a-career-from-finance-to-technology.html
+  Evidence: A Macquarie Bank software engineer states: 'Java and Spring are the main programming language and framework that I use to build things with.' The page also confirms use of GCP, AWS, Docker, Kubernetes, and Atlassian products including Bamboo and Bitbucket.
+  Repo: https://www.macquarie.com/au/en/careers/our-people/irah-rosete-transforming-a-career-from-finance-to-technology.html
+  Confidence: High
+
+[TECH] Java / Spring Boot | category=relevant_languages | source=claude_web_search_result | url=https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Evidence: Macquarie Bank CTO confirmed: '90 percent of the applications we run are Spring Boot microservices' — directly naming Java/Spring Boot as the dominant application framework across 306+ deployed applications.
+  Repo: https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Confidence: High
+
+[TECH] Java, TypeScript, JavaScript, Go | category=relevant_languages | source=developer_docs | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Software-Engineer/16140
+  Evidence: Macquarie Group job posting for Senior Software Engineer on the Secure SDLC platform team requires 'deep proficiency in at least one modern programming language (Golang, Typescript, JavaScript, Java)' with strong focus on code quality and automated testing.
+  Repo: https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Software-Engineer/16140
+  Confidence: High
+
+[TECH] C++ | category=relevant_languages | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/unlocking-the-benefits-of-c-20-improving-the-developer-experience-with-zero-downtime-93e74606b4f7
+  Evidence: Macquarie Engineering Blog (2024): 'We rolled out C++20 to each of the C++ applications in our risk ecosystem with zero disruption to our Commodities and Global Markets (CGM) business.' Confirms active C++ codebase in production.
+  Repo: https://medium.com/macquarie-engineering-blog/unlocking-the-benefits-of-c-20-improving-the-developer-experience-with-zero-downtime-93e74606b4f7
+  Confidence: High
+
+[TECH] TypeScript | category=relevant_languages | source=claude_web_search_result | url=https://www.glassdoor.com/Interview/Macquarie-Group-Java-Developer-Interview-Questions-EI_IE12088.0,15_KO16,30.htm
+  Evidence: Glassdoor interview account for Macquarie Group (2024) describes technical rounds covering 'Java streams, JPA, Hibernate, OOP and testing questions, TypeScript', confirming TypeScript is an assessed engineering skill.
+  Repo: https://www.glassdoor.com/Interview/Macquarie-Group-Java-Developer-Interview-Questions-EI_IE12088.0,15_KO16,30.htm
+  Confidence: Medium
+
+[TECH] Python | category=relevant_languages | source=developer_docs | url=https://au.indeed.com/Software-Engineer-$100,000-Macquarie-jobs-in-Sydney-NSW
+  Evidence: Multiple Macquarie Group job postings on Indeed require '5+ years experience as a software engineer using an object-oriented development language (Java, Python)' and 'proficiency in Python or Java/Scala.'
+  Repo: https://au.indeed.com/Software-Engineer-$100,000-Macquarie-jobs-in-Sydney-NSW
+  Confidence: Medium
+
+[TECH] C# / .NET | category=relevant_languages | source=tech_listing | url=https://rocketreach.co/macquarie-group-technology-stack_b47d9823fc4c2ab4
+  Evidence: RocketReach lists Macquarie Group as using ASP.NET, which is consistent with job postings requiring '.NET or Java' development experience for software engineering roles.
+  Repo: https://rocketreach.co/macquarie-group-technology-stack_b47d9823fc4c2ab4
+  Confidence: Medium
+
+[TECH] .NET | category=relevant_languages | source=developer_docs | url=https://jobs.wallstreetfriends.org/companies/macquarie-group/jobs/62240547-junior-software-engineer
+  Evidence: Macquarie Group Junior Software Engineer posting requires 'hands-on development experience in any programming language, preferably .NET or Java.'
+  Repo: https://jobs.wallstreetfriends.org/companies/macquarie-group/jobs/62240547-junior-software-engineer
+  Confidence: Medium
+
+[TECH] JavaScript / Angular | category=relevant_languages | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/open-banking-a-range-of-opportunities-9301eb46d502
+  Evidence: Macquarie Engineering Blog: engineers describe replacing a jQuery prototype with Angular and building Spring-based microservices as part of the Open Banking project, confirming JavaScript/TypeScript frontend use.
+  Repo: https://medium.com/macquarie-engineering-blog/open-banking-a-range-of-opportunities-9301eb46d502
+  Confidence: Medium
+
+[TECH] Kotlin | category=relevant_languages | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Evidence: Macquarie Engineering Blog published a post titled 'Pipeline Configuration as Code with Kotlin', confirming Kotlin is used internally for tooling/pipeline configuration.
+  Repo: https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Confidence: Medium
+
+[TECH] Jenkins | category=ci_cd_maturity | source=engineering_blog | url=https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Evidence: Macquarie Bank's CTO listed 'CI/CD with Jenkins' as one of the core standardised capability services built and offered to all teams across the organisation.
+  Repo: https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Confidence: High
+
+[TECH] ArgoCD / Argo Workflows | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Evidence: Macquarie Engineering Blog (2024): 'We define an Argo Workflow template... Once Argo Workflow merges the pull request, ArgoCD will sync the changes to the live cluster.' Confirms GitOps-based CD using ArgoCD bank-wide.
+  Repo: https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Confidence: High
+
+[TECH] Bamboo (Atlassian) | category=ci_cd_maturity | source=developer_docs | url=https://www.macquarie.com/au/en/careers/our-people/irah-rosete-transforming-a-career-from-finance-to-technology.html
+  Evidence: Macquarie Bank software engineer confirms: 'We also use a range of other technologies like... Atlassian products like Jira, Confluence, Bamboo and Bitbucket.'
+  Repo: https://www.macquarie.com/au/en/careers/our-people/irah-rosete-transforming-a-career-from-finance-to-technology.html
+  Confidence: Medium
+
+[TECH] Bitbucket (source control / PR workflow) | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Evidence: Macquarie Engineering Blog confirms: 'The platform configuration and tenant specific configuration is stored in a mono-repository in Bitbucket.' Source control confirmed as Bitbucket for at least some teams.
+  Repo: https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Confidence: High
+
+[TECH] GitHub Enterprise (macquarie.ghe.com) | category=ci_cd_maturity | source=github | url=https://macquarie.ghe.com/enterprises/macquarie/sso
+  Evidence: A GitHub Enterprise SSO login page exists at macquarie.ghe.com for 'Macquarie Bank Limited', confirming GitHub Enterprise is deployed as a corporate platform. Additionally, github.com/MacquarieBank links to macquarie.com.
+  Repo: https://macquarie.ghe.com/enterprises/macquarie/sso
+  Confidence: High
+
+[TECH] AWS | category=cloud_native_presence | source=claude_web_search_result | url=https://www.itnews.com.au/feature/inside-macquarie-groups-arturo-public-cloud-push-479110
+  Evidence: iTnews reports: 'Macquarie Group has provided the first major look at Arturo, a project that has seen it migrate over 100 production apps so far to run on AWS public cloud infrastructure.' Broader Macquarie Group (not just the bank) is confirmed on AWS.
+  Repo: https://www.itnews.com.au/feature/inside-macquarie-groups-arturo-public-cloud-push-479110
+  Confidence: High
+
+[TECH] Google Cloud Platform / GKE | category=cloud_native_presence | source=claude_web_search_result | url=https://cloud.google.com/customers/macquariebank
+  Evidence: Google Cloud case study: 'Macquarie Bank currently runs approximately 99% of its environment in a public multi-cloud environment. All digital experiences leverage microservices that run on containers within Google Kubernetes Engine.'
+  Repo: https://cloud.google.com/customers/macquariebank
+  Confidence: High
+
+[TECH] Kubernetes | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/welcome-to-the-macquarie-engineering-blog-d46e27371081
+  Evidence: Macquarie Engineering Blog: 'We're using Kubernetes at scale for all our digital channels and have been showcased for doing so: Macquarie Bank showcased by RedHat for use of OpenShift; Google have used us as a showcase for our use of Google Cloud Platform.'
+  Repo: https://medium.com/macquarie-engineering-blog/welcome-to-the-macquarie-engineering-blog-d46e27371081
+  Confidence: High
+
+[TECH] OpenShift / Red Hat | category=cloud_native_presence | source=claude_web_search_result | url=https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Evidence: Macquarie Bank's retail digital banking platforms run on Red Hat's OpenShift container platform hosted on AWS, with 42 teams having deployed 306 applications via OpenShift.
+  Repo: https://www.itnews.com.au/news/macquarie-bank-nears-scale-in-cloud-migration-526079
+  Confidence: High
+
+[TECH] Docker | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Evidence: Macquarie Engineering Blog confirms Docker image builds are part of their standard CI/CD pipeline: 'majority of applications use Apache Maven, build using the latest LTS version of JDK... and also build Docker images.'
+  Repo: https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Confidence: High
+
+[TECH] Terraform | category=cloud_native_presence | source=claude_web_search_result | url=https://cloud.google.com/customers/macquariebank
+  Evidence: Google Cloud's Macquarie Bank case study page lists Terraform as an 'Automate infrastructure management' tool in the product/tool listing associated with the bank's environment. Attribution is indirect via the GCP tooling list.
+  Repo: https://cloud.google.com/customers/macquariebank
+  Confidence: Low
+
+[TECH] Helm | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Evidence: Macquarie Engineering Blog references Argo Workflows running 'helm manifest lint checks' as part of their pull request validation pipeline, confirming Helm is used for Kubernetes deployment management.
+  Repo: https://medium.com/macquarie-engineering-blog/self-service-gateways-in-an-open-source-culture-d78b532de97b
+  Confidence: Medium
+
+[TECH] Sonar (SonarQube / SonarCloud) | category=security_tooling_signal | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Evidence: Macquarie Engineering Blog (Pipeline Configuration as Code with Kotlin, 2020): 'Code quality tools like Sonar and security scanning tools are also added to the pipelines by default.' This is a direct, first-party confirmation of Sonar usage embedded in Macquarie's standard CI/CD pipelines.
+  Repo: https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa
+  Confidence: High
+
+[TECH] Macquarie Engineering Blog (Medium) | category=engineering_visibility | source=engineering_blog | url=https://medium.com/macquarie-engineering-blog
+  Evidence: Macquarie maintains an active public engineering blog on Medium with posts published through October 2025, covering Kubernetes, microservices, cloud architecture, secrets management, API gateways, and pipeline tooling — demonstrating strong engineering culture and transparency.
+  Repo: https://medium.com/macquarie-engineering-blog
+  Confidence: High
+
+[TECH] GitHub.com/MacquarieBank | category=engineering_visibility | source=github | url=https://github.com/MacquarieBank
+  Evidence: A GitHub organisation for Macquarie Bank exists at github.com/MacquarieBank, linked to macquarie.com. No public repositories are visible, but GitHub states 'GitHub is where Macquarie Bank builds software.'
+  Repo: https://github.com/MacquarieBank
+  Confidence: High
+
+[TECH] Secure SDLC Platform Team | category=ci_cd_maturity | source=developer_docs | url=https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Software-Engineer/16140
+  Evidence: Macquarie Group job posting for a 'Secure Software Development Life Cycle (SDLC) platform team' confirms a dedicated internal team whose mission is 'modernising software delivery practices' with APIs and integrations to 'reduce risk and increase engineering velocity.'
+  Repo: https://recruitment.macquarie.com/en_US/careers/JobDetail/Senior-Software-Engineer/16140
+  Confidence: High

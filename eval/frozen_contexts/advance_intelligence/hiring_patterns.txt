@@ -1,0 +1,62 @@
+Company: Advance Intelligence Group
+Domain: advancegroup.com
+Industry: ai_fintech
+Country: SG
+Agent: hiring_patterns
+Evidence items: 11
+============================================================
+
+[HIRING] type=software_engineering_growth | value=Software Engineer | source=ats_platform | url=https://boards.greenhouse.io/advanceintelligencegroup
+  Title: Advance Intelligence Group – Active Greenhouse Job Board
+  Evidence: Advance Intelligence Group has a confirmed, active Greenhouse job board at boards.greenhouse.io/advanceintelligencegroup, listing multiple open roles including software engineering positions.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer – KYB Engineering | source=claude_web_search_result | url=https://www.ventureloop.com/ventureloop/jobdetail.php?jobid=2984185
+  Title: Advance Intelligence Group hiring Senior Software Engineer – KYB Engineering (Singapore)
+  Evidence: VentureLoop explicitly names Advance Intelligence Group as the hiring company for a Senior Software Engineer in KYB (Know Your Business) Engineering, based in Singapore City. Posted approximately March 2026.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer | source=claude_web_search_result | url=https://www.ventureloop.com/jobdetail.php?jobid=2987011
+  Title: Advance Intelligence Group hiring Software Engineer (Singapore)
+  Evidence: VentureLoop explicitly names Advance Intelligence Group as the hiring company for a Software Engineer role in Singapore, posted approximately March 2026.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Backend Engineer | source=linkedin | url=https://www.ventureloop.com/ventureloop/jobdetail.php?jobid=2979453
+  Title: Advance Intelligence Group hiring Senior Backend Engineer (Hong Kong)
+  Evidence: VentureLoop explicitly attributes a Senior Backend Engineer role to Advance Intelligence Group in Hong Kong, posted approximately February 2026.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer Lead | source=linkedin | url=https://sg.linkedin.com/jobs/view/software-engineer-lead-at-advance-intelligence-group-4289706932
+  Title: Advance Intelligence Group hiring Software Engineer Lead (Singapore) – LinkedIn
+  Evidence: LinkedIn job listing explicitly names Advance Intelligence Group as hiring a Software Engineer Lead in Singapore, posted approximately October 2025.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Algorithm Engineer / Senior Algorithm Engineer | source=claude_web_search_result | url=https://www.ventureloop.com/ventureloop/jobdetail.php?jobid=2984183
+  Title: Advance Intelligence Group hiring Algorithm Engineer and Senior Algorithm Engineer (Singapore)
+  Evidence: VentureLoop lists both an Algorithm Engineer and a Senior Algorithm Engineer role attributed to Advance Intelligence Group in Singapore City, posted approximately March 2026.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=QA Engineer | source=ats_platform | url=https://www.ventureloop.com/ventureloop/jobdetail.php?jobid=2991324
+  Title: Advance Intelligence Group hiring QA Engineer (Makati, Philippines)
+  Evidence: VentureLoop attributes a QA Engineer role to Advance Intelligence Group in Makati, Philippines, posted approximately April 2026.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Test Automation Engineer | source=ats_platform | url=https://boards.greenhouse.io/advanceai/jobs/4132559005
+  Title: ADVANCE.AI (part of Advance Intelligence Group) hiring Test Automation Engineer (Kuala Lumpur)
+  Evidence: Greenhouse listing for ADVANCE.AI — explicitly stated to be part of Advance Intelligence Group — for a Test Automation Engineer in Kuala Lumpur, Malaysia.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Machine Learning Platform Engineer | source=linkedin | url=https://sg.linkedin.com/jobs/view/machine-learning-platform-engineer-at-advance-ai-2874030393
+  Title: ADVANCE.AI (part of Advance Intelligence Group) hiring Machine Learning Platform Engineer (Singapore) – LinkedIn
+  Evidence: LinkedIn listing for ADVANCE.AI, explicitly identified as part of Advance Intelligence Group, hiring a Machine Learning Platform Engineer in Singapore to build and maintain automated ML pipelines and infrastructure.
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Senior Data Privacy Analyst | source=ats_platform | url=https://boards.greenhouse.io/advanceintelligencegroup/jobs/4304906005
+  Title: Advance Intelligence Group hiring Senior Data Privacy Analyst (Singapore) – Greenhouse
+  Evidence: Greenhouse listing on the official Advance Intelligence Group board for a Senior Data Privacy Analyst in Singapore, focused on data protection compliance, privacy controls, and data governance across the group.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=AI Scientist & Engineer | source=linkedin | url=https://sg.linkedin.com/jobs/view/ai-scientist-engineer-at-advance-intelligence-group-4337468672
+  Title: Advance Intelligence Group hiring AI Scientist & Engineer (Singapore) – LinkedIn
+  Evidence: LinkedIn listing explicitly names Advance Intelligence Group as hiring an AI Scientist & Engineer in Singapore, posted approximately November 2025.
+  Confidence: Medium

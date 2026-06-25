@@ -1,0 +1,28 @@
+Company: Viettel
+Domain: viettel.com.vn
+Industry: Telecommunications
+Country: Vietnam
+Agent: public_news
+Evidence items: 3
+============================================================
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXN3bHBlVlE1RE10RHJnUlEtZGVSWFFBVHdTZzBwaUpsM3dNMDVVWDBXc2s3cWJEUjVOWDBRUm5Pclk0eTN4MVppMHU0ZEs2SnFwLTFsc1lRQVcydnFWdmxXS0lPcGEteXljVkRkd1lDWXpHcHBJZnVFRmJsY0EwSWFQNmY2S09OUURDZElnMlJiRzdCTFNaSEVGY2RIUTZFOXBOYkZtRjR1V3N6MlpFU1JtQU00d19DaUlqTE56TEIwTVRFeXd2am4xc04zNTU5d3NZcE9IOHBLaS16LTNtaA?oc=5
+  Title: Viettel, Petrolimex promote coordination in digital transformation and green energy transition - en.qdnd.vn
+  Snippet: Viettel, Petrolimex promote coordination in digital transformation and green energy transition en.qdnd.vn
+  Published: 2026-05-27 (6 days ago)
+  Summary: Viettel and Petrolimex signed a coordination agreement to collaborate on digital transformation and green energy transition initiatives.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0MxYWtCSHIyZFdoaktQYWRmQWU2TTNQNElmUFI5WTJXY1g1S2NiM2tHRmZzT0x3T3RqdlpqQ2trbXpKUEZSTVRUM2VkU3MxWWZNMzd6eDl3VmxwSEw4c211VVpGSjlvMDV2SHpxTWZvZzEtUk9Yb3FsY0RnNEljU2F6Mjd6bXVua1NJcjFB?oc=5
+  Title: Viettel launches 2026 technology talent program - VOV World
+  Snippet: Viettel launches 2026 technology talent program VOV World
+  Published: 2026-05-12 (22 days ago)
+  Summary: Viettel launched its 2026 technology talent program to recruit and develop engineering talent across its technology divisions.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixwFBVV95cUxPeDJ5bmFlVF9PeUp4NDYzZFlGN3F1b1NvWjZyYW1FTXA3SVFLMHFhNUdmaEkzclVHMlFGWVBBejN1bUNsVXdGQzlyNlhRNENsSXVTRXp2bDlFMHpPd2pGdTc5aElIa0FmWjVBTUNFTFp5R1pZSVVDRWJXWWVQcHIxTEh4aW9YVXB5cGdVSWg4empfQUVmN0dGT3BXVzZuUFRDVDRDNmxxbDZoQXZpNlhoTGwyaTZBeFNrLW1UX1dUeTRCQTNRZlpZ?oc=5
+  Title: Viettel launches many incentives to encourage customers to verify subscriber information soon - Laodong.vn
+  Snippet: Viettel launches many incentives to encourage customers to verify subscriber information soon Laodong.vn
+  Published: 2026-05-19 (15 days ago)
+  Summary: Viettel introduced customer incentives to encourage early subscriber information verification, supporting a platform compliance initiative.
+  Confidence: High

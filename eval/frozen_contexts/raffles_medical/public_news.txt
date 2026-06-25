@@ -1,0 +1,101 @@
+Company: Raffles Medical Group
+Domain: singapore-health-insurance.com
+Industry: healthcare
+Country: SG
+Agent: public_news
+Evidence items: 16
+============================================================
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxPUG16UzR4V0RIUnEwMzZIWHBrWGZ4UWE0bl94MmVVN0JUQ0hwRTRmRzVzVmZNeFI4cVA5cHFobGh4MEpzbkpRUExWeVcwaDl4amxDdUVOeFdWMi1QTDk4THRtQm1MRTRwa3RRWS02Q3pXSE13NmtCNGljYi05SmR0TmVQOGFXNlpFLWs4WXNobmgzOWFPcGVF?oc=5
+  Title: Raffles Medical Group appoints new chief digital officer - Digital Transformation - Industry Movements - Leadership - iTnews Asia
+  Snippet: Raffles Medical Group appoints new chief digital officer - Digital Transformation - Industry Movements - Leadership iTnews Asia
+  Published: 2022-05-10 (1450 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0NVcWxYVmZlVk9rS0pXNUNwQjFyUzAtMmZIOTRVUWdUa1BPc05fbW1tNEVJazMweEt4VTlRZEtMUmt3d2VRQmcxNzhXS0JhZHhhaV9zV2N6ZEg0aGtrUEFBTXVtSmh1MEpGRWZCVU90WTduaVRRRWdhWHJnTS1nQWNBcHNMY19GN0RGdEN5YU5tWUJRTkw0THkxVjlfbkk1Sk1lcUV1OWl2clU4MU9TaDhhQTl0c1g4bGJPMTlNRGZVT0t0OFVDTDdWWmc?oc=5
+  Title: HSBC launches pioneer health and wellness centre; selects Raffles Medical as operator - businesstimes.com.sg
+  Snippet: HSBC launches pioneer health and wellness centre; selects Raffles Medical as operator businesstimes.com.sg
+  Published: 2025-07-28 (275 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdmMkktRV9qOHVDQ1B1V1Y5blNTbUtwWEFCeE1Ha2x0QnN1ZFJfVXh1d2lUZFBPX29la20tSE9YT2hzN2FOVG5zZnE2UkYyX01IVnpQLVRINEN5cGkxWFhkTkgzcndUQTVYU2R2V1podDVkVEVXLTRyV2Ewc2RIcTNvLV9WVDF4X2duOWNTMnNJY0dZeC1lUF9mSUpPRVU0R2hXZHZJVThmY0k?oc=5
+  Title: Singapore's Raffles Medical launches online health care platform - Nikkei Asia
+  Snippet: Singapore's Raffles Medical launches online health care platform Nikkei Asia
+  Published: 2019-01-24 (2652 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjNLOGxZQmc2SG9MYVBsa05uck5HUVVrS0dINlV6ZDQ1TjAwRFoxTF9XQ2g5MUdSYjZsS1ZkNExtczBULUI5UklTRlBhdEVYUU5IbWo0U3BTck1sQUJwYTFaemd6anR0eXRpdVNpVGd0X0hCVEFfOC1MaUhsamY0SWkyTl9hcWI1bmRyaDRiTzVLWktENGlmZ3ZaUE11VHczNzV0VnRkd1pqU1dkTmhqWW9CNnNVNzBQNnZmc1MwVGdIQlZlTWVuR3drVQ?oc=5
+  Title: Raffles Medical Group launches Specialist Centre, expands Emergency Care Collaboration ward - Yahoo News Singapore
+  Snippet: Raffles Medical Group launches Specialist Centre, expands Emergency Care Collaboration ward Yahoo News Singapore
+  Published: 2019-03-13 (2604 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzhZN3R5NDFUWWlIOHBrb2Q0UmhEZDhvT05uNWhqMjhhdGcwbG1DWldxNlBVR3FkNGFqWHBoelhyRlZXbUY2cnVyaHEzNUpEaHQycXp3ZGZLU2RCSTBTNHZjVmVadEY2dlBYZ0xPMHpLaWNYbWJsMi1QZGhHU1FoQUl4YjZBeFpZTkpoMC16OFh4NEEwMGVVSU90bnljVjVGeUNkdWYwWHhpY3pyREFSVkxmLVdMbGl1VGE3Q2hsYnZjTUk?oc=5
+  Title: Doctor World launches healthcare platform, creates proprietory app for Raffles Medical - The Straits Times
+  Snippet: Doctor World launches healthcare platform, creates proprietory app for Raffles Medical The Straits Times
+  Published: 2019-01-24 (2652 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkRtdG1udHpEd3pWVnhCUjZja0xHaHZOTFBvVm0zUW1ra2g3cUxMMnVuMUZQU3RibFhHd2dscDFlRE81R0pOa1I3dklOY0IydXJVUTUxY2E2ai1IR1AyN0RnazZCSGtkUUVPellIWS1wMC1UeFJIb2hOWFAtejlGTVRoQmt5RzZTSTgwM1hrTFpEbjJXOTJ1QV9UTnYzaXpYUTl6STZONzU5d28?oc=5
+  Title: Raffles Medical Group names new Chief Technology Officer - Healthcare Asia Magazine
+  Snippet: Raffles Medical Group names new Chief Technology Officer Healthcare Asia Magazine
+  Published: 2025-08-01 (271 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3hISElsMVZtR211cHh4M2V3dkk0R29sRDUwZEJkNml1VFVFS3JRd1oxUEw4UzIweFM1T3lHaUk0RE81ZGJCeTY2TTNhZi11U0FGb1ZLMUdhRndmemNzY0pOSkhQNXpYekhPZjY5U0FhMllXcUR0bm1XZThtYzJmRy16NTlLZTlfOU9BdWtGMzg3UkZ6TkE?oc=5
+  Title: Raffles Medical Group names new Chief Technology Officer - Singapore Business Review
+  Snippet: Raffles Medical Group names new Chief Technology Officer Singapore Business Review
+  Published: 2025-08-01 (271 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclRIRzlnSFlQZGJxR3otWUtZb2RMRS03bjJOaE44WHlKVFFxeEdrbkdJT0xHWTN5UjE3ay1zdks0SFdSdVVNM1pyQVdMZjlYZXhtQTM1RG9aYmtzcVlOOWJVbFhlZ0xoelF4ZUVpSlM5Q3ZyNGh3Vm1XY0JYZUt3TEpJZkN2Wk05WTMtaFdsVTc4Y2dBbElPSUlkVGJPdTJDTzAzMk5UWmhCbHJMNUMySHRYdWt2cWhQ?oc=5
+  Title: Raffles Medical Group appoints Paragon REIT’s Woo Yeng Yeng as CFO - The Edge Singapore
+  Snippet: Raffles Medical Group appoints Paragon REIT’s Woo Yeng Yeng as CFO The Edge Singapore
+  Published: 2025-09-30 (211 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifEFVX3lxTE51WVV2WU05a2l6MDBTQXg1NWlpUFFzODhFN2hlemZNeXpIVHdSalFQdjF0Sm50LTBNblBJX0JqZU5JZFZNbV8wMDkzZl9TcFV4OTFPTzJCRjlLbmpwbWJBQ24xVFB4SFFVb2hHVGY2eWdUeUczQWtGTVdOQnc?oc=5
+  Title: Raffles Medical Group appoints Woo Yeng Yeng as CFO - Singapore Business Review
+  Snippet: Raffles Medical Group appoints Woo Yeng Yeng as CFO Singapore Business Review
+  Published: 2025-10-01 (210 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxPckJ6Sm51OVRsRDhycUU3V2pxSDhWc0MyOWF4am8xaDJHdmpXVDREY3JPaFpHRnJvUDA3UTQ5UlpPWEFPQ2J2UjJ6ZWZYSlNZeVlHMHNxeHpwTnFQR1ZERGV0MXJzMWpMQjRuMVljQk5OblBjcktxclZuQWFhWFZBb1lTZmx3U2J1SERnWmlXcTJvdjl3OFE?oc=5
+  Title: Frasers Centrepoint Trust appoints Raffles Medical’s CIO to board - Yahoo Finance Singapore
+  Snippet: Frasers Centrepoint Trust appoints Raffles Medical’s CIO to board Yahoo Finance Singapore
+  Published: 2023-09-24 (948 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFdkWnFTTGFuZklNbjhXdDZMMlBuQ3NmbHpndHpYRnZHb2YwanBxbU5iaGtWdno2dWJrb3UyZnowaWlhREtENlcwYWdUWFRWdlcxNkFhU0tiVk1jT3ZPSURNVTh6eWIzMGlialhJUVFQenpRclZCaE9YVUw4NlZmMUhCUWtvb2h2VkQ0T0Q3dHdNX09CdEtOZWtMQTVwLW9heHdzMmxERzFLdTkwYnNTZFBRZjByVVU?oc=5
+  Title: Frasers Centrepoint Trust appoints Raffles Medical’s CIO to board - The Edge Singapore
+  Snippet: Frasers Centrepoint Trust appoints Raffles Medical’s CIO to board The Edge Singapore
+  Published: 2023-09-25 (947 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=claude_web_search | url=https://www.hookphish.com/blog/ransomware-group-0apt-hits-raffles-medical-group-singapore/
+  Title: Ransomware Group 0apt Hits: Raffles Medical Group (Singapore)
+  Snippet: Ransomware Group 0apt Hits: Raffles Medical Group (Singapore) Ransomware News Ransomware Group 0apt Hits: Raffles Medical Group (Singapore) 4 February 2026 In the latest cybersecurity news , Raffles Medical Group (Singapore) – a company operating in the SG – has fallen victim to a ransomware attack conducted by the group 0apt . This data breach , discovered on 2026-02-04 13:18:02.682196 , underscores the increasing need for proactive cybersecurity defenses as we continue through 2025. In response to increasing cyber threats, it’s critical to protect your organization with proactive security me
+  Published: 2026-02-04 (84 days ago)
+  Summary: Ransomware group '0apt' reportedly attacked Raffles Medical Group (Singapore), with the breach discovered on 4 February 2026, according to a ransomware news tracker.
+  Confidence: Medium
+
+[NEWS] signal=leadership_change | source=claude_web_search | url=https://www.globaldata.com/company-profile/raffles-medical-group-ltd/executives/
+  Title: Raffles Medical Group Names Terence Foo as Chief Technology Officer (via GlobalData / ZoomInfo)
+  Snippet: Mr. Terence Foo has been the Chief Technology Officer of the company since August 2025. Previously, he was the Executive Director of Deloitte Technology and Transformation, South-East Asia.
+  Confidence: Low
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://www.appsruntheworld.com/customers-database/customers/view/raffles-medical-group-singapore
+  Title: Raffles Medical Group: Software Purchases and Digital Transformation Initiatives
+  Snippet: Raffles Medical Group has invested in cloud applications and AI-driven platforms to optimize efficiency and growth, collaborating with vendors such as Microsoft, Algolia and Mercer. The group operates Microsoft Azure Cloud Services for application hosting.
+  Confidence: Low
+
+[NEWS] signal=product_platform_launch | source=claude_web_search | url=https://www.smartosc.com/credentials/raffles-connect/
+  Title: Raffles Connect - SmartOSC
+  Snippet: Raffles Connect - SmartOSC Raffles Connect A Bold Vision for Healthcare Cybersecurity Home Credentials Raffles Connect We deliver measurable results ISO/IEC 27001 achieved 30% saved of the manual testing effort 88.4 CSS Scores for the DevSecOps team 95.22 CSS Scores for the Core Service Squad Get to know our client CareHealth is in a strategic partnership with Raffles Medical Group—a leading integrated private healthcare provider in Asia—to launch Raffles Connect, a holistic and personalized platform offering health and wellness services. CareHealth’s vision is to shape the future of healthcar
+  Published: 2024-07-25 (643 days ago)
+  Confidence: Medium
+
+[NEWS] signal=leadership_change | source=claude_web_search | url=https://leadiq.com/c/raffles-medical-group/5a1d8aca24000024006505b4
+  Title: Raffles Medical Group CTO Profile — Terence Foo (RocketReach / LeadIQ)
+  Snippet: Key team members include Chief Technology Officer: T. F. As of February 2026, Raffles Medical Group has approximately 1.4K employees across 5 continents. The company's tech stack incorporates advanced tools with a focus on digital health solutions and telemedicine to modernise patient care.
+  Confidence: Low

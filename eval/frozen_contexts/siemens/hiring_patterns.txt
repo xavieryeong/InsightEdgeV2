@@ -1,0 +1,107 @@
+Company: Siemens
+Domain: siemens.com
+Industry: manufacturing
+Country: DE
+Agent: hiring_patterns
+Evidence items: 20
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Software Engineer – Associate – DevSecOps / Application Security Engineer | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/476908
+  Title: Software Engineer - Associate - DevSecOps | Siemens Careers
+  Evidence: The role is 'responsible for embedding security controls across the SDLC' and explicitly requires implementing 'Static Code Analysis (SAST) using tools such as Coverity and SonarQube' and performing 'Software Composition Analysis (SCA) including SBOM generation.' Aligned with Siemens Digital Industries Software security standards.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Lead Product Security Engineer (m/f/d) – Prague | source=careers_page | url=https://jobs.siemens.com/careers/job/563156124274519
+  Title: Lead Product Security Engineer | Siemens Foundational Technologies
+  Evidence: Confirmed open role at Siemens Foundational Technologies (R&D department), hybrid in Prague. Job ID 459965, created March 2025. Directly maps to product security / secure SDLC investment within the Siemens Xcelerator platform engineering org.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Cybersecurity Engineer / Product and Solution Security Expert | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/495765
+  Title: Cybersecurity Engineer / Product & Solution Security Expert | Siemens
+  Evidence: Role focuses on 'integrating security best practices throughout the Secure Software Development Lifecycle (SSDLC)' and requires knowledge of 'OWASP TOP 10, OWASP ASVS' and application security tooling. Explicitly part of the Simcenter Security team at Siemens.
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Cyber Security Architect & Technology Expert (f/m/d) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/482238
+  Title: Cyber Security Architect & Technology Expert | Siemens SI GSW
+  Evidence: Role 'designs and guides secure architecture across SI GSW product lines, embedding cybersecurity into the entire development lifecycle.' Requires knowledge of OWASP, IEC 62443, ISO 27001, and mentors teams on 'secure design, coding, and implementation.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Software Engineer – DevOps | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/486747
+  Title: Software Engineer – DevOps | Siemens
+  Evidence: Role requires 'hands-on DevOps/SRE experience supporting cloud-native production systems,' CI/CD automation using GitLab CI/CD, Jenkins, Flux or ArgoCD, and IaC (Terraform, CloudFormation). Explicitly noted as posted January 2026.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer with Embedded SW Development Background (m/f/d) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/466174
+  Title: DevOps Engineer – Embedded SW | Siemens Digital Industries
+  Evidence: Siemens is 'searching for a DevOps Engineer with embedded software development background' to define and set up 'CI/CD pipelines across multiple platforms (GitHub Enterprise, GitLab, Azure DevOps)' and implement 'cybersecurity measures based on vulnerability assessments.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer – Data Platform & Kubernetes (DevOps Enablers) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/501290
+  Title: DevOps Engineer – Data Platform & Kubernetes | Siemens Mobility
+  Evidence: Role seeks a DevOps Engineer to support 'deployment, operation and automation of data workloads and platform components running in Kubernetes-based environments' for Siemens Mobility's Railigent X platform.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Sr. Site Reliability Engineer (SRE) | source=careers_page | url=https://jobs.siemens.com/careers/job/563156122464153
+  Title: Sr. Site Reliability Engineer (SRE) | Siemens Digital Industries – Charlotte, NC
+  Evidence: Confirmed SRE role under Siemens Digital Industries (Information Technology department), Charlotte, NC / Pune, India. Job ID 449511, created January 2025. Evidences mature CI/CD and cloud operations investment.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior Site Reliability Engineer | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/485505
+  Title: Senior Site Reliability Engineer | Siemens
+  Evidence: Role focuses on 'DevOps as a Service' initiatives, CI/CD SDLC, cloud-native engineering, and requires 'extensive experience in cloud administration combined with hands-on work in CI/CD practices.' Explicitly states 'We're Siemens. A collection of over 377,000 minds.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Site Reliability Engineer (SRE) – Automation Developer | source=careers_page | url=https://jobs.siemens.com/careers/job/563156120235812
+  Title: SRE – Automation Developer | Siemens Digital Industries – Pune
+  Evidence: Confirmed SRE Automation Developer role under Siemens Digital Industries, Pune. Job ID 430446. Multiple concurrent SRE openings across Charlotte and Pune signal a substantial platform engineering org build-out.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Senior Cloud Security Engineer | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/485495
+  Title: Senior Cloud Security Engineer | Siemens Digital Industries Software – Cairo
+  Evidence: Siemens Digital Industries Software is hiring a Senior Cloud Security Engineer requiring 'strong experience implementing security controls throughout the SDLC,' IaC with embedded security controls, and 'experience with vulnerability scanning and security testing automation.' Posted November 2025.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Senior Cloud Engineer | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/485501
+  Title: Senior Cloud Engineer | Siemens (Brightly team) – Cairo
+  Evidence: Role at Siemens Digital Industries Software (Brightly team) requires 'building and designing cloud native processes, infrastructure, and architecture' with 'strong DevOps mindset' and CI/CD/SDLC expertise. References 'Siemens. A collection of over 377,000 minds.'
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Senior Manager – Cloud Engineering | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/473008
+  Title: Senior Manager – Cloud Engineering | Siemens
+  Evidence: Leadership role requiring '8+ years in DevOps, Site Reliability Engineering, or Infrastructure Engineering' with CI/CD tools (Jenkins, GitHub CI, Tekton) and container orchestration expertise. Posted October 2025.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=AWS Network Security Specialist (m/f/d) | source=careers_page | url=https://jobs.siemens.com/careers/job/563156124962710
+  Title: AWS Network Security Specialist | Siemens Digital Industries – Amadora, Portugal
+  Evidence: Confirmed open role under Siemens Digital Industries (Information Technology department), Amadora, Portugal. Job ID 465098, created May 2025. Cloud-native security posture investment in the Digital Industries org.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Security Architect (Siemens Digital Industries Software / CISO Office) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/493392
+  Title: Security Architect | Siemens Digital Industries Software CISO
+  Evidence: Role reports into 'Siemens Digital Industries Software Chief Information Security Office' and requires designing 'multilayer real-time cloud security architectures' with expertise in application security, data security, cryptography, IAM, and container orchestration including Jenkins.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Cybersecurity Architect (w/m/d) – Foundational Technologies | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/485324
+  Title: Cybersecurity Architect | Siemens Foundational Technologies
+  Evidence: The FT CYS (Cybersecurity) org is 'responsible for realizing a unified strategy of achieving industry-grade security for FT services' in alignment with NIST CSF v2, ISO 27001, IEC 62443. Role drives adoption across cloud, on-premise, and research environments. Posted November 2025.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer (multiple roles) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/479470
+  Title: Software Engineer | Siemens (multiple open roles)
+  Evidence: Confirmed Siemens Software Engineer role listing SonarQube as a 'common working system' alongside JIRA and PagerDuty. Requires CI/CD, Git/GitOps, automated testing, and 7+ years enterprise cloud software experience. LinkedIn confirms 728+ Siemens Software Engineer openings in the US alone.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineering Lead / Manager | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/501000
+  Title: Software Engineering Lead/Manager | Siemens Cloud Licensing Platform
+  Evidence: Siemens is hiring an engineering manager for 'critical services that form the backbone of our Cloud Licensing platform,' requiring deep Java/Spring Boot, AWS services (EKS, ECS, RDS), and 'strong DevOps principles and CI/CD pipelines.' Confirms large-scale backend engineering org growth.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Cybersecurity Software Engineer (Smart Infrastructure) | source=careers_page | url=https://jobs.siemens.com/careers/job/563156126433346
+  Title: Cybersecurity Software Engineer | Siemens Smart Infrastructure – Minnetonka, MN
+  Evidence: Confirmed open role under Siemens Smart Infrastructure (R&D), Minnetonka, MN. Job ID 473726, created June 2025. Alongside a 'Product & Solution Security Engineer (PSSE)' role in New York City — both created in 2025 — confirming active security engineering scale-up.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Graduate Cyber Security Engineer (Siemens Mobility) | source=careers_page | url=https://jobs.siemens.com/en_US/externaljobs/JobDetail/472434
+  Title: Graduate Cyber Security Engineer | Siemens Mobility – Chippenham, UK
+  Evidence: Entry-level pipeline role at Siemens Mobility Limited (confirmed employer), posted October 2025. Focused on 'assessing products and systems for security risks' and 'implementing centralised security controls.' Indicates cybersecurity talent pipeline investment across Mobility BU.
+  Confidence: High

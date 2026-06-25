@@ -1,0 +1,42 @@
+Company: EnergyAustralia
+Domain: energyaustralia.com.au
+Industry: Utilities & Energy
+Country: Australia
+Agent: tech_stack
+Evidence items: 7
+============================================================
+
+[TECH] JavaScript/TypeScript, Python, Node.js — Full Stack Engineer Job Posting | category=relevant_languages | source=developer_docs | url=https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Evidence: EnergyAustralia's official careers site lists a Full Stack Development Engineer role requiring JavaScript/TypeScript, React, Python, Node.js, NestJS, REST APIs, and SQL/NoSQL databases. The DevOps stack explicitly includes Docker, Azure, Git, and CI/CD pipelines, with cloud platforms listed as AWS and Azure.
+  Repo: https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Confidence: High
+
+[TECH] CI/CD Pipelines, Docker, Git — Job Posting DevOps Requirements | category=ci_cd_maturity | source=developer_docs | url=https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Evidence: EnergyAustralia's job posting explicitly lists 'DevOps: Docker, Azure, Git, CI/CD pipelines' as required proficiency, and calls for 'familiarity with cloud-based infrastructure and deploying solutions on AWS & Azure', confirming an active DevOps/CI/CD practice.
+  Repo: https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Confidence: High
+
+[TECH] Azure SQL and Azure Information Protection — RocketReach Tech Stack Listing | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/energyaustralia-technology-stack_b5c609e3f42e0c53
+  Evidence: RocketReach lists EnergyAustralia as using 152 technologies including Azure SQL and Azure Information Protection, suggesting Azure cloud adoption. This is a third-party listing and confidence is medium.
+  Repo: https://rocketreach.co/energyaustralia-technology-stack_b5c609e3f42e0c53
+  Confidence: Medium
+
+[TECH] AWS (EC2), Docker, Terraform — ZoomInfo Technographic from Job Postings | category=cloud_native_presence | source=claude_web_search_result | url=https://www.zoominfo.com/c/energyaustralia/77433334
+  Evidence: ZoomInfo's technographic profile for EnergyAustralia, sourced from public job postings, lists 'Unix, HashiCorp Terraform, Python, Microsoft Windows PowerShell, Amazon EC2, Amazon AWS, and Docker' as technologies mentioned in EnergyAustralia's hiring activity.
+  Repo: https://www.zoominfo.com/c/energyaustralia/77433334
+  Confidence: Medium
+
+[TECH] Active Technology Team and New CIO Appointment | category=engineering_visibility | source=developer_docs | url=https://www.energyaustralia.com.au/about-us/media/news/energyaustralia-announces-new-chief-information-officer-0
+  Evidence: EnergyAustralia announced the appointment of a new CIO (Eglantine Etiemble, formerly Group CTO of PEXA) in early 2026, with an explicit mandate for platform modernisation, AI adoption, and cyber resilience. The company's careers page describes a Technology team delivering 'digital solutions and data-driven capabilities', including cybersecurity.
+  Repo: https://www.energyaustralia.com.au/about-us/media/news/energyaustralia-announces-new-chief-information-officer-0
+  Confidence: High
+
+[TECH] GitHub Coding Test Reference — Candidate Repository | category=engineering_visibility | source=github | url=https://github.com/ysmadhav/EnergyAustralia
+  Evidence: A public GitHub repository by a candidate references an 'energyaustralia-coding-test' collaborator account and uses Python/PyCharm, suggesting EnergyAustralia uses coding tests as part of its hiring process, but this is not an EnergyAustralia-owned org.
+  Repo: https://github.com/ysmadhav/EnergyAustralia
+  Confidence: Low
+
+[TECH] Test-Driven Development (TDD) Culture | category=relevant_languages | source=developer_docs | url=https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Evidence: EnergyAustralia's job posting calls for engineers to 'champion a test-driven development (TDD) approach, ensuring solutions are built with quality and maintainability in mind', indicating an engineering culture aligned with code quality practices.
+  Repo: https://careers.energyaustralia.com.au/jobs/full-stack-development-engineer-victoria-vic-australia
+  Confidence: High

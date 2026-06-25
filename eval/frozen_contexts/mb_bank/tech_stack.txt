@@ -1,0 +1,57 @@
+Company: MB Bank
+Domain: mbbank.com.vn
+Industry: Financial Services
+Country: Vietnam
+Agent: tech_stack
+Evidence items: 10
+============================================================
+
+[TECH] Java, Go — Backend Engineering Job Postings | category=relevant_languages | source=developer_docs | url=https://bebee.com/vn/jobs/junior-senior-backend-engineer-java-go-khoi-cntt-mb-bank-ha-noi--theirstack-659901162
+  Evidence: MB Bank job postings explicitly list Java and Go as primary backend languages, and reference Docker Container (K8s), CICD, EventSourcing, CQRS, NoSQL as active technologies within MBBank's internal platform development.
+  Repo: https://bebee.com/vn/jobs/junior-senior-backend-engineer-java-go-khoi-cntt-mb-bank-ha-noi--theirstack-659901162
+  Confidence: High
+
+[TECH] Full Tech Stack — ITviec Company Profile (MB Bank) | category=relevant_languages | source=tech_listing | url=https://itviec.com/companies/mb-bank
+  Evidence: MB Bank's ITviec profile explicitly lists: Mobile (React Native/JavaScript, Flutter/Dart), Web (AngularJS, ReactJS, Micro FrontEnd, HTML/JS/CSS), Back-end (SpringBoot/Java, Golang, Hasura, GraphQL, MongoDB, Oracle, Microservice), System & Cloud (AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure, Multi DC).
+  Repo: https://itviec.com/companies/mb-bank
+  Confidence: High
+
+[TECH] Python, C/C++ — AI/ML Engineering Job Postings | category=relevant_languages | source=developer_docs | url=https://careers.mbbank.com.vn/list-of-posts/detail-list-of-posts?id=68a43a161afdd755f19e7e35&workGroupId=11267
+  Evidence: MB Bank's official careers portal lists Python, C/C++, FastAPI, Flask, Django, TensorFlow, PyTorch, Docker, Kubernetes, and Git/Git Flow as required skills for engineering positions, indicating active ML/AI services in production.
+  Repo: https://careers.mbbank.com.vn/list-of-posts/detail-list-of-posts?id=68a43a161afdd755f19e7e35&workGroupId=11267
+  Confidence: High
+
+[TECH] CI/CD and Kubernetes — Engineering Stack References | category=ci_cd_maturity | source=tech_listing | url=https://itviec.com/companies/mb-bank
+  Evidence: MB Bank job descriptions and tech listings explicitly reference CICD pipelines and Docker/Kubernetes (K8s) as part of the engineering stack used in developing internal platforms and customer applications. Specific CI/CD tooling (e.g., Jenkins, GitHub Actions) is not named in public sources.
+  Repo: https://itviec.com/companies/mb-bank
+  Confidence: Medium
+
+[TECH] MB VRED — Internal Vulnerability Research and Exploit Development Team | category=security_tooling_signal | source=developer_docs | url=https://vred.mbbank.com.vn/about
+  Evidence: MB Bank operates a dedicated internal security team called MB VRED (Vulnerability Research and Exploit Development), which maintains a public Substack blog at vred.mbbank.com.vn focused on cybersecurity and vulnerability research. This signals an active internal application security practice.
+  Repo: https://vred.mbbank.com.vn/about
+  Confidence: Medium
+
+[TECH] In-house Engineering Scale and DevSecOps Culture | category=engineering_visibility | source=claude_web_search_result | url=https://prophet.com/2021/01/fueling-growth-through-digital-transformation/
+  Evidence: MB Bank's Head of Digital stated the bank has 'some 400 in-house engineers' operating in a startup-like environment focused on digital transformation. LinkedIn posts confirm MB Bank hosted DevOps and DevSecOps events at universities (HUST), indicating an active and visible software engineering culture.
+  Repo: https://prophet.com/2021/01/fueling-growth-through-digital-transformation/
+  Confidence: Medium
+
+[TECH] Multi-cloud and Microservices Architecture | category=cloud_native_presence | source=tech_listing | url=https://itviec.com/companies/mb-bank
+  Evidence: Public signals suggest MB Bank runs a multi-cloud architecture spanning AWS, Google Cloud, Viettel Cloud (Vietnam), and Microsoft Azure, with Kubernetes-based microservices deployments, supporting peak loads of 20 million transactions per day on the MBBank App.
+  Repo: https://itviec.com/companies/mb-bank
+  Confidence: High
+
+[TECH] Vietnam Best IT Companies 2025 Recognition | category=engineering_visibility | source=tech_listing | url=https://itviec.com/companies/mb-bank
+  Evidence: MB Bank was officially recognized in the 'Vietnam Best IT Companies 2025' category by ITviec, voted by candidates, indicating a strong and visible engineering employer brand and software development culture.
+  Repo: https://itviec.com/companies/mb-bank
+  Confidence: Medium
+
+[TECH] DevSecOps Culture Signal — LinkedIn | category=ci_cd_maturity | source=claude_web_search_result | url=https://www.linkedin.com/company/mbbank/
+  Evidence: MB Bank's LinkedIn page shows the bank hosted DevOps and DevSecOps events at HUST (Hanoi University of Science and Technology), referencing internal adoption of DevOps and DevSecOps as delivery practices.
+  Repo: https://www.linkedin.com/company/mbbank/
+  Confidence: Low
+
+[TECH] Third-party GitHub wrappers — not MB Bank-owned | category=relevant_languages | source=github | url=https://github.com/thedtvn/MBBank
+  Evidence: Multiple third-party GitHub repositories wrap MBBank's API (e.g., thedtvn/MBBank described as 'unofficial API wrapper for Vietnam Military Commercial Joint Stock Bank'). These are community-built tools, not MB Bank's own repos, and therefore do not count as MB Bank engineering signals.
+  Repo: https://github.com/thedtvn/MBBank
+  Confidence: Low

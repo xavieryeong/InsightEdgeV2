@@ -1,0 +1,118 @@
+Company: Woolworths
+Domain: woolworths.com.au
+Industry: Retail & Consumer Goods
+Country: Australia
+Agent: public_news
+Evidence items: 16
+============================================================
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYzZSVlBQcG1TdUhtSTFSYWFVRWpVdXMwaGltV3p3YjVydjdZTXMtejhYbzBPejVXejFKbXR0TFlFSUxDVTRSanA0S290V0kwM0tFOThlM2RzdHM5eTF4cGFoXzctYUtoQXQ3REdlcUI4ajRkc09VTXl3TWlibVd4UlJ2RzhOb205RnNRX0VKbEdPc2YwSTBSNmZfdGhlNVdjZFQ1Y3RDSlczLVYtSDlldmkySUZpbXBISGdSSWxpRTdBUjE3a1BNZTlZMEtBRjNzRG00dVU2c1JGVE5PSUFUZW80a1RpQlE?oc=5
+  Title: Woolworths manager admits breach of pricing rules in Oreo case - MSN
+  Snippet: Woolworths manager admits breach of pricing rules in Oreo case MSN
+  Published: 2026-04-24 (40 days ago)
+  Summary: A Woolworths manager admitted breaching pricing rules in the ACCC's Oreo pricing case, adding to the retailer's ongoing regulatory compliance pressures.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkhkMjRWZ3c4ajgzYkdmbkVVMVJ0SFBKaFBoUXRCWXp5cDdqcmhJV01CTXkzYk5GOWlOejctOUV1cmY2bEw1ZllPVTRBUXIwdjE1eU95QldDa2JlT2pRZFQ4VDE2OGtLWmVtTjNGOHBNMFNYdnA2TXJOaERzeEptMEswWkxrQnl0SlBwckptV3BsMkgzLTRXcDJ3WlV2ajBk?oc=5
+  Title: Ex-Woolworths AI lead and agency founders launch ‘Rumblings’ for marketers - Campaign Brief
+  Snippet: Ex-Woolworths AI lead and agency founders launch ‘Rumblings’ for marketers Campaign Brief
+  Published: 2026-05-11 (23 days ago)
+  Summary: Woolworths' former AI lead departed to co-found 'Rumblings', a new AI-driven marketing intelligence platform targeting brand marketers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2JOTGdOaHdfSDRXWlB4RHVxYmRJWWVkcUFvZDR3MnV6Ym5xZG9ZMTBtVENhYUNUbkN0UzI3Q1o5b3Vnd1JLS1VkdVlRcWZpazNzRjNrdTR6bGpOaTY5ckRabmZ1MU92SHdlV3hoLTNEcXU3bEdrcV9IWjhveHFYT0I0VTZXS1JkRUhueVh5ZmhRVlc5MmVUVXFWS0FwY0FtaTIwaGJXQQ?oc=5
+  Title: Avocado industry launches VR supply chain training with Woolworths - Inside FMCG
+  Snippet: Avocado industry launches VR supply chain training with Woolworths Inside FMCG
+  Published: 2026-05-29 (5 days ago)
+  Summary: The avocado industry partnered with Woolworths to launch a VR-based supply chain training program for growers and logistics staff.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbjNDbFdkYVZ0Y3dEbGczU1FXTUpqa21scURDVXpzNjJjRFB1RDRHcWhfU3FJX3pMOTZpSzkxUVg2aWsyMTdFTW9naXR5eDktbWdsTURyRzZ2bGExMzFPUHRQYTlrWEpnbFlGMFBSb2xuNzJMS0h5SzFUcWJJbHgzc2s5cGZ3b2RBLWNIM0FHYzJIQjlWMWljejMzTE40a1pUTTVBMHNtZjN0TnNGYWJYZFdnbUZHM2l6RWNYMUM5RmY1Y09MUzEwRmJWODI1TzVpNUhCbUlEdTNMLVFvRWtR?oc=5
+  Title: Woolworths launches price freeze as ACCC case continues - MSN
+  Snippet: Woolworths launches price freeze as ACCC case continues MSN
+  Published: 2026-05-01 (33 days ago)
+  Summary: Woolworths announced a price freeze initiative on selected products as its ACCC pricing investigation continues.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2hRX0FjMXZHQ0d5X2YtNWVPYWtBbXNrRjRualZmcDBtY3lsTEp5SnZ0c1ZBWkRrLUYzbHZqZHhvdUh4WGRlbHlzUnFhTEYxb3pKMW8wcmJMS2hUbm92STl1STV1SGUyMl9NNnR5UjFpbTU2OGtlU3BDYndpYWxNZ193dnR6czJCamM3c1J5Sk1jd29NbGJVUHdSXzJtZmlZdnBqbVFBSkpzdGVLSTdjME1Gc1R4OWNEbWplaFFpWExUalpCMnB6aXRmaXZWZ2VrTlRZWF96N2hDd0hMNmc?oc=5
+  Title: SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng - IOL
+  Snippet: SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng IOL
+  Published: 2026-05-29 (4 days ago)
+  Summary: South African Police launched a high-level investigation into explosions at two Woolworths stores in Free State and Gauteng.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjJBQVZILVAtQ01xOVN2aV9pVkJCU2Rzbkc1Y3dDR1RfSkE2aEdaa1liazZyR0RpSEZZdWZrcmM4ekJjZFNJbG5UVVdXN2FTZGNiQlFyTTJLUkxWVFNnZkZ2SEdseHlMdmdabFA0d2h4cjQ0eFY5N3VQQXJRdk9ZMzFDVFVMVDVDRUktMFlMQ0Z1emZHc2pWd1NB?oc=5
+  Title: M+C Saatchi bows out as Woolworths launches creative pitch - Mumbrella
+  Snippet: M+C Saatchi bows out as Woolworths launches creative pitch Mumbrella
+  Published: 2026-05-06 (28 days ago)
+  Summary: M+C Saatchi withdrew from consideration as Woolworths initiated a new creative agency pitch process.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWxEbGVwLU5LM2lRdzkwbTBCRkZXWlBTQ3ZsQnNJVWdjaDdrWkZkek5CYjZfNDJHX0JOQnVkTnNjdWl0VzN5TUpPVUdEOG15OVg5YXltNmpJakE1ZkxFaXZmdXRaczI5SEpFNkVyMG1oY09hZHU3VzBIcmFkNXhzYlg5YXFkVGhmX3R4THUyUG92WDZ6NldIRUJVVQ?oc=5
+  Title: Woolworths launches NSW’s largest ‘eStore’ in St Marys - serving up to 6,000 weekly orders for Western Sydney - Woolworths Group
+  Snippet: Woolworths launches NSW’s largest ‘eStore’ in St Marys - serving up to 6,000 weekly orders for Western Sydney Woolworths Group
+  Published: 2026-03-20 (75 days ago)
+  Summary: Woolworths opened NSW's largest eStore in St Marys, Western Sydney, capable of fulfilling up to 6,000 online orders per week.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxPODVRbGdPMTNvclpQRS03VTM2b2VNdW5fRnM1am5vSmtnRGNIVkJHRDZlSW1uNGlDZEJQZWtENzVpeWl2Vm04c1lKUU1EOGRtNUYxMG1STVd4MGp3VVdhYV9HZWtOQTdzZWE3eFpnbWNGWkN4MlRKcjlxTElKakJmbXhSNUFRY2pGRU5reUJqS3BjWFVodnZRNmx1RTYtd0E?oc=5
+  Title: Whittaker’s launches new Banana Caramel Block into Woolworths - Inside FMCG
+  Snippet: Whittaker’s launches new Banana Caramel Block into Woolworths Inside FMCG
+  Published: 2026-05-08 (26 days ago)
+  Summary: Whittaker's launched a new Banana Caramel chocolate block exclusively through Woolworths stores across Australia.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVdhY3FFN3ZicWVfMXVZSUI5eE5Bdk5tT1NQR3NVU3ZlU0tQYmMybmhNc055MDhDcUVzVVlpY1dkWkgzVFV1Y2p0Zk51dV9mSTVCN2h1cThsVnNYWGxlWXZKeDZmYkgwemtUYk5aOXg0bTQ0SE53MEVyTTlhajFHNkRWczZmSlZrNm5R?oc=5
+  Title: Woolworths Launches eStore In Sydney - supermarketnews.co.nz
+  Snippet: Woolworths Launches eStore In Sydney supermarketnews.co.nz
+  Published: 2026-03-23 (72 days ago)
+  Summary: Woolworths launched its new automated eStore facility in Sydney to support growing online grocery demand.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTNHc0Vqc09TVTYydU1pT0c4UVhRSFJSYnVOZWdOcVprRzJfTk5LR3ptN2t5QWo3dHVlWHJLS3d4Uk5qWXZ6UW8yR1M4elFGZzdXV0RtVDRaRktWN3RqNGlRcTlRblU2cFRneWF1SnFEcVdla3J4U1A0RlBGUW5iNmpJQ3FzTzkzLW9hOG1hZzd3MVl1dmZkWEtOTDVrREU?oc=5
+  Title: V2Food acquires Daring Foods, launches products at Woolworths - Inside FMCG
+  Snippet: V2Food acquires Daring Foods, launches products at Woolworths Inside FMCG
+  Published: 2026-05-26 (8 days ago)
+  Summary: V2Food acquired US plant-based brand Daring Foods and immediately launched its products through Woolworths stores.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxNRjRiYTdvQWpIM25FQ1E1LTh3ZUtRQnljSGJXanIteTJsMm5hOUZZN2dMNE8xWFJrVnJuSVJQNm5wVmhpLVA2dzg5bW0xYXU3Z1VaRmZLcWtHei1aTWlBc0MtY0xESHhpMk0wZWpPcWd3eTI3bFEzeHBLNE9fcVZZSC1lVVpvd1RKWGdNNHA1N3NxZ1ZVZ2hHblVNekxyQQ?oc=5
+  Title: Tasmanian Bakeries launches Cheeseburger Pies in Woolworths - Inside FMCG
+  Snippet: Tasmanian Bakeries launches Cheeseburger Pies in Woolworths Inside FMCG
+  Published: 2026-05-27 (7 days ago)
+  Summary: Tasmanian Bakeries launched a new Cheeseburger Pie product range into Woolworths stores nationally.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVNDNDVTWXdGVHc4N09zbFZqSFhJZ0pONWp1dlJUNFhsWkdBQ3kxVVZuaWZ5Z1l0TkdvTG9hbDR4VVpqczRsblozRmxDSkxQMXduNFRXMHZuTk04VEp2Q3ZSeFk1QXQ5cHA4OV85VUE5ZFBBb1hxV1BGU3piM1NfZnRuQ1BmSlZWcmVnU3lJUkhReG85MUhzQWNn?oc=5
+  Title: Woolworths launches revamped Little One’s nappy range - retailbiz
+  Snippet: Woolworths launches revamped Little One’s nappy range retailbiz
+  Published: 2026-04-09 (55 days ago)
+  Summary: Woolworths relaunched its revamped Little One's private-label nappy range with updated packaging and formulations.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigAFBVV95cUxPU19EWnNxSmZOZEhUdktFaHhsemtQcFcxUTY3bVNjemwzeDZBZVdxbktoVGpEUjR1Y01UN1VVaWEtWWFZSlpXSUE3a21meVZxOU0zR3BENjBTV2dSWVkyQi1NVG9nS2lFODN3TS1iNXNRM2ZBc1dBWVRuOUpZSTdVNw?oc=5
+  Title: Woolworths launches $20 million automated "eStore" - Food & Beverage Industry News
+  Snippet: Woolworths launches $20 million automated "eStore" Food & Beverage Industry News
+  Published: 2026-03-23 (72 days ago)
+  Summary: Woolworths invested $20 million in a new automated eStore designed to streamline online order fulfilment in Sydney.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXpiZnhYZ25VT2tsaGVMMXBXVTZiS1NTSERkdUZVZUVTZ0t4b042SFpTTkFwZmlIb3F3WXhMV1ljMjFYWVFrNGRpRGJCOUJja3V6UmZraHdBZmdNRlhkNGFQdzcxbGs2Q1dlNWxISXctMTRIQWpsZzMxUnlpUjcwSEFub2lpS1JZTjV5YUpnQUhUdFhaRXROdnVZUQ?oc=5
+  Title: Woolworths launches 70 new globally inspired pantry staples - Retail World Magazine
+  Snippet: Woolworths launches 70 new globally inspired pantry staples Retail World Magazine
+  Published: 2026-04-01 (63 days ago)
+  Summary: Woolworths launched 70 new globally inspired pantry products as part of a private-label range expansion.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekFoZ0RZem5Kci1ibEtuVkM0SXpmbGpiTlFzelRMSEF3WWdyVFFqQ2hFM2FtREV5WlhpTHRDLVlPMExBazNyUWs1QVdHdFI5V1oyRTFvczhBT3k3NWxWaURpZ05ybUd3UkhSZjROZnotM1VSZjdaZUkwd2h3N3U5N3dZS1dSX1pGdEVrX2wwRUwxT2hUMkE1ZTZTQmRYbERyMTBFNW1URUlDYTd3Y3JBZlNXQjNDS1hqUWx3VVliUnBOZWxXUnFlZUxUdWRuNlJVZ3BBcVkyXzNYQV9ubk9weTdoVHc4R1c3?oc=5
+  Title: Woolworths launches exciting MyDifference competition with R100,000 in prizes up for grabs - News24
+  Snippet: Woolworths launches exciting MyDifference competition with R100,000 in prizes up for grabs News24
+  Published: 2026-04-16 (48 days ago)
+  Summary: Woolworths South Africa launched the MyDifference competition offering R100,000 in prizes to reward customer engagement.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEFvRnhuQXRJLWh3ak1qOWpocFhLdWlDTVQwMFJzTHZrX2ZTMmlkcU9mQjJBVzg2STI3bF9fTXVQUmdxWmp0QnRzQmktaHZNbjd1MGdNZG1RZnV0SWw5T3NRU2xKenR4SWt2SHdkZTVHWjA2SXdCWjJoeC1HY09IVVIxR0ZleHcyR3l3N0hwemEzMXFoQmp1VWJ6Ql9tU292ZTBYV29ZVWYxXzE4VFg5RHUtMGMxeWhkdzlYMXdpclEwRGFIck13?oc=5
+  Title: Woolworths appoints Sam Ngumeni as new CEO, succeeding Roy Bagattini - sundayindependent.co.za
+  Snippet: Woolworths appoints Sam Ngumeni as new CEO, succeeding Roy Bagattini sundayindependent.co.za
+  Published: 2026-04-08 (55 days ago)
+  Confidence: High

@@ -1,0 +1,67 @@
+Company: Airtel
+Domain: airtel.in
+Industry: Telecommunications
+Country: India
+Agent: tech_stack
+Evidence items: 12
+============================================================
+
+[TECH] Java — WynkLimited/payments-service and Enigma-Scripts | category=relevant_languages | source=github | url=https://github.com/WynkLimited
+  Evidence: Airtel Digital Limited's GitHub org (WynkLimited) has public repositories including 'payments-service' and 'Enigma-Scripts' written in Java, with contributor emails confirming @airtel.com affiliation (e.g. ankush.kapoor@airtel.com, himanshu.luthra@airtel.com as AirtelAdmin).
+  Repo: https://github.com/WynkLimited
+  Confidence: High
+
+[TECH] Multi-language stack — Java, JavaScript, TypeScript, C++, Go | category=relevant_languages | source=github | url=https://github.com/orgs/WynkLimited/repositories
+  Evidence: WynkLimited (Airtel Digital Limited) GitHub org shows public repos spanning Java (Enigma-Scripts, payments-service), JavaScript (appcenter-cli-v2), TypeScript (jupyter-scheduler-enigma), C++ (airtel-react-native fork), and Go (commento fork) — all confirmed under Airtel admin ownership.
+  Repo: https://github.com/orgs/WynkLimited/repositories
+  Confidence: High
+
+[TECH] SonarQube Quality Gates | category=security_tooling_signal | source=engineering_blog | url=https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Evidence: Airtel Digital's published engineering blog post on CI/CD architecture explicitly lists 'SonarQube Quality Gates' as part of the Downstream pipeline stage alongside SAST/SCA scanning, unit/integration test results, and code vulnerability analysis.
+  Repo: https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Confidence: High
+
+[TECH] Jenkins (Master-Slave architecture with Groovy Shared Libraries) | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Evidence: Airtel Digital's engineering blog explicitly describes 'Jenkins Master Slave Architecture' and 'Jenkins Groovy Shared Libraries for CI/CD Deployment' within Airtel's production microservices pipeline, covering build, deploy, and security scanning stages.
+  Repo: https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Confidence: High
+
+[TECH] Jenkins CI/CD pipeline at Bharti Airtel | category=ci_cd_maturity | source=claude_web_search_result | url=https://www.techtarget.com/searchitoperations/news/252439045/Bharti-Airtel-overhauls-test-dev-with-container-infrastructure
+  Evidence: TechTarget article confirms Bharti Airtel integrated Jenkins CI/CD pipeline with its container infrastructure, enabling developers to provision test environments autonomously.
+  Repo: https://www.techtarget.com/searchitoperations/news/252439045/Bharti-Airtel-overhauls-test-dev-with-container-infrastructure
+  Confidence: Medium
+
+[TECH] AWS, Amazon EKS, Kubernetes, Docker — Wynk Music platform | category=cloud_native_presence | source=claude_web_search_result | url=https://aws.amazon.com/solutions/case-studies/bharti-airtel-limited-case-study/
+  Evidence: AWS official case study confirms Airtel uses Amazon EKS for Kubernetes orchestration and Amazon CloudFront for its Wynk Music OTT platform, with 90% of EKS nodes in production across seven EKS clusters, and an active CI/CD pipeline.
+  Repo: https://aws.amazon.com/solutions/case-studies/bharti-airtel-limited-case-study/
+  Confidence: High
+
+[TECH] GCP cloud migration (AWS to GCP) | category=cloud_native_presence | source=claude_web_search_result | url=https://in.linkedin.com/company/airtel-digital
+  Evidence: LinkedIn post from Airtel Digital employee states they are 'leading the migration from AWS to GCP cloud infrastructure' while overseeing multiple applications including Wynk, DTH, ADS, and Xstream Play.
+  Repo: https://in.linkedin.com/company/airtel-digital
+  Confidence: Medium
+
+[TECH] Kubernetes, Red Hat OpenShift, Microservices (private cloud) | category=cloud_native_presence | source=claude_web_search_result | url=https://www.netapp.com/blog/airtel-selects-netapp-astra-for-kubernetes-storage/
+  Evidence: NetApp blog confirms Airtel selected Red Hat OpenShift as their containerized workload platform and uses Kubernetes with persistent microservices storage, with Pradeep Bhomia (Airtel Head of Infrastructure Transformation) directly quoted.
+  Repo: https://www.netapp.com/blog/airtel-selects-netapp-astra-for-kubernetes-storage/
+  Confidence: High
+
+[TECH] Microservices at scale — 400-500 pods/day on private cloud | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Evidence: Airtel Digital's engineering blog states 'we implemented many monolithic applications that turned to microservices to cloud-native orchestrated engines where every day 400–500 pods are getting created or destroyed' across Airtel Billing, Payments, and Dunning Systems.
+  Repo: https://medium.com/airteldigital/ci-cd-cloud-native-application-devops-architecture-1c46a5afce42
+  Confidence: High
+
+[TECH] Elastic Security — AI-driven SOC | category=security_tooling_signal | source=claude_web_search_result | url=https://www.elastic.co/blog/ai-driven-analytics
+  Evidence: Elastic's blog confirms Airtel is using Elastic Security for its managed SOC (MSSP model), with AI-driven threat detection, behavioral analytics, and automated incident response — directly naming Airtel as the customer.
+  Repo: https://www.elastic.co/blog/ai-driven-analytics
+  Confidence: High
+
+[TECH] Airtel Digital Medium engineering blog and GitHub org | category=engineering_visibility | source=engineering_blog | url=https://medium.com/airteldigital
+  Evidence: Airtel Digital publishes a public engineering blog (medium.com/airteldigital) with detailed posts on CI/CD architecture, data engineering, and cloud-native systems. WynkLimited (Airtel Digital Limited) maintains a public GitHub org at github.com/WynkLimited, and airtelxlabs is the Airtel India innovation lab GitHub org at github.com/airtelxlabs.
+  Repo: https://medium.com/airteldigital
+  Confidence: High
+
+[TECH] airtelxlabs GitHub org — Airtel India innovation lab | category=engineering_visibility | source=github | url=https://github.com/airtelxlabs
+  Evidence: GitHub org at github.com/airtelxlabs is described as 'GitHub is where Airtel builds software' and links to airtel.in/iq/, confirming it is Airtel India's official engineering/innovation lab GitHub presence.
+  Repo: https://github.com/airtelxlabs
+  Confidence: High

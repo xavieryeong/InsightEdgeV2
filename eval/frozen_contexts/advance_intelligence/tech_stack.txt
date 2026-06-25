@@ -1,0 +1,42 @@
+Company: Advance Intelligence Group
+Domain: advancegroup.com
+Industry: ai_fintech
+Country: SG
+Agent: tech_stack
+Evidence items: 7
+============================================================
+
+[TECH] DevOps & SRE Engineer employee GitHub presence | category=engineering_visibility | source=github | url=https://github.com/orgs/goproxy/followers
+  Evidence: A GitHub user profile lists 'DevOps & SRE Engineer @ Advance Intelligence Group' in their bio, indicating at least one confirmed software engineering employee with a GitHub presence. This is employee-level, not a company-owned org.
+  Repo: https://github.com/orgs/goproxy/followers
+  Confidence: Low
+
+[TECH] Vue.js | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/advance-intelligence-group/5f9bb3f839598c85f4d9525d
+  Evidence: LeadIQ lists Advance Intelligence Group as using 'Amazon Web Services, Vue.js, and more' as part of its tech stack, citing 8 technology products and services.
+  Repo: https://leadiq.com/c/advance-intelligence-group/5f9bb3f839598c85f4d9525d
+  Confidence: Low
+
+[TECH] HTML / JavaScript | category=relevant_languages | source=tech_listing | url=https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Evidence: RocketReach lists HTML among the technologies used by Advance Intelligence Group, alongside OpenResty and Nginx, based on web-facing infrastructure detection.
+  Repo: https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Confidence: Low
+
+[TECH] Amazon CloudFront & Amazon S3 | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Evidence: RocketReach explicitly lists 'Amazon CloudFront' and 'Amazon S3' as technologies used by Advance Intelligence Group, indicating AWS cloud infrastructure for content delivery and storage.
+  Repo: https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Confidence: Medium
+
+[TECH] Amazon Web Services (AWS) | category=cloud_native_presence | source=tech_listing | url=https://leadiq.com/c/advance-intelligence-group/5f9bb3f839598c85f4d9525d
+  Evidence: LeadIQ corroborates AWS usage, stating the company's tech stack includes 'AWS, Vue.js, and other modern tools' and references 'scalable cloud infrastructure'.
+  Repo: https://leadiq.com/c/advance-intelligence-group/5f9bb3f839598c85f4d9525d
+  Confidence: Medium
+
+[TECH] OpenResty / Nginx | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Evidence: RocketReach lists OpenResty (full-fledged web application server bundling Nginx) and Nginx among Advance Intelligence Group's detected technologies.
+  Repo: https://rocketreach.co/advance-intelligence-group-technology-stack_b43ddd90c19cc476
+  Confidence: Low
+
+[TECH] Large-scale fintech engineering organization | category=engineering_visibility | source=claude_web_search_result | url=https://sg.linkedin.com/company/advance-intelligence-group
+  Evidence: LinkedIn confirms Advance Intelligence Group has 1,400+ staff across Asia serving 40M consumers and 500+ enterprise clients, with three active product lines (ADVANCE.AI, Atome Financial, Ginee), strongly implying a significant software engineering workforce.
+  Repo: https://sg.linkedin.com/company/advance-intelligence-group
+  Confidence: Medium

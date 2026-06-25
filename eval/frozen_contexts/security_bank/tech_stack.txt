@@ -1,0 +1,72 @@
+Company: Security Bank Corporation
+Domain: securitybank.com
+Industry: Banking
+Country: PH
+Agent: tech_stack
+Evidence items: 13
+============================================================
+
+[TECH] Java | category=relevant_languages | source=developer_docs | url=https://www.securitybank.com/career/lead-developer-java-net/
+  Evidence: Security Bank's Lead Developer (Java/.NET) job posting explicitly requires 'Substantial skills in Programming (RPG/.Net/Java)' and lists active Java development as a core responsibility for internal IT systems.
+  Repo: https://www.securitybank.com/career/lead-developer-java-net/
+  Confidence: High
+
+[TECH] Java | category=relevant_languages | source=developer_docs | url=https://www.securitybank.com/career/test-automation-senior-engineer/
+  Evidence: Security Bank's Test Senior Automation Engineer job posting on securitybank.com requires 'Experience in JAVA or other programming languages using Selenium library and RESTAssured', confirming active Java use in test automation.
+  Repo: https://www.securitybank.com/career/test-automation-senior-engineer/
+  Confidence: High
+
+[TECH] C# / .NET | category=relevant_languages | source=developer_docs | url=https://www.securitybank.com/career/dotnet-engineer/
+  Evidence: Security Bank's official careers page lists a 'Dotnet Engineer' role, responsible for design, development, and improvement of SBC's IT Software applications and platforms, confirming active .NET/C# development.
+  Repo: https://www.securitybank.com/career/dotnet-engineer/
+  Confidence: High
+
+[TECH] Python | category=relevant_languages | source=developer_docs | url=https://www.securitybank.com/career/data-partner/
+  Evidence: Security Bank's Data Engineer job posting on securitybank.com lists 'Python experience' as a required skill, alongside PySpark and AWS platform services, confirming Python is used in the data engineering function.
+  Repo: https://www.securitybank.com/career/data-partner/
+  Confidence: Medium
+
+[TECH] Jenkins / Git | category=ci_cd_maturity | source=developer_docs | url=https://www.securitybank.com/career/test-automation-senior-engineer/
+  Evidence: Security Bank's Test Senior Automation Engineer job posting explicitly requires candidates to be 'Knowledgeable in CI/CD tools and processes i.e. Jenkins and Git', directly confirming Jenkins-based CI/CD pipeline usage.
+  Repo: https://www.securitybank.com/career/test-automation-senior-engineer/
+  Confidence: High
+
+[TECH] Docker | category=ci_cd_maturity | source=developer_docs | url=https://www.securitybank.com/career/test-automation-senior-engineer/
+  Evidence: The same Test Senior Automation Engineer job posting on securitybank.com also lists 'Proficiency with Postman, Docker, SQL, and Git version control' as a required skill, confirming Docker use in the delivery pipeline.
+  Repo: https://www.securitybank.com/career/test-automation-senior-engineer/
+  Confidence: High
+
+[TECH] AWS | category=cloud_native_presence | source=developer_docs | url=https://www.securitybank.com/career/data-partner/
+  Evidence: Security Bank's Data Engineer job posting on securitybank.com lists 'Familiarity with AWS platform services such as S3, EC2, Athena, EMR' and notes that AWS certification is preferred, confirming active AWS cloud usage.
+  Repo: https://www.securitybank.com/career/data-partner/
+  Confidence: High
+
+[TECH] Microsoft Azure | category=cloud_native_presence | source=claude_web_search_result | url=https://www.appsruntheworld.com/customers-database/customers/view/security-bank-corporation-philippines
+  Evidence: AppsRunTheWorld research identified that Security Bank Corporation purchased 'Microsoft Azure Cloud Services for Application Hosting and Computing Services in 2018', confirming an Azure cloud presence.
+  Repo: https://www.appsruntheworld.com/customers-database/customers/view/security-bank-corporation-philippines
+  Confidence: Medium
+
+[TECH] Microsoft Azure Virtual Desktop / Power Platform | category=cloud_native_presence | source=engineering_blog | url=https://www.securitybank.com/news/security-bank-one-of-the-first-ph-companies-to-adopt-microsofts-365-copilot-generative-ai/
+  Evidence: Security Bank's own news release confirms the bank is 'rolling out Copilot with 300 users leveraging tools including Microsoft 365, Azure Virtual Desktop, Power Platform, and more', confirming active Azure footprint.
+  Repo: https://www.securitybank.com/news/security-bank-one-of-the-first-ph-companies-to-adopt-microsofts-365-copilot-generative-ai/
+  Confidence: High
+
+[TECH] Service-based / distributed architecture | category=cloud_native_presence | source=engineering_blog | url=https://www.securitybank.com/news/security-bank-wins-best-branch-digitisation-implementation-for-new-tellering-system-from-the-asian-banker/
+  Evidence: The Asian Banker cited Security Bank as having 'transitioned from outdated monolithic architecture to a modern, service-based, distributed system' as part of a cloud-based digitisation project across 340+ branches.
+  Repo: https://www.securitybank.com/news/security-bank-wins-best-branch-digitisation-implementation-for-new-tellering-system-from-the-asian-banker/
+  Confidence: High
+
+[TECH] Active engineering career portal with developer roles | category=engineering_visibility | source=developer_docs | url=https://www.securitybank.com/careers/job-openings/
+  Evidence: Security Bank Corporation maintains an active public careers portal at securitybank.com listing developer roles including Java Developer, Dotnet Engineer, API Engineer, Test Automation Engineer, and Data Engineer, evidencing an active internal software engineering function.
+  Repo: https://www.securitybank.com/careers/job-openings/
+  Confidence: High
+
+[TECH] DevOps / Agile transition signalled in job descriptions | category=engineering_visibility | source=developer_docs | url=https://www.securitybank.com/career/solutions-delivery-head/
+  Evidence: Security Bank's Solutions Delivery Head job posting requires candidates to be 'capable of transitioning the team to Agile / DevOps practice to support the organization's transformation journey', indicating DevOps adoption is in active progress.
+  Repo: https://www.securitybank.com/career/solutions-delivery-head/
+  Confidence: Medium
+
+[TECH] Spring Boot / CI/CD in testing pipelines | category=ci_cd_maturity | source=developer_docs | url=https://www.securitybank.com/career/data-quality-support-engineer/
+  Evidence: Security Bank's Data Quality Support Engineer posting requires candidates to be 'familiar with test environment construction by CICD, Spring Boot', confirming CI/CD pipeline usage in data engineering QA workflows.
+  Repo: https://www.securitybank.com/career/data-quality-support-engineer/
+  Confidence: Medium

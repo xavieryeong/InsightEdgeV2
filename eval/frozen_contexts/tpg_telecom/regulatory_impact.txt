@@ -1,0 +1,97 @@
+Company: TPG Telecom
+Domain: tpgtelecom.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 18
+============================================================
+
+[REGULATORY] type=active_fine_lawsuit | value=iiNet (TPG Telecom subsidiary) data breach — August 2025 — ~280,000 customer records exposed via stolen employee credentials from order management system. TPG notified ASX, relevant government agencies, and activated incident response. | regulation=Cyber Security Act 2024 — mandatory incident notification; SOCI Act — cyber incident reporting | regulator=Australian Cyber Security Centre (ASD/ACSC); Home Affairs
+  Source: public_news | url=https://www.theregister.com/2025/08/20/tpg_telecom_iinet_breach/
+  Evidence: TPG Telecom confirmed a cyberattack at subsidiary iiNet; 'the intrusion took place after the credentials belonging to a single employee were stolen'; approximately 280,000 active email addresses and 20,000 active landline phone numbers compromised.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Act TSRMP Rules commenced 4 April 2025 — mandatory cybersecurity risk management program for critical telecommunications assets, explicitly including software bugs/defects as regulated hazards. | regulation=Security of Critical Infrastructure Act 2018 (SOCI Act) — TSRMP Rules 2025 | regulator=CISC / Department of Home Affairs
+  Source: official_regulator_website | url=https://www.homeaffairs.gov.au/nat-security/Pages/telecommunications-sector-security.aspx
+  Evidence: Schedule 5 of the ERP Act commenced on 4 April 2025 relating to telecommunications security; responsible entities for critical telecommunications assets must protect the asset from all-hazards including security risks; most significant addition is increased cyber security framework compliance requirements for carrier assets.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Amendment Act 2024 explicitly extends telecommunications security obligations to include protection against software bugs and defects — not just cyber intrusions. | regulation=SOCI Amendment (Enhanced Response and Prevention) Act 2024 | regulator=CISC / Department of Home Affairs
+  Source: public_news | url=https://www.corrs.com.au/insights/australia-introduces-comprehensive-cyber-security-legislation
+  Evidence: Responsible entities for prescribed critical telecommunications assets must 'do their best protect their assets from any hazard where there is a material risk that the hazard could have an impact on the asset… This extends beyond the current obligation to protect networks and facilities from unauthorised interference or access, meaning responsible entities must now consider hazards other than cyber incidents, such as software bugs and defects in the network.'
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Act TSRMP Rules consolidate telecommunications security obligations and introduce CIRMP requirement for carrier assets, with obligation to maintain the program commencing 4 October 2025 for assets existing at 4 April 2025. | regulation=SOCI (Telecommunications Security and Risk Management Program) Rules 2025 | regulator=CISC / Department of Home Affairs
+  Source: public_news | url=https://www.kwm.com/global/en/insights/latest-thinking/the-cyber-security-and-critical-infrastructure-rules-have-now-been-registered.html
+  Evidence: Rules set out security obligations for critical telecommunications assets; those amendments moved security and notification obligations from Part 14 of the Telecommunications Act into a new Part 2D of the SOCI Act; obligation to have and maintain a CIRMP commences on 4 October 2025.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=Cyber Security Act 2024 received Royal Assent 29 November 2024 — introduces mandatory ransomware payment reporting, IoT security standards, and CIRB post-incident reviews. TPG (AU$5.54B revenue) is well above the AUD $3M reporting threshold. | regulation=Cyber Security Act 2024 | regulator=Australian Signals Directorate (ASD) / Home Affairs
+  Source: public_news | url=https://www.cliffside.com.au/insights/cyber-security-act-2024-australia/
+  Evidence: The Cyber Security Act 2024 received Royal Assent on 29 November 2024 and creates four distinct pillars: smart device security standards, mandatory ransomware payment reporting, limited-use protections for voluntarily shared incident information, and the Cyber Incident Review Board.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=TPG Telecom holds ISO/IEC 27001 certification for its ISMS (ongoing — certified by BSI Australia). Continuous surveillance audits require maintained and evidenced security controls including vulnerability management and secure development. | regulation=ISO/IEC 27001 — Information Security Management System | regulator=BSI Australia (accredited certification body)
+  Source: public_news | url=https://www.linkedin.com/posts/leebarney1_im-very-proud-that-tpg-telecom-has-achieved-activity-7105786084709568512-pOI6
+  Evidence: TPG Telecom has achieved ISO/IEC 27001 certification for information security management systems (ISMS) — certified by BSI Australia.
+  Confidence: Medium
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA CPG 234 Information Security Practice Guide explicitly addresses secure software development and acquisition as an expected best practice for regulated entities and their material third-party providers. | regulation=CPG 234 Information Security (APRA Prudential Practice Guide) | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: CPG 234 states: 'The outcome of secure software development and acquisition is to ensure that software: a) continues to function as intended regardless of unforeseen circumstances.'
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=TPG Telecom's own security leadership publicly identified SSDLC time-boxing as a gap — specifically that security testing is always time-constrained — creating a documented internal need for continuous automated security tooling. | regulation=Internal SSDLC Framework / Cyber Centre of Excellence Programme | regulator=N/A — company self-disclosure
+  Source: public_news | url=https://www.itnews.com.au/news/tpg-telecom-brings-red-and-blue-teams-partners-under-cyber-coe-612673
+  Evidence: TPG Senior Red Team Manager Jason Ford stated: 'all of our partners including ourselves [will] work through the secure software development lifecycle (SSLDC) framework… What I believe the gap in the SSLDC is, is that it's always timeboxed.'
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=TPG Telecom's customer-facing sustainability page confirms an Information Security Governance Committee, 24/7 cyber defence monitoring, membership of the Joint Cyber Security Centre, and investments in systems and controls — indicating active, board-level cybersecurity governance. | regulation=Internal Information Security Governance / SOCI Act CIRMP | regulator=N/A — company self-disclosure
+  Source: company_website | url=https://www.tpgtelecom.com.au/sustainability/customer-wellbeing
+  Evidence: Cyber security and privacy are governed by the Information Security Governance Committee, which is made up of senior security, risk and technology leaders across the organisation, and reports regularly to the Executive Leadership Team.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=TPG Telecom is Australia's second-largest listed telco (5.51M mobile subscribers, AU$5.54B 2024 revenue), classified as critical infrastructure under the SOCI Act — telecommunications is one of 11 designated critical infrastructure sectors with mandatory cybersecurity obligations. | regulation=SOCI Act 2018 (as amended) — Telecommunications Sector | regulator=CISC / Department of Home Affairs
+  Source: public_news | url=https://thecyberexpress.com/iinet-cyber-incident-280000-impacted/
+  Evidence: TPG Telecom is the country's second largest telecom provider… It has a recorded revenue of AU$5.54B in 2024 and a market cap of AU$9.86B.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Regulatory risk map 2025: global enforcement trends in telecoms - Lexology | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGFXbnhmRldPdE5Ed2lJT1hvR1NwdjJIYk1fVXFRRmFPQXBmMndnaF9sVlVvR0xrZXFJM0x5Y1VMNWhlbU1nTXdsZUtiNWhHalo0WE1vbTM0NkEyYklRckdWbmZJdkVZbjBwTHdJLWFLOXY3UGdNdnVZeVFGRWRubUZzSUJxUHlWdkdPcVpUcDdHblF0MExxNXlwRkVjeDY3?oc=5
+  Evidence: Regulatory risk map 2025: global enforcement trends in telecoms Lexology
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Splunk Cloud Platform Attains FedRAMP High Authorization - Cisco Newsroom | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0E0MW9TemV4NkVwclZ5ZkNfd0xaVW9vQXNHQm41M2RydFNUQTJNM2JEX3NPc0JfQURRT3N0MldRS3ZqcWQwMDY3ODFtYnp3ZEVIQmZFOUVtN0tPdE8tVzNaeGlXbk9yTG9rdF9seFlUUmdOS0lCMTJCOUJVd3VNSER5NGNyWXR6cmE2clU4VU82bWJielVDaUNENHljSWZ0Vl82UW5IcHJnMHdJeVJ0WHZxZ3RXMG9XUFh3?oc=5
+  Evidence: Splunk Cloud Platform Attains FedRAMP High Authorization Cisco Newsroom
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=iiNet Confirms Cyber Breach Exposing Customer Contact Details - Australian Cyber Security Magazine | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmZ5alVIeGhYV3BmaEVoZWZvM1NvdE9XMDZsaUw3b05WV0xvVXo1YmdubVlLYXI1cy10Qm9IWTRCYmsxRDViUmdvaWMwTEVwOUxwMHlGR2RpZnhyOHdRelVxY0xKSHI1OHNvZnVvaHJfMy1FUXd4NHRSbnBQY1EwaExucjBVMlFsVUdTWDJuVTFaczY2OGNCem5XNkU4TUQ3R0ZkSjFJckxlaFhpckE?oc=5
+  Evidence: iiNet Confirms Cyber Breach Exposing Customer Contact Details Australian Cyber Security Magazine
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TPG Telecom estimates 280K affected by subsidiary breach - The Register | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMisAFBVV95cUxPRnJ2OUw4cnFEczFkbjVpZU1FZTVOLWVleWRhMXN0RlBRT2VpNmlGeWExU1NJT0RTOEhiMzJVU2VsUjNPRHJncFZsOWg0OFNDcXFZNm9pVDd5SGlmNmNKZlNrUV8wOGR0dFc0Vk1GZEwtVGhNTFNNR2FWNGJpcGJ5TWJYdmt3VjFKWUVKTnJJaS1ZdTFyWllkaG9udUhjVGZxRW1pNlRPbEFTMGhORmtfZw?oc=5
+  Evidence: TPG Telecom estimates 280K affected by subsidiary breach The Register
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Person dies after triple-zero call failure, TPG confirms, sparking investigation - SBS Australia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXNKb2JwSjNoUFRlYVZuZ1E0aW8wSHNhTXd1VThrUkI3ZTY2b3g5U25oc2lDWGhsLXo2dkpUVGkyX2JJdjNZRll6WVJUcTBYRDMtR2NRX2lXSUcwS3VZclpqc0hwZmVWWk5IMW9xYXpxR2taRUstb3NyeVNmMWdYbURJZTFZUTJ0ZmlJbF9jM0phdzRLbW9ucUxVNmJPX1I2UXJIc3hwSHB6ZkZNR2RZSHBtSFM?oc=5
+  Evidence: Person dies after triple-zero call failure, TPG confirms, sparking investigation SBS Australia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=TPG went eight hours before notifying Telstra about outage affecting emergency calls, investigation finds - Nine.com.au | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNl9sNTl1bWVqdGZNRUJQX3V2cUc0UE5WQ0V1VnRlVXJOZ2ROZnFZSEMwbDdna1JxYmxONkFUZWlkVTQyTGlESHgwTjQ2NWpaaDcwdlJWVFFTVjRrMlE4UjE4SF9xcnNvWDJyT2dTS0ZrcUkwNUR6bkp5RTBaT1ZLTTVPQ0lGQjJ0dWtSX2pxeHJpcEhjM0R0WmJTRUh2bmlhandySlRCMjRCZ2p3TmYtMGg3OU1uQzV5VHF1N3dyd19hWldTWG9Ibno2dVMtWWJZcVNDS1BNcEZhS25n?oc=5
+  Evidence: TPG went eight hours before notifying Telstra about outage affecting emergency calls, investigation finds Nine.com.au
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Details for 280,000 iiNet customers stolen in data breach - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajFrcnUxaV9tS2d3ajNiNll4ZHRCSkNqZ3J4OGhnYjJUdHBGY2labjlNQjc3TERMZlBqbEZ5Zm02MDlKNk9DWEF6TllCQUVRaXcwM0ZVTVhvc2huclE1S09iRDRoQndqV1JUbXJJTGJXR1psMXQzN2hHUklQVUF4M2ZkM2o2R0w2TzBDZ3Y4ZEcyUnVmdzBrNkNCUmtXeEhSdGhmVEl0RHR2Sm9FcmlhdDlmRXU4c0pw?oc=5
+  Evidence: Details for 280,000 iiNet customers stolen in data breach AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=iiNet breach compromises 280,000 customers’ data - Information Age | ACS | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVlwZkdZMVNUdnBWdkFxYnhiSnJRelVGa3VQLW9LTEV5S05SekVEOWM5VHBKS3IyUE13Smk2Z0txOTJfX2tFQlptWW02amtUbTZhLUtncjZvRVZxXzRrbEs1Wkt1RHVpMGZTdlNjbktKZEVGN2xiTWM4WDR0cE1EMFF5ZnJtYlVkNjlSZkxTYk1CUQ?oc=5
+  Evidence: iiNet breach compromises 280,000 customers’ data Information Age | ACS
+  Confidence: Low

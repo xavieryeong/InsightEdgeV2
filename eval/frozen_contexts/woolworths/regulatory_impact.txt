@@ -1,0 +1,142 @@
+Company: Woolworths
+Domain: woolworths.com.au
+Industry: Retail & Consumer Goods
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 27
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Act — Woolworths Group explicitly named as critical food and grocery asset; CIRMP cyber security obligations active from August 2024 | regulation=Security of Critical Infrastructure Act 2018 (SOCI Act) | regulator=CISC — Cyber and Infrastructure Security Centre
+  Source: official_regulator_website | url=https://www.cisc.gov.au/information-for-your-industry/food-and-grocery/legislation-regulation-and-compliance/soci-act-2018
+  Evidence: Critical food and grocery assets include networks used for the distribution or supply of essential food or groceries, owned or operated by a critical supermarket retailer. If you own a critical food and grocery asset, you need to: report cyber incidents; adopt, maintain and comply with a written critical infrastructure risk management program.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=Woolworths Group explicitly identified by name in Australian Government critical infrastructure asset definition rules as a key food and grocery retailer | regulation=Security of Critical Infrastructure (Definitions) Rules — Critical Food and Grocery Assets | regulator=Department of Home Affairs / CISC
+  Source: official_regulator_website | url=https://www.homeaffairs.gov.au/reports-and-pubs/files/critical-infrastructure-asset-definition-rules-paper.pdf
+  Evidence: Woolworths Group, Coles Group, Aldi, Costco and Metcash have been identified as key retailers and wholesalers as they collectively account for over 80 per cent of market share.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=SOCI CIRMP cyber security framework obligation active from August 2024; first board-approved annual report required by September 2024 (ongoing) | regulation=SOCI Act — Critical Infrastructure Risk Management Program Rules | regulator=CISC — Cyber and Infrastructure Security Centre
+  Source: official_regulator_website | url=https://www.cisc.gov.au/resources-subsite/Documents/guidance-for-the-critical-infrastructure-risk-management-program.pdf
+  Evidence: CIRMP rules require responsible entities to address cyber and information security hazards, establish and maintain a process or system to minimise or eliminate any material risk of a cyber and information security hazard occurring, and mitigate the relevant impact on the CI asset.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=SOCI Act 2024 ERP amendments — data storage systems holding business-critical data now in scope; application environments and data platforms subject to CIRMP obligations from April 2025 | regulation=Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Act 2024 | regulator=CISC — Cyber and Infrastructure Security Centre
+  Source: official_regulator_website | url=https://www.cisc.gov.au/legislation-regulation-and-compliance/cyber-security-legislative-reforms
+  Evidence: Schedule 1 clarifies existing obligations under the SOCI Act for critical infrastructure owners and operators to protect certain data storage systems that hold business critical data. Schedules 1, 2, 3, 4 and 6 of the ERP Act commenced on 20 December 2024.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=Australian Cyber Security Act 2024 — mandatory ransomware payment reporting commenced 30 May 2025; applies to Woolworths as a SOCI entity and large-turnover business | regulation=Cyber Security Act 2024 | regulator=Department of Home Affairs / Australian Signals Directorate
+  Source: official_regulator_website | url=https://www.homeaffairs.gov.au/cyber-security-subsite/Pages/cyber-security-act.aspx
+  Evidence: On 29 November 2024, the Cyber Security Act 2024 received Royal Assent and became Law. The Act introduces mandatory ransomware and cyber extortion reporting obligations for certain businesses. The Ransomware payment reporting rules start from 30 May 2025.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=SOCI Act food and grocery sector cyber risk guidance — CISC identifies malicious cyber actors targeting food and grocery IT/OT convergence as a priority threat | regulation=SOCI Act — Food and Grocery Sector Risk Assessment | regulator=CISC — Cyber and Infrastructure Security Centre
+  Source: official_regulator_website | url=https://www.cisc.gov.au/resources-subsite/Documents/raa-food-grocery.pdf
+  Evidence: Malicious cyber actors may seek to extract critical information, compromise or sabotage systems or OT, or pre-position on networks for future disruption of critical functions. The increasing convergence of IT and OT technologies exposes critical services to malicious cyber incidents.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=PCI DSS 4.0 mandatory from 31 March 2025 — Woolworths historically treats PCI DSS as a group-wide obligation covering all new projects from inception | regulation=PCI DSS (Payment Card Industry Data Security Standard) | regulator=PCI Security Standards Council
+  Source: public_news | url=https://www.itnews.com.au/news/how-woolworths-made-it-risk-a-business-issue-240080
+  Evidence: Compliance with the payment card industry data security standard (PCI-DSS) is now seen within Woolworths as a 'business problem that also involves IT'. New projects are now required to be compliant with the PCI standard from inception.
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=PCI DSS 4.0 became mandatory standard on 31 March 2025, requiring Australian businesses to adopt secure SDLC and bespoke software security practices | regulation=PCI DSS 4.0 | regulator=PCI Security Standards Council
+  Source: public_news | url=https://iso-27001.com.au/pci-compliance-in-australia/
+  Evidence: The latest iteration, PCI DSS 4.0, became the mandatory standard on 31 March 2025, introducing some of the most significant changes in the standard's history. These changes compel Australian businesses to adopt a more proactive and strategic approach to cybersecurity.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths appointed new CISO (Elrich Engel, Feb 2026) to lead multi-year technology transformation toward AI-enabled omnichannel business — signalling major software development activity requiring security governance | regulation=General cybersecurity governance | regulator=N/A
+  Source: public_news | url=https://www.itnews.com.au/news/woolworths-splits-infosec-and-physical-security-again-623532
+  Evidence: I am truly excited about the road ahead as the company undergoes a significant, multi-year technology transformation. We are shifting from traditional retail toward a data-driven, AI-enabled, and highly automated omnichannel business.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths Group privacy protection page acknowledges systems security obligations and use of data security standards with third-party providers | regulation=Privacy Act 1988 (Cth) / internal security standards | regulator=OAIC
+  Source: company_website | url=https://www.woolworthsgroup.com.au/au/en/privacy/protection.html
+  Evidence: We design our systems with your security and privacy in mind. We have contracts with these other businesses that legally require them to keep your information secure. We work closely with them to make sure that they have strong protections in place in line with our security standards.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths Faces Potential New Zealand Regulatory Breach Amid Alleged Grocery Industry Competition Act Violations - Retail News Asia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT00zRWpYMy1uUDNLZk9DemVGQkQ0bmtMTGZDS2xYa0JveVp4WS15SWQxaGJEZHgwbENXeXJYVlE5SzFhbVZQYjRILVQ0VlN5Q2FFWGh1em9TT2J5cWVQSUZyLU5Mb1ZGdHpOWklua2ZnLTV6Qk5VSG1EdHFqVG1fWnNYemZWTXl5SzByRXZPM0VIdF91WjFSRXk3cVgxR0xYYkRmNkJzSG5uNVkzbWtycFZBRzk2dFJCUDZYNVZvSVpDV2U4bHRXNUZUTGllU0MybWNMd25lZUF3dw?oc=5
+  Evidence: Woolworths Faces Potential New Zealand Regulatory Breach Amid Alleged Grocery Industry Competition Act Violations Retail News Asia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Class action risks highlighted: Coles and Woolworths case drives major changes to modern awards compliance in Australia - Clifford Chance | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMimwJBVV95cUxNZXhBVm43aDBoZzE5QXRVaVpBSzRkdDlrR1dsMS1DU2RfXzNLUmlVX1NaLUVvNGtGMDdCcGFiVk9VREpINXFNemFzcEJmR2lJN1JzOXgzWi1NbmNxYWprQmVjdEdoTHkzXzBPUll4dXFLc3pfSVpTb1Y2WTBBa0pNa3BlTVJoSXZueDlNQkFnNjlwOW1nek02cnRGTmhPM2I2cmJ4a2ttamRLN3R1NnZnclV4RDVQdWluV3BUWGhBczFEQTBxT3NPeURXM3NnUUVqX3FGa2JxaGJMNF90Y0JMeHN2ZlZIV2NRY29Xb1VLUzZsMktzQWdSU0JQbVd5U1g0cXFEYmtwNi0zM3pneG43SXJXM05ScTBvMGw0?oc=5
+  Evidence: Class action risks highlighted: Coles and Woolworths case drives major changes to modern awards compliance in Australia Clifford Chance
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=The Federal Court provides guidance on annual salaries, 'all-in' rates of pay and wages compliance - Global Workplace Insider | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc05yOF9ORHh5Sl85LTZfdjFId3pJNlExODdkcFlCWDV4cElDMGRUaEJKd21GdGxGTjduSGphc0xxbjJwZFpPSXc0LVFpTGhXQTgxTGJRTmp2cGUxenowN2pveVl2MGFtNEZJcDFjODhkd0xBV3VfRk1uSjM1VzFwUXphX3doc29jQ0x0aEtlbVpVdGZra3lxZjhMMUVYSjFoNDUwb1phcnNhUDN1d3E4V0tPZkJFRW5DUHlmRDBtZGRXTmNvV0g3QVl5TUU0NHFJeFN3V0dfZTgyNkU?oc=5
+  Evidence: The Federal Court provides guidance on annual salaries, 'all-in' rates of pay and wages compliance Global Workplace Insider
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Wage compliance in the manufacturing sector – Lessons from Woolworths and Coles - Manufacturers' Monthly | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dZNmI1bmFzdEx6R3Z4ZHVnVGpPTnQ5ekpEU2h4Ylp2V1BvYUM3czdRRldta2M0YWVubnFsOXRzX0JCdE1pbVNOWnp0WjRoODdaZzg0WUViY0dOWC1hZjlHWGx1MVQ2U3g0VW9SR2VOSDlHdHU4RkRZMElrR1Y0bUVpSXJlakF0VlY4MWUtb0pIajJCTVZ3Mi1IU0NLVVlZQmFRS3F1QkMwc0k0?oc=5
+  Evidence: Wage compliance in the manufacturing sector – Lessons from Woolworths and Coles Manufacturers' Monthly
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=The big four auditors are really just the big three - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmlaNWNZc0I2dFlwdmxjRjZxcWwxaldNU3hVZF96b2tDZmRkUGdXV3otODNYRTd4cnc1X0tObFM0SjhvcmROQkU0RGd5ZTJSM214R3BKVDIxZm9wOU44OWs2cXpYckVnNjVma2NkeWptUTdmMFhxaHRCRUd3OE55dTAxZ2U2SWhWV1BVYzZxXzNVTFhkQmd2X2J0YVNjbkZJVU5Td2VISTFfZnMyeUlvczBCem5yazg1MU00?oc=5
+  Evidence: The big four auditors are really just the big three AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths hit with record $1 million fine for spamming customers - SMH.com.au | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkt1VVVVMi1zRUtlS0JOeUdJekxKYWROb0NLdHphaE5uMndQV1hkVHZjTWFxVjVFX3VfQmZoNjZJMnZHZ1J2RGN2NjA1eEs2bkZaTXpEdWJoVWxQNGgzYUpNTUVwOHZnMW9lYWJFYlBvaFR0YTdhQmN2SEpEWXFWY0hJb216dGFDM3BMTnlqZGE3UGs0MjFjVXlXYWFJZ1cteVhmTFR4a3BoN0lCU0VmM3NBNEVvTWJydERwNk5ZcmpSWjc2YVE?oc=5
+  Evidence: Woolworths hit with record $1 million fine for spamming customers SMH.com.au
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths hit with $1 million fine for spam emails - Australian Broadcasting Corporation | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDZrZlpVdWV1amt5QnhlUnAwRmZ4d3VBbEtuNlZPUlVfLWVIU2NuODVhRTl6aXhCUjZ3SG5tSzBlSEcyN2lGNDVuODJjRDBaampWcmx1LWRLX3JTam5rRmZuOWZVc0ZzQ25rZ0p0ZE9CZzhJQk4xb2tBU2prS05ycERqcWlsZDBzaHFvMXpkV3FveWt0ZDRHNTlnZHh3RmdYcGc?oc=5
+  Evidence: Woolworths hit with $1 million fine for spam emails Australian Broadcasting Corporation
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths, the Spammy People, cops $1m fine - Information Age | ACS | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDBMOUFwWVppVjlwNGxUR2IwZnV4MTRVR3pvd19ERWZXWXJNWGRMUC1ZUjZiU21BeEJuUkR5R3RhT29PMUdMaDZNUzdlSUZLYWtLTDhGTE9RUkxYLXg2QkpfWjhLRjBZYlV1U3JqWThVWHJJa0ZDNTNueTdNbzh1UzFfZTk4SklnZEZ3Zg?oc=5
+  Evidence: Woolworths, the Spammy People, cops $1m fine Information Age | ACS
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Worker underpayment at Woolworths sparks calls for company payroll audits - SMH.com.au | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUZnLWxmRW5BQnlMNUpJZ0lRbm43Wm1XSFNFVDZab1dnRExVSVVzalNkdjFiSVFkRmdUZDVTUGdMRm5kRUlSUGxrVzcySmxNNS1aWDJvN2s4V050Z2pYdkw3QkdydzhMUE5Dc3dfTUpjaGlLeHVhajBqTWwxekRDMlZ0ZGlqdWdadWZKNGJFYVhjdjI2cGxvZDZqLWxxc3phOWE4MWtic1pNVTk4ZGtpMUhUVV8xUHVGYlkxelMwNGNlOEpOWVUxQlJNSE84NGFqTkE?oc=5
+  Evidence: Worker underpayment at Woolworths sparks calls for company payroll audits SMH.com.au
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng - IOL | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2hRX0FjMXZHQ0d5X2YtNWVPYWtBbXNrRjRualZmcDBtY3lsTEp5SnZ0c1ZBWkRrLUYzbHZqZHhvdUh4WGRlbHlzUnFhTEYxb3pKMW8wcmJMS2hUbm92STl1STV1SGUyMl9NNnR5UjFpbTU2OGtlU3BDYndpYWxNZ193dnR6czJCamM3c1J5Sk1jd29NbGJVUHdSXzJtZmlZdnBqbVFBSkpzdGVLSTdjME1Gc1R4OWNEbWplaFFpWExUalpCMnB6aXRmaXZWZ2VrTlRZWF96N2hDd0hMNmc?oc=5
+  Evidence: SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng IOL
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng - MSN | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi9gJBVV95cUxQMHdnWWt0b295RTlQbm1PdTJwS1FDSC1NbFVIV21zb1JMR3FpUGJZMVhHRy1FMDBMdEVpX2VjbkdtemRjVzBSbG1URHBESXVSYlFjYVdrTWNkV3Voa25sRVVCM0dlOUd5YjFBcXFQUVVsalZkbnduYVAzMkNEdTdxQVZ2N3ctZ3IyM2hOOVdaTGJpTUw4ZS1OckNrMTNzZmppejkxNGRUX3hRajRaNHR5d3h1QWpUWEhaUW4yMEdxdE5kRGlnRHR4eVp5NUtLbk5MbnlrWUFsOHFHR3BSNW1MZGNYV3JIeTQ4Sy1HUFdNUVpFb051SEZTSFZoYXlsRmJudEtXeW1rQ1hTYm9uZzRrTGxEYWFUSXBSTkJZU0t1UVBSdzM0dFplZ2VIU3RZajJTUU91Y0hjQmtfWi12SzhXVzJnOGV3MUdPQ3VnSHNySE1vU1JWSUV2VEJvaHYwQ1MtWkdKNkZXaDNiaXdmNEF3dmhYRVZFUQ?oc=5
+  Evidence: SAPS launches high-level investigation into Woolworths store explosions in Free State and Gauteng MSN
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Creature found in Woolies lettuce bag sparks investigation - PerthNow | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOEcyWjVoY1RKdVRUZGx4YjZmRW9GUW53TzUyaHdKaW9CYzJBMmpmTm1fX2RTVENfQWFabHhzZTJFdGZFRmhmSnZWdGVzX1ZBWmhLTUtMYU1ZTkhxV0VOMXVYaHRfalVDSEZ5LTF3UDFoZ01sQUx5SXNmQjQ1alU5cDFHNEpUN2hHb0lUWS1LVHd3azFwX0NHWmtPVERVMnlQT2NheG1DNnlqWlR0NGFuZDdBeV9Wek5TeWY4RFFiUGtqMmMydVBFN2pxMDJCcUM4djByQVF2OXJyUzhMVm5GQTltMFpTYzg?oc=5
+  Evidence: Creature found in Woolies lettuce bag sparks investigation PerthNow
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Coles, Woolworths respond to new price-gouging investigation - Yahoo Finance Australia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxORWgzdi16U3gzaVN3cF9PM3hoS25rbUZUMmx6dlMtOFlON1RTY2xuOURyUWR4aVI2dHhkU1Y4VVRUZkRhVE1hX0NGcnJxSmdrQjhINWNEN2w3QXRZdTdjUGY3aFdlRW5scWFPbUpveW51NFNCNTJzSFo4azlFY2tzalpQbm0zMTJxZU84a1ZzbjJsOWhHcWZhS1h3cVhNSmVodW9wdDhwaVNlMTlH?oc=5
+  Evidence: Coles, Woolworths respond to new price-gouging investigation Yahoo Finance Australia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Local law change to support enforcement of shopping centre’s regulated parking - Redlands Coast Today | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2tUeHBncjdTQVVZNGpKYzAwT2R3dnlLMXh5bU1KTmJ5bHQ4a2c1WXZQcDZ0TEQxMFZuNFJ6cGFyTEtlTUJqbEtRR05jdmlfRk9sSXRONUxKSUN2UC1mWVktQzRJalZFUjR1ZkxsdUJjMnZnVjRzSlVzaW9lM0pEQldOdlcybjNPWFVrbEpNZjVDX1k2bmxoMk9oWDk4Zy1vWnlwbmVNN3FBMzRWOXVIWEdnYVR6Q05TNWxreGQ0YWJVQQ?oc=5
+  Evidence: Local law change to support enforcement of shopping centre’s regulated parking Redlands Coast Today
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=MyDeal data breach notification - Woolworths Group | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxQX09kZGtyZDNkZ050Nk9TM0N5NFhVbVRsSExDSVRBc1FMdGNXckEwTExWT3dFSTViVzdqd2lLT0tjMXUxVWV2SUp5U3pBanc5aXRkd3lvbnBySDR0MGE5NTA0UWFKbE1xcWpST1VMSmZnOEx5ajk5Q3RSX1IyREQwSmVLUF92Ymk5OW1IcXEtNjVISmkwd25DcGpVUE9icGRMZlRraENB?oc=5
+  Evidence: MyDeal data breach notification Woolworths Group
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths says MyDeal data breach impacted 2.2 million customers - Inside Retail Australia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUhaa01XWFRFaXhPV2dGa2k5WDRaaHppVEY0b2dnMkJ3dWxKbTJxS2U1c2FzWGtvRDdoaV9LTWRyMjNXcW52X0Mya2ZZYUpmOHFmbGxzdC1ZZ3BVTGQ0azVnMjZyUWMzVm5TMjVWUzZzUmQ0cXpSTm1wQkNNYmxNb3MtRC01YXBXem1jU2oweGlVTDk3RlluQ3pvUTFfRXJJSzJwNjdRSzNXSlROZ2c?oc=5
+  Evidence: Woolworths says MyDeal data breach impacted 2.2 million customers Inside Retail Australia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Woolworths group hit by latest data breach - Sky News Australia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMimwJBVV95cUxQQk9CUTdhVVk3X0lJel9LUF9hblZic2hPTExiZ2FxS3FFYl9fZjhZeU5MSkRZaHVRQnQ5dW0wT0RPR3BmZDE1MjdHVFlvU1ZNT2NxQ0xEWE9HVFpLaVJzMmJDMVlnMlVDZEl0UDV6bzI4N2FoOGN2UUFDSTNVVm5CdG9kcFNfYzNYTFRjTGhPN3ZlVktYWlNUcHMtM3BwYkNhd0lHR2tUMmY1N1dEUjFBQ09oVFBsaWU4RkdUNGpWZlQwM0hfQV9WU0J2V2JpYkxaZVpkcktQN2lLc3g4S0tzOTVYa3Y0YTZiR2JQQmJLd2NiNGhqelF3Zm55MDdHNkxDcTZUZEV2Y2ROeTBid1c1SUxsbF95NGZxem9v0gGgAkFVX3lxTE9VRDNfTFFLY0M1TlIzcDkwc3ducDhRVDFGYUpMVS1pNVJoVFdwS2l1UmE4bUhVYjJrODJmVmNlU1o5VEpJYkpneUNOQTM5UEpjNHE1SVVrS3ZjdXZJREFSMzhybnBNTXdmRzVZWnFXQTlQU1BXeE5WVzcwWDhHR1FlWXZYNDg4MnpaVzhLVGdWVEdVVjQyN1hsU2M0b1p3ck5ZeUlFRUF1LTFQMkVRcjhtUWZtSHdseG5CYTE3SU5uMDlac1pMV3lMYVA3Y1AxY0VBSTNPaTR5cWM3QzNrWEN3UjNHVXJ3TU5hWjJ3eG1QTUtsdXZ6U3VUcDhKVWRzbjNCbEQ1U3ZVYVBadkFvOWZXUFJOcHhJQXNYTS1qYThCeA?oc=5
+  Evidence: Woolworths group hit by latest data breach Sky News Australia
+  Confidence: Low

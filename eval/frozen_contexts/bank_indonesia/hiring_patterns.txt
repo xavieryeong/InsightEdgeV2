@@ -1,0 +1,55 @@
+Company: Bank Indonesia
+Domain: bi.go.id
+Industry: Financial Services
+Country: Indonesia
+Agent: hiring_patterns
+Evidence items: 8
+============================================================
+
+[HIRING] type=security_compliance | value=Spesialis SI Yunior – Security Engineer (Divisi Security Operation Center) | source=claude_web_search_result | url=https://www.lokernas.com/2026/04/seleksi-penerimaan-calon-pegawai-bank-indonesia.html
+  Title: Seleksi Penerimaan Calon Pegawai Bank Indonesia 2026 – Lokernas
+  Evidence: Lokernas (citing BI's official Instagram @bank_indonesia) lists 'Spesialis SI Yunior (Security Engineer) - Divisi Security Operation Center (Security Engineer)' as an open PKWT role in Bank Indonesia's April 2026 recruitment round.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Spesialis SI Yunior – Infrastructure Engineer (Data Engineering) | source=claude_web_search_result | url=https://www.lokernas.com/2026/04/seleksi-penerimaan-calon-pegawai-bank-indonesia.html
+  Title: Seleksi Penerimaan Calon Pegawai Bank Indonesia 2026 – Lokernas
+  Evidence: Bank Indonesia's April 2026 recruitment (PKWT) includes 'Spesialis SI Yunior (Infrastructure Engineer) - Specialist: Data Engineering', as listed on Lokernas citing BI's official Instagram and rekrutmen-bi.id.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Spesialis SI Yunior – Network Engineer | source=claude_web_search_result | url=https://regional.kontan.co.id/news/rekrutmen-bank-indonesia-2026-posisi-pkwt-special-hire-daftar-di-rekrutmen-biid
+  Title: Rekrutmen Bank Indonesia 2026 Posisi PKWT & Special Hire – Kontan
+  Evidence: Kontan reports Bank Indonesia's April 2026 PKWT recruitment includes 'Network Engineer' and 'Infrastructure Engineer' positions under the IT/IS support category, confirmed via BI's official Instagram (@bank_indonesia).
+  Date posted: 2026-04-14
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Spesialis SI Yunior – Data Center / Disaster Recovery Center Engineer | source=claude_web_search_result | url=https://www.koranmanado.co.id/bank-indonesia-rekrutmen-special-hire-pkwt
+  Title: Bank Indonesia Buka Rekrutmen April 2026 Jalur Special Hire dan PKWT – Koran Manado
+  Evidence: Koran Manado confirms Bank Indonesia PKWT 2026 includes 'Spesialis SI Yunior (Data Center/Disaster Recovery Center) - Kelompok Operasional dan Dukungan Infrastruktur Teknologi serta DC,DRC', indicating active investment in mission-critical infrastructure.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Asisten Spesialis SI – IT Operation Center | source=claude_web_search_result | url=https://www.infonasional.com/bank-indonesia-rekrutmen-special-hire-pkwt-17-april-2026
+  Title: Bank Indonesia Buka Rekrutmen Jalur Special Hire dan PKWT Hingga 17 April 2026 – Infonasional
+  Evidence: Infonasional confirms Bank Indonesia's April 2026 PKWT includes 'Asisten Spesialis SI (IT Operation Center)' and 'Asisten Spesialis SI (Database Engineer)', indicating operational platform engineering capacity being built.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Spesialis SI Yunior – Infra Services Engineer | source=claude_web_search_result | url=https://www.asatunews.co.id/bank-indonesia-rekrutmen-special-hire-pkwt-april-2026
+  Title: Bank Indonesia Buka Rekrutmen Tenaga Kerja Jalur Special Hire dan PKWT April 2026 – Asatunews
+  Evidence: Asatunews reports Bank Indonesia's IT/IS PKWT 2026 openings include 'Infra Services Engineer' positions under 'Kelompok Operasional dan Dukungan Infrastruktur Teknologi serta DC,DRC', signaling active platform operations scaling.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Analis Yunior – Information System Risk Officer | source=claude_web_search_result | url=https://www.lokernas.com/2026/04/seleksi-penerimaan-calon-pegawai-bank-indonesia.html
+  Title: Seleksi Penerimaan Calon Pegawai Bank Indonesia 2026 – Lokernas
+  Evidence: Lokernas lists 'Analis Yunior (Information, System Risk Officer) - Kelompok Surveilans Protokol Manajemen Krisis Kelembagaan, Manajemen Keberlangsungan Tugas, dan Pengendalian Risiko Sistem Informasi' as an open PKWT role, indicating a dedicated IT risk governance focus.
+  Date posted: 2026-04-12
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Administrator Sistem BI-FAST (Payment System Operations) | source=claude_web_search_result | url=https://regional.kontan.co.id/news/rekrutmen-bank-indonesia-2026-posisi-pkwt-special-hire-daftar-di-rekrutmen-biid
+  Title: Rekrutmen Bank Indonesia 2026 Posisi PKWT & Special Hire – Kontan
+  Evidence: Kontan lists 'Administrator Sistem BI-FAST' and 'Asisten Penyelia Operasional Sistem' as PKWT 2026 roles, indicating Bank Indonesia is actively staffing operators for its critical national real-time payment infrastructure (BI-FAST).
+  Date posted: 2026-04-14
+  Confidence: Medium

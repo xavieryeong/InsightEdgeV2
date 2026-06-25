@@ -1,0 +1,54 @@
+Company: CIMB Niaga
+Domain: cimbniaga.co.id
+Industry: Financial Services
+Country: Indonesia
+Agent: public_news
+Evidence items: 7
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1pIbTRPQ2p1bUJ0ZFkzRU1CMkZQM3A5OTVvSjFlTFV3VWk0M0dmQ2Nzc0doMk1kY29WUlZzWEN4dzcyMGRkaHNxWUgxVDd5ZXRrRVJDc3YxNWhzSlNXaWwwMFQ4Y3lCV3EtVUw5WFJRTXhrUHZYRkEteDJVMVNoRHhiYVRLV2l3VTAtN0I3SUtnYWNXUE1VYWFsZUxvQWhId1FLY3ZuVk5yY0FVWFMzN3JlYWJBci1MUXRTR1pPLUJ5eU5ya1J1Sw?oc=5
+  Title: CIMB Niaga launches AI Agent - New AI tools aims to improve personal banking for Indonesians - TechNave
+  Snippet: CIMB Niaga launches AI Agent - New AI tools aims to improve personal banking for Indonesians TechNave
+  Published: 2026-04-15 (49 days ago)
+  Summary: CIMB Niaga launched an AI agent tool aimed at improving personalized banking experiences for retail customers in Indonesia.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjRuNGlyaUIySDNmOHlIRURGclN4ZUpBT1d5VWNWb0NzQkhfNGJRSENOS2hiaU45QURQSlZhSm45TVdpeUFFVmxFN1NnVjJRMzVCVHlPRmMwRXhEM19ZaHAxTk9Cam5ySnREdUxzU0NERWF4ZU9POHpCWVcwdUhxZkhrdF9xT2g1UE5ZaURNT1hyYTUtalFsVXVBWFNmdTA1SlJGQU5B?oc=5
+  Title: CIMB Niaga launches two AI agents for bank staff - Asian Banking & Finance
+  Snippet: CIMB Niaga launches two AI agents for bank staff Asian Banking & Finance
+  Published: 2026-04-14 (50 days ago)
+  Summary: CIMB Niaga launched two AI agents specifically designed to assist bank staff with internal workflows and service delivery.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://itbrief.asia/story/cimb-niaga-launches-ai-agents-for-indonesian-bank-staff
+  Title: CIMB Niaga launches AI agents for Indonesian bank staff
+  Snippet: CIMB Niaga launches AI agents for Indonesian bank staff IT Brief Asia - Technology news for CIOs & IT decision-makers Asia Powered By UC Data Protection Digital Transformation CIMB Niaga launches AI agents for Indonesian bank staff Wed, 15th Apr 2026 KAREN JOY BACUDO Finance Editor CIMB Niaga, Google Cloud, and Artefact have launched AI agents to support Indonesian bank staff in delivering banking services to millions of customers. The rollout centres on two systems developed by CIMB Niaga's AI Centre of Excellence and Artefact on Google Cloud's Vertex AI platform: one for relationship manager
+  Published: 2026-04-15 (49 days ago)
+  Summary: CIMB Niaga, Google Cloud, and Artefact jointly launched AI agents built on Google Cloud to support Indonesian bank staff in delivering banking services.
+  Confidence: Medium
+
+[NEWS] signal=product_platform_launch | source=claude_web_search | url=https://www.artefact.com/news/cimb-niaga-google-cloud-and-artefact-debut-enterprise-ai-agents-to-deliver-life-centric-banking-for-millions-of-indonesians/
+  Title: CIMB Niaga, Google Cloud, and Artefact Debut Enterprise AI Agents to Deliver Life-Centric Banking for Millions of Indonesians - Artefact
+  Snippet: CIMB Niaga, Google Cloud, and Artefact Debut Enterprise AI Agents to Deliver Life-Centric Banking for Millions of Indonesians - Artefact Skip to content News Asia|Press Release CIMB Niaga, Google Cloud, and Artefact Debut Enterprise AI Agents to Deliver Life-Centric Banking for Millions of Indonesians Read the Press Release CIMB Niaga delivers more personalized financial advisory and customer service through strategic collaboration that equips staff with AI agents and an AI-driven knowledge management system. JAKARTA, Indonesia, April 14, 2026 – PT Bank CIMB Niaga Tbk (CIMB Niaga), Google Clou
+  Published: 2026-04-14 (50 days ago)
+  Summary: CIMB Niaga, Google Cloud, and Artefact debuted enterprise AI agents targeting life-centric, personalized financial advisory for millions of Indonesian customers.
+  Confidence: Medium
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://www.frontier-enterprise.com/cimb-niaga-bolsters-personalized-services-with-ai-agents
+  Title: CIMB Niaga bolsters personalised services with AI agents | Frontier Enterprise
+  Snippet: CIMB Niaga bolsters personalised services with AI agents | Frontier Enterprise Facebook Linkedin Twitter Home Technology Big Data & Analytics Cloud Data Centre Mobile Network Security Storage Business Leadership Regulation & Compliance Strategy Digital Transformation Customer Experience Smart Cities Workplace Evolution Frontier Tech 5G AI & ML Augmented & Virtual Reality Blockchain Internet of Things Quantum Computing R&D Robotics & Automation Supercomputing & HPC Search News Features Opinion Podcasts Infographics Whitepapers Sponsored Facebook Linkedin Twitter Sign in Welcome! Log into your a
+  Published: 2026-04-22 (41 days ago)
+  Summary: CIMB Niaga bolstered personalized banking services by deploying AI agents, as reported by Frontier Enterprise in late April 2026.
+  Confidence: Medium
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://www.crnasia.com/news/2026/artificial-intelligence/cimb-niaga-deploys-ai-agents-to-support-customer-service-tea
+  Title: CIMB Niaga deploys AI agents to support customer service teams on Google Cloud
+  Snippet: CIMB Niaga deploys AI agents to support customer service teams on Google Cloud CIMB Niaga deploys AI agents to support customer service teams on Google Cloud The AI agents were developed by CIMB Niaga's internal AI team with support from Artefact, using Google Cloud's Vertex AI platform. Banks are under pressure to respond to changing customer needs while managing large volumes of data. In Indonesia, one approach is taking shape through a collaboration between CIMB Niaga, Google Cloud, and Artefact, in which AI tools are being used to support staff and improve how services are delivered. The p
+  Confidence: Medium
+
+[NEWS] signal=product_platform_launch | source=claude_web_search | url=https://www.theasianbanker.com/press-releases/cimb-niaga-partners-with-google-cloud-and-artefact-to-deploy-ai-agents-for-banking-staff-in-indonesia
+  Title: CIMB Niaga partners with Google Cloud and Artefact to deploy AI agents for banking staff in Indonesia
+  Snippet: CIMB Niaga partners with Google Cloud and Artefact to deploy AI agents for banking staff in Indonesia Wednesday, 3 June  2026 Recent  Search From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore CIMB Niaga partners with Google Cloud and Artefact to deploy AI agents for banking staff in Indonesia 14 Apr, 2026 7 min read 1551 JAKARTA, Indonesia, April 14, 2026 – PT Bank CIMB Niaga Tbk (CIMB Niaga), Google Cloud, and Artefact today announced the launch of purpose-built
+  Published: 2026-04-14 (50 days ago)
+  Summary: CIMB Niaga partnered with Google Cloud and Artefact to deploy AI agents supporting banking staff operations across Indonesia.
+  Confidence: Medium

@@ -1,0 +1,77 @@
+Company: Viettel
+Domain: viettel.com.vn
+Industry: Telecommunications
+Country: Vietnam
+Agent: tech_stack
+Evidence items: 14
+============================================================
+
+[TECH] Java | category=relevant_languages | source=github | url=https://github.com/vts-contributor/vts-kit-backend-base
+  Evidence: Viettel Solutions GitHub org (vts-contributor) repository vts-kit-backend-base contains Java source code with package namespace vn.com.viettel.utils, confirming active Java development by Viettel Solutions.
+  Repo: https://github.com/vts-contributor/vts-kit-backend-base
+  Confidence: High
+
+[TECH] Java | category=relevant_languages | source=github | url=https://github.com/vts-contributor
+  Evidence: Viettel Solutions GitHub org (vts-contributor) lists multiple public Java repositories: vts-kit-lib-keycloak-auth (Java), vts-kit-lib-rbac (Java), vts-kit-lib-easy-poi (Java) — 48 total public repositories with direct attribution to rnd_vts@viettel.com.vn.
+  Repo: https://github.com/vts-contributor
+  Confidence: High
+
+[TECH] TypeScript | category=relevant_languages | source=github | url=https://github.com/vts-contributor
+  Evidence: Viettel Solutions GitHub org (vts-contributor) lists vts-kit-angular-nx-plugin (TypeScript) and ng-vts (TypeScript, an Angular enterprise UI component library) among its public repositories, confirmed as Viettel Solutions artefacts via npm package @ui-vts/ng-vts.
+  Repo: https://github.com/vts-contributor
+  Confidence: High
+
+[TECH] Dart | category=relevant_languages | source=github | url=https://github.com/vts-contributor/vts-kit-flutter-core
+  Evidence: Viettel Solutions GitHub org (vts-contributor) publishes vts-kit-flutter-core in Dart, a Flutter MVC template library with internationalization support, confirming mobile development capability.
+  Repo: https://github.com/vts-contributor/vts-kit-flutter-core
+  Confidence: High
+
+[TECH] JavaScript | category=relevant_languages | source=github | url=https://github.com/viettel-solutions
+  Evidence: The viettel-solutions GitHub org contains a forked ONVIF Node.js implementation in JavaScript and yellowstone (RTP/RTSP client) in TypeScript, indicating JavaScript/TypeScript usage in Viettel Solutions development.
+  Repo: https://github.com/viettel-solutions
+  Confidence: Medium
+
+[TECH] Jenkins | category=ci_cd_maturity | source=tech_listing | url=https://rocketreach.co/viettel-post-technology-stack_b45e4841fc76d29f
+  Evidence: RocketReach tech listing for Viettel Post (a Viettel Group subsidiary) lists Jenkins as part of its technology stack, alongside Apache Kafka and ELK stack. Attribution is to a Viettel subsidiary, not the group parent directly.
+  Repo: https://rocketreach.co/viettel-post-technology-stack_b45e4841fc76d29f
+  Confidence: Low
+
+[TECH] Kubernetes | category=cloud_native_presence | source=claude_web_search_result | url=https://www.cncf.io/announcements/2026/01/07/viettel-joins-the-cloud-native-computing-foundation-as-a-gold-member/
+  Evidence: Viettel joined CNCF as a Gold Member in January 2026. Per CNCF's official announcement: Viettel 'operates one of Southeast Asia's largest open source cloud infrastructures, with extensive production deployments of OpenStack and Kubernetes supporting enterprise, government, and critical national infrastructure workloads.'
+  Repo: https://www.cncf.io/announcements/2026/01/07/viettel-joins-the-cloud-native-computing-foundation-as-a-gold-member/
+  Confidence: High
+
+[TECH] Kubernetes (Viettel Kubernetes Engine) | category=cloud_native_presence | source=developer_docs | url=https://solutions.viettel.vn/getdownloadFileDocument/35/2
+  Evidence: Viettel Solutions official document references the 'Viettel Kubernetes Engine' product, describing CI/CD integration with Kubernetes, microservices orchestration, and cloud-native architecture as core use cases.
+  Repo: https://solutions.viettel.vn/getdownloadFileDocument/35/2
+  Confidence: High
+
+[TECH] Docker | category=cloud_native_presence | source=tech_listing | url=https://rocketreach.co/viettel-cyber-security-technology-stack_b45fe6e6fc6f5357
+  Evidence: RocketReach tech listing for Viettel Cyber Security (a Viettel Group subsidiary) includes Docker as part of its 24-technology stack alongside Ansible, Apache Kafka, AngularJS, and MongoDB.
+  Repo: https://rocketreach.co/viettel-cyber-security-technology-stack_b45fe6e6fc6f5357
+  Confidence: Medium
+
+[TECH] Public GitHub Org — Viettel Solutions (vts-contributor) | category=engineering_visibility | source=github | url=https://github.com/vts-contributor
+  Evidence: Viettel Solutions maintains a public GitHub organization (vts-contributor) with 48 public repositories, directly attributed via the contact email rnd_vts@viettel.com.vn and a link to solutions.viettel.vn/en/.
+  Repo: https://github.com/vts-contributor
+  Confidence: High
+
+[TECH] Viettel Digital Talent Program — Public GitHub Repos | category=engineering_visibility | source=github | url=https://github.com/vCloud-DFTBA/Viettel-Digital-Talent-2023
+  Evidence: Viettel's Digital Talent Program (run since 2021) has public GitHub repositories covering Cloud, DevOps, Cyber Security, Data Science & AI, IoT, 5G, and Software & Data Engineering — indicating a broad, structured engineering talent pipeline.
+  Repo: https://github.com/vCloud-DFTBA/Viettel-Digital-Talent-2023
+  Confidence: Medium
+
+[TECH] Viettel Cyber Security Engineering Blog | category=engineering_visibility | source=engineering_blog | url=https://blog.viettelcybersecurity.com/
+  Evidence: Viettel Cyber Security maintains an active public engineering/threat intelligence blog publishing CVE research, APT analysis, and vulnerability disclosures, demonstrating mature security research engineering culture.
+  Repo: https://blog.viettelcybersecurity.com/
+  Confidence: High
+
+[TECH] OpenStack | category=cloud_native_presence | source=claude_web_search_result | url=https://www.prnewswire.com/news-releases/viettel-joins-the-cloud-native-computing-foundation-as-a-gold-member-302654447.html
+  Evidence: PRNewswire CNCF announcement confirms Viettel offers 'secure, scalable and sovereign cloud services built on Kubernetes, OpenStack' through Viettel Cloud, one of Southeast Asia's most advanced cloud and data-center infrastructures.
+  Repo: https://www.prnewswire.com/news-releases/viettel-joins-the-cloud-native-computing-foundation-as-a-gold-member-302654447.html
+  Confidence: High
+
+[TECH] CI/CD (Viettel Kubernetes Engine product documentation) | category=ci_cd_maturity | source=developer_docs | url=https://solutions.viettel.vn/getdownloadFileDocument/35/2
+  Evidence: Official Viettel Solutions document on the Viettel Kubernetes Engine explicitly lists 'CI/CD tasks are easier to perform with Kubernetes' as a stated use case, confirming awareness and adoption of CI/CD practices.
+  Repo: https://solutions.viettel.vn/getdownloadFileDocument/35/2
+  Confidence: Medium

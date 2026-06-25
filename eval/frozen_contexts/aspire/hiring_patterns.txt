@@ -1,0 +1,32 @@
+Company: Aspire
+Domain: aspireapp.com
+Industry: fintech
+Country: SG
+Agent: hiring_patterns
+Evidence items: 5
+============================================================
+
+[HIRING] type=security_compliance | value=Senior Security Engineer | source=ats_platform | url=https://job-boards.greenhouse.io/aspire/jobs/5531727004
+  Title: Senior Security Engineer at Aspire (aspireapp.com)
+  Evidence: Posting on job-boards.greenhouse.io/aspire (confirmed as aspireapp.com via people@aspireapp.com) describes a role to 'drive end-to-end security engineering for our cloud-native fintech platform' with explicit requirements for security CI/CD pipelines, OWASP, MITRE ATT&CK, PCI-DSS, and MAS TRM compliance. 7+ years in fintech/banking required.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer III (Mobile Engineer) | source=careers_page | url=https://builtin.com/job/software-engineer-iii-mobile-engineer/4449188
+  Title: Software Engineer III (Mobile Engineer) – Aspire (aspireapp) on Built In
+  Evidence: Built In lists this role explicitly under 'Aspire (aspireapp)' in Gurugram, India. The company description confirms 'Founded in 2018, Aspire has raised over USD 300M+' and references people@aspireapp.com in Greenhouse source. Role was active through June 2025.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Backend Engineer | source=careers_page | url=https://builtinlondon.uk/job/senior-backend-engineer/4015380
+  Title: Senior Backend Engineer – Aspire (aspireapp) on Built In London
+  Evidence: Built In London lists this role under 'Aspire (aspireapp)', confirmed as the Singapore fintech by the company description referencing Asia FinTech Awards and LinkedIn Top Startup Singapore. Engineering team described as 'designing, building, and maintaining Aspire's exceptional products and infrastructure.' Active as of February 2025.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Product Intern (Engineering-adjacent, Greenhouse board confirmation) | source=ats_platform | url=https://job-boards.greenhouse.io/aspire/jobs/5595104004
+  Title: Product Intern at Aspire – Greenhouse ATS board confirmation
+  Evidence: This posting on job-boards.greenhouse.io/aspire confirms the ATS board belongs to Aspire (aspireapp.com) via people@aspireapp.com in the data consent clause. Company description states 'we're the leading all-in-one financial operating system' backed by Sequoia and Lightspeed, matching aspireapp.com. Not counted as an engineering signal itself, but validates board attribution.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Strategic headcount investment: plan to double Singapore engineering workforce to 300 by 2025 with explicit cybersecurity investment | source=claude_web_search_result | url=https://aspireapp.com/blog/aspire-opens-new-hq-in-singapore-to-drive-fintech-innovation
+  Title: Aspire HQ blog: headcount doubling + cybersecurity strategic investment
+  Evidence: Aspire's own blog (aspireapp.com) states the company 'plans to double its local workforce of skilled fintech talent in Singapore to 300 by 2025' and has opened a 'financial technology excellence hub' investing in AI and Cybersecurity as strategic core technologies. Confirms scaling engineering org with security focus.
+  Confidence: High

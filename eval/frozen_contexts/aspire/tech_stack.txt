@@ -1,0 +1,32 @@
+Company: Aspire
+Domain: aspireapp.com
+Industry: fintech
+Country: SG
+Agent: tech_stack
+Evidence items: 5
+============================================================
+
+[TECH] JavaScript / Vue.js | category=relevant_languages | source=engineering_blog | url=https://aspireapp.com/blog/how-aspires-senior-ui-developer-is-taking-user-experience-to-the-next-level
+  Evidence: Aspire's own engineering blog quotes their Senior Frontend Engineer: 'At Aspire, this is hugely important as we mostly use [Vue.js] for all our front end technologies.' JavaScript and HTML/CSS are cited as foundational skills at the company.
+  Repo: https://aspireapp.com/blog/how-aspires-senior-ui-developer-is-taking-user-experience-to-the-next-level
+  Confidence: High
+
+[TECH] Public Developer API Portal | category=engineering_visibility | source=developer_docs | url=https://aspireapp.com/api
+  Evidence: Aspire maintains a public-facing developer API portal at aspireapp.com/api, offering payout APIs, card issuance APIs, and FX APIs with documented integration endpoints — confirming an active software engineering practice.
+  Repo: https://aspireapp.com/api
+  Confidence: High
+
+[TECH] Google Cloud | category=cloud_native_presence | source=engineering_blog | url=https://aspireapp.com/blog/aspire-collaborates-with-google-cloud
+  Evidence: Aspire's blog explicitly states: 'Aspire has partnered with Google Cloud to empower startups and SMBs... providing them with Google Workspace tools and resources.' This is a direct company-named partnership signal.
+  Repo: https://aspireapp.com/blog/aspire-collaborates-with-google-cloud
+  Confidence: High
+
+[TECH] Engineering Blog — Technology Culture | category=engineering_visibility | source=engineering_blog | url=https://aspireapp.com/blog/building-the-best-fintech-team-in-sea-how-aspires-co-founder-gets-it-done
+  Evidence: Aspire publishes engineering and team-focused blog posts at aspireapp.com and has announced a dedicated financial technology excellence hub in Singapore focused on R&D, AI, and Cybersecurity investment.
+  Repo: https://aspireapp.com/blog/building-the-best-fintech-team-in-sea-how-aspires-co-founder-gets-it-done
+  Confidence: Medium
+
+[TECH] Cybersecurity Strategic Investment | category=engineering_visibility | source=engineering_blog | url=https://aspireapp.com/blog/aspire-opens-new-hq-in-singapore-to-drive-fintech-innovation
+  Evidence: Aspire's blog states they will 'drive product R&D and invest in strategic technologies at the core of the Fintech industry, including Artificial Intelligence (AI) and Cybersecurity' at their new Singapore HQ.
+  Repo: https://aspireapp.com/blog/aspire-opens-new-hq-in-singapore-to-drive-fintech-innovation
+  Confidence: Medium

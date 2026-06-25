@@ -1,0 +1,27 @@
+Company: TAL
+Domain: tal.com.au
+Industry: Financial Services
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 4
+============================================================
+
+[HIRING] type=security_compliance | value=Senior Risk Analyst - AI and Operational Risk | source=ats_platform | url=https://jobs.smartrecruiters.com/TAL/744000120857267-senior-risk-analyst-ai-and-operational-risk
+  Title: TAL is looking for a Senior Risk Analyst - AI and Operational Risk
+  Evidence: Role at TAL explicitly covers embedding risk governance into AI and automated decisioning (Reimagine Claims), strengthening control effectiveness across technology-enabled processes, and overseeing assurance and monitoring across Claims and tech processes. Listed at 363 George Street, Sydney — confirmed TAL Australia posting on SmartRecruiters.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Technology Graduate Program 2027 | source=ats_platform | url=https://jobs.smartrecruiters.com/TAL/744000122370371-technology-graduate-program-2027
+  Title: TAL is looking for a Technology Graduate Program 2027
+  Evidence: TAL's Technology Graduate Program (commencing Feb 2027) immerses graduates in IT teams with 4 rotations across Technology and Innovation, explicitly requiring 'apply strong engineering practices to develop production-ready code that meets quality and reliability standards.' Confirmed TAL Australia posting on SmartRecruiters at 363 George Street, Sydney.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Cloud Security Engineer | source=ats_platform | url=https://jobs.smartrecruiters.com/TAL/743999915534953-cloud-security-engineer
+  Title: TAL is looking for a Cloud Security Engineer
+  Evidence: TAL posted a Cloud Security Engineer role on SmartRecruiters requiring Azure Cloud security (Microsoft Defender, AKS, IaC/Terraform), OWASP Top 10 knowledge, and collaboration with Cloud Engineers and DevOps. Posting date could not be confirmed within the 90-day window; LinkedIn mirror dated June 2023.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Pre-Register Graduate Program 2027 (Technology stream) | source=ats_platform | url=https://jobs.smartrecruiters.com/TAL/744000114239678-pre-register-graduate-program-2027
+  Title: TAL is looking for a Pre-Register – Graduate Program 2027
+  Evidence: TAL's 2027 Graduate Program pre-registration includes Technology as one of five graduate streams (Finance, Business, Claims, Technology, Actuarial), indicating active tech talent pipeline planning. Confirmed TAL Australia posting on SmartRecruiters, Sydney.
+  Confidence: High

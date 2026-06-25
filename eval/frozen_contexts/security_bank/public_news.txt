@@ -1,0 +1,22 @@
+Company: Security Bank Corporation
+Domain: securitybank.com
+Industry: Banking
+Country: PH
+Agent: public_news
+Evidence items: 3
+============================================================
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://investor.aciworldwide.com/news-releases/news-release-details/aci-worldwide-and-security-bank-philippines-set-new-benchmark
+  Title: ACI Worldwide and Security Bank Philippines Set New Benchmark for Enterprise-wide Payments Modernization
+  Snippet: Built on a modern, microservices-based architecture and deployed in a cloud-native environment, the platform is ISO 20022-native, ensuring interoperability and readiness for evolving regulatory requirements while maintaining compatibility with legacy systems. Security Bank and ACI transformed the entire payments orchestration layer across all lines of the bank's businesses, creating a single platform that supports continuous innovation, regulatory compliance and ecosystem expansion.
+  Confidence: Low
+
+[NEWS] signal=cloud_ai_transformation | source=claude_web_search | url=https://www.zoominfo.com/c/security-bank-corp/563467401
+  Title: Security Bank Corporation accelerates digital transformation with AI, real-time data streaming, and API platforms (ZoomInfo / company intelligence signal)
+  Snippet: Security Bank Corporation accelerates its digital transformation in 2025, deploying AI, real-time data streaming, and API platforms to enhance operational resilience and customer experience. The Philippine lender's transformation spans its entire technology stack—from branch systems to mobile and online banking platforms.
+  Confidence: Low
+
+[NEWS] signal=leadership_change | source=claude_web_search | url=https://www.zoominfo.com/c/security-bank-corp/563467401
+  Title: Security Bank Corp. appoints Victor Lee Meng Teck as new President and CEO, effective January 2026
+  Snippet: Security Bank Corp. has appointed former CEO of CIMB Singapore Victor Lee Meng Teck, as its new president and CEO, effective January 2026.
+  Confidence: Low

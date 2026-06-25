@@ -1,0 +1,37 @@
+Company: Coda Payments
+Domain: coda.com
+Industry: payments
+Country: SG
+Agent: pain_points
+Evidence items: 6
+============================================================
+
+[PAIN] category=static_analysis_pain | source=company_engineering_blog | url=https://www.coda.co/security/
+  Title: Coda Payments security page confirms SSDLC with static code analysis tooling
+  Evidence: Coda's own security page explicitly states: 'Coda has detailed security standards, guidelines, and advanced SSDLC (Secure Software Development Lifecycle) tooling to detect potential security vulnerabilities early on.' It also confirms usage of static code analysis and dynamic security testing tools as part of their comprehensive security approach. The specific tools are not named, indicating either a gap or a proprietary/incumbent solution that may not be Sonar.
+  Confidence: High
+
+[PAIN] category=ci_cd_integration_pain | source=company_forum | url=https://jobs.lever.co/codapayments/34b6ea3d-2a3f-470d-b2da-75cc6a155510
+  Title: Coda Payments AppSec Specialist JD: 'Define operational processes for static and dynamic code analysis tools by integration into CI/CD pipelines'
+  Evidence: A publicly listed Coda Payments Application Security Specialist job posting on their official Lever careers page explicitly tasks the hire with: 'Define the operational processes for static and dynamic code analysis tools by integration into the CI/CD pipelines.' It also calls for designing the secure software development lifecycle to define 'security requirements, control gates and go-live criteria' — directly mapping to Sonar quality gates. This signals a gap or build-out phase in their static analysis / CI integration maturity.
+  Confidence: High
+
+[PAIN] category=ci_cd_integration_pain | source=company_forum | url=https://sg.linkedin.com/jobs/view/senior-aws-devsecops-engineer-at-coda-payments-2487765565
+  Title: Coda Payments DevSecOps Engineer JD confirms Jenkins CI/CD and DevSecOps pipeline ownership
+  Evidence: Coda Payments' Senior AWS DevSecOps Engineer posting (company-authored on LinkedIn) explicitly requires: 'Solid experience as a DevSecOps/DevOps Engineer in a 24x7x365 uptime Amazon AWS environment leveraging git repositories and CI/CD tools like Jenkins.' This confirms Jenkins as an active CI/CD tool in their stack, and positions the DevSecOps role as owning the pipeline — a direct integration point for Sonar scanner and quality gate configuration.
+  Confidence: High
+
+[PAIN] category=technical_debt_pain | source=claude_web_search_result | url=https://www.glassdoor.com/Reviews/Coda-Payments-salary-Reviews-EI_IE2595921.0,13_KH14,20.htm
+  Title: Glassdoor reviews attributed to Coda Payments employees: 'Old school technology, need big movement in tech refactoring but no one takes action'
+  Evidence: Multiple Glassdoor reviews clearly attributed to Coda Payments employees state: 'Old school technology and need big movement in tech refactoring but no one takes action. They try to patch on issues rather fix issues permanently by refactoring code.' A separate review adds: 'For a company at this scale, the tech and processes still feels suitable for a smaller company. Quite a bit of engineers still uses old and outdated way of building things, sometimes even questionable ways.' The Coda CTO personally responded on-record, acknowledging: 'Coda has been so successful so quickly that technology hasn't always been able to keep up.'
+  Confidence: Medium
+
+[PAIN] category=developer_velocity_pain | source=claude_web_search_result | url=https://www.glassdoor.com/Reviews/Coda-Payments-salary-Reviews-EI_IE2595921.0,13_KH14,20.htm
+  Title: CTO confirms technology scaling gap; company hiring aggressively to become 'tech first'
+  Evidence: The Coda CTO publicly responded to employee Glassdoor reviews stating: 'In order to catch up and become a "tech first" company, we've been doing a lot of hiring in both engineering and management. By growing our team, we're adding the crucial bandwidth that's necessary to truly be a world class software team.' This confirms the company is in an active scale-up phase where developer velocity pressure and engineering process maturity gaps are acknowledged at the executive level.
+  Confidence: Medium
+
+[PAIN] category=static_analysis_pain | source=company_forum | url=https://startup.jobs/software-engineer-codashop-coda-payments-2887886
+  Title: Coda Payments Codashop Engineer JD emphasises CI/CD, automation, and security at scale
+  Evidence: Coda Payments' Software Engineer (Codashop) job posting requires: 'A desire to build automation into everything you do, including implementing state of the art CI/CD practices and test automation' and calls for engineers to 'Design and develop highly scalable, reliable, secure, and fault-tolerant systems end to end.' The platform serves 'tens of millions of users each month' across 50+ countries, indicating the engineering team operates at significant scale where automated code quality controls would be essential.
+  Confidence: Medium

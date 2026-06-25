@@ -1,0 +1,52 @@
+Company: Viettel
+Domain: viettel.com.vn
+Industry: Telecommunications
+Country: Vietnam
+Agent: hiring_patterns
+Evidence items: 8
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Kỹ sư An ninh (Security Engineer) — tags: Security, DevSecOps, AWS, Linux, SIEM, CI/CD | source=job_board | url=https://itviec.com/viec-lam-it/network-security-engineer-sun-group-0116
+  Title: VIETTEL CUSTOMER SERVICE — Kỹ sư An ninh (Security Engineer)
+  Evidence: ITviec listing sidebar shows VIETTEL CUSTOMER SERVICE hiring a 'Kỹ sư An ninh' (Security Engineer) in Hanoi, tagged Security, DevSecOps, AWS, Linux, SIEM, CI/CD — posted 12 days ago (~May 22, 2026). Employer is explicitly identified as VIETTEL CUSTOMER SERVICE.
+  Date posted: 2026-05-22
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer (Cloud & CI/CD) | source=job_board | url=https://itviec.com/viec-lam-it/devops-engineer-cloud-ci-cd-viettel-customer-service-4119
+  Title: VIETTEL CUSTOMER SERVICE — DevOps Engineer (Cloud & CI/CD)
+  Evidence: ITviec listing for Viettel Customer Service (a Viettel Group subsidiary) seeking a DevOps Engineer with skills in Docker, Kubernetes, GitLab CI/CD, Jenkins, Ansible, Terraform, AWS, Azure, GCP; role explicitly mentions DevSecOps integration into CI/CD. Posting exists on ITviec but precise date within the 90-day window is unconfirmed.
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Cloud Architect | source=linkedin | url=https://vn.linkedin.com/jobs/viettel-jobs
+  Title: Viettel — Cloud Architect (Hanoi Capital Region)
+  Evidence: LinkedIn's 'Viettel jobs in Vietnam' feed shows a Cloud Architect role in the Hanoi Capital Region posted approximately 3 weeks ago (~May 13, 2026), attributed to Viettel in the Viettel-branded jobs listing. A separate LinkedIn URL confirms 'Cloud Architect - Viettel Cyber Security'.
+  Date posted: 2026-05-13
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer (Java) | source=linkedin | url=https://vn.linkedin.com/jobs/viettel-jobs-ho-chi-minh-city-metropolitan-area
+  Title: Viettel — Senior Software Engineer (Java), Ho Chi Minh City
+  Evidence: LinkedIn's Viettel jobs feed for Ho Chi Minh City Metropolitan Area shows a 'Senior Software Engineer (Java)' role posted 4 weeks ago (~May 6, 2026), explicitly within a Viettel-branded search result listing Viettel Group jobs.
+  Date posted: 2026-05-06
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer (Back-end oriented, Java & Cloud) | source=linkedin | url=https://vn.linkedin.com/jobs/viettel-jobs-ho-chi-minh-city
+  Title: Viettel — Senior Software Engineer (Back-end, Java & Cloud), Ho Chi Minh City
+  Evidence: LinkedIn's Viettel jobs listing for Ho Chi Minh City shows 'Senior Software Engineer (Back-end oriented, Java & Cloud)' among 12 active Viettel jobs; posting is listed as 2 months old (~April 3, 2026), within the 90-day window.
+  Date posted: 2026-04-03
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Database Engineer (DevOps, Kubernetes, Docker) | source=job_board | url=https://itviec.com/it-jobs/devops?lab_jr_age=%3E720&page=2
+  Title: Viettel Post (A Member of Viettel Group) — Database Engineer
+  Evidence: ITviec shows Viettel Post (explicitly identified as 'A Member of Viettel Group') hiring a Database Engineer tagged DevOps, System Admin, Kubernetes, Docker, Database, System Architecture — posted 9 days ago (~May 25, 2026).
+  Date posted: 2026-05-25
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer (Viettel Digital / Viettel-CHT subsidiary) | source=job_board | url=https://www.topcv.vn/viec-lam/devops-engineer/342180.html
+  Title: Viettel Digital — DevOps Engineer
+  Evidence: TopCV listing shows 'Viettel Digital' (Viettel Group subsidiary) recruiting a DevOps Engineer requiring experience with Docker, Kubernetes, Spring Boot, microservices, and cloud security. Exact posting date within 90-day window is not confirmed from the snippet.
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=DevOps Engineer (CI/CD, Cloud) — Viettel High Tech subsidiary | source=careers_page | url=https://viettelhightech.vn/vi/tuyen-dung/ky-su-devops
+  Title: Viettel High Tech — DevOps Engineer (Kỹ sư DevOps)
+  Evidence: Viettel High Tech's official careers page (viettelhightech.vn) lists a DevOps Engineer role. No description was retrievable from the snippet, and posting date is unknown.
+  Confidence: Low

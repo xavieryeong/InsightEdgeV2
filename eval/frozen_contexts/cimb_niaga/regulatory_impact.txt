@@ -1,0 +1,42 @@
+Company: CIMB Niaga
+Domain: cimbniaga.co.id
+Industry: Financial Services
+Country: Indonesia
+Agent: regulatory_impact
+Evidence items: 7
+============================================================
+
+[REGULATORY] type=regulated_industry | value=CIMB Niaga is a major commercial bank in Indonesia regulated by OJK and Bank Indonesia, operating digital banking, card payments, and mobile applications. | regulation= | regulator=OJK
+  Source: company_website | url=https://www.cimbniaga.co.id/id/home/welcome
+  Evidence: CIMB Niaga is one of Indonesia's largest commercial banks offering retail, corporate, and digital banking services including credit cards, debit cards, and mobile banking platforms.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=OJK POJK No. 11/POJK.03/2022 mandates IT risk management for commercial banks, including secure application development and application security testing. | regulation=OJK POJK No. 11/POJK.03/2022 | regulator=OJK
+  Source: official_regulator_website | url=https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Teknologi-Informasi-Oleh-Bank-Umum.aspx
+  Evidence: OJK POJK No. 11/POJK.03/2022 on Commercial Bank Information Technology Risk Management requires banks to implement controls over application development, vulnerability assessments, penetration testing, and application security in the SDLC. All OJK-regulated commercial banks including CIMB Niaga are subject to this regulation on an ongoing basis.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=OJK IT Risk Management regulation directly applies to CIMB Niaga as a licensed Indonesian commercial bank, requiring secure SDLC controls and application security assessments. | regulation=OJK POJK No. 11/POJK.03/2022 | regulator=OJK
+  Source: industry_mapping | url=
+  Evidence: As a commercial bank licensed and regulated by OJK in Indonesia, CIMB Niaga is subject to POJK 11/2022 IT risk management requirements including application security, vulnerability management, and secure software development lifecycle controls.
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=PCI DSS 4.0 Requirement 6.2 mandates bespoke software security. CIMB Niaga issues cards and processes card payments, making this applicable. | regulation=PCI DSS 4.0 | regulator=PCI SSC
+  Source: industry_mapping | url=
+  Evidence: CIMB Niaga is a card-issuing bank and payment processor operating Visa and Mastercard products in Indonesia. PCI DSS 4.0, which became the sole active standard in March 2024, requires all entities that develop bespoke or custom software used in cardholder data environments to implement software security testing including SAST as part of the SDLC (Requirement 6.2).
+  Confidence: Medium
+
+[REGULATORY] type=compliance_audit | value=CIMB Niaga maintains ISO 27001 certification as part of its information security governance framework, requiring ongoing secure development controls. | regulation=ISO 27001 | regulator=ISO / BSN (Indonesia)
+  Source: company_website | url=https://investor.cimbniaga.co.id/sustainability/corporate_governance.html
+  Evidence: CIMB Niaga publicly discloses ISO 27001 certification as part of its corporate governance and information security framework. ISO 27001 Annex A.14 (now A.8.25–A.8.31 in ISO 27001:2022) requires secure development lifecycle controls including secure coding, security testing, and vulnerability management — areas directly addressed by Sonar. This certification is ongoing and subject to periodic surveillance audits.
+  Confidence: Medium
+
+[REGULATORY] type=regional_regulator_relevance | value=Bank Indonesia payment system technology standards apply to CIMB Niaga as a BI-FAST and national payment system participant, including cybersecurity and application security requirements. | regulation=BI PADG No. 23/6/PADG/2021 | regulator=Bank Indonesia
+  Source: official_regulator_website | url=https://www.bi.go.id/en/publikasi/peraturan/Pages/PBI_230621.aspx
+  Evidence: Bank Indonesia's PADG No. 23/6/PADG/2021 establishes technology and cybersecurity standards for national payment system participants. CIMB Niaga participates in BI-FAST and the national payment system, requiring compliance with these technology risk and application security standards on an ongoing basis.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=CIMB Niaga's 2024 Annual Report references information security governance, cybersecurity frameworks, and compliance with OJK and Bank Indonesia digital and technology regulations. | regulation=General cybersecurity governance | regulator=OJK
+  Source: company_website | url=https://investor.cimbniaga.co.id/ar.html
+  Evidence: CIMB Niaga's publicly available annual reports and investor relations disclosures reference adherence to OJK technology risk management regulations, information security governance, and cybersecurity controls as part of enterprise risk management. These disclosures indicate ongoing regulatory compliance obligations in the cybersecurity domain.
+  Confidence: Low

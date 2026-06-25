@@ -1,0 +1,60 @@
+Company: PT Super Bank Indonesia
+Domain: superbank.id
+Industry: Banking
+Country: ID
+Agent: hiring_patterns
+Evidence items: 10
+============================================================
+
+[HIRING] type=devsecops_appsec | value=(DevSecOps) Security Engineer | source=careers_page | url=https://www.superbank.id/karir/devsecops-security-engineer
+  Title: (DevSecOps) Security Engineer — Superbank Careers
+  Evidence: Live job posting page found on the company's own domain superbank.id under the /karir/ (careers) path, titled '(DevSecOps) Security Engineer'. Page is publicly indexed and unambiguously attributed to PT Super Bank Indonesia.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer, Fullstack | source=careers_page | url=https://www.superbank.id/en/karir/software-engineer-fullstack
+  Title: Software Engineer, Fullstack — Superbank Careers
+  Evidence: Live job posting on superbank.id official careers page (/en/karir/) for a Fullstack Software Engineer role, clearly linked to PT Super Bank Indonesia.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer, Mobile Android | source=careers_page | url=https://www.superbank.id/en/karir/software-engineer-mobile-android
+  Title: Software Engineer, Mobile Android — Superbank Careers
+  Evidence: Live job posting on superbank.id official careers page for a Mobile Android Software Engineer role, attributed to PT Super Bank Indonesia.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Technical Operations Manager | source=job_board | url=https://id.jobstreet.com/super-bank-jobs/in-Jakarta
+  Title: Technical Operations Manager — Superbank (Jobstreet, May 2026)
+  Evidence: Jobstreet listing dated May 2026 reads: 'In Superbank, the Technical Operations Manager is responsible to manage a team that governs day to day tech operations to stabilize zero incidents.' Company is explicitly named as Superbank in listing text.
+  Date posted: 2026-05-01
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Engineering Manager (Software Engineers) | source=job_board | url=https://id.jobstreet.com/super-bank-jobs/in-Jakarta
+  Title: Engineering Manager — Superbank (Jobstreet, May 2026)
+  Evidence: Jobstreet listing (May 2026) reads: 'The role of Engineering Manager requires strong leadership skills to lead a team of Software Engineers in building features for digital banking.' Explicitly attributed to Superbank.
+  Date posted: 2026-05-01
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Backend Engineer (Multiple) | source=job_board | url=https://id.jobstreet.com/id/super-bank-jobs/in-Jakarta-Timur-Jakarta-Raya/full-time
+  Title: Backend Engineer — Superbank (Jobstreet)
+  Evidence: Jobstreet listing attributes multiple backend engineer openings to Superbank: 'We are seeking talented and passionate engineers to join our team, you will have opportunities to work on multiple backend services.' Company explicitly named.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Web Frontend Engineer | source=job_board | url=https://id.jobstreet.com/id/super-bank-jobs/in-Jakarta-Timur-Jakarta-Raya/full-time
+  Title: Web Frontend Engineer — Superbank (Jobstreet)
+  Evidence: Jobstreet listing reads: 'In Superbank, Web Frontend Engineer will be responsible for developing and implementing user interfaces for our web applications.' Superbank is explicitly named.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Database Engineer / Network Engineer | source=careers_page | url=https://www.superbank.id/en/karir/database-engineer
+  Title: Database Engineer & Network Engineer — Superbank Careers
+  Evidence: Live postings on superbank.id for both a Database Engineer (/en/karir/database-engineer) and a Network Engineer (/en/karir/network-engineer), both confirmed on the company's official careers domain.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Data Protection Officer | source=job_board | url=https://id.jobstreet.com/super-bank-jobs/in-Kebayoran-Lama-Jakarta/full-time
+  Title: Data Protection Officer — Super Bank Indonesia (Jobstreet, ~May 2026)
+  Evidence: Jobstreet listing dated 'fifteen days ago' (approx. May 5, 2026) reads: 'at Super Bank Indonesia... Data Protection Officer team is committed to ensuring that all of our customers' data is protected and that our work complies with data protection.' Company explicitly named as Super Bank Indonesia.
+  Date posted: 2026-05-05
+  Confidence: High
+
+[HIRING] type=devops_platform | value=CI/CD Pipeline Standardisation & GitLab Migration (Platform Engineering) | source=claude_web_search_result | url=http://resume.irfansp.dev/
+  Title: Superbank Platform Engineer Resume — GitLab Migration & CI/CD Standardisation
+  Evidence: A public resume from a Superbank platform engineer states: 'Leading GitLab migration initiative for the backend engineering team—one of Superbank's top strategic priorities for 2025. Standardized CI/CD pipelines across all teams... Implemented automated backend unit test reporting system, improving governance and code quality standards. Integrated AI-powered code review tools into GitLab CI pipeline.' Company is explicitly named as Superbank.
+  Confidence: Medium

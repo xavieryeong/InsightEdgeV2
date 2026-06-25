@@ -1,0 +1,62 @@
+Company: Coda Payments
+Domain: coda.com
+Industry: payments
+Country: SG
+Agent: tech_stack
+Evidence items: 11
+============================================================
+
+[TECH] Java (primary backend language) | category=relevant_languages | source=developer_docs | url=https://builtin.com/job/seniorstaff-software-engineer-publisher-portal/1951933
+  Evidence: Coda Payments Senior/Staff Software Engineer job posting states 'Strong knowledge in Java is required, bonus if you know other programming languages (Python, Scala, Kotlin, Groovy, Go, C/C++, Rust, C#, etc.)' — Java is explicitly required.
+  Repo: https://builtin.com/job/seniorstaff-software-engineer-publisher-portal/1951933
+  Confidence: High
+
+[TECH] Java with Spring/Struts (transaction platform) | category=relevant_languages | source=developer_docs | url=https://meet.jobs/en/jobs/20163-full-stack-java-developer
+  Evidence: Coda Payments Full Stack Java Developer posting states engineers are 'responsible for the full stack developing, maintaining, and supporting the operation of a high-reliability transaction processing platform using Spring, Struts, Java and Serverless framework.'
+  Repo: https://meet.jobs/en/jobs/20163-full-stack-java-developer
+  Confidence: High
+
+[TECH] Java via Quarkus microservices framework | category=relevant_languages | source=developer_docs | url=https://jobs.lever.co/codapayments/f0f2ce4e-ed5d-47ac-a6b5-effe37db8dfd
+  Evidence: Coda Payments Senior/Staff Software Engineer, Codapay posting explicitly describes 'creation of new microservices via the Quarkus framework' — Quarkus is a Java/Kotlin framework, confirming Java as the microservices language.
+  Repo: https://jobs.lever.co/codapayments/f0f2ce4e-ed5d-47ac-a6b5-effe37db8dfd
+  Confidence: High
+
+[TECH] JavaScript and TypeScript (front-end) | category=relevant_languages | source=developer_docs | url=https://jobs.lever.co/codapayments/a2a6353a-430e-4eca-8272-a1d737c9e308
+  Evidence: Coda Payments Senior/Staff Full Stack Engineer posting requires 'knowledge and practical experience in one or more front-end technologies (JavaScript, TypeScript, and modern frameworks like VueJS, React, etc.)'
+  Repo: https://jobs.lever.co/codapayments/a2a6353a-430e-4eca-8272-a1d737c9e308
+  Confidence: Medium
+
+[TECH] Python, Kotlin, Go (secondary/optional languages) | category=relevant_languages | source=developer_docs | url=https://startup.jobs/software-engineer-codashop-coda-payments-2887886
+  Evidence: Multiple Coda Payments job postings list 'strong knowledge of one or more programming languages (Java, Scala, Kotlin, Groovy, Go, C/C++, Rust, Python, C#, etc.)' as a requirement, indicating a polyglot environment.
+  Repo: https://startup.jobs/software-engineer-codashop-coda-payments-2887886
+  Confidence: Low
+
+[TECH] CI/CD practices (tool unspecified) | category=ci_cd_maturity | source=developer_docs | url=https://startup.jobs/software-engineer-codapay-coda-payments-2887877
+  Evidence: Coda Payments Software Engineer, Codapay posting lists as a requirement 'a desire to build automation into everything you do, including implementing state of the art CI/CD practices and test automation.' Specific CI/CD tooling is not publicly named.
+  Repo: https://startup.jobs/software-engineer-codapay-coda-payments-2887877
+  Confidence: Medium
+
+[TECH] AWS cloud (primary) + microservices architecture | category=cloud_native_presence | source=developer_docs | url=https://jobs.lever.co/codapayments/a2a6353a-430e-4eca-8272-a1d737c9e308
+  Evidence: Coda Payments job postings consistently state 'Our tech stack is solidly based on AWS cloud, with a keen interest in infrastructure-as-code and the creation of new microservices via the Quarkus framework.'
+  Repo: https://jobs.lever.co/codapayments/a2a6353a-430e-4eca-8272-a1d737c9e308
+  Confidence: High
+
+[TECH] Terraform (Infrastructure-as-Code) | category=cloud_native_presence | source=developer_docs | url=https://bebee.com/th/jobs/infra-ops-engineer-all-levels-coda-payments-thailand-ltd-bangkok--theirstack-642416341
+  Evidence: Coda Payments Infra Ops Engineer posting requires candidates to 'automate infrastructure creation and management using Terraform or other IaC tools' and lists '1+ years of experience with Terraform or similar infrastructure as code tools' as a qualification.
+  Repo: https://bebee.com/th/jobs/infra-ops-engineer-all-levels-coda-payments-thailand-ltd-bangkok--theirstack-642416341
+  Confidence: High
+
+[TECH] AWS Serverless (Lambda, API Gateway, DynamoDB) | category=cloud_native_presence | source=developer_docs | url=https://meet.jobs/en/jobs/20163-full-stack-java-developer
+  Evidence: Coda Payments Full Stack Java Developer posting notes 'experience in developing serverless applications in AWS (Lambda, API Gateway, DynamoDB) will be preferred', confirming serverless/cloud-native patterns.
+  Repo: https://meet.jobs/en/jobs/20163-full-stack-java-developer
+  Confidence: Medium
+
+[TECH] Active engineering team with distributed hiring | category=engineering_visibility | source=claude_web_search_result | url=https://theorg.com/org/coda-payments/teams/engineering-team
+  Evidence: The Org confirms Coda Payments has a named Engineering Team 'responsible for developing and maintaining the technology infrastructure that supports seamless payment collection.' RocketReach reports 75 employees in the IT/engineering department led by CTO Michael Feldkamp.
+  Repo: https://theorg.com/org/coda-payments/teams/engineering-team
+  Confidence: Medium
+
+[TECH] React (front-end framework) | category=relevant_languages | source=tech_listing | url=https://leadiq.com/c/coda-payments/5a1d9d762300005c008d4ec3
+  Evidence: LeadIQ's tech stack listing for Coda Payments includes React alongside Google Hosted Libraries and Webflow as detected front-end technologies.
+  Repo: https://leadiq.com/c/coda-payments/5a1d9d762300005c008d4ec3
+  Confidence: Low

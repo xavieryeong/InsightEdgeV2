@@ -1,0 +1,172 @@
+Company: IAG
+Domain: iag.com.au
+Industry: Financial Services
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 33
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 234 Information Security — mandatory for general insurers, requires secure SDLC, vulnerability management, penetration testing, and IT audit | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/information-security
+  Evidence: CPS 234 applies to general insurers and requires entities to maintain an information security capability commensurate with information security vulnerabilities and threats, implement controls protecting information assets, and conduct systematic testing including penetration testing for software security.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=CPG 234 explicitly identifies secure software development and acquisition as an expected control outcome for APRA-regulated entities | regulation=APRA CPG 234 Information Security (Practice Guide) | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: CPG 234 states: 'The outcome of secure software development and acquisition is to ensure that software continues to function as intended regardless of unforeseen circumstances.' The guide also explicitly identifies penetration testing for network protection, unauthorised access, and software security as expected approaches under CPS 234.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA's 2024-25 Corporate Plan explicitly commits to monitoring insurers for CPS 234 compliance and warns of enforcement action for entities with significant vulnerabilities | regulation=APRA CPS 234 — APRA 2025-26 Corporate Plan enforcement posture | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/apra-explains-cyber-security
+  Evidence: APRA states: 'With strengthening cyber security across our regulated industries remaining a top priority in APRA's 2025-26 Corporate Plan, APRA will continue to keep a strong focus on ensuring banks, insurers and super funds stay on top of this constantly evolving threat.' APRA has publicly warned of possible enforcement action against entities failing to comply with CPS 234 obligations.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=APRA conducts Information Security Tripartite reviews of regulated entities including insurers; CPS 234 mandates independent internal audit of information security controls | regulation=APRA CPS 234 — Internal Audit and Tripartite Review requirements | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/2024-10/20241016%20-%20APRA%20Annual%20Report%202023-24.pdf
+  Evidence: APRA's Annual Report 2023-24 references 'Information Security Tripartite reviews of regulated entities' to provide a baseline view of cyber resilience. CPS 234 paragraphs 32-33 require entities' internal audit activities to review the design and operating effectiveness of information security controls.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 230 Operational Risk Management — effective 1 July 2025, mandates technology risk management and IT capability for general insurers including IAG | regulation=APRA CPS 230 Operational Risk Management | regulator=APRA
+  Source: official_regulator_website | url=https://handbook.apra.gov.au/standard/cps-230
+  Evidence: CPS 230 states: 'An APRA-regulated entity must maintain appropriate and sound information and information technology (IT) capability to meet its current and projected business requirements.' Entities must manage 'technology risk, data risk and change management risk' and applies to general insurers as of 1 July 2025.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=IAG is the largest general insurer in Australia and New Zealand and is unambiguously APRA-regulated, subject to all cross-industry prudential standards | regulation=APRA CPS 234 / CPS 230 — general insurer scope | regulator=APRA
+  Source: company_website | url=https://www.iag.com.au/newsroom/customer/iag-launches-specialist-cyber-underwriting-agency
+  Evidence: IAG's own website confirms it is the largest general insurance company in Australia and New Zealand, with brands including NRMA, CGU, SGIO, SGIC and WFI. As a general insurer, IAG is explicitly named in CPS 234 as a regulated entity subject to the full information security standard.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Australia Cyber Security Act 2024 — mandatory ransomware reporting obligations commencing May 2025 applicable to large entities carrying on business in Australia | regulation=Australia Cyber Security Act 2024 | regulator=Australian Signals Directorate / Department of Home Affairs
+  Source: public_news | url=https://stephens.com.au/data-breach-cybersecurity-and-privacy-law-update-september-2025/
+  Evidence: Australia's Cyber Security Act 2024 mandatory ransomware reporting regime commenced 30 May 2025, requiring entities with annual turnover of $3 million or more to report cyber extortion payments within 72 hours. As a major insurer, IAG may be subject to these obligations.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=IAG publicly advocates for stronger Australian cybersecurity regulations and has submitted to government consultations on the topic, confirming active engagement with the cybersecurity regulatory environment | regulation=Australia Cyber Security Strategy — IAG engagement | regulator=Department of Home Affairs
+  Source: company_website | url=https://www.iag.com.au/strengthening-australias-cyber-security-regulations-and-incentives
+  Evidence: IAG's own website hosts a submission titled 'Strengthening Australia's cyber security regulations and incentives', confirming IAG's active engagement in the cybersecurity regulatory environment and public acknowledgment of cybersecurity as a strategic concern.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Airline group's compliance CO2 costs rise fivefold in 2025 - Quantum Commodity Intelligence | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxOREM3Q3lUVzZaZ3R4RUJwMEtZM2lDazZKNUlKbGVMcEk5YkhnV3g2SFVPc2RTU09BeWVkaDQ5T1JXbGJ3N1R1VDZYVWYwOXJGLWdOZ3JTQ21qdGcyMjQyQ19PemZHMHZCaldOTzM1c21SVkwzRFR5dC1OSzhmQjVLWU5Vb0NKWm9QQ0FMQURVQjYxNVlzbHVEQTJoMFgzUDE0bWFNYnlEU1dIaDBf?oc=5
+  Evidence: Airline group's compliance CO2 costs rise fivefold in 2025 Quantum Commodity Intelligence
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=PAGCOR clarifies online B2B accreditation pathway as firm 31 July deadline set for supplier compliance - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGhrNTB1S1g5YXRhcmFwTkY2dE1mQ1ptUlZqMXc0aFpHWnBKWTBVN2ZTT0dNQnJBYXVURkQ5SGxDZWhGQXh2R09RenpCRllGbU5hME1BOEZqQ3poTFdoSGVnN2YyTEZUSUFXNlJ4b3U0aE1ncXdVb3R0WjVrc2VNdDBud1d6SDM4bTFNNXp6REM5UXQxazFpY2pQVlpVTG41OGI3Mm10NXZMb2RpVmZrUjBZV2RzcGYxanlLSTFBYk1GT1BaSV9aRk5pb1M?oc=5
+  Evidence: PAGCOR clarifies online B2B accreditation pathway as firm 31 July deadline set for supplier compliance IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=AUSTRAC orders audit of Bankstown District Sports Club over AML concerns - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHp4RE96dDE4UGdZTHA0TmkyaS04N0U0SVdadEM2eE9hQmJNbEtBakRadWlqNG5QYlZoeVdHWUtGUzd3cFdUYVp5WWFfWEdYR3ZoVHVmSGxwT2ZFUlRRcGpPeUxsaG1qYTVJeXJpMGV3aEpIcGR0OGZ4cWw1eUZlZmdKTnIyb0pBRVYxb1MzSGdBR2VFWlhLQ0V1WlF0WW9vdTdNRA?oc=5
+  Evidence: AUSTRAC orders audit of Bankstown District Sports Club over AML concerns IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Iberia airline detects serious data breach and activates security protocol - Sur in English | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE12Q21GVjVIcGJCVmVrX0RaTXlUeWxiSWNDNXRrQUtLbERWNDVZNG9CTDREdUdaRmlaVkJzbVJMbVNnaEhUdURsakZnQTZGY3NrQmpHU21zMDVpVzZOVGNsR0xPa1Z2S2JqN1N5Y21ROHVHZ01lbzAyRHhxb25CWUJsZWVrRmoyMzFZcg?oc=5
+  Evidence: Iberia airline detects serious data breach and activates security protocol Sur in English
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG’s ‘troubling compliance culture’, slowness to act called out in record judgment - The Post | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiugFBVV95cUxPbEc2ajk0Y2xQX1QxZV9rNy11V1JfTHBHNVotb2RVUDN3b1IyMHREd2RjcTJkbGJiYllUZXNRaGtVVjgwSXAta1FvLTJiQ2Rod2pFaUN4RzFROU91eFhxekx0d0loN3pDRVhPc1BncFZkRUdNOHdCYkE3ZDRLVnBIV0dIYTdkVmtwMXhOT1hfZ1BPUEdEbnBJWFBobUtNN0tZS2U4OWgzSk10M1hWaVFnbm1MelRzTjNvQ1E?oc=5
+  Evidence: IAG’s ‘troubling compliance culture’, slowness to act called out in record judgment The Post
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=BDO names Jeffrey Alejandro as chief audit executive and IAG head - Asian Banking & Finance | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXBsRS0wRmFOOExHVXVmNUFxRjlXNmlVZ3BMdkM3WGIzNXRMVEl4VXVZc2FyT0pFTHd0cVhpNnpaNUJlanM2WTk3UGtnOXVPd2lhUmJWS2dRd2poYzlSRFJROVZyd2dtZS0yRFJmWHJFTC1yazBsckEtb05abGNCTFVZVUpXMmhJR3pVbTR6WnB2T0RWR2Y3aTd6OVZTVGRMcHN0SVFRdEVqaWxzUEx6bXMwZjNCT1Jh?oc=5
+  Evidence: BDO names Jeffrey Alejandro as chief audit executive and IAG head Asian Banking & Finance
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=AUSTRAC commences enforcement investigation into Tabcorp on concerns around AML compliance - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1VSR0ZaVFhycXd1eTcwcmx3VkVSTkJCaWJqdzdtVzdDZERzZl9wb1JhWnFuWmpMbDRaeVU0Xzc4TEpqd2RmUXkwMUNrT0FCNnVpZUdRbVVQRksxb3pYLUxteU5tem1iRkl5a3ljdzh4VjAwYXNSUS1VOXNHdFdCN1dqMDFiV1M3dFNCQzZBbDVEYkpsdW13ZklwczhHNUpnazZqd25kLU9WV2VpLWwzTUNyTC1nQk5jR2E3Sg?oc=5
+  Evidence: AUSTRAC commences enforcement investigation into Tabcorp on concerns around AML compliance IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=AUSTRAC launches Federal Court action against clubs giant Mounties for alleged serious and systemic non-compliance with AML laws - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2xuWjVIbVhGT2JQNTZhRmxFNF9FRi1TR2cxS3ZTQjVoNWhhMlFQOFpvUFo0UTlzSVA4VkZKQW1XZG8yajd0MU1ic3JRRTJPazg5cEdJeTh0Vl8zQ3JpNVc3U1JMa3B3OXc3TWNCTi03WXNIa1MzWDJYQkdaMDdJTXZGWUprR1RQeDJyV2NmQzlfR2psLW4xV1RMRUZrdEp5WDVqQXplY19Mejd6WDhHUnFGbHVNRlpWNG5CbWFwR0RWSnl6MEpRX1piLUx0OEdFX2dxc2Q5N3NmNDAyZ0E1aVFtUzNnWWpfLWJwMENISQ?oc=5
+  Evidence: AUSTRAC launches Federal Court action against clubs giant Mounties for alleged serious and systemic non-compliance with AML laws IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=GLI to showcase compliance and cybersecurity services at ICE Barcelona - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUJobS1ZTDRRSEZieU4yTWhMUmViVFdCMWpNNld3dE5RVE9xMDJiczliRWd4NmtwazAyMGpvNTY0NHllLUhJd1pPMzhzMFFHbzZsNTBtTVFVVjBJdWZXanBmLW84Rmwtem0yemlmTm5sRjBPUm5EZ01scTJ1UUZXTm0xXzliT2JYWGRyMDFLcVVVdmJyZE1pU2ZhZ29Jdjl4dHc?oc=5
+  Evidence: GLI to showcase compliance and cybersecurity services at ICE Barcelona IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=The not so mega ‘mega fine’: ICO fines British Airways £20 million for its 2018 data breach - Herbert Smith Freehills Kramer | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHd3bWlramM3MWZrVzByTjg4RTJFZ1NiMmszZG9JS2NlT0tubGJMdmltZHZxUU1VcnRWX1J2U2U4LXAwdldSSWpSanlfT05QM1JVTDV3dUJha0Y5dkphTTIyT0oyV2VLYmVOelJraXVVaEZ6SzNtXzBIc3hSTW5WSUUtNl9OVWowaE5DN01zSDZvR2ZadndQazVOU213c0FqX2xCTm5lMmdyTU0xWUJVWkFJY0I1U29ubkxEb0Q4cUN6OXZSOHVldVNsQVJvcERWU0J6eHZyVlM?oc=5
+  Evidence: The not so mega ‘mega fine’: ICO fines British Airways £20 million for its 2018 data breach Herbert Smith Freehills Kramer
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG agrees settlement as part of Greensill case - Reinsurance News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1VqbW1VczNuOUZyWi1CRF82bmZGTkhHX1ZiM2xxdHZsSjE2UV8zR1lvTVZhSWF5alV5ODNMRWhNaThkR3lnTnJreUtGNURLRnNzMWtCWTcyc3V2ZVFKQmFTZEFadHJUU3BsRWdWOVktN1Y0SjJxd2k5RlpBZ1Fnb3dGaw?oc=5
+  Evidence: IAG agrees settlement as part of Greensill case Reinsurance News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG: Terms of Settlement Confidential - Moomoo | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFN6MWZVMEJSVEF5NC1FZlZ6ZEgtRDFieHhuNEpuVWNaZGdXSFllTjMxS28xaFNjREc1MUdMOGhTVG9vOVlQalBTRV85aTVLTGpzXzVzcDNDVUhlaUtja1Q4V0l6d3lPbWhlRWRZZnhuajFvajBBQl9nV29HblVlTHNmdmk?oc=5
+  Evidence: IAG: Terms of Settlement Confidential Moomoo
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG Says Full Settlement Of €500 Million Series A & €500 Million Series B Bonds - TradingView | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOHk1ZGJWeEdBem5GTWx3UUF5V2hQa0dzSXYwekctdGxGcE8zM2ROQVd4UHdWZHFBckx0VFZCT3h1WE9JZEc5WVhyTHVIWVZTR2JMa2g4OThDQnJJcVpVYlJWQ0lDQ1A4amVNdFBEMXpuLUFNRkJXY3k3OEU5N3dNLUVEejEtUjBFN0pjT2VlWHNNRy15T082SkhMSWZGME84Z1NSWVFjSWxTRGFOSUxkNDNQdEhIVlgxSVFuU3ZWM3ZUTV83c2xDVzdud0JKYktINmZ1YnhReUpkYmRjVGc?oc=5
+  Evidence: IAG Says Full Settlement Of €500 Million Series A & €500 Million Series B Bonds TradingView
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG reaches settlement with Greensill Bank over trade credit insurance claims - (Re)in Asia | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcTdtY0kxbW85LWJJR3gzekh1VC0zTzhQWDZUbkI4ZlNPTUlpV1ZXOXI1S19xU2h5elJtSnBlUVV4eFkwbExVbTQxOXJzWEpVLUFxX3ZEZHg4bWJjTGRXc0hYWjJsWFlCQlJHVA?oc=5
+  Evidence: IAG reaches settlement with Greensill Bank over trade credit insurance claims (Re)in Asia
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Assessing Insurance Australia Group’s Valuation After Greensill Settlement And Ongoing Share Buy-Back - simplywall.st | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2xtN0x1V1NITjFNMTFYaGNMc0V6Q3JxUVJRVkNWWUxsRmVjb2d0b0RJSDFmdDNlUVJXN1F6YVhwZmZqemxUZGFQaGVwSEhnU28wVVdLdTVIOUVTLTlybWFjLTZ5eUpic2hLSEp5WDhDT2ZUUXpQWGwtQm1vZ1NCampFOGcyRlRVeU01Q0hVS0stdTFCWGp3WnN1bDAwLTRjREJkbno3UFktQllROVhLYkUwQ3N6V1M0RFoxQW9nZTZ4TGhFMEdOVHRsVjhJZEUxWTlWOVJzQndlaTJOUkRqR0Fn0gHnAUFVX3lxTE1KX0ZKal9hallqb1BNcnVEZE1MV0V0MW9qa2pfTXpaOUxVVlExRm9Wb1kwMWFUNk9nNnhGYlB3SlU5YU84M05nUmpXeFRleTJrdHRwck5YM2x6Yld0c3NpY2NxZ1VyR0M5NUxMQkp5ZmlCdHFLX1JBUXNtRnNJN3g4TV9oSGJRYmtzeUQ1WTM3Ulc4M29YVGpEVWgwMTZWeXl0VGR1ZnZSa3UwR1NoYnJjMDRuYTB4VWQtX0FFajZ6SURXdGI0RnRMOVpiV2RRRDJVZ3loZG1yTU54NUZuSFlzek5SQWZfOA?oc=5
+  Evidence: Assessing Insurance Australia Group’s Valuation After Greensill Settlement And Ongoing Share Buy-Back simplywall.st
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG escapes $4bn hit with confidential Greensill settlement - The Australian | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiiwJBVV95cUxQenNFUm51WHZkcEd0bG5jckIwOUpzNlpCczcxOWNnNlZEQVNzQjIyTmIwLUE3b1RoekpvMWZ2WkJFaUVaMjd6aWs5anVqVnhQVFhRSUtIdlJBX0t0VnpXUGloRnVaWHpjblh0dDFMaC1Gbnk0bXJFTkhDZllSR1NfekZPcGFnZDJ1NlRZU1dqbjZXMkRRZmtiSFZlMlI4aVNZZmR4UEJQdUhzb05XMzgzbFRhY3FYWW13WngyaE1kaWFtQmo5RnBsWFdBYi04THM4VnF6dzdBbGtNR050aTZNSTRzQ0ZUd0dhNkNCWHhsczNFdXBSaWVfYjU3cnEyZzdpRTNTSmNEdXRQNkHSAZACQVVfeXFMTVFBeHlhX25oeTRPNURkTVVLQ25TamNMU1ltOURVV3d2TmJfQ0RweTNZeTN6dWs3UkE3VnZzOVBIUlZORW10V1JibktPSVl3RGNsUUZERkVhM25pUDFzeW9yV25BZUhjeHBNRDJzUEc1TVpqUHJ0WlcweGpwY3draERtWnIyWUdINXlWam5tRUN2RlEyTG5lYlVBcWRidTVCVVRwOFB4b0hxTllqaU1iVzZTTVItZTktZ2szdndidng0TFlfQU9SSG5LVmJmXzczRUdPWXdWWEpfaDNrSFBQN3g5OWRLdGJDTFp4VGliY1dLR0NjOWU3WGpEUFEwMFlJQldIenlhX2NCeThHN09uRk8?oc=5
+  Evidence: IAG escapes $4bn hit with confidential Greensill settlement The Australian
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG’s RACI acquisition moves to phase two ACCC investigation - InsuranceAsia News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVgzc3k3RWl6S3ZvYWhrcUZKVlJEWk45dkZ2VW5VQmVuNlpKd3RHaUtESXJhQUpnWkFONUstU1Zxc2ZWTnBOcDd3by1XSGFYTjk2QW1OQnUwLWpSN1pycVg3MFJmRUZaS3pNZFFMbldVei02RFlDNlRCVGQ1STJsbzNOQzRacmZrQlZMak9FYlZJZHJi?oc=5
+  Evidence: IAG’s RACI acquisition moves to phase two ACCC investigation InsuranceAsia News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG reaches settlement in $4B litigation over Greensill collapse - Lawyerly | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxOOEV0MldlX2p5Vzd1ejkxdFVsMWlmX0N6VWpJT2Z1TkhRdjU1dDQwQXdrT2lnRE1xZ1A0bkZPTFM5M2dCS01WRl9RaTRZQ3ZCRlZOaGl4SnpFeVF0X3hYZFFuLXV5bzFMR2hIOGxWV3llTDVsWnJ2N2VyMEZ0VzZTdy1POTJiaUVMWnJsbWdwcjV4VnQ4bjZN?oc=5
+  Evidence: IAG reaches settlement in $4B litigation over Greensill collapse Lawyerly
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=PAGCOR funds National Bureau of Investigation in fight against illegal gambling - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDZpV2h0NjVfSndxeWVROFVNS3FPcmZRMTFmSnI2d2FRdlRLemVSTG1MMjhtX1Z6TlBYTElWYWY4R2wzM0ZqTjlDbUYtck43TTFuZ0FIaTBwbVBRaVN6UkdoUHd0SEg2UWNTbkNpWlNLN1ZXcEVpQ1VEUDlTRUdwR0NDOGhoa1I0ekJhT1RhRzA1ZHFHcnV5TVdLcGd1OHdJVEFmLW1leE1iMWtSTlE?oc=5
+  Evidence: PAGCOR funds National Bureau of Investigation in fight against illegal gambling IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG's Insurance Australia Limited hit with court costs after rejecting settlement offer - Insurance Business | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi7wFBVV95cUxObUtYWGJzbUtsUjEzNjJ6THBDWlVVWEZ5M0RwX2I4ZWQzTlg3QTVpRWNyQ01KaFVUcVQxeWtWd2I2MUlKeU9JQ2Y0elkxWTAzS3l6Rk1meXVZOHlNOERfRWJIV2xJSG43cm4tV2pSVkZfcU0yZzdpVmxLLUF0cExwcU01WnpZYl85aDVRcGNGbEdzb1VUTDBWQ01BRTVFbWExc05mZEl3bDdhNU9wQVpaWnJreW5zNE5NZ2VTX3dDNHZZbVBmWGdBMlJtblgtYV9rQ2ZXeVBpMVg4eWExcWlEMmVqZWJpUjV3cXk0aFk3aw?oc=5
+  Evidence: IAG's Insurance Australia Limited hit with court costs after rejecting settlement offer Insurance Business
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=South Carolina Businessman Accused Of Defaulting On ‘Secret Settlement’ - FITSNews | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmNZNENkVC00Q0hMZ3FJOUJXUVFTOUhFSEVfVGVzWUhhZWFvTXZuOU9HZ1NQSEJhVFg3eUplUmlrWTN3c0xGTnptbUJickdPckowTG9yNzBySDEydW1ldmYta25SOTAzWDZnc1EyZVQyNkkweHpvMHYzeUdCbjZLNUdFSUlrdEVNVC1xWXdiX0dOSUJ5THR4dHQ4RlJ0UXplNUw0aGVwQnZ0QQ?oc=5
+  Evidence: South Carolina Businessman Accused Of Defaulting On ‘Secret Settlement’ FITSNews
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=IAG fined $19.5m for misleading insurance pricing breaches - NZ Herald | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOEg5Q0VSNkk5LVFXYU1hLWNIaHJtN1Z5UGxTWnZzcC1XaHNUS0R6bEw3U2FaeS1wX3g3MUt2QnZ6Yjc3bkRuSVUzLVdIZC1GOVhSajltczZOWU1PT2tKRG5TTGJveVpSSWc0TXVZUGVyZEhNeU1hV1N0YVduYUxTUjZTTXdxWE1rcHhFdWpiT0ozdFlxRGVTczZKaDlDdVBQQ1RjZTVFblhxYXhtaEpUeGFYcUFVSVgyR3ItODJHUGZKUVpBWGVxT0JOSzdsd2p3SHdyLXJfUURHWFYzWFc1YlZRNW9WS0VScnJ0TFRlNA?oc=5
+  Evidence: IAG fined $19.5m for misleading insurance pricing breaches NZ Herald
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=British Airways faces record £183m fine for data breach - BBC | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qcnNabThmem1wZ2NMN2tEcnRud0ZEOTFvVWlOY21kRjVOSm9Kbm1zMjJPbWFLWnFKNGVkZ1JnLURZQWlENm8xRDBlOHA0Wi1QSkl2Rg?oc=5
+  Evidence: British Airways faces record £183m fine for data breach BBC
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Marina Bay Sands reveals data breach impacting 665,000 shopping rewards members - IAG – Inside Asian Gaming | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzFjTGtTOFlITmFpRk5yWmlRY3FUc2s2QUxETWMtLXFZN0VISVFNbkZGb1R4Vnl5RVpSaVdPV0VzUXpwTEJQcHRYY2JmNkhaWU5Ed0JSaTN5b0dNUzdDYllZb1htVzZVN2V5bzIzeTRPQ0FkanE5ZFRsdGx1amE4akItdThuTUFwUlduMVdGck1Jd1lHRHpHUjNhWDQ0eXliRjJTWjdWRXJCbjJ4?oc=5
+  Evidence: Marina Bay Sands reveals data breach impacting 665,000 shopping rewards members IAG – Inside Asian Gaming
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=BA Data Breach: The Real Cost of Negligence - CEO Today | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1ZNaVlRZEY3SzEyN1RDeE1WeTczeFZEMVNJbkhtRnFvZGpyVmZhRnVvSDd0UC1VT1V5aG43NmlYVGUxTk42dUpmb0x2WV9WWDBXUGdVeXZhNGw0cW1YSHhrOEVGZEpwWkNHQmhxQmZsLWRObFRhOVNmZmo4UlluVl9pTTNRWVpHUVhRcHlYQnp6VjNoN3ItTlFTYnB4Uk5KMWtQSjVNSUlPc21IS3c?oc=5
+  Evidence: BA Data Breach: The Real Cost of Negligence CEO Today
+  Confidence: Low

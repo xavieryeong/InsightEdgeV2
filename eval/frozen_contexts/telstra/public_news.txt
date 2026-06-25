@@ -1,0 +1,84 @@
+Company: Telstra
+Domain: telstra.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: public_news
+Evidence items: 11
+============================================================
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxONjVhY3lEbmNnVF9lelN4bWljSUVEMjlMQVZwXzJVRTF4Z3BhbktQTzF1SEFiNjBhZDRPVGpSaUFSb3BzOU1IN3VBaFVSMk1MX1ZHazVjWVVaeFF4Qmo0djF3YjVRNWNsUVNfanhCZnBDOXBfTnpOREtmQmRpeDRZcVZmNzh2b05tVU9qSHFCYm84OW5NeldFTktnbERIUQ?oc=5
+  Title: Telstra Health launches Corus data platform - Australian Ageing Agenda
+  Snippet: Telstra Health launches Corus data platform Australian Ageing Agenda
+  Published: 2026-05-26 (7 days ago)
+  Summary: Telstra Health launched the Corus data platform, targeting the aged care sector with new data management capabilities.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWdJM3R2NVVMeEcwZFlGakZNVFQydmRzTVZsUlNSaDlNREt5ZlRXdVZfNDJ2cFhLYUphQTV0RHFWZjhiYjF5OGFlTE5fZkYzTHZLTmozMUQ1RVg0SHhhWHR4X3E3emg4SmZIOVNnV2o3X3ZBVi1xMURRdnd5M20xaEpoSGJ4U1JrbV93cW55WTg2clNNRVo0aWhwdnlRWlVpQVVpYkljcFVPTGpvQ2lV?oc=5
+  Title: Telstra launches stop-motion campaign demonstrating satellite messaging technology - marketech apac
+  Snippet: Telstra launches stop-motion campaign demonstrating satellite messaging technology marketech apac
+  Published: 2026-04-16 (48 days ago)
+  Summary: Telstra launched a stop-motion marketing campaign to demonstrate its satellite messaging technology to consumers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnN0NUlsTVJhQWlkaEU0MVlKeG5ULThicXNsWWtnbTRaeEVmY3RIdmhVVmg5Z1hrMGxkelp1VFNMSWNEQWpXUzhfX0JqMDZsQTQ0V05jMkFDUHA2czBLeVhMMU93Y05YX2xhSzNSWFM5U1c4ZGI3Um40ZDhwNFNkZTBpYU1pSTdFbG1kSjln?oc=5
+  Title: Telstra launches Adaptive Networks Centre for businesses - IT Brief Australia
+  Snippet: Telstra launches Adaptive Networks Centre for businesses IT Brief Australia
+  Published: 2026-05-10 (23 days ago)
+  Summary: Telstra launched an Adaptive Networks Centre offering enterprise businesses managed and adaptive networking services.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDVEVzRnX2RyOVQ3TEpwazVtQm9YM2lGV0FpYk51SGF6S0JJS1lKa2xKV3hxRlg2Z1dVamYtVGFfdzFPNU1pRjVicmxibjkzNWU5amtocG1BV0l2U3lDN1RaazNYeHY0VGMteWpYT2ZtYUtoY0RmRFAycXFHQkdja29VT3NWRkVGYXFOTU1Ib0lZSWZuZXpRcF9LYTBCakMzekpKbHE3U0pUZw?oc=5
+  Title: Telstra Business launches managed IT service for SMB market - ARNnet
+  Snippet: Telstra Business launches managed IT service for SMB market ARNnet
+  Published: 2026-03-30 (65 days ago)
+  Summary: Telstra Business launched a new managed IT service product specifically targeting the SMB market segment.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWVIcGtTbG5zQTZVOW00ZlMyT1dHODdZMjZFR1Q3RWFDV21PVDhWcWdMVzVYUUR2WHpRWTFfV0dLeWVxbjItZlowcV8ycktfT3c2T2piUVhmQzN6THV0dk1IdFhXLXplMjVGNXdycnNGYlhCQTZ0eXBRRUwyYXNXUm1ObEZxU3RvVFVfTDBObW96ZjBPQnBJSzVwQWJxVWwwZzE0VA?oc=5
+  Title: Telstra launches satellite messaging campaign with trio of stop-motion films - Mi-3.com.au
+  Snippet: Telstra launches satellite messaging campaign with trio of stop-motion films Mi-3.com.au
+  Published: 2026-04-13 (51 days ago)
+  Summary: Telstra promoted its satellite messaging service through a trio of stop-motion short films in a new campaign.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkFVZ1lNQldXMHROWFhXV0N4bThuOW9LNFNOZ2hLazRIOXVxcHRnbm5Wd0dEYUhEMkQyYno2dFFhVXN5WjNPUjdMN29lMUlCSkpYZFMyZ2NGcGpvWFZqRU9hUVd3OFE5dkN5NG9oTVdjUU4zOXhfUjZVZ0tlc2l1YmVXSTR5WWY4S0JvNER5Y1hYc3Fp?oc=5
+  Title: Telstra launches cheaper, slower 5G home internet plans - WhistleOut
+  Snippet: Telstra launches cheaper, slower 5G home internet plans WhistleOut
+  Published: 2026-05-06 (28 days ago)
+  Summary: Telstra introduced cheaper, lower-speed 5G home internet plans as a new tier in its consumer broadband lineup.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbU5hbmxjWWtjWV8zemtZLW8zdHVGeXZPUS1LLTRjQkZIbmh5VFc4WnBZT0ExaU9XVHh1SFVIS283alVmRnM3TmlGNmI2LXloeVpHckZ0b3c4STk0cFVQVGc0YmJvSTdaaFZQRDhhQW1LUWxxc3pPZTlncENYSHNRbHRaQ0QzSm1xMFA4VzdMVUxwZ3NldVhFUXVVR2w5M3RHT3JHNlFDUnFtUVFTT0YzQlNyZEtKb3NGTFdvZUk3ejVBZkE0b0s1eg?oc=5
+  Title: Vodafone launches new ad campaign aimed at Telstra starring comedian Ali Wong - techguide.com.au
+  Snippet: Vodafone launches new ad campaign aimed at Telstra starring comedian Ali Wong techguide.com.au
+  Published: 2026-03-23 (72 days ago)
+  Summary: Vodafone launched a competitive ad campaign directly targeting Telstra customers, featuring comedian Ali Wong.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiigFBVV95cUxOY25PdGUtU0pfdmFqNFhNMkg0Qjhoa2ZqOVplbVNSaUpsdUgxX0FKcFl2MEN0M1R4TU1OUkVVc2RraHcwRWh1ZWg2VTNDR3Z0a3ZhOFhPSjUwaDlBdkpYUDM2d25rTFZzU1dnWjd0M2VON2JpcU9IdzItVlFwY0ZnOWxDaHVJcHozT0E?oc=5
+  Title: Telstra Health launches Smart Connect for e-pathology - IT Brief Australia
+  Snippet: Telstra Health launches Smart Connect for e-pathology IT Brief Australia
+  Published: 2026-03-17 (78 days ago)
+  Summary: Telstra Health launched Smart Connect, a new digital solution enabling electronic pathology ordering and results delivery.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWhCNlVmZkxybE80bWZjcUR3VUhEWk9Ka3F1WEtXTXZSTjRheGxNMHYwTkt1ejZvZ1d5bVlRaFJOOFFhLXg3LUZGdjRvYnNYeG0xRmkwWWVPVzhrNGJucHhJaG80UTc0UEhxcmxpbUNjcGtVcC1yYkloc0hpdFdnUURoakxJYTZ3V1JWbVFYRkg1LTlQcjZwZDZzNHMzUnpkVWhuTko5Tjc?oc=5
+  Title: Telstra Business launches new ‘Tame your Tech’ campaign via in-house agency Roam - Campaign Brief
+  Snippet: Telstra Business launches new ‘Tame your Tech’ campaign via in-house agency Roam Campaign Brief
+  Published: 2026-03-16 (79 days ago)
+  Summary: Telstra Business launched a 'Tame your Tech' marketing campaign produced by its in-house agency Roam.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXVQMmhLSnRlX0k1TmJTbzhtdGN0V1laR3k4UzE3VGNUMTdhaVF0eWNRenI0ZUhFUktDZ1l4LVJTUXZpZFpSdlB1cTFTUWc3dFU1Uk1rMXQ0R0lYbDhfdk1KRTE0bjh1U0pnckNtZDJUMUw4a2NyS1lVWW95TTc1YllDS1FnbWhaay1TaE1pU0JxMjhlN0ZWaXd2YW9fVkp3MUZyc2ZpX2UzSWtYbUE?oc=5
+  Title: IPH appoints ex-Telstra, PwC exec Anthony O’Malley as new CEO - MSN
+  Snippet: IPH appoints ex-Telstra, PwC exec Anthony O’Malley as new CEO MSN
+  Published: 2026-05-31 (3 days ago)
+  Summary: IPH appointed Anthony O'Malley, a former Telstra and PwC executive, as its new Chief Executive Officer.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUlWZGlOOFRCTUJveHV5TnJwU2lfNm1RY2ZEeXRmYWxoMWhXVUp6WDhpQXBEM0xzV2JpeGM5dmtKYnMyMEt3SGZrYmp5WnVvQmdNcmx1ampteTZrZUlsNWtDeUpaQzJzUjZ1WFZrVnNyQ2w4SEVHNXN4ZzFqQS1RaUFFUlFOSkJrSUlTYW5VWUh5X184d3Y3bWtWUUlCSF9CQWdfQnZkalFDYU5tWHlfYldZbWt1OXNlZXhMdEJ0QTl5UU1INnYtbmZGMVo?oc=5
+  Title: Sharon AI appoints former Telstra CEO Andy Penn as chair - Capital Brief
+  Snippet: Sharon AI appoints former Telstra CEO Andy Penn as chair Capital Brief
+  Published: 2026-05-21 (13 days ago)
+  Summary: Sharon AI appointed former Telstra CEO Andy Penn as its new board chair to guide the AI company's strategy.
+  Confidence: High

@@ -1,0 +1,21 @@
+Company: EnergyAustralia
+Domain: energyaustralia.com.au
+Industry: Utilities & Energy
+Country: Australia
+Agent: public_news
+Evidence items: 2
+============================================================
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmpNdFk2T0hRT0V4WUhTR0xPUmswazFOZ0QtMHQ2dGJYWW9MUXBNNVRnNW5XRDNDOENjOGZaWXlCaU9pOUZhODRKU3F1Y25rd0RlR2YxcHhCaFo3c2xNSnM0MFhYc3Axd3RERklpb042Y2dBNzJSWnFBLWpiVnJuekRsY3NEM25mUDJ4di1nMA?oc=5
+  Title: EnergyAustralia fined by regulator for alleged breaches - Energy Source & Distribution
+  Snippet: EnergyAustralia fined by regulator for alleged breaches Energy Source & Distribution
+  Published: 2026-03-24 (71 days ago)
+  Summary: EnergyAustralia was fined by a regulator for alleged breaches, according to trade publication Energy Source & Distribution.
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=claude_web_search | url=https://www.itnews.com.au/news/energyaustralias-cio-of-almost-seven-years-to-leave-624214
+  Title: EnergyAustralia's CIO of almost seven years to leave - iTnews
+  Snippet: EnergyAustralia's CIO of almost seven years to leave - iTnews Latest News Superloop merges wholesale FTTP operations under a single brand Anthropic opens Claude Mythos Preview AI program to Australia Defence says Palantir is "sandboxed" in its environment TPG Telecom using AI to chase better customer NPS Microsoft teases new era of AI-driven devices Home News Business Training & Development EnergyAustralia's CIO of almost seven years to leave By Ry Crozier Mar 12 2026 9:24AM Replacement named. EnergyAustralia’s CIO of almost seven years Julie Bale is retiring, with former group CTO of PEXA Egl
+  Published: 2026-03-12 (83 days ago)
+  Summary: EnergyAustralia's CIO of nearly seven years is leaving the company, signalling an imminent leadership transition in technology.
+  Confidence: Medium

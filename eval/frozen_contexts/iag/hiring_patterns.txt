@@ -1,0 +1,34 @@
+Company: IAG
+Domain: iag.com.au
+Industry: Financial Services
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 5
+============================================================
+
+[HIRING] type=devops_platform | value=Senior Platform Engineer – Cloud Infrastructure | source=job_board | url=https://bebee.com/nz/jobs/senior-platform-engineer-cloud-infrastructure-iag-auckland--techmap_nz_4417029987
+  Title: Senior Platform Engineer – Cloud Infrastructure at IAG
+  Evidence: IAG (largest general insurance group in AU/NZ) hiring a Senior Platform Engineer to drive automation, modernisation, and operational excellence across on-prem and public cloud environments through DevOps and Infrastructure-as-Service practices. Role is based in Auckland or Christchurch (NZ), permanent full-time. Requires APRA-regulated environment experience.
+  Date posted: 2026-05-20
+  Confidence: High
+
+[HIRING] type=devops_platform | value=DevOps Engineer | source=linkedin | url=https://nz.linkedin.com/jobs/iag-jobs
+  Title: DevOps Engineer at IAG – Auckland, NZ (LinkedIn listing)
+  Evidence: IAG's NZ LinkedIn jobs page lists a DevOps Engineer role in Auckland, New Zealand. The role appears in IAG's curated LinkedIn jobs list alongside graduate technology programs, indicating active DevOps hiring. Date listed approximately 3 weeks ago from an undated page crawl.
+  Confidence: Medium
+
+[HIRING] type=cloud_infrastructure | value=Cloud Infrastructure Modernisation (Platform Engineer role) | source=job_board | url=https://bebee.com/nz/jobs/senior-platform-engineer-cloud-infrastructure-iag-auckland--techmap_nz_4417029987
+  Title: Cloud Infrastructure modernisation mandate – Senior Platform Engineer at IAG
+  Evidence: The IAG platform engineer job description explicitly calls for leading cloud and Windows infrastructure modernisation across on-prem and public cloud environments, and coaching teams in DevOps mindset. References APRA-regulated environment experience as a requirement.
+  Date posted: 2026-05-20
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Cyber Security Careers (active hiring category) | source=careers_page | url=https://careers.iag.com.au/go/Cyber-Security-Careers/3840901/
+  Title: Cyber Security Careers – Insurance Australia Limited (IAG)
+  Evidence: IAG's official careers site at careers.iag.com.au maintains a dedicated Cyber Security Careers section under Insurance Australia Limited, listing up to 25 most recent postings. No specific dated roles within 90 days were surfaced in search snippets, but the active category confirms ongoing security hiring intent.
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Cyber Security Engineer (IDAM Operations) | source=job_board | url=https://www.talentify.io/job/cyber-security-consultant-melbourne-victoria-iag-39416
+  Title: Cyber Security Engineer – Technology & Operations Platform Services, IDAM Operations at IAG
+  Evidence: Talentify lists a Cyber Security Engineer role at IAG (Australia's largest general insurance group), focused on Technology & Operations Platform Services / IDAM Operations in Melbourne or Sydney. No reliable posting date confirmed; excluded from score due to inability to verify within 90-day window.
+  Confidence: Low

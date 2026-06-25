@@ -1,0 +1,447 @@
+Company: DBS
+Domain: dbs.com.sg
+Industry: banking
+Country: SG
+Agent: public_news
+Evidence items: 73
+============================================================
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxPUmh6Q3NzUk01UFpuZndRaVJDWVFQVGJ0NFppNFF3RXBsNlBaaE1RbEY2YnVGRm9iNkVCandsZEtHQURRMXNEc0FmZEhyYUNYUUhaZElJT2k0NTJDZ19zTUNsYkxnaUdvNWd2MGlaazdtQWM3Y3F0SXNlZ0ZQMEp4Q3p6UFprakJ5ZlRxWmVLYU9fYkdKcW9hcV9mVVZHZw?oc=5
+  Title: Cyberattack compromises personal data used for DBS checks at UK college - Digital Watch Observatory
+  Snippet: Cyberattack compromises personal data used for DBS checks at UK college Digital Watch Observatory
+  Published: 2025-09-17 (224 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizwFBVV95cUxPU3lzRkZvMFpUT3pqcmxMMXFPbHJoZHVuWGVVNW5tMUJGWWI5ZmdFbG43WXR6YjRDSzNMUFdzc2xpeHE0X1ZGNlJGZ0xMQXA5RVF1YWt6NnlvbnZPU0QyOW41U3VhNVZXbnlLMEhGbHNtRERaalRiWHZvQlJza01RVDlKd3pFdndIV1lEQU95aWlJMjU0NjBQdFB3WGFBYzZ4RmRpckx4emVYank3Zmg3SmxUaFNZSDNqREJWbG9mc3VwVXNibFFMUkhMVkJ0M3M?oc=5
+  Title: Singapore's DBS, BoC customer data at risk after ransomware attack on vendor - Reuters
+  Snippet: Singapore's DBS, BoC customer data at risk after ransomware attack on vendor Reuters
+  Published: 2025-04-07 (387 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifkFVX3lxTE13VFVxaHVPTGZUblEwUFFnYnNITmN4cXJaTlNycnR3VXpvcUVGVXd2TGJIRUM4QWNGRUxJZU5vWjdZWlBybkpTbjZvSTJUTGhQSnQtLTBQRmVyTUdLcnYyLWQxY3JLUFlzMkFjcktVRnN2bXBBRE9kUjdxYnNMUQ?oc=5
+  Title: Ransomware attack on vendor exposes DBS, BOC Singapore customer data - Retail Banker International
+  Snippet: Ransomware attack on vendor exposes DBS, BOC Singapore customer data Retail Banker International
+  Published: 2025-04-08 (386 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMieEFVX3lxTFA1dmxmNG1aMVlvMkI0SGVaaTM2V2FSdWVPRXN5elZvVFFpb1RsU0FCMThwc1pVX2hLTkp0eDV4d3dfTmE2Y1JINS1CM251OXItVVkzYTczU3hCWF9PY3NOYnpBNUJZWHBOdGt6S0ZtclVBdUNOTWI2UA?oc=5
+  Title: Hackers breach DBS and Bank of China printing partner – are your bank details safe? - Cybernews
+  Snippet: Hackers breach DBS and Bank of China printing partner – are your bank details safe? Cybernews
+  Published: 2025-04-10 (384 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTAyTDRMeXZyZmZoZTlfRm0zNlp2SUtDTllaaHJ6Mkk0ZWdFTlBOQ3g0WG1VRllFWEFITFZOQWNtNjhsREtQeTZXQTBwNWxLUC1OMWhkaGJfZkJFcEZYem4yY056X0NJTHpIeGhYT29Oc2VJenc1N01nV1E2VF9neHFNQ0NqNWVtd29vQi1wd1pxSWlRN3diU2FDaVV0VjE5WHJON2pSWmg3VW04U2ZZ?oc=5
+  Title: Third-party ransomware attack jeopardizes DBS Group, Bank of China Singapore data - SC Media
+  Snippet: Third-party ransomware attack jeopardizes DBS Group, Bank of China Singapore data SC Media
+  Published: 2025-04-08 (386 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTFuLXl4Z1FkUVV0OEtuSDBXbDZteVJ5SmhPdXl3U3pyQUNiRVcwbHUxQlBaZzgydjEwY1hzMHhUQ0lqc29SZ21wN1VGVlBDM2VGb29CSEY3RmNUT2t0MEJJY3B5ZjRzVm1oN2lCQmViUVoyVTRlQm5yNExiWllOU0laVVRXN0hjVGU2ckN6RWl0OGlobGJDSXVvZVh3S21qUHp6VmtqYzF3by1lcm5NOHMwalE5QTFWeTBR?oc=5
+  Title: DBS Bank and Bank of China customer records compromised in ransomware attack - Finextra Research
+  Snippet: DBS Bank and Bank of China customer records compromised in ransomware attack Finextra Research
+  Published: 2025-04-09 (385 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVRDclRPX0pHSnp5bGlqbUFIUVBzTmR2SURzZ0FuS2s3Y3RyYmxPNWIzYV9DMXB3V0ljZ1pRMG1PQndzeUhCZTZLbDJRaGFkY1lCNG51RVVzckowNGJERjFGRTdPZ3hfZWdCT2ZIeU5YbDdwOVJiWFdNN05RYVg1SE5Ha19CRVFJSi14aElkMGFrYlJGNHBiMXJHVXJyS01KaERnMFJlbHl1Njh4OE1nSkVJaG4tSEJ5SVhPWnZvMnpIR0xYcmpEOQ?oc=5
+  Title: Doncaster Council blasts "disappointing" data breach as DBS data is hacked - Doncaster Free Press
+  Snippet: Doncaster Council blasts "disappointing" data breach as DBS data is hacked Doncaster Free Press
+  Published: 2025-09-02 (239 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BPUDZzU3kzSWdCVFRlTzZIeGxZYno3WVlNa0d1bFhMandwR1l5dG9TWTNFX2RuQzloTWczamkwdTNaR1ZJeGx3dmRCMEs5Q3ZvNkZJZWxEUl8zVnI4WHlnUklrbkdaWUxVRF9RcW9DRG9HQTJ3aG9oalEwemU4UXR4N09EQQ?oc=5
+  Title: DBS & Bank of China Singapore hit by cyberattack - SecurityBrief Asia
+  Snippet: DBS & Bank of China Singapore hit by cyberattack SecurityBrief Asia
+  Published: 2025-04-09 (385 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWhrSVJIWXU1Znh3TjlGM1d4UHA5ZzFOeHdLOHVFMmdTdzFSYjJCZWxhUjdvWnB2U3d2d3VRcDZiZHNSLUk2N2ZRazdXQVJhczZxaFhVcTMyMVlCSmo5ZVlNanFxZlJhUDE0ZVl0QlNfdjJlVUt1SmFKWnhKNkxZSVlhZnZWZXdLRm9Mb21YSVhiNlN1YS1iRHFOV2pLblJZUlZYMnF4QktHMTdYWHNpWnhtZ2swT2lt?oc=5
+  Title: DBS and Bank of China suffer ransomware attack, over 11,000 customers' data compromised - HardwareZone
+  Snippet: DBS and Bank of China suffer ransomware attack, over 11,000 customers' data compromised HardwareZone
+  Published: 2025-06-29 (304 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxOalVoVTN6T2xHZzI5R1pIdDJmUjM0NXlVSEQ2dWo1V3o2UEo4YkhMcEwxVVU2Tk1qYVdnck5IV3J6YXAxTXV1Q3dhZHh2U0UwY0NESmF1NzRCTzdNdHpHZVlKZjlleWtrcU5BXy1SZzNIRVV1V3Nzek9fcUVTT3NFMHYwVnJTTnZhSGl2Nk9LcDI2VjJTTk9DZ3hIa3c0SGNYaHJWald2Zw?oc=5
+  Title: News - DBS Bank and Bank of China impacted in third party vendor data breach - teiss
+  Snippet: News - DBS Bank and Bank of China impacted in third party vendor data breach teiss
+  Published: 2025-04-10 (384 days ago)
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEFlbFdfZ29hLWI4WHhndncwVHc3V0lvb2w2ZEpJVkprWDdCNW1vRHNwUlJKanNXTlJTWTVWa0hjOXFLdFd6dmNEdzR2NHdGY2RmUDJUeTR1Sk44d1RrY1JLNjNlWVBwN3BYVUY5aWhTaG1GaV93ZkdXNWRkYl9UejRjSjB3TGx0LVU5UDBiZ0k4bHNhdlE4REt2aTBOb3ZUOUd2Z3B2NzU2QXRIVjI3TGp3b0lLaXZoS2JLN3NsT2ZySWUxMld0bVc2NzQ2M1RiaG9lRXdFUHkweXdZWmZN?oc=5
+  Title: A ransomware attack hit a vendor to DBS. What is a ransomware attack and how does it affect companies? - businesstimes.com.sg
+  Snippet: A ransomware attack hit a vendor to DBS. What is a ransomware attack and how does it affect companies? businesstimes.com.sg
+  Published: 2025-04-15 (379 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGRLOUlLZ0Q5MXhfbDYwOE94YVNkRFp6WnFlZDNBVUk2dlp5MGZMYkRmblRjMUVKU1BKTFNFSUxEQTFrWkJ3dnFhWXNzWjRwVjFLYy1Xby1VQ3FyZW5ic3lnckNmQV93NWdRVjF5VVlOV0FaSG4tLTNTUmdBRHFGa01zNzdRX0YxZE1tdEpLOFFBczNDZG95TjdKeWl0Z1ZBRzRxcnFNVTZybzRzc0p6NGtWTWFabDJwQ3Y1M1JpNzdCUzVGMTlpeUpPckg?oc=5
+  Title: DBS, Singapore Agencies Expand GenAI Programme to Support SME Digital Transformation - Crowdfund Insider
+  Snippet: DBS, Singapore Agencies Expand GenAI Programme to Support SME Digital Transformation Crowdfund Insider
+  Published: 2026-04-25 (3 days ago)
+  Summary: DBS and Singapore government agencies expanded a GenAI programme to accelerate digital transformation support for SMEs, announced 25 April 2026.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTRvTGZ3SkQ4ZldkUTNtcU1xRXFwaGpmSWswd3djV25WcDdpTmZFd3hYd2lTSVdKM1ladTJQejlhSGkzY1NqaVRiV1RKTG9SbFlEYmo5d1ZKSXY4QmtqZ1p3SmRwa3ZXMVFhSXFZSno4SDdZTG55QUtTVWJCMzREOTBzaEs1UWh5Q1Z5Qk9LekFIVkVMV1BvVVF1dDVTNDB6VVVFWlhkX2NDbmc1RTJCRzZfOFFZV2g0YTBFMA?oc=5
+  Title: DBS launches enhanced generative AI programme to fast-track SME adoption - businesstimes.com.sg
+  Snippet: DBS launches enhanced generative AI programme to fast-track SME adoption businesstimes.com.sg
+  Published: 2026-04-24 (5 days ago)
+  Summary: DBS launched an enhanced generative AI programme specifically designed to fast-track SME adoption of AI tools, reported 24 April 2026.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHFod2pEU2g5azllSGVUUGM2OG8tUWh6YzVYYTZYZ2p6YllKRmVvUFZWaXd5U3cwOVctVzNlWjhMSmM1NGhqWVBfSGVDcUdNb1Y4aGJWejgwSUljOXJQMFlUekx1M3BRcmd6RThuTTlza2QyQUdlZW9WVFpaUURFb0JQN1JqVV9pekdF?oc=5
+  Title: DBS taps on generative AI to democratise career coaching bank-wide - Yahoo Finance Singapore
+  Snippet: DBS taps on generative AI to democratise career coaching bank-wide Yahoo Finance Singapore
+  Published: 2025-07-21 (282 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjFQbEpsWTNUODBIdmJxNXFlb29QVGxRUS1veVoxaDBYcWR5TW9FVG1RRzhaa2p0UjB1al85bUpCdHpEMlZ2My1CUjNqeWh4RWxKLWpZVS1RWnFkMDVGTHFteWhkSTlRTmVhODZmbHpPdkVzZ0V6eXpmT2hZTWNncjdlQXd6OTQ1V1N6S1Fod3djZTlIR2ROTnFSeGIyVEU?oc=5
+  Title: DBS deploys generative AI-powered coaching tool for workforce - Frontier Enterprise
+  Snippet: DBS deploys generative AI-powered coaching tool for workforce Frontier Enterprise
+  Published: 2025-08-29 (243 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGs0S1QwUzJMdzFvaDhWVXZnMTB1RWYwelFOaVh0WXh1Zy11dU1wckFjcU1VYkJsMkk1M2FRMld5bnhZQXNybzBsYXBWaHNJaTdQQTdacVBWVy1Dc3NMdTZVai1LT3RORkRzY1hkemhxNm9uT2hndjN2OWVpaC12Y1R6eENEQTZ6U3FST2dvUXdRdHg4aTlJVUczaklkb1NlNmZXLTBxSU5jdFlpTW5jZy1UUmpZQUFXaFBJS1o4NGh5Tms?oc=5
+  Title: Singapore Bank DBS: A Blueprint For Digital Transformation In Finance - Forbes
+  Snippet: Singapore Bank DBS: A Blueprint For Digital Transformation In Finance Forbes
+  Published: 2023-05-26 (1069 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5a3B5aGpWZDFFbTFXcVBuaTFnNnNIeUg3b1NqNUlRczJVRlJyX2VHcVV6YnRZbjhFV2s0b050RFl2bkQ1dXdJOU9ZVjg3bXkxbjRBOERvVWxxMnB4dGc?oc=5
+  Title: DBS Launches 24/7 Gen AI Chatbot ‘DBS Joy’ for Corporate Clients - Fintech Singapore
+  Snippet: DBS Launches 24/7 Gen AI Chatbot ‘DBS Joy’ for Corporate Clients Fintech Singapore
+  Published: 2025-11-10 (170 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3NxdExXTEJ3N3U2djFrUG41dHFKSmJKbmpKNWE4RXFGWjYtMkNTanRESDJ1YjAycmRlMEVwY0Q5WG1QbHVpWjNsX19ZUE1wNy1iQTVjdmxFRUhYWHp1UDZnRXRLTS1PamV1U2xQS2VoQ1FjQW9fZ2lnTTJhT0luRE9HTm8ydFluQXRHTUsyUVQtbVB0NExPbllXb3ZDNHVZcHUyZlFSR25CbzUwci04Um9oNXBDV183?oc=5
+  Title: DBS’ new generative AI virtual coach can help employees seeking dream roles in the bank - The Straits Times
+  Snippet: DBS’ new generative AI virtual coach can help employees seeking dream roles in the bank The Straits Times
+  Published: 2025-07-22 (281 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxPal85OWpIaDh0U09aTnc3ODBLZE82dVY3cHBsaXhkX1pKR25tbzFMc0swMWx1WHU0SWdSWDVFSHpiWUNVdVNvOWE0SjRrR1huNFJvVWdQeDVNdVYwZXB3NjM3YmUwWll3WTVMS0ZWNkZhdS01V1E0LVBLSHpOeTYtNU5tY3k3TC1PcFBKM2xRM2xuNWVWXzlMTTNTeTZjUjItUlpSc0E1eEUtb0tpZHJuM3NPSFExalNUXzJ3TnF6d3g0cjBE?oc=5
+  Title: DBS boosts corporate client support with generative AI-powered virtual assistant - The Edge Singapore
+  Snippet: DBS boosts corporate client support with generative AI-powered virtual assistant The Edge Singapore
+  Published: 2025-11-10 (170 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRMXE4TE1BNnNkNHRsV0tkZzVfNm9PNXdId0ZLTFBDcHk5RDhTazRZYmJia3hVQm1tTWkyWk91X1MybFVLNTdXQ0xFVGxDSUlX?oc=5
+  Title: DBS boosts corporate client support with generative AI-powered virtual assistant - The Edge Malaysia
+  Snippet: DBS boosts corporate client support with generative AI-powered virtual assistant The Edge Malaysia
+  Published: 2025-11-10 (170 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkY4QjQ2LU9iRFUyWXFCNXdidnEza2RpUDNwOWJMVUhYLVhLa1VCVWY3V3J1RUlvcUEwd1N4clRtM1pyWUQwbGtWbVktQ0N3TF9JRUFvN1NrSzdZanozcDdzUlcyUlJ6OGtBQXgtcjVUSTlmZE41dldiNXZxMm5GX0g1ck81R2ZlX05lRnFveGUzZlFGMGFXa3ZLcXhRbzNJX1RvajhyVjN4ZExtUWpxWEV4YXFWUmVGN0Z1S0liNDZMenp3UEE?oc=5
+  Title: Aspire to lead: How HCLTech DBS is driving digital transformation through skills - People Matters - HR News
+  Snippet: Aspire to lead: How HCLTech DBS is driving digital transformation through skills People Matters - HR News
+  Published: 2025-07-08 (295 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVNsVVgwOFVYd1ZXU0ZLR2s0MXZhOEU4eXVqbXgtT1BXTVg2NHhQTXdEaUx3bXZ0ajQ0bFl6QzBWemcwa0JjWU9ULUhLNnBiaVZNM1BDV0dCWE01ejkyYVNhU3I5eWtfcC1mNXV1eEl4RWJuSUhxRkVfVzZKejJXUw?oc=5
+  Title: Generative AI at DBS: An Insider’s Perspective - CDOTrends
+  Snippet: Generative AI at DBS: An Insider’s Perspective CDOTrends
+  Published: 2024-03-20 (770 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEtoTmxJR2lEUlQ4Z3NjOFM1dHFUU3UwUWlmUTZnb1FwNXo5bzQ5VmRHa2FhNV9jZGhoM0VLelFFUjlNaW9VaC14UWFfcWNEdGh1aTJzRmY1ZnVmM09saWxVdXNha2wwRk5yUUdOR3lXSHY1RWFwbGZWOVNfRGd5Z2VoVEtlRFNYSlV0QmUwVDZnb0d0ZGxzbGVWemEtOU5IWU9kT29zQ19ObFQ1UElLWjJuRVg5MENlam1rWjRvdDBSVDV5RUs0M1lfTnNfdHZSMzdmTG9R?oc=5
+  Title: Becoming more than a bank: Digital transformation at DBS - McKinsey & Company
+  Snippet: Becoming more than a bank: Digital transformation at DBS McKinsey & Company
+  Published: 2020-01-09 (2302 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMjN3OFV4ZnhDUTRxeWNRMC14Tm9Ja2tuZUVYUm5TQzFoZGhWV0dhcE90blZiX1FEbHFweFlReEdsLXUyT0V3cE9uWUxjbEVLYjZQSVg5eGw3aTFIOW5tR25LWm1mMm1jcEZleEpPQVlLdElJNm9zWW9yNm95b1pfNGRKckJvQ1ppYV8yT0UwX0VVVEQ5c1h0VGY0OW5wRXVkdmV6c3NqY1I2d2xPSlRkTW12UlpsYUVUZS1pak84MTRGMXBjM2IzdQ?oc=5
+  Title: DBS taps on generative AI to democratise career coaching bank-wide - The Edge Singapore
+  Snippet: DBS taps on generative AI to democratise career coaching bank-wide The Edge Singapore
+  Published: 2025-07-22 (281 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDlGbC1aMnJOc1VrTGRkZmZzeHlDSldzaDVHUUZjTDEyWVNHckRzaDlmVmxtcGlEeFdIa2drSG5xbktxcG1naFlxNmR1TVBRTlFUXzUwc0hnd0hpN2EySnBBN21HSy0yVDdpUDR2ak5ocm8wRGVMODhha2xBMEJaYzc0VjJlcXVxQ293ak9yRTAzR2RzUXI1bVh1UmlRQlgxSnBxeUxnQW9VVWYwMnRhNGxlaFNUZ2UyeWdWeWhqMHJrbGVLQVNDWld4VDl4cDA3SWg5aA?oc=5
+  Title: Digital transformation in banking & finance: strategies that impact Singapore - DBS Bank Ltd
+  Snippet: Digital transformation in banking & finance: strategies that impact Singapore DBS Bank Ltd
+  Published: 2023-10-02 (940 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGdGNmQ3a1M4bGdhbU44eXVqWnk3NTMtWWk0QVJ3MzB2eTIyOXNTLWVvN0RvVDF1RVpZN0I3eTMtT2t1Y2xqTm16dHQ3Vi1RRWdiWlltenNmUFVDb3V6OTRkaXBYTTFsZU1pRlY5OTFMeU9tcWhMNFRCRjQyWW84Z3RpazBYMTFiQ2xNd2EwS05PVzhxWnI5aU1WX0syNHQ5SncwSXVjbU0wZjBOaW9GSDV3?oc=5
+  Title: Watch DBS Group CEO Gupta on Digital Transformation, AI, Strategy - Bloomberg.com
+  Snippet: Watch DBS Group CEO Gupta on Digital Transformation, AI, Strategy Bloomberg.com
+  Published: 2019-09-05 (2428 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHhuUkl3TlQ1ZHdrMFRYWTJSZlhMUVNkZmREZGxNR2M4ZU5mRGxVODU1ZUZVYVZJNktmWkRRXzE3eWY2TEFoUkwweTZtT05xbTZHalpKTTJBZ1hPTlM3SVFPeXBaMk4wUW1OLU1kRXhGRkc1M3BHcHFxYmtCbVdZTC1nMkZDdXpwdmQ5WWlaMkpBenhoVTF4ZU5IcHRpR0RSUE5vaVdCZHl4OTB6UlEycldrTUppUFVjek9PRVdmOXJxZ0U4Qmc?oc=5
+  Title: DBS’ AI-Powered Digital Transformation - DBS Bank Ltd
+  Snippet: DBS’ AI-Powered Digital Transformation DBS Bank Ltd
+  Published: 2023-08-07 (996 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi4wFBVV95cUxORFRHRmxCSHdmR1Z0MXloRlFrRENWdnJobWZBbEVoSkpWRzZ6UGI4Qm5yczJnWm9ReFU0MmZIMjVTY2haQV9aZmtfdGZPX1BMUE5GNDF6VnpCSXNNWTJyRUtpdWowdFYyN3B6OEl1REhURHpZdHVmbzdkbzR6OUc2LXM3VldhU1JIbEJFM2dJWTM0ZEJBT0gtc1pKcnJFQ21SdWh2UVJEejJ6b3lZX1VoWWg1aFN3aGtTMjNIc2NOdEhpX3hDamh0ZGtBWXkyejlCak1hTWg4SWdmUWwtREI1R0ZGcw?oc=5
+  Title: Reinventing banking: A look at DBS Bank’s digital transformation journey - ET CIO
+  Snippet: Reinventing banking: A look at DBS Bank’s digital transformation journey ET CIO
+  Published: 2020-08-26 (2072 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGxndVJuZjZkbjVsVmdacjhGTHVyQ25uWC1kY0RPcUQ0Qk1UVk0xZi1ybXV0U0JFVFdnSmh0bHFlRmJ4ZEhYaVczbFZBOG9PNHFwUUNWSF9YSERFVDd6ZWw4Z1ZrNHJIaUFWb0FjWk1vTnZMZGNQSmw2T0hyYWo2Mkx3?oc=5
+  Title: Medtronic launches adaptive DBS for Parkinson’s in India - MassDevice
+  Snippet: Medtronic launches adaptive DBS for Parkinson’s in India MassDevice
+  Published: 2026-04-25 (4 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tOFhjelo1bnhDcV9KWC1NcWdUNTZScHZGeVJIRlZieko1NW5vbVJDcllFN2lIVDNMVExydUdiRENhOXB2RXBOVmN2UVo0aGJpcWxrSEhyclFyanR6b2fSAWNBVV95cUxQT0tzYVFaYXJDX0F6N1dHRy0yenZvZkNjTENPVExITGxlN0liTVFKYjB0Q25WY1JtYWl1UHVMRXBpcEZvXzVqaWFCWmhhVDdPQWlmMFkxYzF4Y2JNQWtRYkRRemc?oc=5
+  Title: Ripple custody launches as BBVA and DBS start using XRP - Bitget
+  Snippet: Ripple custody launches as BBVA and DBS start using XRP Bitget
+  Published: 2026-04-25 (3 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMieEFVX3lxTFB0RHlaeERXX014TWRlbko2Szd2VFJtdkpHekpNdWpVOHB5TDFEU3I0eGpQMVJYeEltM3hTM0dYSllZUjJxQmloVEJMbU53VGFrMHlod2dadFdzNnc0X29NRzBOMDVHQ1FnUDhQWTJMWGl4b0Z3dlBzSw?oc=5
+  Title: DBS Launches Enhanced GenAI Program - finews.asia
+  Snippet: DBS Launches Enhanced GenAI Program finews.asia
+  Published: 2026-04-24 (5 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTAxSHlQTnRsRDR4Z3NLNUtEV2dCM2JkMm1RSFVPV3BIaklRcm9kZzJ6RHJrdUZlemJTZkF2OE5OMjk5bDNXQTh2bWJVZXZlaThDZ0RpQmhiQlI0RmM0bUcwVURxV0ZEOEMyYndKLXdBV2FTa0FUZmFuTmd1ektqUlQtRDJ4a1pGS3NxV2NjUkhxMGI2X3JWZmc2TEtEa1ZFQzBtejEwTnljaS0xVzIxSk1jbw?oc=5
+  Title: DBS Launches AI Chatbot to Enhance Corporate Client Services - Banking Exchange
+  Snippet: DBS Launches AI Chatbot to Enhance Corporate Client Services Banking Exchange
+  Published: 2025-11-12 (168 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTduZTI2X21LUXozb1pveGdlc0tjRkctdThwVkpVS05LR0lDRzNXQzdGaXJTYkZDRnpzTUdpNmdGWWEyRWt6NXB3TllnLWdDYlA5Y3VIeVlkMWtlbDNWVTN6NkduMmVtNVVmVExpVktXZGRON2xLLXlROVhEU0FVN0RUQkV3Q1E1bXFQWTVTamk0TUFUWjByamdZUGprSHotSVZ5MnFqcDY?oc=5
+  Title: DBS/POSB launches $10m support package for Singaporeans - The Standard (HK)
+  Snippet: DBS/POSB launches $10m support package for Singaporeans The Standard (HK)
+  Published: 2026-04-26 (3 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjNnRThTWFRJaTNITXhQS3ZEc2NvM1Nod3B5RFFKRTFiRktRMFNsMWRSbzNtRTR5ckl0M0ZSRTRRMENRTjVCaWJGLWtWMmJ2NnlpOS04T3JKbU5BSGVZNUVHU0pSZXFrWnYzY3ZtQXZlYl8tb0c3WmhIN2V5VTFKYXhqMEJpaGg3UnAwU1JaWW9aNk1EamlGOENKUGR6OE5uazQ0TFZ5RWFDQm1Zei0wVng3bjdUb1o4eHJrNEhn?oc=5
+  Title: Asia Crypto News: DBS Launches Tokenized Structured Notes on Ethereum, Expanding Investor Access - CoinDesk
+  Snippet: Asia Crypto News: DBS Launches Tokenized Structured Notes on Ethereum, Expanding Investor Access CoinDesk
+  Published: 2025-08-20 (252 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG5zcmc5Zjhud2VoOFZKYkdkSDRYNkdHZTVzeUo0WlNwT1VqamREdFVHLUlyeWd3VDlvZkJuZGRMakNjVGxfMXgzMWg3LVlYX0Z6S3EyalhwVy0zNUE1R3FESHNzRU8tMEFCMktoNVI5bmlXSy1fS25xUk1KODg1TzFuV1NKUWhtb09YRmI5WDBobFVKVDY0R2c4NXJSNktmUy1PcjVtQzhGZjg?oc=5
+  Title: Ripple Launches Stablecoin Pact With DBS and Franklin Templeton - PYMNTS.com
+  Snippet: Ripple Launches Stablecoin Pact With DBS and Franklin Templeton PYMNTS.com
+  Published: 2025-09-18 (223 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlBTdFFpbnJleTFBRFNuTW5JX1JGWlROUGpQX29TRkx4d0d3QUJ4ZE5RMXlsdTRjQVR0NEhoRTdNNjd3ZlIzN3BCcjVTNmRqY3BEaW9hQmFPQTNzZ1dOcWhrcl9nZUYydHVBU184RFpaSjdCa2RkbG9UeWRlMk5QWA?oc=5
+  Title: DBS launches its 2026-2027 business plan - GOV.UK
+  Snippet: DBS launches its 2026-2027 business plan GOV.UK
+  Published: 2026-04-08 (21 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxQNU01c2FpWi1VdjEzZl9WT2psa1lTZ0Nxci1lenpocXBzUENUbVpScTZrd1lJNElrb3pxSzVYZnNWTEJVMG9SRXJ3Nm5BVG9zbHNHNmh3NTJJYW9VM0xkVW1EZDhVdmhtZV9FaEVZWG5YMVg0TmoxNE0tMjktTWduUTJxemdJMzV5eXdwWmJUbWs?oc=5
+  Title: DBS Bank launches blockchain-based programmable rewards - ledgerinsights.com
+  Snippet: DBS Bank launches blockchain-based programmable rewards ledgerinsights.com
+  Published: 2025-07-21 (282 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2Z5M2ZwUk41aWpkMXVaSDFOTjZFWTNWSm01M29ZVUNPVEhBXzhTWWtVVmN1MnliNVZkTnB1azVqWU5nV1NXRk10c3pXSmF4TkZJU2MtN0lFeFBYYlZxczFseWNwRlg4N2NKc1dHUUVfaWxWMVhvNlJsZGZUTW1PbEJIWFdNQmdibURaX1VPUDRkbEhHZy1tUF9oSi02Q1pzYjhZUEt1bkpmRXhGelJ5TFVMdHVSMnNFVHduSGdEdlpic2djSndad0dPZWdmM2FMZEdj0gHXAUFVX3lxTE1jdlI1eGh6Rlc5X2EzZXJMdWVSbXIyZGNfQTRVZ09UcDJVNmlMRExPTGFoSnEzLThUVnl0QlY5VzhSdmE4TVp2OHZaRmMzN1VVek1UNEpac0ZpdHZsZHViZFZGSHZnMTdCWWlQdGFpSUJub0VFQUotczBfVHhSNTVDdFRNblhRZFJiSUtqQ1dodTVLZ1NUQnU0b3FrbHo4cEFma1otSm9QYk4tMHVvSGlOWDQ1S0tWaTZmMzNVckdPeWJaQnBuelR3cEd3Y3poU0xMN2ZaMHQ4?oc=5
+  Title: DBS Bank India launches relationship-led banking, for Indias globally mobile, emerging affluent - Tribune India
+  Snippet: DBS Bank India launches relationship-led banking, for Indias globally mobile, emerging affluent Tribune India
+  Published: 2026-04-07 (22 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0xzM2FRcDRmNTFlQ0FfbVd2MzNlM1JXY3dPYTVQdzF3cnVEcjI3M25LMEJLQUtDSlU0SGh6RWkydlpxU1hmeW1CNnVtOTlXektEWlpRenR3OFJNemJlbVA5QlBKT1IzVmpiR2ZONVhJMWpSQm5tY19zUWtORkpHU3lsN1RvQQ?oc=5
+  Title: DBS launches new online investment services in HK - Fund Selector Asia
+  Snippet: DBS launches new online investment services in HK Fund Selector Asia
+  Published: 2025-09-04 (237 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMidkFVX3lxTFBTSnk2WXNjYTU0dFNXcXB1VExqYklkMmJGMHBGTWhKR0J2eHh0VHB5aVJpSk94bWJUYU5sb2FXTEFFaGZsZGdPVmdFWDhZazJaOVhuN1h2cjd0Z3VSWkItaXZHSnRnd3dvNGRWWlUxOVo2WGFFeHc?oc=5
+  Title: DBS Taiwan launches DBS Treasures Private Client - Taipei Times
+  Snippet: DBS Taiwan launches DBS Treasures Private Client Taipei Times
+  Published: 2025-10-17 (194 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHE2cTB5V2VqQko3MkNHcWxfODdyeUFvODQ1bVZmSHFIV2hfSXRqUjJWQ0gxMEhYU0ktS2xLSzhIVHJFVEN6Y3FYQVF1UVdNUmxzNWlJdUhtc2d2NENuZzF4M3lmRmNscW1jcXhoa2RCZ3J4Tzd0aGVxUGQ0VVZPcVhsal9zUENUYkFhUlRVZlJJT0R4Yy1MWWtSZUNjTVg0b0NhLWxUSFNfZFduelNOOEd5Q0lNR3JILTZQWmM2ZXRDNEswbFE?oc=5
+  Title: DBS and TenPay Global launches zero-fee transfers to Weixin Pay wallets - Asian Banking & Finance
+  Snippet: DBS and TenPay Global launches zero-fee transfers to Weixin Pay wallets Asian Banking & Finance
+  Published: 2026-02-20 (68 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDM5Qk5kakVodzUybnNLTjF6SVYxbXp6Q2VINmVYRUFjMF9SeDVNQTU0U0VPQ09DVS1razZZMXhqcnVpR25pdkNDRzNCbEFoaXdyMldpeXAyeVNzYTV6UjRIR1E5M1Z2VDctTVRWTmxZZXVaUEtPRUxRbkhFandmR0kyMHRCcG5aZV94SEZUbTltbW8?oc=5
+  Title: DBS launches digital investment notes in Singapore - IBS Intelligence
+  Snippet: DBS launches digital investment notes in Singapore IBS Intelligence
+  Published: 2025-08-22 (250 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUhHZ3hfSW5xdWlRV2pPNV9PX01VTWFtLUNxcmlnWU8tb3Q2MGpuWDkxWGdHY0RFbkZmOWs3YTN4LWZGUDZ2c2lndmNQRnpQV1FtMkJCWEl2ZERmZG1kRG0zX0dKRnU1SXJuYzJPY1lVUGg2dHA3MFNCNHRCVURDWHZtUE4xNlA2eWs1UmFqRUh0VzlQSmRCbXdDbG5MUTRrWWpuWmhFRU5xNHUtVzZQN2RrQQ?oc=5
+  Title: DBS commits S$10 million to cashback deals, boosts AI adoption support for SMEs - businesstimes.com.sg
+  Snippet: DBS commits S$10 million to cashback deals, boosts AI adoption support for SMEs businesstimes.com.sg
+  Published: 2026-04-26 (3 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3NsQVc1UUV4UDV2TU45MVpOUWRMMUh1UTVGV2VLTl9PeVJXcUNvLU9fNmhtZV80OVhxQnNFeXptdEFVLV9EcG1COWREM1J4ZHdDc0hfRTBmdEZxNFBLOXdzb1ZXRk1NZmtVSlRFRTZsR3Rybm1hbnRPOUFEa1liYU9GMjBtNTVyRTB6NG16ZTFZZmZ5eGZRQ0hsQUtMbFhKakh1SHNmOE0tWlU?oc=5
+  Title: DBS launches national campaign to raise awareness of legal duty to refer - GOV.UK
+  Snippet: DBS launches national campaign to raise awareness of legal duty to refer GOV.UK
+  Published: 2025-10-23 (188 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LdDVkYkNNYWFBLWo0YjY4NElIdUlLaGJRSkotRUhJelB4M0dmV08zTlk2QkhMS2xLb3RxVHhSZ1VHbHhPUjJpWVdiYlQ1RktpMDhfREN0Um1KZkJweGdLZUxPTlA?oc=5
+  Title: DBS launches enhanced generative AI programme to fast-track SME adoption - businesstimes.com.sg
+  Snippet: DBS launches enhanced generative AI programme to fast-track SME adoption businesstimes.com.sg
+  Published: 2026-04-27 (2 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW5EblNvenFyOVBDeUFDX2ptajZmd2hkaHAyVFJFS3haS2gtall1MXpvSE1zS21WR1otSEtPbGJ3Y2NmaFowZkVnWnJxNXFmcWt6SFJnNzR5emk5bVdrS0dOSm9HRmZxeFBNbC1XMVduNXpBVFNpaThINVBlQ19teHcydVA3M0FmN0FWa0otYVlhLWNnUG4ycjJuYlFSRXozaHc?oc=5
+  Title: DBS launches new Customer Satisfaction Survey to improve services - GOV.UK
+  Snippet: DBS launches new Customer Satisfaction Survey to improve services GOV.UK
+  Published: 2026-01-12 (107 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWx3ZmlLaVY5MnF4aGVJMURRX3hSclc5UXNMSkFVaENWclRlOHRRYjRVNERqZGRtQXhTLUUzUmZQT0QxZ251RkVQU2tFWk1ZZU85TTVsZl9DZVVJVUgxR0dKUnBXNnoxaW5fR3REN3VrTndSV3ByZVc3Ym5kdS0wdm54bE80QS1QRWpxUml6TDJ1NmNZUG9NSk5IMUcxY0lyS3VSSmtSNnFiaWFEbW13QWhJWUo?oc=5
+  Title: DBS launches Gen-AI virtual assistant for corporate clients - Asian Banking & Finance
+  Snippet: DBS launches Gen-AI virtual assistant for corporate clients Asian Banking & Finance
+  Published: 2025-11-11 (169 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxPM3ZqRFRPSjZJc1BUZEtjc2xTcUw3Y20xX0Rva29NUUtxVmJwalQ1bWxVYi1Ed0ZxN1M4bTV0RE1fN200VTllRGVDU0NjM2p4QVhIaXdXQk81TU5hSDRVdWtOR1lLYWdBZGNfRUtXOUpIcHY2ME9hS0YyUzFXZVB2UzdEdXB4d3lveko5Sk1NWDNVVi1NLXFFZmcxaWtxc2p5QWVFZHJhSHp3NzJSZWlET1BJdmgtMmc?oc=5
+  Title: DBS Bank launches integrated campaign featuring Farah Khan and Indian badminton players - SportsMint Media
+  Snippet: DBS Bank launches integrated campaign featuring Farah Khan and Indian badminton players SportsMint Media
+  Published: 2026-04-11 (18 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFVraE5NNExVWURqMExpalJGOGFRT3BCcVNDMDFjbjJodV9HODh2ZUp0SDFxRlJpNmw3T2dnZDBPakYxRXVmNzlmVVNqS2RNSnQyTjUwb1JmdWF1YVhLR2t5eHB2RXZuekhyLU5kSGVnQnRlUExsbnEtWlQ2VEF3djRuYw?oc=5
+  Title: [Withdrawn] DBS launches 2025 Employer Feedback Survey - GOV.UK
+  Snippet: [Withdrawn] DBS launches 2025 Employer Feedback Survey GOV.UK
+  Published: 2025-09-10 (231 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmN6R21DRnd5dnhKX05wWExLdkJvcHhwc2hIVW1BaVB2Y2lXb0ZMUlAtYjN4WlFkRUlVV3V4UmNDTUx6ZzBlVTZzSmx4enVCNEtuMXBVdG1NazdMRkFBWl8xMUxhLVBKWW1LN3p0ZzlScTlNSmd5eVp6YU5fNnJPa1hjUVdBUTA?oc=5
+  Title: DBS launches tokenized crypto-linked notes on Ethereum for institutional investors - Bybit
+  Snippet: DBS launches tokenized crypto-linked notes on Ethereum for institutional investors Bybit
+  Published: 2025-08-21 (251 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ba29Scnkxem9EaDRTbngtYnJFaEMxdXFLYUJ6MVh1eEdRVE9XcGRGeE1GS1NySHE4OGxkZFUzMTh4cklxX1JvOEVseWhXQnFnM2EwVFN5dHVRemJ3cy1BUzdmQkhBcHpUcDhMLV9hWVdJMGNGRkE?oc=5
+  Title: DBS Foundation launches two flagship aging programs - Taipei Times
+  Snippet: DBS Foundation launches two flagship aging programs Taipei Times
+  Published: 2025-10-29 (182 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUNQeWdXZzhZVGQ0Y2NSelhRczZCX3ZNSHhKWGlTMXh0UVJwN1hfMGZHMUtXRklIa1BGU2hzclBCRGkxV1Z6Rm5fUmU1bHNucEVpYzkzX0NsRXVMZXAtOGM2U1dPU3lVU1BGOEw0TDZaNjNKUzl0UmlQaHRWREk1Xy1vUEVWYXFVclJhMUJJSQ?oc=5
+  Title: DBS Appoints Kelvin Wong as New Chief Sustainability Officer - ESG Today
+  Snippet: DBS Appoints Kelvin Wong as New Chief Sustainability Officer ESG Today
+  Published: 2026-04-20 (9 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1ZVMDFsWXJ5TlFZdlNYal84ZWlteGFLbzR5YW55Y2JadE0wVWczNGNoTU0zMkUtTUtuSWtIZzBVSTE4Q1NReHpQa3RMUWZNUV9nck50YV9PaWhxRjM4MElyd1lobl9PQmFFTlcwTWhmTkYwS2h5UnFjYmpwNVhrQlp3N0RvVVhyMU5veTdBUmU3Y0RKbzRkYnR1NEpxYVk?oc=5
+  Title: Lloyds appoints DBS Bank's Sameer Gupta to lead AI strategy - FinTech Futures
+  Snippet: Lloyds appoints DBS Bank's Sameer Gupta to lead AI strategy FinTech Futures
+  Published: 2026-04-17 (12 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWmF1UXViSl82eWZMMFpYN1dTSkZrNVZnVTlKbkNuR3EzQ25uSWNyZDFmalpOT08yWVdBa1dNMUswRVlKbGs0QXNYejRSdW9GbGJaQ1VQYzNqdC1YR21uRUZpelFiMFhkamdaclJoSHZLaHI0bWVxTU5mZjNxVHBxV01sZFAxRHFBbll5LUdIUkd3WEhQZXRqajlSZ1kyN09ndkVTNXJHUWRsR0pvNkc1YXpYWkFBazZGSXIxb0d6T2o3QXdGVlpFYWJzSjFqMTFCTnc?oc=5
+  Title: DBS appoints new Public Safety Director - Hometown News Volusia
+  Snippet: DBS appoints new Public Safety Director Hometown News Volusia
+  Published: 2026-03-27 (33 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVF5WkYyaFRhVllvRUt1aUl6U2FyQ093NF9HRmhNMU5KMDJZU2hFTDl0MnFfTnpEX3V4YzdwUU84Nkh5R2dwV1NhaG9pbVVlRTlDZk1LcVhrblQyS3FlVm9VTXVwNmROZFJYRW5kcnZzdER3ejg5VWlnQkFVeEEyM0g2ME9ReDBDNjFLQ3JZYWcxVUc5UksxY2dtRWY?oc=5
+  Title: DBS appoints energy and renewables head Kelvin Wong as new CSO - businesstimes.com.sg
+  Snippet: DBS appoints energy and renewables head Kelvin Wong as new CSO businesstimes.com.sg
+  Published: 2026-04-14 (15 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndYdDYwTmdnYml1QVhSSnJZUGs2U21nUVkyM3dYdmcxQjlwWmthbXU3dkJCdC1hczZHZXZDWUdzQTJFQy1NMTZ6Z19qSWRnVVVDUm5xczhld3QzcVRkRWhaMEY2UVJ0cnM2My0xd3N2ZTd1N29hVEZFUldWS3hWU0VSUQ?oc=5
+  Title: DBS Appoints Kelvin Wong as New Chief Sustainability Officer - Fintech Singapore
+  Snippet: DBS Appoints Kelvin Wong as New Chief Sustainability Officer Fintech Singapore
+  Published: 2026-04-15 (14 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzRnai1JaEJENWNYN1o5M1JEd1l1elRLeVIwX1lEYnZBRURFMjVVMlVDVjNhS0dhSDZXSlllNjlqd1huXzZPR2c2YzF2ZlMtWm9tM2I2bFFwNHlKRlpnWTlYdk41Q1Q5eF8xNjN4UEtNOERscFJ2Y21LT3B2RDFWRkZRS3hVUnhwQm1vVXpkQlU1VmRZQXFHczBkcmk5MDdaMk1WZFJBQzh0bFZIazVybXZuU2xqOGtIU09WYzJ4Vi1hbW5R?oc=5
+  Title: DBS Appoints Thiyachai Chong as Head of Private Banking and Affluent Wealth Management in Thailand - Hubbis
+  Snippet: DBS Appoints Thiyachai Chong as Head of Private Banking and Affluent Wealth Management in Thailand Hubbis
+  Published: 2026-03-12 (48 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzB1S3Q3amlqQ0t6MmdhRW1BT2gwZl9CY1N6YUV1blJjbVVETzF0c2NkcXV4ZjRDSHdLNHJfZjlLTjBVWlgtOHI3SmNCcF9XaDU0UTRlcTBoM2hURVZwT0cyc085V0RHdDdPQ0ppY21Sb3pNaUxHU0YwUTZlT0dEc2NIS0hycy03R3ZqNFNfX25uQk1NTmZFMFNYNDE2OS1MT1VIczdzb9IBrAFBVV95cUxOQ0N3Vld5YjhXZlJiTWFCMHFxbUcxSjRqTXhITVZxUzBmdGJHSFBVb1lqRzlCSTJWY19XTVFhVWNqejBMNFRBai1ncEhDaGQxcUFaQml5clJpbWZ3aVFpSVVHOG5qOVB4NkUtWGFKZ3NsYVd1SVg3cDV3ZTFWQjJacHFzSzZ0TU94Q0FCQTdiYTdyaHRKM050TXdVcVdpbjVVMVVzWE5OcnhsbWJw?oc=5
+  Title: DBS appoints Kelvin Wong to spearhead sustainability - The Edge Singapore
+  Snippet: DBS appoints Kelvin Wong to spearhead sustainability The Edge Singapore
+  Published: 2026-04-14 (15 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTW1uaUkwbkZGa1lwWWZZTmwzN195TWE3ekVaaU9WNU96RnZJbGs5aTR2Sms4N1JESG9DOVFlSjlSNnRBY2EyRFNxVkxuZUNTdzZpNDYtYThsUGtpcXFvVDEzZGt4eU1lWDhRTjRCMzRtQWNYTlBHZktMSkczYWNpdmkxXzk2X2dNSjJuTVZWWHhBeUVNUDhwWHkxQ0p0YnNwZEY4X1I2MnBxU3FLMTdmZnZoN0NJNzZTUWVvUThVTDdqdm02R2V4MnZwcVM3T0cybWFnNGFFYzY2Zw?oc=5
+  Title: Singapore's Keppel appoints ex-DBS CEO Piyush Gupta as deputy chairman - Reuters
+  Snippet: Singapore's Keppel appoints ex-DBS CEO Piyush Gupta as deputy chairman Reuters
+  Published: 2025-05-29 (335 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1BnSktMdXN3SDZkdS1OT1diTllrSjNQLUU0YW43NXFfc3k2LU5KVVFrX3ZsNUNWMXVkQ2ppdlZ1ZHM3MWtXLVVvaVoxUk13bndqWFNnR3RJZ3dRTThzTzFnSDhnVHhvQktmOUZkdi0zcV9ZeDBSSktlWTVreWVobzliNXlPVTN2ckFQWjVPNTNxN3k2SnJ4ckdTTlNGRXp4c0s3R1A3OFByMzNFdTRDQXZWbXVmMnlXaTRlUFRR0gHDAUFVX3lxTFBfVGlBQTc1a002amtzTnA2RlVvTV9DZUMzNmtYLS1ITjkySTJPZW1WQjd6Ukl1UEM1M19IQ013OVRtRVdhSzFIUnd4MzIxWXpTZUpnZTlkZUl1QXNUSTI5dFpMeUJ5NWYxa0lXU004UGVoZmF4THNxb05DclluNWkxcUFUMDZONEw4T1BNZ2NIdXE1aEo5ei1xaVF1TUh5RGZFcktLU2hXLXlyRFoxbm9QLWQyT1pJWW5nR1FxTTB1TC1SQQ?oc=5
+  Title: Temasek appoints ex-DBS Group CEO Piyush Gupta as India Chairman - Moneycontrol.com
+  Snippet: Temasek appoints ex-DBS Group CEO Piyush Gupta as India Chairman Moneycontrol.com
+  Published: 2025-11-28 (152 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1N4SEUyTW10SFEtWElXNzdpOEtVMmNnZUdNMjh4VWZLUTVFdF9qTkgxOTJjUUFLUEZ5Nm0tVFI1VS0ySjhkLWJMX0xCUHYtMkZaMTNXSUtKeWdrdTI1blFZMFVPcjRibmxwZlpYbUFZNGFVaU1UcVhBTWdQQjh5Tl9rM0NrbmUwNEx2VXRsNmNfTXNUN3o0VWJGcVBoRzNo?oc=5
+  Title: DBS Appoints New Permanent Chief Information Officer - Family Wealth Report
+  Snippet: DBS Appoints New Permanent Chief Information Officer Family Wealth Report
+  Published: 2024-05-13 (716 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUFkdUMyLXc0ZlIzQkJaQkt2YUxMT3dvTmI4eGRkdG5iNGVES3l2YlpzdHhOUEV3R3lHWTc3dGV2RmhxRzYzX2NJa0pxYzRhOVE0RU1ob2hHNzBwUjhzeUNER2VtczdJQ3ZmN2ZQWFJQUnVyUmRkcnBBbUpjQ0JrZlVmWl9VS0F0dkItOWJGVnpPclpIVWJ6S25qb1ZXd21sR2QxMU9fRVBBUQ?oc=5
+  Title: Temasek appoints ex-DBS chief Piyush Gupta as its chairman for India - The Straits Times
+  Snippet: Temasek appoints ex-DBS chief Piyush Gupta as its chairman for India The Straits Times
+  Published: 2025-11-28 (152 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihAFBVV95cUxObTQ0ZjI3alo4R3pkaXl1MnNPaHM3cUZPaHFsOHZuZTlCSm5xLW1uLUotLV93dHcwNkF5T0pLZVhqb0Y0WEFZamkxWlllV0ptSGdtWnlSaF9oT3JCc0ZQSmxCNXZBRVl3ZVdEMmQ2aVZmWjh0U2twMC1veEhKMlhJSV9wYnU?oc=5
+  Title: DBS Appoints New CEO For India - Wealth Briefing
+  Snippet: DBS Appoints New CEO For India Wealth Briefing
+  Published: 2025-01-03 (481 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlMyVjlFQWNaZVY0MXoyS3pqNTlaM0hiV0U4Q21kbVdKclYzZFBUWGh2QXhnbEk4QXJVNmZ6NWZ1dzJNVjIxbURWZVVIRC0wcDVuSk4xbGpaZm53NkZOS2tfTUZfemdKcXhMdmNSSlFHM043eUlBeHhYVXdIVFBVR24xV0RjWngxaFVhRXA0TVRLeGhmODg0bGc3Ui1hVENUbnVyNUNtY0tfRGFEYzlsdjVZcFNpNW9xMmVZLQ?oc=5
+  Title: DBS BANK Appoints Audrey Kuah as Group Head of Marketing and Communications - PSU Connect
+  Snippet: DBS BANK Appoints Audrey Kuah as Group Head of Marketing and Communications PSU Connect
+  Published: 2026-01-11 (108 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZEFid29YTVZ5LVp4Q3R0YVF6bnFTODhtSXFmdkdaZXY5VjFKZl9JMGJiNTNOT0c4ZjVkYW01N2IxV1ZXSndxV0kwS3FTb3F1UUJWNkhKT0VDdUZobkdzd1R4MEE0eDh6UUVST00tSThVVzdIZWpnU0RSS2Q2UzBKNHc3dVM3bWZrci1fSDdpNmkyR2FHUmpqYkZpUGt1U2NTUTVBQ2dCQ3YtdFd3dkN6dFU2bmhaVzN2M0JaRVpOQmg?oc=5
+  Title: DBS appoints tech leader Eugene Huang as new chief information officer - People Matters - HR News
+  Snippet: DBS appoints tech leader Eugene Huang as new chief information officer People Matters - HR News
+  Published: 2024-05-12 (717 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihgFBVV95cUxNWl9MSm1xVFV1OW53SnpFZlRrb3h5Y3JWajVsWVNLcHdxT1o0MGJ2SDd2cGtYZzBCWDlPbUVRZWxPeXRpeWQ0MlFRYUZLUHVsQWRaVHBmMU9QSGwzX1JJZ091WkhHeVVYUjYweS1oZXViNENlMERGelpDdmNiN1lDVllMakMzdw?oc=5
+  Title: DBS appoints Eugene Huang from Ping An as new CIO - Yahoo Finance Singapore
+  Snippet: DBS appoints Eugene Huang from Ping An as new CIO Yahoo Finance Singapore
+  Published: 2024-05-07 (722 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTBFVlFFbHVvaEZhelAzTERMUkQ1WlJtX2o0cGJ3TXZITzJ1QjBhWE1ZZTNmTGlPUUdmQTR4NWgyZHdDTlVlX1pTTy16Mkh2ZmxVaDZ5ZUZKQzJ5ZVVFaVZOeUxleEJhVFRxa0kwMkRNMkMwbFZTTF8xNUNjUEN2VDRJVGFoaVJXdTVIWTFhRWdBNDdxR2ZV?oc=5
+  Title: DBS Bank India appoints CEO from March 2025 - Private Banker International
+  Snippet: DBS Bank India appoints CEO from March 2025 Private Banker International
+  Published: 2024-12-30 (485 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3BxbUNYdldPZ0dlc0FxQjNITVBPeDU5YWJibEswR0JCNmJaR3pZUWhPd21tVVhRZkYySTFDWFVndnE4WklndDZCblI1M0VHdFhMQjN5ZnFHUk5pdlVYTVpmZjdubk5WYnhfZVo0VHJ1UUlJTWtuR3VPcElfX2wyS0V2NUZoUXp3MUVvSlVwQWFFZw?oc=5
+  Title: DBS Appoints Helge Muenkel as New Chief Sustainability Officer - ESG Today
+  Snippet: DBS Appoints Helge Muenkel as New Chief Sustainability Officer ESG Today
+  Published: 2022-01-24 (1556 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMif0FVX3lxTE9lWkRRcVJyejRwMGVYWHBYRzZQcDdQUEVwT0pBZXBOekIxZkpoclYtUVFwSVMwTDRaeEc0djUyS2RwdlpvWmFETUlBaTd5NmtRRDhCMTRQODVwcHZJYlFzTmJLRktnTmx3RGtLQjl1SHJ5ajVKNUo4QTJhR001UVE?oc=5
+  Title: NETS appoints DBS MD and head of consumer banking group as new chairman - Yahoo Finance Singapore
+  Snippet: NETS appoints DBS MD and head of consumer banking group as new chairman Yahoo Finance Singapore
+  Published: 2024-08-29 (608 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjc0cHpUVlFpemdiNkx5OEI4aFpaN3ZTc25RRVdIOE9MTDFUZEg5VC01YVlKY203UGNVRFFUVy1SdTJrT0dZTnEzcHZZazJOVVEwZXJQOC1DWUs4clg4T2tVRVVIdjVKWHpMRG05MTRjQ2VDTEd0VkNQQVU4OEEzMnRQbUZkMUFXXzcwRGRWUUc3b0pnRVU1Q0xCcWk?oc=5
+  Title: DBS Appoints New Singapore Consumer Banking Head - WealthBriefingAsia
+  Snippet: DBS Appoints New Singapore Consumer Banking Head WealthBriefingAsia
+  Published: 2024-09-09 (597 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVtUnBONU5UV0RPeWVtb2JNYmhJcVBNNDdnSEZpa0lYSF9uSWFweVVKTWpMZ0hpd25sbWNvbHNCOXA2LXZHc3VuWGVRU2dkamp5U0dKOUVOZ3d5ekx6RXdBaTVEOXRxdENDbzJOSjFrYmNaRklDR0R3SEstdnl1ZXI0eWlMVm80bnJ1eGgxV21qbkhhSmNnUHdOdGZFcXJVZHVHdDJyNURXRi1XNWpWb2hB?oc=5
+  Title: DBS Appoints Shilpa Gulrajani as Head of Sustainable Finance for Institutional Banking - ESG Today
+  Snippet: DBS Appoints Shilpa Gulrajani as Head of Sustainable Finance for Institutional Banking ESG Today
+  Published: 2024-11-04 (541 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigAFBVV95cUxQZl9rZnF5NzZNTF9wbFRCU2hUVHZ6dDA3eGpJS3NqaTNTWkNwQzZ5aGZUalJiZUlCZi0xb0lSbXdGNmcxWTc3aXBNSk1oNXdVaDdGWFoyTnpqb3ZmNzhEcDN3LXNRZ1BHdlhRRFRRRzk3U3lrX3RXa1V1S2F5RUpWTA?oc=5
+  Title: DBS appoints Lim Chu Chong as the new head of its Indonesia franchise - Yahoo Finance Singapore
+  Snippet: DBS appoints Lim Chu Chong as the new head of its Indonesia franchise Yahoo Finance Singapore
+  Published: 2022-07-31 (1368 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGZ0a0Q3VXRZVmRFaHFPZmxLaFZTbTVSOHNocjZLWldvSU55M1lpT0xJb2ZTN0tsaU9aTjBlU3Vyc2Z3ODVHeUZOenh6S1VJeDlsd2NBNFVUN21qQXpndVhId0NjM0s4TlFNcjlXR2FYWmd6d09aUzJFT214UEM1dnl3RkRSNlRZSXZBQi1GVTVjUmVtZFdacUZpNEh0N1lUQU9SUi0tbnpnWlk2ZzRZ?oc=5
+  Title: DBS taps into own talent pool, appoints new head of its China franchise from within - Hubbis
+  Snippet: DBS taps into own talent pool, appoints new head of its China franchise from within Hubbis
+  Published: 2022-03-21 (1500 days ago)
+  Confidence: High

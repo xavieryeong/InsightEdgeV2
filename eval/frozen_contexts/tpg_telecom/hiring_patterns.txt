@@ -1,0 +1,47 @@
+Company: TPG Telecom
+Domain: tpgtelecom.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 8
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Application Security Analyst | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/jobs
+  Title: Application Security Analyst – TPG Telecom (Humanforce Talent ATS)
+  Evidence: TPG Telecom's live careers index on Humanforce Talent (livehire.com/careers/tpg-tel, indexed May 29 2026) explicitly lists an Application Security Analyst role, with the snippet stating: 'As an Application Security Analyst, you will be responsible for providing application security assurance services to various projects across TPG Telecom.'
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Cyber Engineering Security Specialist | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/BC4B9/WP090HHQ7K/cyber-engineering-security-specialist
+  Title: Cyber Engineering Security Specialist – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed open permanent full-time role at TPG Telecom (Barangaroo NSW). Role requires 'promoting a culture of security by conducting secure code reviews, mentoring peers, and advocating for security-by-design principles,' with proficiency in 'DevOps practices, CI/CD pipelines, and IaC' and designing 'secure systems and automation pipelines using modern DevOps and CI/CD practices.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior DevOps Engineer – Public Cloud Platform | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/8DHTK/4TOJA2XIH/senior-devops-engineer-public-cloud-platform
+  Title: Senior DevOps Engineer – Public Cloud Platform – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed permanent full-time role at TPG Telecom (Barangaroo NSW). Role owns 'the full lifecycle of cloud-based solutions' on AWS and requires 'experience building and maintaining CI/CD pipelines using tools such as AWS CodeBuild, CodeDeploy, CodePipeline' and 'solid understanding of AWS security best practices and cloud governance principles.'
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Junior DevOps / Platform Engineering role | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/jobs
+  Title: Junior DevOps/Platform Engineering Role – TPG Telecom (Humanforce Talent ATS)
+  Evidence: TPG Telecom's live careers index (indexed May 29 2026) lists a junior-level role described as 'aimed at developing strong DevOps and platform engineering capabilities,' confirming that hiring spans both senior and junior levels in this discipline.
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Senior Platform Engineer (12-month FTC) | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/7FPNT/PORCMIS2R/senior-platform-engineer-12-month-ftc
+  Title: Senior Platform Engineer (12-month FTC) – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed fixed-term role at TPG Telecom (Barangaroo NSW) to 'design and develop enterprise grade, highly resilient, robust and cyber safe integration platform including API Gateways, Event Streams, Messaging, File Transfer,' requiring 'knowledge and experience of CI/CD tooling' and AWS services (Lambda, API Gateway, Kafka).
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Infrastructure Support Engineer | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/EFMD8/ZEJ6CZBH3/infrastructure-support-engineer
+  Title: Infrastructure Support Engineer – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed TPG Telecom role providing L2 support for 'on-premise appCloud Infrastructure platform,' requiring 'experience working with DevOps principles, methodologies, and culture,' supporting the platform engineering teams.
+  Confidence: High
+
+[HIRING] type=security_compliance | value=Network & Security Engineer (Fixed Term Contract) | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/JTFEJ/J7USZCO10/network-security-engineer-fixed-term-contract
+  Title: Network & Security Engineer (FTC) – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed TPG Telecom FTC role managing 'nominated platforms/systems (Cisco, F5, Fortinet) in relation to lifecycle, capacity, performance, and risk management,' highlighting security and network infrastructure depth.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer (React Native / Android) | source=ats_platform | url=https://www.livehire.com/careers/tpg-tel/job/FF4YE/ZECZ9XRVIP/software-engineer
+  Title: Software Engineer (React Native/Android) – TPG Telecom (Humanforce Talent ATS)
+  Evidence: Confirmed permanent full-time software engineering role at TPG Telecom (Barangaroo NSW) for a React Native/Android developer to build and maintain mobile apps across multiple consumer brands, evidencing continued software development team growth.
+  Confidence: High

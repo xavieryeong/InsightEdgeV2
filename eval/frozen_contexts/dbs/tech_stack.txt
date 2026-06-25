@@ -1,0 +1,72 @@
+Company: DBS
+Domain: dbs.com.sg
+Industry: banking
+Country: SG
+Agent: tech_stack
+Evidence items: 13
+============================================================
+
+[TECH] DBS Tech Blog (Medium) | category=engineering_visibility | source=engineering_blog | url=https://medium.com/dbs-tech-blog
+  Evidence: DBS maintains an active public engineering blog on Medium covering Cloud Engineering, Container Ecosystems, Big Data/AI/ML Infrastructure, Automation, SRE, and DevOps — confirming active, large-scale software engineering culture.
+  Repo: https://medium.com/dbs-tech-blog
+  Confidence: High
+
+[TECH] DBS Tech India / DBS Developer Portal | category=engineering_visibility | source=developer_docs | url=https://www.dbs.com/dbstechindia/index.html
+  Evidence: DBS operates DBS Tech India (formerly DBS Asia Hub 2), described as a 'World-Class Engineering Organisation' with developers, engineers, architects, and data scientists. DBS also maintains a public developer portal at dbs.com/dbsdevelopers with API documentation.
+  Repo: https://www.dbs.com/dbstechindia/index.html
+  Confidence: High
+
+[TECH] Java, Python, TypeScript/JavaScript | category=relevant_languages | source=claude_web_search_result | url=https://ophyai.com/blog/company-guides/dbs-interview-guide
+  Evidence: A 2026 DBS interview guide states: 'Languages commonly accepted include Java, Python, and JavaScript/TypeScript' for technical assessments, indicating these are core languages used within DBS engineering teams.
+  Repo: https://ophyai.com/blog/company-guides/dbs-interview-guide
+  Confidence: Medium
+
+[TECH] TypeScript | category=relevant_languages | source=github | url=https://github.com/WeeHong
+  Evidence: A DBS Bank Software Engineer's public GitHub profile includes a TypeScript-based subscription management app and a Spring Boot (Java) demo project linked to Singpass, corroborating Java and TypeScript usage at DBS.
+  Repo: https://github.com/WeeHong
+  Confidence: Low
+
+[TECH] Cloud-Native Architecture / Microservices | category=cloud_native_presence | source=engineering_blog | url=https://www.dbs.com/technology-future/dbs-redefining-the-future-of-banking-as-a-technology-company.html
+  Evidence: DBS's own technology page states the bank re-architected its stack 'to be cloud native' and uses 'micro-services for better resiliency' and 'a whole platform built on cloud-native technologies' as confirmed by DBS India's MD and Head of Technology and Operations.
+  Repo: https://www.dbs.com/technology-future/dbs-redefining-the-future-of-banking-as-a-technology-company.html
+  Confidence: High
+
+[TECH] CI/CD Pipelines (large-scale) | category=ci_cd_maturity | source=claude_web_search_result | url=https://ophyai.com/blog/company-guides/dbs-interview-guide
+  Evidence: Public sources state DBS 'runs on a microservices architecture, deploys thousands of times per year using CI/CD pipelines, and has migrated significant workloads to the cloud' — confirming mature, high-frequency delivery automation.
+  Repo: https://ophyai.com/blog/company-guides/dbs-interview-guide
+  Confidence: Medium
+
+[TECH] AWS (confirmed partnership) | category=cloud_native_presence | source=developer_docs | url=https://www.dbs.com/newsroom/DBS_to_leverage_Amazon_Web_Services_Cloud
+  Evidence: DBS's official newsroom confirmed a signed agreement with AWS to migrate significant workloads to cloud, creating a hybrid cloud environment. AWS later published a case study on DBS migrating its Quant Pricing Engine to AWS using Amazon ECS and ElastiCache.
+  Repo: https://www.dbs.com/newsroom/DBS_to_leverage_Amazon_Web_Services_Cloud
+  Confidence: High
+
+[TECH] AWS (ECS, ElastiCache, EC2) | category=cloud_native_presence | source=claude_web_search_result | url=https://aws.amazon.com/solutions/case-studies/dbs-bank-case-study/
+  Evidence: AWS published a case study confirming DBS migrated its Quant Pricing Engine to AWS, using Amazon EC2, Amazon ECS (container orchestration), and ElastiCache for Redis, processing hundreds of millions of tasks daily.
+  Repo: https://aws.amazon.com/solutions/case-studies/dbs-bank-case-study/
+  Confidence: High
+
+[TECH] Hybrid Multi-Cloud (AWS / Azure / GCP) | category=cloud_native_presence | source=claude_web_search_result | url=https://www.dbs.com/technology-future/dbs-redefining-the-future-of-banking-as-a-technology-company.html
+  Evidence: DBS's official technology page states it 'adopts a hybrid, multi-cloud infrastructure which results in greater resilience and scalability.' DBS CIO Jimmy Ng confirmed the bank was pursuing AWS, Azure, and Google Cloud options.
+  Repo: https://www.dbs.com/technology-future/dbs-redefining-the-future-of-banking-as-a-technology-company.html
+  Confidence: High
+
+[TECH] Kubernetes | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/dbs-tech-blog/tagged/kubernetes
+  Evidence: DBS Tech Blog has a dedicated Kubernetes tag with published articles, and DBS engineers publicly stated the bank 'has invested heavily in event-driven architectures and Kubernetes.' DBS interview guides cite Kubernetes expertise as differentiating for candidates.
+  Repo: https://medium.com/dbs-tech-blog/tagged/kubernetes
+  Confidence: Medium
+
+[TECH] Containerization / VMware Tanzu / Kubernetes at scale | category=cloud_native_presence | source=claude_web_search_result | url=https://www.digiconasia.net/news/how-dbs-bank-becomes-worlds-best-digital-bank
+  Evidence: DBS Bank's CIO stated DBS deployed VMware Tanzu, vSphere 7 with Kubernetes, and VMware Tanzu Mission Control to 'manage large containers and Kubernetes at scale', and is accelerating containerization as it moves into a hybrid, multi-cloud infrastructure.
+  Repo: https://www.digiconasia.net/news/how-dbs-bank-becomes-worlds-best-digital-bank
+  Confidence: Medium
+
+[TECH] PavedCloud (internal public cloud delivery engine) | category=cloud_native_presence | source=engineering_blog | url=https://medium.com/dbs-tech-blog/introducing-evolve-pavedcloud-a-secure-public-cloud-that-could-accelerate-digital-transformation-d7274d0eb251
+  Evidence: DBS's Tech Blog describes PavedCloud — a proprietary 'developer-first continuous delivery engine for secure public cloud adoption' — built in-house to codify infrastructure and standardize cloud security and compliance across the SDLC.
+  Repo: https://medium.com/dbs-tech-blog/introducing-evolve-pavedcloud-a-secure-public-cloud-that-could-accelerate-digital-transformation-d7274d0eb251
+  Confidence: High
+
+[TECH] DevOps / SRE / Automation Culture | category=ci_cd_maturity | source=engineering_blog | url=https://medium.com/dbs-tech-blog/site-reliability-engineering-at-dbs-bank-32c02228ccf4
+  Evidence: DBS Tech Blog confirms the bank adopted Site Reliability Engineering from 2019 onwards, built in-house SRE tools (STAR, DARE, Wreckoon chaos engineering), and DBS's Tech Academy trains engineers in cloud, SRE, and DevOps disciplines.
+  Repo: https://medium.com/dbs-tech-blog/site-reliability-engineering-at-dbs-bank-32c02228ccf4
+  Confidence: High

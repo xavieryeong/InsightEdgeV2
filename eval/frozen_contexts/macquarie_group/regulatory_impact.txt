@@ -1,0 +1,172 @@
+Company: Macquarie Group
+Domain: macquarie.com
+Industry: Financial Services
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 33
+============================================================
+
+[REGULATORY] type=specific_regulation_applies | value=Macquarie Group publicly confirms it is committed to complying with APRA CPS 234 Prudential Standard on Information Security, cited on both its Australian ESG/Business Conduct page and its US Cybersecurity Disclosures page. | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: company_website | url=https://www.macquarie.com/au/en/about/company/sustainability/business-conduct-and-ethics.html
+  Evidence: Macquarie is committed to complying with cybersecurity regulations and laws in the countries in which it operates, which include the Australian Prudential Regulation Authority's CPS 234 Prudential Standard on Information Security.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=Macquarie Group's cybersecurity disclosure confirms dedicated specialist teams design, implement, monitor and assess cybersecurity controls; regular assessment of design and operating effectiveness of controls including supplier controls; regular testing of incident response capability; and cyber controls tested throughout the year via management control assessments, operational risk assurance reviews, and internal audit (three lines of defence model). | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: company_website | url=https://www.macquarie.com/us/en/disclosures/cybersecurity.html
+  Evidence: Macquarie has dedicated specialist teams who design, implement, monitor, and assess Macquarie's cyber and information security controls... Regularly assess the design and operating effectiveness of controls, including controls operated by Macquarie's suppliers.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=APRA's CPG 234 Information Security practice guide explicitly requires APRA-regulated entities that develop software in-house to consider security controls as part of the software development lifecycle (SDLC), with an ongoing approach to software security including identifying requirements, design, selection, configuration and applicable standards. This applies directly to Macquarie Group as an APRA-regulated ADI. | regulation=APRA CPG 234 Information Security — Secure Software Development | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: CPS 234 requires entities that develop software in-house, to consider security controls as part of the software development lifecycle (SDLC). CPG 234 reinforces this by stressing the need for an ongoing approach to software security.
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 230 Operational Risk Management came into force on 1 July 2025, requiring all APRA-regulated entities (including Macquarie Bank as an ADI) to maintain sound IT capability, manage technology risk, monitor information asset health and age, and meet information security requirements. APRA's 2025-26 Corporate Plan explicitly ties CPS 230 and CPS 234 supervision together for banks. | regulation=APRA CPS 230 Operational Risk Management | regulator=APRA
+  Source: official_regulator_website | url=https://handbook.apra.gov.au/standard/cps-230
+  Evidence: An APRA-regulated entity must maintain appropriate and sound information and information technology (IT) capability to meet its current and projected business requirements... In managing technology risks, an APRA-regulated entity must monitor the age and health of its information assets.
+  Confidence: High
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA's 2025-26 Corporate Plan explicitly states APRA will monitor banks to ensure they meet CPS 234 standards, and where appropriate will intensify supervision, require root cause analysis, request remediation plans and consider enforcement action. This signals active supervisory pressure on Macquarie Bank. | regulation=APRA CPS 234 Information Security — Supervisory Priorities 2025-26 | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/apra-corporate-plan-2025-26
+  Evidence: Cyber resilience – APRA will monitor banks to ensure they meet the standards under CPS 234. Where appropriate, APRA may intensify supervision, require root cause analysis, request remediation plans and consider enforcement action.
+  Confidence: High
+
+[REGULATORY] type=active_fine_lawsuit | value=ASIC filed civil proceedings against Macquarie Securities (Australia) Limited (MSAL) in May 2025 alleging systemic misleading conduct caused by multiple systems-related failures and unresolved software errors over 14+ years of short-sale misreporting. ASIC cited failures in technical resources, risk management systems, and operational controls and technological governance. | regulation=ASIC Market Integrity Rules — Organisational and Technical Resources (Rule 5.5.2); Corporations Act s912A(1)(h) — Adequate Risk Management Systems | regulator=ASIC
+  Source: public_news | url=https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-074mr-asic-sues-macquarie-securities-for-repeated-and-systemic-misleading-conduct/
+  Evidence: ASIC alleges the misleading conduct was due to multiple systems-related issues, many of which remained undetected for over a decade.
+  Confidence: High
+
+[REGULATORY] type=active_fine_lawsuit | value=In December 2025, Macquarie Securities (MSAL) admitted to misleading conduct caused by repeated failures in its systems and processes, and agreed to a $35 million penalty. MSAL admitted it failed to have appropriate supervisory policies and procedures, failed to maintain necessary organisational and technical resources, and failed to have adequate risk management systems. | regulation=Corporations Act 2001 s912A(1)(h) — Adequate Risk Management Systems; ASIC Market Integrity Rules Rule 5.5.2 — Organisational and Technical Resources | regulator=ASIC
+  Source: public_news | url=https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-311mr-macquarie-securities-admits-to-misleading-conduct-and-agrees-to-pay-35-million-for-systemic-failures/
+  Evidence: The inaccurate reporting was due to multiple systems-related failures, many of which remained undetected for more than a decade.
+  Confidence: High
+
+[REGULATORY] type=active_fine_lawsuit | value=In April 2024, the Federal Court ordered Macquarie Bank to pay $10 million for failing to have effective controls to prevent and detect unauthorised fee transactions. In September 2024, ASIC fined Macquarie Bank a record $4.995 million for failing to prevent suspicious orders in the electricity futures market. In May 2025, ASIC imposed additional AFS licence conditions on Macquarie Bank following more than 10 years of compliance failures. Total ASIC fines in the past year exceed $15 million across the Macquarie Group. | regulation=Multiple ASIC enforcement actions — technology controls and risk management systems failures | regulator=ASIC
+  Source: public_news | url=https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-068mr-asic-acts-against-macquarie-bank-for-repeated-compliance-failures/
+  Evidence: In September 2024, ASIC's Markets Disciplinary Panel fined Macquarie a record $4.995 million for failing to prevent suspicious orders being placed on the electricity futures market.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie Group publicly states it is aligned to the NIST Cybersecurity Framework (NIST CSF) and regularly performs assessments to ensure cybersecurity capabilities are appropriate for its size and threats. Macquarie also publicly acknowledges cyber and information security risk arising from its use of technology systems, and follows a three-lines-of-defence model with internal audit as the third line providing assurance on cybersecurity controls. | regulation=NIST Cybersecurity Framework (voluntary alignment) | regulator=N/A — voluntary framework
+  Source: company_website | url=https://www.macquarie.com/au/en/about/company/sustainability/business-conduct-and-ethics.html
+  Evidence: Macquarie is aligned to the United States of America's National Institute of Standards and Technology Cyber Security Framework (NIST CSF) and regularly performs assessments to ensure cybersecurity capabilities are implemented that are appropriate for Macquarie's size and threats faced.
+  Confidence: High
+
+[REGULATORY] type=regulated_industry | value=Macquarie Group is an APRA-regulated Authorised Deposit-taking Institution (ADI) operating in banking, investment banking, asset management and financial services across Australia and globally. As an ADI it is subject to all APRA prudential standards including CPS 234 and CPS 230. | regulation=APRA Regulated Entity — ADI (Authorised Deposit-taking Institution) | regulator=APRA
+  Source: company_website | url=https://www.macquarie.com/us/en/disclosures/cybersecurity.html
+  Evidence: Macquarie is subject to applicable privacy and data protection, cyber and information security regulations and laws in the countries in which it operates, which include the Australian Prudential Regulation Authority's CPS 234 Prudential Standard on Information Security.
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=‘Clayton’s investigation’: Inside the sudden downfall of KPMG chief - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxNWE1WdVJjRVpUaG5DVkdST3JXeU9LcGs3STVpZG9WZHpvc05wT2pPaEhFUUd5WkE4NG9XRDYxakY3eW41UFJuUFRZWVRmY0NuOThiWUlBQ0gtOXg5dDhxcWZWUk1jWHJORW1iQ1dFT3o5M0JQUjR1aW9LUFQ1bmRKMGc2RnIzaE9HZUpOeWlRRGs3Zm5zS3c1TlpJXzU1cDl5WE9GQkliZDhmeVhqa1Z3VTFSVUdGV3VWaGNmNWp4OXhiQWJoeHR4ZEY3NTY?oc=5
+  Evidence: ‘Clayton’s investigation’: Inside the sudden downfall of KPMG chief AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie’s Compliance Crackdown Led to an Oil Trader Exodus - Bloomberg.com | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnZGV3YwWWdjdGFxanpZY1diVkQxY2U1a3VCWXdibVJZZzhpNWJDMzRuY3FsbzZ6SkU5Zko1YXJNTWxidDZqOXNzMTVNMjJKTGlRYXVqLXRueUt6a2h6YTRweXFBX3dyQmlEd0Q0amZCbEw2UTZ2N0xHNmtscm1TNU5zVUxna2p0MFM0ZXdTLXEyX3k5SnNuX3VpWjN1V2RYWGJ1TTVBelRHRjNJYWdiOTJya3Y0ZTJzOXc?oc=5
+  Evidence: Macquarie’s Compliance Crackdown Led to an Oil Trader Exodus Bloomberg.com
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Australian regulator launches further crackdown on Macquarie Bank after compliance failures - Reuters | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi6wFBVV95cUxObzZNOFpBTmlKWHpTczVfYzBETW1IMUR4V2RyRWF2NGpnU3lGRG9vUHZvMHBzR1czVGMxSUU0TFJSV3JhSEQyM24yRWhOSEJqdDBkVktFWnprUE14TzB3bFNvXzE4ZEZGYm1QVDN0Yml3VjdYVzEzSWQ1Y0dMTlpDUmZiTWI1eWZuS2RMeUxWLThsUnF3RkdpMDBUY0x6MG5jd25UY3drZUNsbmJQdlItaXVWdWdJMnhyN3lFLUV4ZmZRTHZZa2NsUkdlRnBfWGs0LTlXcks4c19ZRHV0enh4eWl1eE1rNnh6MnZv?oc=5
+  Evidence: Australian regulator launches further crackdown on Macquarie Bank after compliance failures Reuters
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie remains well capitalized despite compliance breaches - Asian Banking & Finance | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjFIcXU5ZkJTSzVqSVUzQW5WN19DS0tPNjRsYnI3dEducmt4WUdqRmgtTFJERFlISHlBSXNZcFVJczlfalpKYjFPT3VvN2JxcmhFdUxjTFRmYkpXc3ZWRHI5VmNmdGNOSmY0SXlJTGYtOV9MemJrdEdvamZHRWJyYi10bWVRdVd4MjZ6VjJJNzBVQzRhNlNENlhCMTFCb05SWDZ5YWZUOGRzZ0FvV0FVRTBZNlJIOG53N0p2LXJB?oc=5
+  Evidence: Macquarie remains well capitalized despite compliance breaches Asian Banking & Finance
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG allegedly misused Lendlease data to win audit work - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjFwWkc1MDBTcDBfV0F6TnlTR013M2xHcjJRWFlmS0RQUzY3alBFLTVIdThEV3BMa2EyR2pEby1hVkl0eDZMVExUWXA3MUladXVaM0E5b0M0d2lfQnNaUzJRb1h0dUJoTEJBeHFGQnRXcmNObV9KcUJWUUx2ZEhRQnNjZTllUzdwakwzY1BQb2d1clY1SFdQUGhNeDg1NUtYY2lmbDlRdks2S2JneFZZR1ROb3BFVTdEUWhJTXJzdEM?oc=5
+  Evidence: KPMG allegedly misused Lendlease data to win audit work AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Q&A with Lina Tchung: Supporting a culture of growth in Internal Audit at Macquarie - Macquarie | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMzlOY0FVU3VmVUV1MmVMNlIyLVNzMGo0eExsN3JRbzdMM19EVWRNamJKcl90RkdkTldKQUhWSmNHaXhDMmtxRDRXYnNUeld4bi1aTU5IblJsZlM4ZGxwUEdadmc2MFhvTWlpdVFGZzRuRHF6U0lweThQNTRxV1Z3QTl1QV81M3BFN1VRWDA4U19kRzZHRFFOTFFqMzF1MWNZX0FiUzZ2bDVHc294WDNFSW9IMnZfTVZKb2VYajZBbkhLZ3RjSGxwNXFxWWdnNkVZbXdBMkI0MA?oc=5
+  Evidence: Q&A with Lina Tchung: Supporting a culture of growth in Internal Audit at Macquarie Macquarie
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Trader Exodus Amid Macquarie Compliance Storm Deals Blow to U.S. Oil and Gas Sector - 富途牛牛 | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGZsVVVVVmJYVW9ON21rbDBsdmQ1blJyS0l0bmQyenlVNDd5Z0hmei1MbW8taUZpbnd6N0lGMnFRY0dCUkNVQ1dfaU51NVQyOE51NU9uT2pQVm5yQmFadmhvQWIxaF9YS09tX2x6UkEtNnVPd2NnUGxZWEFVZkJ5bHBJMjI3eGFwZ0VQdXc2U2JxQ08tMndpQmI4bmhOSU9vb2tlQk1n?oc=5
+  Evidence: Trader Exodus Amid Macquarie Compliance Storm Deals Blow to U.S. Oil and Gas Sector 富途牛牛
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie shareholders challenge executive pay as regulatory, earnings stress mount - Reuters | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTZzcTcxRUZmSWo4QmdvUHRBY24xaG9JLTdFOUVoeFlxZXZnclRwVk5qR1FvUTJmM1pxa1V1Z0dVMmZmWWJEYmtMeVBQcnNqVW1uQ3dVeEg5ODA0MmR1UnRCZGtncmN2MFVqanFLSHV0Tk9BekU3SDNJUWhjWFBlZEEzSnpRNXlMUjVqSTNTOVotVXdwNzUxbEZCRHI5dGpzUUF4UTlXWjdmLTB3UUlaLV80bGl3cTkwenpZYVlxbXRxOXNTc0YwXzluOG0?oc=5
+  Evidence: Macquarie shareholders challenge executive pay as regulatory, earnings stress mount Reuters
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Australia Regulator Hits Macquarie Over Futures Compliance Failures - Bloomberg.com | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlJuU283SXo1dk9yRmlBaFRoSGFhcFpBclJ2bzh3NGpaN1Nwc0JWbmZzNHNDZVczT0JEakVZMGZMUVozaUM2MXZUaWdSZl9iUUpGNkVnX1RqaU1UcTBlZG0ySkFmMHZiRTN0X3pQUnNPZkRJOFQyZUFFdHlSRjNWUWxvem1RTWJ1QlRTR1ZZaEpsMkt4WW9uZ0toT3Fob3hLcFF4MXNHU2hmNUZhTDdod21KVQ?oc=5
+  Evidence: Australia Regulator Hits Macquarie Over Futures Compliance Failures Bloomberg.com
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie win puts KPMG on track to dominate ASX20 audits - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmF4Rzk1LTJDaWpoNmh5bWVCMFRvRXVDekd1NUtPNTlCZV9aYVdyZGREMlJjVWNlLWZ6QW53SkY0c25kY0IxSllfUEp2MktqZnZmYllHMXdYcUhBaVpzZ3o2aU53UlBZRWI4aHRYdjRZQ09zdlFtb3lDTGM5Und5WFFQeHRZQjBQTXl5MUdIVF94MUlISGVEVHpTWWw4anl1ZXIxM3h2OXNoSUFKRFo4el85MDluRm1mdkZVb2o2X1dmbms?oc=5
+  Evidence: Macquarie win puts KPMG on track to dominate ASX20 audits AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie Group audit chair’s KPMG fraternising - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pONUQyZEoyNEE0cG84WjZRS3QzdnBHeVhlOU1sdUVSUzEwRXdheHBhZlJKZzA4SjdkMkNBeVNqa0ZPYjFGaWR4RHFsU29NcEw2M3MtV25Gcy0tb2k3cEhOd3hrS1RaZUZkVFRLc1RuQ2hRSEd4N01wT2t2WWt4WGRsOGJDM0wtS1VYYk5YdHp5X04xaHpoTjF2UQ?oc=5
+  Evidence: Macquarie Group audit chair’s KPMG fraternising AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie director still part of audit selection despite KPMG past - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0hsY1pjc0s4UXZMMk5mOHFqZXZPbkIxaU1OWEwtQS1iaWpLRTdvcUhLVE9oT0c3MWdxeVIwSzhESUEyX3E1Y2c0cTBWVHl2ckFoZWR3OWhFUkxnNjI5elcwZ3IzRmp0UzFRb01FR1d0Z3c1QjBWQXBtUkV3U1lGYUVJSHJDcm9TQzJfY3NoQWlkUm85bnFOb1cwNnRURjRhYkdhbWdqbGZqR2ZNSFM3dkpLWWhxSFZzT2JaalEwSTM1bEtYcTUxVDZfeElTT1U?oc=5
+  Evidence: Macquarie director still part of audit selection despite KPMG past AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=ASX MQG: Macquarie board to hold management’s ‘feet to the fire’ over compliance - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizwFBVV95cUxOSE9SZjU3bzR4MUpEUXJ0VFlSMFdtQ3otNnJVQWl2ZUROSUJoWUk0Z0pibC1rc2VscUFsdmM2QlNKNEhIcnBic0tuN0F5ajc1WVg5U1lINW95MmxrTWtyX3ZlSHJScEhHbXNTa0FyTUQycVJ0cGlUUWpoVDZDRmRXbUJNbTFvNFJTQ0pkNDREd29kb2xpZklKWnZQUklNenBwUnJ5Q1JRbnlnSWdxdEE0RXE2YU9SampmS2RyNllMNzlRVkhYbWhLeG1zX1h6M1k?oc=5
+  Evidence: ASX MQG: Macquarie board to hold management’s ‘feet to the fire’ over compliance AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG helps Macquarie learn how to give an audit contract - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXNOZVBERDFoRkhxbzg2ZnJwZjZaU1Jkek9YZ0FJek1DSklGeDkxZGVJZGY4TVNnTGYweEFEVEVLbExrVmJFLTVGVFZWeGxUM0lQSExydm13Nk5vVVdlNXRhQVFfbkZCdWpEYmh0ME9Ub0ZCYlpTa1lVOEtfUl9zQlE4R0tXdmtpSXFQaW55ODNvQ3NhaFRBSk1FSW5GcEhGWE5vRVR6MA?oc=5
+  Evidence: KPMG helps Macquarie learn how to give an audit contract AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie accused of ‘significant compliance failures’ in derivatives trade - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVzNIVXUybmVpbnFsaTFlOWg5eTh1aXJWdHlWTFZQUWZxQmNCUlZCUEo3eXFzRlU3RENOcXFpOHhDRlV5U21JbzlWVlF0M1dpWkdLVERmS0xpQnVfWUpINWs3ZnlmSDRwTlhDNHFlTVR2MW5IckUwazNmQTFPcmFKamhUaXpQY0lYdjNFemNPdEVZQ3N6dGlHQWN5cURPSjJzdXFOZXBkTDBJS2Vvakp2dExVQ2I5bF9qM0FfamJOV0JvTkdIZld5YlZtdWstRDNza2M3c3hURW00dVFB?oc=5
+  Evidence: Macquarie accused of ‘significant compliance failures’ in derivatives trade AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=ASX MQG: PwC survives Macquarie audit review - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdvX19vbmF1MENiWW1vOG5qX292bThHWk84MzVMZ19sMDRfYUZuWnNCZ0N4ZWxneFpjZ2FMeFo5eFhFWnFKOGlxaEROclItVzhvR2FQdVQ2Z2J3MV83VjVwdV9kcEVHamcyZE9aNHBnZ0JoNV9yRk4zS21vWWNNQ2hKTTVtT2g4aXFuNWNhRlBYOFpKNm4taVBCZE5FbU9XMmc?oc=5
+  Evidence: ASX MQG: PwC survives Macquarie audit review AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=KPMG Australia CEO and audit head quit over whistleblower investigation - Reuters | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxNOW9EYVRyZndka2RySHlUbGVkX05GVkhvVEt3RTktVm03aU15NVJUUm1BLWtZaThfMl9SLWRtVll0eU5kSFJsNkZIUzA2bmVydjVkalh2WkthaGNkbjV0OVl6anBjdFR0NkUxYnQ4bl9Ka2UzV0E5UmlFbkZvZ1F1YjdUQ19tTzk4WTF5TjdHbzA5NFVsRWx0TVJKWHQtV3Q4Y2pwV244anh2UlJlWGg5QU9ZeTNNTzFUYXRPS2hSMlZuOFZ3R1E?oc=5
+  Evidence: KPMG Australia CEO and audit head quit over whistleblower investigation Reuters
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie cops $35m fine for misleading conduct on millions of short sales - The Age | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdmxDZDBPM19GTEdrTTFNVnJkc0g3UVQzWkpoaGRRd2FJSi1JV1VCLW1FMWRzV2N0VkRpd1RqOWtHczVja0pNcmVrdFBCNGc3Z3dxSlZXQmZxd3R2a29PdkFPMFVJTDcwTklIamtJUjdZUlFhQmlOXzJXR09rcUZjM0lHRFdfQVdRZGdMYV9MY282RzVEcDc0SG1DTFN0c2RHNVJXa2JfbTEtME8xRDFVc1NwWW9yWUJ2LU9xdFRCTkJrZmpRbUN2LTkySlJSV0NtX2Vna25B?oc=5
+  Evidence: Macquarie cops $35m fine for misleading conduct on millions of short sales The Age
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=ABC investigation sparks removal of ATMs from suspected illegal tobacco stores - Australian Broadcasting Corporation | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTNmZEZVUUtUM05tWmQ0VGNkUTREbXhac0NxeUJ5YW92UHNSN0dDWHdod2doOWdHZlVBSENzQjFIMkdGc0Q0b1BsUEdYS2JWM0cxV3dvanpDTjByb2gwOXptbjZzcm1KYXJYUTRzNnBnUFctRUJLS3M4cHEyNVRfbFhTNGRnclloR1hyWmhpNWpWUzNDOXVGeWF3T2lWLXRPV2w4MHhOLXZRcWZDTXc?oc=5
+  Evidence: ABC investigation sparks removal of ATMs from suspected illegal tobacco stores Australian Broadcasting Corporation
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie fined £13mn after “fictitious trades” on London metals desk - Global Trade Review (GTR) | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjZ4LWgza2VQX1EzcDJRS3cwdHdCR3pUNE1PMURjaEFVNEhqNl9wYWozZml0Vm02bFd3NDVTR2RpZTM3ZVJBS0dnX3NORWJVSXRMWkRoVWRUd19wdTAxUlc3WmFQdWM3VGVJNl84M294c3UyT2RBaWRCZ2FwNF9pcU53emN0RFFnUHk1NkxLWGNHcDZsb2xmMmhqaW1ZdVJUbkxqakU3Zw?oc=5
+  Evidence: Macquarie fined £13mn after “fictitious trades” on London metals desk Global Trade Review (GTR)
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Ring the Bell: Macquarie, investors eye US toxic lead investigation - AFR | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGFkT3JKT2sxOUxWTlJQeUxwTWQ0WlhPTWdiMkREMWFxRzAtZGo3NUNteC1zbkpiQjVHaTVKVGxJQ0Z0OTlCWWZnLUZEZ3NwQmNXTDMtTTdsTDFRbnFKMUlmVFg1NlRZOV9GWXpNVXYzSnBydjZFRWtXRHVNQ3lneTRuRjdKMjJfZGd2TzYxNzFHaEtoX1puUE5sLUhZb3ZWcmRqUVgwY1huWDVkYXNJWUl5bw?oc=5
+  Evidence: Ring the Bell: Macquarie, investors eye US toxic lead investigation AFR
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Macquarie sues Jupiter MLP for $17.5 million for breach of contract - Reuters | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGNBaEstNDFzMDFvTTNKaFVzQnJWRGJFaHZmcDBBanVvUDVJUElYT1I0UHRBa3laZ0FCeWdNWnk1WUdTdzN4b2diakFGVWtKWXR2dDNvM0pKRFZ4NTJkd0dRTEVSc2FlWC1Hc2h3eHV6Z3pLd1hlN25kZEV5dG1kdGxfMG9ISTdxTnVrenVqbURxcHVHSGExMDhIMUpqZ3oxQ1RyNHBPMFEzdVd5YTJyS3RtMXduTkdNR3FmcDZWRVR3c1JfQUh0QlNGTQ?oc=5
+  Evidence: Macquarie sues Jupiter MLP for $17.5 million for breach of contract Reuters
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Australia's Macquarie Group to pay $23 million penalty for misreporting short sales - Reuters | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT204WFNucml1ZjBuQ3VDN012RUs1OFVQZDBRSjNNajhsT0pPbzdSQ3ZXblVNUDUweHh3ZTI2N3BxSXlqNUVXRHhWdThQOG9YOWxHN1FzdXhBampzUUNGcUl3WXg0X19UNHpETWdLZHA0QnJWWWg3U0xheE9WNzFkZkwxR2htMXN0UkZGTVZjcWxOWUFhRTFmV3FlQ201YVlYVHVHM3VLNWJwcEN1U0JWSVpxb2tjXzZpbHQydC1uSXlTYkNiaUV0Y21NOEYyUjdRVDNVZGpMNTNGVVZ2X1ZWVy1aV3Y?oc=5
+  Evidence: Australia's Macquarie Group to pay $23 million penalty for misreporting short sales Reuters
+  Confidence: Low

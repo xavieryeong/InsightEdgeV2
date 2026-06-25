@@ -1,0 +1,14 @@
+{
+  "sonnet-4-6": {
+    "error": "All metrics must be initialised metric objects, e.g: metrics=[BleuScore(), AspectCritic()]"
+  },
+  "haiku-4-5": {
+    "error": "All metrics must be initialised metric objects, e.g: metrics=[BleuScore(), AspectCritic()]"
+  },
+  "opus-4-8": {
+    "error": "All metrics must be initialised metric objects, e.g: metrics=[BleuScore(), AspectCritic()]"
+  },
+  "gpt-4o": {
+    "error": "All metrics must be initialised metric objects, e.g: metrics=[BleuScore(), AspectCritic()]"
+  }
+}

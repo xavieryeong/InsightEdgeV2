@@ -1,0 +1,27 @@
+Company: Overseas Filipino Bank
+Domain: ofbank.com.ph
+Industry: Banking
+Country: PH
+Agent: tech_stack
+Evidence items: 4
+============================================================
+
+[TECH] OFBank Mobile Banking App (Android & iOS) | category=engineering_visibility | source=claude_web_search_result | url=https://play.google.com/store/apps/details?id=ph.gov.overseasfilipinobank.mobilebanking
+  Evidence: OFBank publishes a mobile banking app on Google Play and the Apple App Store, listed under the developer 'Land Bank of the Philippines' (not OFBank directly). The app supports account management, fund transfers, bills payment, and OTP authentication. No source language, CI/CD, or tooling details are disclosed.
+  Repo: https://play.google.com/store/apps/details?id=ph.gov.overseasfilipinobank.mobilebanking
+  Confidence: Low
+
+[TECH] Web technologies (Google Font API, Akamai, Microsoft 365, Font Awesome) | category=engineering_visibility | source=tech_listing | url=https://www.zoominfo.com/c/overseas-filipino-bank-inc/461476980
+  Evidence: ZoomInfo lists Google Font API, Microsoft 365, Akamai, and Font Awesome as technologies used by Overseas Filipino Bank. These are website front-end and CDN delivery tools, not indicators of a backend development stack or DevSecOps tooling.
+  Repo: https://www.zoominfo.com/c/overseas-filipino-bank-inc/461476980
+  Confidence: Low
+
+[TECH] 128-bit encryption, SSL, OTP authentication (product-level security features) | category=security_tooling_signal | source=developer_docs | url=https://www.ofbank.com.ph/faqs
+  Evidence: OFBank's FAQ and app store listings describe use of 128-bit encryption, SSL end-to-end encryption, and OTP authentication as customer-facing security features within the mobile banking app. These are product security features, not developer tooling such as SAST, SCA, or code quality platforms.
+  Repo: https://www.ofbank.com.ph/faqs
+  Confidence: Low
+
+[TECH] AI-powered digital onboarding (DOBSAI) | category=engineering_visibility | source=claude_web_search_result | url=https://www.ofbank.com.ph/about-us
+  Evidence: OFBank uses a Digital Onboarding System with Artificial Intelligence (DOBSAI) for real-time account opening via facial recognition and ID card scanning. This is a deployed product feature, with no public disclosure of underlying technology stack, languages, or development tooling.
+  Repo: https://www.ofbank.com.ph/about-us
+  Confidence: Low

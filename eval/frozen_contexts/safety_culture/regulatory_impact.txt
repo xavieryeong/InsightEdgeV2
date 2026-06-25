@@ -1,0 +1,92 @@
+Company: SafetyCulture
+Domain: safetyculture.com
+Industry: Technology & Software
+Country: Australia
+Agent: regulatory_impact
+Evidence items: 17
+============================================================
+
+[REGULATORY] type=regional_regulator_relevance | value=APRA CPG 234 explicitly references secure software development lifecycle (SDLC) requirements and third-party information security obligations applicable to entities managing APRA-regulated data assets | regulation=APRA CPG 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/sites/default/files/cpg_234_information_security_june_2019_1.pdf
+  Evidence: CPG 234 states: 'The outcome of secure software development and acquisition is to ensure that software continues to function as intended regardless of unforeseen circumstances.' It also notes that third parties introducing additional vulnerabilities must satisfy APRA's expectation of sufficient information security.
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=SafetyCulture holds an active ISO 27001:2022 certification, confirmed on its official security page | regulation=ISO 27001:2022 | regulator=International Organization for Standardization (ISO)
+  Source: company_website | url=https://safetyculture.com/security
+  Evidence: SafetyCulture's security page states: 'SafetyCulture is ISO 27001:2022 certified. This certification proves we've implemented security controls to protect our customers' data from unauthorized access or compromise and that we follow security best practices.'
+  Confidence: High
+
+[REGULATORY] type=compliance_audit | value=SafetyCulture holds an active SOC 2 Type II attestation, confirmed on its official security page | regulation=SOC 2 Type II | regulator=AICPA
+  Source: company_website | url=https://safetyculture.com/security
+  Evidence: SafetyCulture's security page states: 'SafetyCulture follows the AICPA's Trust Services Criteria affirming our dedication to customer security. Our SOC 2 Type II audit report is a testament to this commitment.'
+  Confidence: High
+
+[REGULATORY] type=specific_regulation_applies | value=APRA CPS 234 requires APRA-regulated entities to assess information security capability of third-party SaaS providers; SafetyCulture's enterprise customer base in financial services creates indirect CPS 234 compliance pressure | regulation=APRA CPS 234 Information Security | regulator=APRA
+  Source: official_regulator_website | url=https://www.apra.gov.au/information-security-requirements-for-all-apra-regulated-entities
+  Evidence: APRA's information security requirements page confirms CPS 234 applies to all APRA-regulated entities and their third-party arrangements, with requirements designed to ensure 'appropriate information security capabilities to be resilient against information security incidents.'
+  Confidence: Medium
+
+[REGULATORY] type=specific_regulation_applies | value=Australia's Cyber Security Act 2024 commenced December 2024 and introduces mandatory cybersecurity obligations for Australian businesses with revenue exceeding $3 million, likely including SafetyCulture | regulation=Australia Cyber Security Act 2024 | regulator=Australian Government / CISC
+  Source: public_news | url=https://www.cisc.gov.au/legislation-regulation-and-compliance/cyber-security-legislative-reforms
+  Evidence: Schedules 1, 2, 3, 4 and 6 of the ERP Bill commenced by proclamation on 20 December 2024, addressing legislative gaps to bring Australia in line with international best practice on cybersecurity.
+  Confidence: Medium
+
+[REGULATORY] type=general_regulatory_mention | value=SafetyCulture publicly references its active cybersecurity program including patching, vulnerability management, centralized logging and monitoring, and third-party security reviews | regulation=General cybersecurity governance | regulator=N/A
+  Source: company_website | url=https://safetyculture.com/security
+  Evidence: SafetyCulture's security page states: 'Patching and vulnerability management are prioritized, with critical patches deployed promptly to maintain security' and 'We regularly review the security of the third-parties we use.'
+  Confidence: High
+
+[REGULATORY] type=general_regulatory_mention | value=Building a Safety Culture Means Going Beyond Compliance - corporatecomplianceinsights.com | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMinwFBVV95cUxORWo2RDg3Q1lBUU1mOXhPdFZjRHZ1ZXEwNUVMRU9TaFBDVk10U2t2QjNXVmxlN0thWml3b3VIbXRUS283eFlwaDMwRGRYSW1uSHBfZW1JWDFURUx4OFRBZnhMOWZQb0VLSE9xeEdXSl9kRWNrVFV3ODBXTndYUk1TQU10eGtBS0w5UjNEUVg5MHZmblJNLTctTVZPNTJNVkk?oc=5
+  Evidence: Building a Safety Culture Means Going Beyond Compliance corporatecomplianceinsights.com
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Building a Strong Safety Culture: More Than Compliance - University of South Florida | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMHhyeFZNNHpIa1JpQ1M4cWNOYmNRbVNlN2hlTmNVaUdLSGxmMVppN2dVUU04a0tLM25HdDYwZzE2TjhiVzBheUVOaUZUYWw4T0hMREVRbmEzU0taTkdaN2RTSmUtTVg1ZHR2REFzNlhsbnRudGNiWU9USQ?oc=5
+  Evidence: Building a Strong Safety Culture: More Than Compliance University of South Florida
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Beyond Compliance: Rethinking Safety Culture in Business Aviation - Aviation International News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMivgFBVV95cUxOblpPSmR4ZGFOOVI1TE12RDZtbHc2TlN0d2J5OEVUTlpuR1hlX1ZIUmdSeDFyWlh5VDlVd0FRZm9veDFFQkpTaGpjbkwta1phWEU0SzZmM1dRa0tFbEFscEpya0hUTzUweEJTdnVkSHFyZ2NIRFpwem56Ry1qVUg4THdheGF6M0ZCdl9zUjdTTXZyQlZGWnZuR21IM1ByYVpHSFIyRmZoeTZYOTNSMGxxYkdzeTc0NVZQN0k3UFNR?oc=5
+  Evidence: Beyond Compliance: Rethinking Safety Culture in Business Aviation Aviation International News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Alberta fleets push beyond compliance to build safety culture - Truck News | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajI5TjhXMVdNcjMzclV1czhwYjNiM05oSUNUNEhuaWU2cnMxZ0lFSERWckVhLVQtYS1uUHd2ZTc3NnI0RmJaa3p5bkpqYjFqVEhDTTlQM2xmSWYtSURWTlEwanNNcGRtN3M2RlU1b2VTaElQSklrcUdwWEllZzEtMlR4YnZfWkpnUGdzaXhEMF9CTWJ6YW9Xb0QyUkY3RThGdl8yazNvQVVrN3UyQ1N1YmpJU0cxTGI4YUw0?oc=5
+  Evidence: Alberta fleets push beyond compliance to build safety culture Truck News
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Safety Compliance and Regulation in Nigerian Aviation: Beyond Rules to a Safety Culture - THISDAYLIVE | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxPd180clpEZG5XaDE5M0hDWUpQX2c1N05KY082UXpPNEI4OVBLLXdmeE8wWFRFaV9HOXU3S0RzZk9ob2tTTmJmTTUwYTRyNy1HR0dMVi1EUE9FNHFOc1JBRktmcE5zOF9VZ0xlZ1pHTW0xX1JmMGdOWE9tb3gtOVEwTEd2ZDJpbkVGQzFtUFQtVDdaN3hrM1B4MUI0V2xRUnowOUJnZE1qN1BZTlZEemdNcVRybmczS19DbWZocXozMlh3T0FV?oc=5
+  Evidence: Safety Compliance and Regulation in Nigerian Aviation: Beyond Rules to a Safety Culture THISDAYLIVE
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=PUSPAKOM calls for stronger safety culture beyond compliance - The Malaysian Reserve | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlpnelozNXFGd1lOUEdjTU1xd1pVd3VEa2R2NWEtdkRDSk9wT2t2V3NRN29ZQkZ4M2lEMTZFVGNSSEZIQ2ZkbG05MVZfTUN3STRDTm5lVVpSNVZxak5OUGZ5YXdnVnBCZlNLZTFPU2FkUWoxQlFidjVvNUtHalpiZW9WZUMwMWNISFo5OEhwTVp4SFowZHV4VGx5cVJfcm54bXk5ckZHRQ?oc=5
+  Evidence: PUSPAKOM calls for stronger safety culture beyond compliance The Malaysian Reserve
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=I Evaluated 6 Best Audit Management Software (2025 Edition) - G2 Learn Hub | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BZi1SS1lRSTMzSHBrdFd0NjcyZnRqZGg4dlQ4cFNhTUZUZWdrd293RGJBWFNkVTQwRnQxSXNnOHVwYTRXdzNLZVFzUTBqcEhsNjBOQ000TGFxdjRIcUN5cQ?oc=5
+  Evidence: I Evaluated 6 Best Audit Management Software (2025 Edition) G2 Learn Hub
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=NTSB to Open a Special Investigation into Norfolk Southern Railway’s Safety Practices and Culture - NTSB (.gov) | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cd0V6UnZ3OWR1b3FwMUxRSWZJbEZyNFV3eE5jRWZ1aEgwMW9FRGRseVFfa3JBdGhnckVQNzRxVHpwQlRNdWFsNEp3d3BteFVraW93bXlLZThoZXlibWNTNFV3Mk1LZHdScVlnemdWRQ?oc=5
+  Evidence: NTSB to Open a Special Investigation into Norfolk Southern Railway’s Safety Practices and Culture NTSB (.gov)
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=NTSB Investigation Into Fatal Plane Crash Reveals Mechanical Problem, Changing Safety Culture - KUCB | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3VIWlR0YU93aEdxeEtTaW9JQ3phQkxOUTdGSGd6dV9jeEFEQ1ZUelEtZFRzajAxckh2cDNiNFZDaWlfMGktZ1BXc2dwUVRoajV3dkdCZk92QVJzXy10bEtNcjg3MW9xOFJ5eGpPNzVaY2swSlFfRVpRcHRPTlVFLW1vRld5dHZtVGhSX3FuTDdlM3czeXpkSTlMZ2lWdWd5cVladUdhQi1Yb0h0M0pMZ1hZVWF6OWlrTVo0WnBDcWtiUGVPX0xJeWdXVmxDZw?oc=5
+  Evidence: NTSB Investigation Into Fatal Plane Crash Reveals Mechanical Problem, Changing Safety Culture KUCB
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Safety Culture vs. Safety Systems in U.S. Transportation - The Regulatory Review | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxObjRIV3ZsZUMzWFoxWHNSaVBlMWlWb29kcHlaNXQtZHE2S2RPNjJybXhzY09Lal9MQXM0Qi1hUEJLMUI1UTgyRjNNeVBHNDRXTXpZcWV1RnJTOElBZml4NTQtTmZqc0trV0wtQ2ZFVGZteGIzWUpOMHVnUFVOLUdrVC1FaUxuem45bUxSUk1MQ19mLXBMeE56MEZDSjgwLWNMcTVHWQ?oc=5
+  Evidence: Safety Culture vs. Safety Systems in U.S. Transportation The Regulatory Review
+  Confidence: Low
+
+[REGULATORY] type=general_regulatory_mention | value=Highland Valley Copper mine working to address major safety, culture problems identified in ministry investigation - Castanet Kamloops | regulation= | regulator=
+  Source: public_news | url=https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2NQWmVFRV9FOFJJd196aXhBTnI4amhZbUVKSlA2bUEtdjY0S0o5dG82NnNkS1RxdXRQdXdhWFVVbzFyeWt2d1c1cFVMNHQ0OVZxdl9FZTAyd2xGNDZMbGhNVjFCRm90QWM3THhfTGRES0hCQ29iVHNVc05BclNRbWctRVNTb1AyTEpNN2VGeTZzcFFIYXVMRjl6c1gyLVU2SGliSVZiNEZOV0c5MHlCdjJyRmw2b3o0cTJvU2lYdll3MXppUnJrTV8tZG5GV0pMWGgxS2x1andZTXUxVld5elJrVlkyOVgxRGNEWXgxdnI5cFhBejBEUnZwNA?oc=5
+  Evidence: Highland Valley Copper mine working to address major safety, culture problems identified in ministry investigation Castanet Kamloops
+  Confidence: Low

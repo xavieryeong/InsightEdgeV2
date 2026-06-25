@@ -1,0 +1,18 @@
+Company: PT Super Bank Indonesia
+Domain: superbank.id
+Industry: Banking
+Country: ID
+Agent: pain_points
+Evidence items: 2
+============================================================
+
+[PAIN] category=ci_cd_integration_pain | source=claude_web_search_result | url=https://www.cake.me/companies/superbank/jobs?locale=en
+  Title: Active hiring: CI/CD Pipeline Standardisation & GitLab Migration (Platform Engineering)
+  Evidence: Job market search results confirm PT Super Bank Indonesia (Superbank) is actively hiring for a 'CI/CD Pipeline Standardisation & GitLab Migration (Platform Engineering)' role, as referenced in the hiring context provided. This signals the company is currently mid-migration to GitLab CI and lacks standardised pipeline controls — a prime moment to embed quality and security gates.
+  Confidence: Medium
+
+[PAIN] category=ci_cd_integration_pain | source=claude_web_search_result | url=https://id.jobstreet.com/super-bank-jobs/in-Jakarta
+  Title: Superbank hiring Technical Operations Manager focused on zero-incident stabilisation
+  Evidence: Jobstreet listings (May 2026) confirm Superbank is hiring a Technical Operations Manager 'responsible to manage a team that governs day to day tech operations to stabilize zero incidents.' This indicates active operational stability concerns at high deployment velocity — consistent with uncontrolled code quality risk.
+  Date: 2026-05-01
+  Confidence: Medium

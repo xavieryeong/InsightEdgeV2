@@ -1,0 +1,44 @@
+Company: SafetyCulture
+Domain: safetyculture.com
+Industry: Technology & Software
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 7
+============================================================
+
+[HIRING] type=devsecops_appsec | value=Senior Application Security Engineer | source=job_board | url=https://startup.jobs/roles/security-engineer
+  Title: Senior Application Security Engineer — SafetyCulture, Sydney
+  Evidence: startup.jobs lists 'Senior Application Security Engineer · SafetyCulture · Sydney, Australia' dated 2026-03-27 15:05:05 UTC. SafetyCulture is explicitly named as the employer.
+  Date posted: 2026-03-27
+  Confidence: High
+
+[HIRING] type=devsecops_appsec | value=Staff Cloud Security Engineer | source=job_board | url=https://startup.jobs/roles/security-engineer
+  Title: Staff Cloud Security Engineer — SafetyCulture, Sydney
+  Evidence: startup.jobs lists 'Staff Cloud Security Engineer · SafetyCulture · Sydney, Australia' dated 2026-03-27 15:08:35 UTC. SafetyCulture is explicitly named as the employer.
+  Date posted: 2026-03-27
+  Confidence: High
+
+[HIRING] type=devops_platform | value=Platform Engineering (multiple open roles) | source=ats_platform | url=https://jobs.lever.co/safetyculture-2
+  Title: SafetyCulture Platform Engineering — multiple open roles (Lever ATS)
+  Evidence: SafetyCulture's live Lever jobs page (jobs.lever.co/safetyculture-2) shows a 'Platform Engineering' category with multiple Hybrid Full-time Permanent roles open in Sydney. Company name is unambiguous on the page.
+  Confidence: High
+
+[HIRING] type=cloud_infrastructure | value=Senior Cloud Infrastructure Engineer | source=ats_platform | url=https://jobs.lever.co/safetyculture-2/0f2b4969-a1ad-42d9-a1a6-a8ce84d7b80f
+  Title: Senior Cloud Infrastructure Engineer — SafetyCulture Foundational Engineering
+  Evidence: Lever posting for SafetyCulture describes a Senior Cloud Infrastructure Engineer in the Foundational Engineering team to 'build the infrastructure architecture required to run the SafetyCulture platform' with a focus on AWS deployment and infrastructure-as-code. SafetyCulture explicitly named.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer (Backend) — Foundations | source=ats_platform | url=https://jobs.lever.co/safetyculture-2/a5ec49ee-48d2-4fe9-9d4d-0d1dabc52a7a
+  Title: Senior Software Engineer (Backend) — Foundations — SafetyCulture
+  Evidence: Lever posting for SafetyCulture's Senior Backend Engineer (Foundations team) explicitly references familiarity with SOC 2 compliance and IAM best practices including 'identity security, MFA, session management, and audit logging'. Uses AWS, Golang, PostgreSQL stack. SafetyCulture explicitly named.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Senior Software Engineer (Fullstack) — Foundations | source=ats_platform | url=https://jobs.lever.co/safetyculture-2/e3f7530b-9ee9-40df-80d5-27924d170781
+  Title: Senior Software Engineer (Fullstack) — Foundations — SafetyCulture
+  Evidence: Lever posting for SafetyCulture's Senior Fullstack Engineer role describes designing and building 'full-stack SaaS systems, including scalable APIs, secure data flows, and responsive, performant UIs' using Golang, gRPC, PostgreSQL, React, and AWS. Part of a 'Best Fit' program covering multiple concurrent openings. SafetyCulture explicitly named.
+  Confidence: High
+
+[HIRING] type=software_engineering_growth | value=Software Engineer II (Fullstack) — Foundations | source=ats_platform | url=https://jobs.lever.co/safetyculture-2/d8c93f7d-62ad-45a4-8661-680684b2c1b8
+  Title: Software Engineer II (Fullstack) — Foundations — SafetyCulture
+  Evidence: Lever posting for SafetyCulture's mid-level Fullstack Engineer role, seeking engineers with 'familiarity with cloud platforms such as AWS' and 'distributed systems concepts'. Part of the same Best Fit program, indicating parallel multi-role hiring. SafetyCulture explicitly named.
+  Confidence: High

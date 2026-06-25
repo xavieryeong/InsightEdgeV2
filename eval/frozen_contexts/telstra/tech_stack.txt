@@ -1,0 +1,82 @@
+Company: Telstra
+Domain: telstra.com.au
+Industry: Telecommunications
+Country: Australia
+Agent: tech_stack
+Evidence items: 15
+============================================================
+
+[TECH] Java | category=relevant_languages | source=github | url=https://github.com/telstra/open-kilda
+  Evidence: Telstra's public GitHub org lists open-kilda as primarily Java (86 stars, Apache-2.0 licence), an open-source OpenFlow SDN controller built and maintained in-house. The repo also contains a separate MessagingAPI-SDK-Java package published to Maven (GitHub Packages).
+  Repo: https://github.com/telstra/open-kilda
+  Confidence: High
+
+[TECH] Python | category=relevant_languages | source=github | url=https://github.com/telstra/MessagingAPI-SDK-python
+  Evidence: Telstra's GitHub org hosts MessagingAPI-SDK-python, a public Python library for the Telstra Messaging API, confirming Python as an actively maintained language in their public codebase.
+  Repo: https://github.com/telstra/MessagingAPI-SDK-python
+  Confidence: High
+
+[TECH] JavaScript / TypeScript | category=relevant_languages | source=github | url=https://github.com/telstra/MessagingAPI-SDK-node
+  Evidence: Telstra's GitHub org hosts MessagingAPI-SDK-node (JavaScript, 11 stars) and the SDK README shows TypeScript import syntax (ES module imports with typed parameters), confirming both JS and TS usage.
+  Repo: https://github.com/telstra/MessagingAPI-SDK-node
+  Confidence: High
+
+[TECH] C# | category=relevant_languages | source=github | url=https://github.com/telstra/MessagingAPI-SDK-dotnet
+  Evidence: Telstra's GitHub org hosts MessagingAPI-SDK-dotnet and DigitalTwins-CodeFirst-dotnet (C#, 41 stars), confirming C#/.NET as an active development language.
+  Repo: https://github.com/telstra/MessagingAPI-SDK-dotnet
+  Confidence: High
+
+[TECH] Go | category=relevant_languages | source=github | url=https://github.com/telstra/MessagingAPI-SDK-Go
+  Evidence: Telstra's GitHub org hosts MessagingAPI-SDK-Go, a public Go library for the Telstra Messaging API, confirming Go as an actively published language.
+  Repo: https://github.com/telstra/MessagingAPI-SDK-Go
+  Confidence: High
+
+[TECH] C++ | category=relevant_languages | source=github | url=https://github.com/orgs/telstra/repositories
+  Evidence: Telstra's GitHub org lists arduino-mkr-nb-1500-mosquitto and arduino-mkr-nb-1500-cumulocity as C++ repositories (10 and 8 stars respectively), confirming C++ presence in Telstra's public code.
+  Repo: https://github.com/orgs/telstra/repositories
+  Confidence: High
+
+[TECH] GitHub (source control with implied CI) | category=ci_cd_maturity | source=github | url=https://github.com/orgs/telstra/repositories
+  Evidence: Telstra operates a verified GitHub organisation with 23+ public repositories. The open-kilda repo shows an active commit history and pull request workflow, indicating use of GitHub as the source control platform. No specific CI tool (e.g. GitHub Actions, Jenkins) is named in public repo configuration files reviewed.
+  Repo: https://github.com/orgs/telstra/repositories
+  Confidence: Medium
+
+[TECH] Docker | category=cloud_native_presence | source=github | url=https://github.com/telstra/open-kilda
+  Evidence: The open-kilda repository contains explicit Docker usage: docker-compose.yml, multiple Dockerfiles per component (northbound, storm, etc.), and a Makefile that invokes docker run and docker compose commands, confirming Docker as part of Telstra's build and deployment workflow for this project.
+  Repo: https://github.com/telstra/open-kilda
+  Confidence: High
+
+[TECH] Azure IoT Hub | category=cloud_native_presence | source=github | url=https://github.com/orgs/telstra/repositories
+  Evidence: A repository in Telstra's GitHub org is described as 'Code repo for connecting MKRNB 1500 device to Azure IoT Hub as part of the Telstra Innovation Challenge 2019', confirming Azure cloud usage in at least one Telstra project.
+  Repo: https://github.com/orgs/telstra/repositories
+  Confidence: Medium
+
+[TECH] Automated SAST and SCA tooling (vendor unconfirmed) | category=security_tooling_signal | source=claude_web_search_result | url=https://business-of-infosec.com/articles/telstra-paypal-australia-myob-execs-champion-devsecops/
+  Evidence: Telstra's Cyber Optimisation Principal Stephen Bryant publicly stated that Telstra's software engineers have been 'using automated static application security testing and software composition analysis tools for almost five years', confirming mature SAST and SCA tooling is in place. Specific vendor names are not disclosed in the public source.
+  Repo: https://business-of-infosec.com/articles/telstra-paypal-australia-myob-execs-champion-devsecops/
+  Confidence: High
+
+[TECH] DevSecOps program with embedded security champions | category=security_tooling_signal | source=claude_web_search_result | url=https://exchange.telstra.com.au/tag/devsecops/
+  Evidence: Telstra Exchange (the company's own blog) confirms Telstra has a 'DevOps Security' team within Cyber Security focused on delivering security services to DevOps teams, including a 'security champion' embedded in each feature team.
+  Repo: https://exchange.telstra.com.au/tag/devsecops/
+  Confidence: High
+
+[TECH] Public GitHub organisation — 23+ repositories | category=engineering_visibility | source=github | url=https://github.com/orgs/telstra/repositories
+  Evidence: Telstra maintains a verified public GitHub organisation at github.com/telstra with 23+ public repositories covering SDN networking, Messaging API SDKs in 6 languages, Digital Twins, IoT prototyping, and more — demonstrating active and broad software engineering practice.
+  Repo: https://github.com/orgs/telstra/repositories
+  Confidence: High
+
+[TECH] Developer portal — dev.telstra.com | category=engineering_visibility | source=developer_docs | url=https://dev.telstra.com/
+  Evidence: Telstra operates a public developer portal at dev.telstra.com hosting API documentation, SDKs, and a developer blog, confirming an active developer-facing engineering culture and API-first product delivery.
+  Repo: https://dev.telstra.com/
+  Confidence: High
+
+[TECH] Telstra Exchange engineering blog — DevSecOps content | category=engineering_visibility | source=engineering_blog | url=https://exchange.telstra.com.au/tag/devsecops/
+  Evidence: Telstra's own Exchange blog contains multiple engineering-focused posts on DevSecOps practices, confirming an engineering culture with public thought-leadership on software security and development.
+  Repo: https://exchange.telstra.com.au/tag/devsecops/
+  Confidence: High
+
+[TECH] In-house open source SDN development | category=engineering_visibility | source=claude_web_search_result | url=https://www.linkedin.com/pulse/developing-in-house-open-source-telstra-programmable-network-craig
+  Evidence: A Telstra executive described building OpenKilda in-house to deal with the unique global footprint of Telstra's Programmable Network, with 'at minimum quarterly releases' and an agile delivery model — confirming active internal software engineering at scale.
+  Repo: https://www.linkedin.com/pulse/developing-in-house-open-source-telstra-programmable-network-craig
+  Confidence: Medium

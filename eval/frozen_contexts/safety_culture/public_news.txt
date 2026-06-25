@@ -1,0 +1,11 @@
+Company: SafetyCulture
+Domain: safetyculture.com
+Industry: Technology & Software
+Country: Australia
+Agent: public_news
+Evidence items: 1
+============================================================
+
+[NEWS] signal=leadership_change | source=company_news_page | url=https://safetyculture.com/newsroom
+  Title: Kelly Vohs appointed as CEO of SafetyCulture; Luke Anear to become Executive Chairman
+  Confidence: Low

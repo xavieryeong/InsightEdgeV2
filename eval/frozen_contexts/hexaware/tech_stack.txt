@@ -1,0 +1,92 @@
+Company: Hexaware
+Domain: hexaware.com
+Industry: Technology & IT Services
+Country: India
+Agent: tech_stack
+Evidence items: 17
+============================================================
+
+[TECH] Java / Spring Boot | category=relevant_languages | source=developer_docs | url=https://jobs.hexaware.com/job/java-cloud-native-lead-164862
+  Evidence: Hexaware job posting for Java Cloud Native Lead explicitly requires Java, Spring Boot, Spring Cloud, Docker, microservices, AWS PaaS and Python/Node.js — confirming active Java/Spring development practice within Hexaware engineering teams.
+  Repo: https://jobs.hexaware.com/job/java-cloud-native-lead-164862
+  Confidence: High
+
+[TECH] Java / Spring Boot (Java Architect role) | category=relevant_languages | source=developer_docs | url=https://jobs.hexaware.com/job/java-architect-167926
+  Evidence: Hexaware Java Architect job posting requires Spring Boot, Spring Cloud, Docker, Kubernetes, and DevOps build pipeline tools in AWS or Azure environment, confirming Java as a core delivery language.
+  Repo: https://jobs.hexaware.com/job/java-architect-167926
+  Confidence: High
+
+[TECH] Java (Saikumar-Hexaware GitHub) | category=relevant_languages | source=github | url=https://github.com/Saikumar-Hexaware
+  Evidence: GitHub profile attributed to a Hexaware employee contains public repositories in Java including spring-boot-jwt and spring-boot-examples, corroborating Java/Spring Boot usage.
+  Repo: https://github.com/Saikumar-Hexaware
+  Confidence: Medium
+
+[TECH] Python | category=relevant_languages | source=github | url=https://github.com/pourabk-hexaware
+  Evidence: GitHub profile attributed to a Hexaware employee (pourabk-hexaware) contains public repositories in Python including ML/AI tooling wrappers, corroborating Python usage.
+  Repo: https://github.com/pourabk-hexaware
+  Confidence: Medium
+
+[TECH] JavaScript / TypeScript / Python | category=relevant_languages | source=github | url=https://github.com/oohab-hexaware
+  Evidence: GitHub profiles attributed to Hexaware employees (oohab-hexaware, hariharank-hexaware) contain multiple public repositories in JavaScript and Python, and the pourabk-hexaware profile includes TypeScript forks, indicating multi-language engineering activity.
+  Repo: https://github.com/oohab-hexaware
+  Confidence: Medium
+
+[TECH] JavaScript (Full Stack) | category=relevant_languages | source=claude_web_search_result | url=https://www.dice.com/job-detail/d54e50ec-4b51-4813-bc1c-e7f6f72c9654
+  Evidence: Hexaware Sr Java Full Stack Developer role posted on Dice requires Angular, Java, Spring Boot, and AWS, confirming JavaScript/Angular as part of the delivery stack.
+  Repo: https://www.dice.com/job-detail/d54e50ec-4b51-4813-bc1c-e7f6f72c9654
+  Confidence: Medium
+
+[TECH] C# (.NET / Java replatforming) | category=relevant_languages | source=engineering_blog | url=https://hexaware.com/blogs/why-does-azure-kubernetes-service-work-great-for-container-deployment/
+  Evidence: Hexaware engineering blog explicitly describes their proprietary Amaze™ product as 'primarily designed for Java and C# applications' for cloud replatforming to AKS/containers, confirming C# is an active language within their delivery portfolio.
+  Repo: https://hexaware.com/blogs/why-does-azure-kubernetes-service-work-great-for-container-deployment/
+  Confidence: Medium
+
+[TECH] Jenkins / SonarQube / TeamCity / Bamboo | category=ci_cd_maturity | source=developer_docs | url=https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Evidence: Hexaware DevOps Track Engineer job posting on jobs.hexaware.com explicitly lists 'CI & CD pipeline tools: Jenkins, TeamCity/Bamboo, SonarQube, Artifactory/Nexus' and IaC knowledge on Ansible/Terraform — directly naming SonarQube as a required CI/CD toolchain component.
+  Repo: https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Confidence: High
+
+[TECH] Jenkins (GitHub org repo) | category=ci_cd_maturity | source=github | url=https://github.com/HexawareSaltillo
+  Evidence: Hexaware Technologies Mexican Teams GitHub org (HexawareSaltillo) contains a repo 'DevOps_Jenkins' described as hosting advanced Jenkins Jobs using Groovy DSL for infrastructure as code, alongside DevOps_K8S and DevOps_Docker repos.
+  Repo: https://github.com/HexawareSaltillo
+  Confidence: Medium
+
+[TECH] Terraform / Ansible | category=ci_cd_maturity | source=developer_docs | url=https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Evidence: Hexaware DevOps Engineer job posting requires IaC expertise including Terraform, Ansible, ARM Templates, and Cloud Formation, confirming infrastructure-as-code delivery maturity.
+  Repo: https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Confidence: High
+
+[TECH] AWS / Azure / Google Cloud | category=cloud_native_presence | source=engineering_blog | url=https://hexaware.com/services/digital-it-ops/devops-services/
+  Evidence: Hexaware's own DevOps services page states they 'specialize in crafting innovative DevOps strategies across all major cloud platforms — Azure, AWS, and Google Cloud,' directly confirming multi-cloud delivery practice.
+  Repo: https://hexaware.com/services/digital-it-ops/devops-services/
+  Confidence: High
+
+[TECH] Kubernetes / Docker | category=cloud_native_presence | source=github | url=https://github.com/HexawareSaltillo
+  Evidence: Hexaware Technologies Mexican Teams GitHub org has dedicated repos 'DevOps_K8S' (Kubernetes tutorials for creating K8S clusters) and 'DevOps_Docker' (Dockerfiles for Tomcats and Docker Swarm orchestrations), directly confirming containerization practice.
+  Repo: https://github.com/HexawareSaltillo
+  Confidence: Medium
+
+[TECH] Docker / Microservices / AKS | category=cloud_native_presence | source=engineering_blog | url=https://hexaware.com/blogs/secure-your-containerized-applications-during-cloud-replatforming/
+  Evidence: Hexaware engineering blog on container security references Docker, microservices architecture, and their proprietary cloud replatforming product Amaze®, authored by Hexaware's Director for Technology with experience in Azure, AWS, and Google Cloud.
+  Repo: https://hexaware.com/blogs/secure-your-containerized-applications-during-cloud-replatforming/
+  Confidence: High
+
+[TECH] CI/CD + GitOps + MLOps + DevSecOps | category=cloud_native_presence | source=engineering_blog | url=https://hexaware.com/services/digital-it-ops/devops-services/
+  Evidence: Hexaware's DevOps services page describes their delivery capability including 'CI/CD, SecOps, Infrastructure-as-Code' and modern practices like 'GitOps, MLOps, and DataOps,' indicating a sophisticated multi-pipeline delivery environment.
+  Repo: https://hexaware.com/services/digital-it-ops/devops-services/
+  Confidence: High
+
+[TECH] SonarQube | category=security_tooling_signal | source=developer_docs | url=https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Evidence: Hexaware's public DevOps Track Engineer job description on jobs.hexaware.com explicitly lists SonarQube within the CI/CD toolset requirement, indicating SonarQube is either currently in use or expected as a standard tool in their delivery pipelines.
+  Repo: https://jobs.hexaware.com/job/devops-track-engineer-180904
+  Confidence: Medium
+
+[TECH] GitHub org (hexaware) + HexawareSaltillo + multiple employee profiles | category=engineering_visibility | source=github | url=https://github.com/hexaware
+  Evidence: Hexaware has a verified GitHub org at github.com/hexaware (no public repos exposed), a subsidiary GitHub org HexawareSaltillo with 6 DevOps-focused repositories, and numerous employee profiles with -Hexaware suffixes, demonstrating active GitHub presence.
+  Repo: https://github.com/hexaware
+  Confidence: Medium
+
+[TECH] Engineering blog on hexaware.com | category=engineering_visibility | source=engineering_blog | url=https://hexaware.com/blogs/
+  Evidence: Hexaware publishes a public engineering/technology blog covering topics including DevOps, Kubernetes, container security, cloud replatforming, and digital engineering — indicating an active engineering culture with public thought leadership.
+  Repo: https://hexaware.com/blogs/
+  Confidence: High

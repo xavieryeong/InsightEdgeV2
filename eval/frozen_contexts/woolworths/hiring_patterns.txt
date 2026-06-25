@@ -1,0 +1,32 @@
+Company: Woolworths
+Domain: woolworths.com.au
+Industry: Retail & Consumer Goods
+Country: Australia
+Agent: hiring_patterns
+Evidence items: 5
+============================================================
+
+[HIRING] type=cloud_infrastructure | value=Senior Cloud & Platform Engineer | source=linkedin | url=https://au.linkedin.com/jobs/view/senior-cloud-platform-engineer-at-woolworths-group-4368151734
+  Title: Senior Cloud & Platform Engineer – Woolworths Group (LinkedIn)
+  Evidence: LinkedIn job listing with URL slug and page title explicitly attributing posting to Woolworths Group. Page content unavailable but company match is unambiguous from URL and title.
+  Confidence: Medium
+
+[HIRING] type=security_compliance | value=Senior Engineer, Security Data | source=linkedin | url=https://au.linkedin.com/jobs/view/senior-engineer-security-data-at-woolworths-group-4282114625
+  Title: Senior Engineer, Security Data – Woolworths Group (LinkedIn)
+  Evidence: LinkedIn job listing with URL slug and title explicitly attributing to Woolworths Group. Page content unavailable; date and full role details unconfirmed.
+  Confidence: Low
+
+[HIRING] type=security_compliance | value=Senior Security Specialist / Security Awareness Specialist | source=claude_web_search_result | url=https://au.indeed.com/Woolworth-Security-jobs
+  Title: Senior Security Specialist & Security Awareness roles – Woolworths Group (Indeed listing)
+  Evidence: Indeed search snippets explicitly attribute Senior Security Specialist (Bella Vista NSW) and Security Awareness Specialist roles to Woolworths Group, including description: 'Develop and lead Woolworths Group's security awareness program.' Dates not confirmed within 90-day window.
+  Confidence: Medium
+
+[HIRING] type=software_engineering_growth | value=Staff Engineer – NodeJS / Full Stack Engineers (multiple) | source=careers_page | url=https://careers.woolworthsgroup.com.au/en_GB/apply/JobDetail/Staff-Engineer-NodeJs/67073
+  Title: Staff Engineer – NodeJS (REQ 67073) and multiple Full Stack roles – Woolworths Group
+  Evidence: Confirmed Woolworths Group careers page lists Staff Engineer NodeJS role for W Digital team (events/audience management platform); Indeed confirms multiple concurrent Woolworths Group Full Stack, Staff Engineer, and Cloud Engineer openings in Surry Hills/Bella Vista NSW. Exact dates within 90 days not confirmed for all roles.
+  Confidence: Medium
+
+[HIRING] type=devops_platform | value=Platform Engineer (Surry Hills NSW) | source=claude_web_search_result | url=https://au.indeed.com/q-software-engineer-woolworths-jobs.html
+  Title: Platform Engineer – Woolworths Group (Indeed listing)
+  Evidence: Indeed search results surface 'View all Woolworths Group jobs - Surry Hills jobs - Platform Engineer jobs in Surry Hills NSW' as a currently active listing. Date not confirmed.
+  Confidence: Medium

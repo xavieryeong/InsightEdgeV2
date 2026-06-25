@@ -1,0 +1,226 @@
+Company: Airtel
+Domain: airtel.in
+Industry: Telecommunications
+Country: India
+Agent: public_news
+Evidence items: 34
+============================================================
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTRRNGlqYmtzXzJXRDJVMF9veTJtemVpdUNIMF90S3BqSW1faHB4bWdPalhndDkxbWVxeHNJaVhUblM1M0lPSzdHb2w2WHowX0hCNDN5Qzdib0R6NHg5ZFUwOS1zdTZUaS1yd1c4WXZ4a21uQUlyTTRXQUhtQ1o3VHpSeEZrTGRmZ1ZIWTM4c0NUdFJzRnFrZTM0WG1OV1h0aXRUcVpkcDdJWnViLW5jeGtIYk9McUdfSmtnYmUwV00tRUFvS1RULUM2S2MxSDQwaFZ1bEZSTmxLek5ZYWlz?oc=5
+  Title: Airtel Business Debuts Zero Trust Security Platform to Combat Rising AI-Driven Cyberattacks - The Fast Mode
+  Snippet: Airtel Business Debuts Zero Trust Security Platform to Combat Rising AI-Driven Cyberattacks The Fast Mode
+  Published: 2026-05-08 (31 days ago)
+  Summary: Airtel Business launched a Zero Trust security platform specifically designed to counter rising AI-driven cyberattacks targeting enterprises.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRk0tSUxyb2VCSDh5MGNuTk5IS3pJN084YTdlc1l6MngwYkY3cGtWbHR1bEJsemhjUmI1Ry1uTjUzWGRqc2VmYXdJYkN3RDNnc0h2VklYTWktYTVUTnRGRGg2dWlmcV9YRmV6cS1iU2FueWQwd1JaNlpfWXI3Y0FGdTllOXowcF9WRXQ4?oc=5
+  Title: TRAI Sees No Immediate Net Neutrality Breach in Airtel’s Priority 5G Plan, Seeks More Data - MediaNama
+  Snippet: TRAI Sees No Immediate Net Neutrality Breach in Airtel’s Priority 5G Plan, Seeks More Data MediaNama
+  Published: 2026-06-03 (5 days ago)
+  Summary: India's telecom regulator TRAI found no immediate net neutrality violation in Airtel's Priority 5G plan but requested additional data.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi7AFBVV95cUxQblJ6WjlERHNsQzYwMUZXQ09UaTdJZ2cydDFpdTJKc1dhdFR4Q1QyV3RVWEREQi1xOF85NjRSeVpaR1ByZ3Z2dUN0WUFKY2lHRThlc0p0aE1RN00zNWdfQzhMOWd3cXU4c1hkNm8xbXF5Ni16dmNXclFEQWJDZ3JDMXMtc3lWVVd4cFRSLUhNRkN0WGlMVVlDbWwzOU50WFJLUlNZbFUxNVlyNUpWcFFFdmNtMUY2VmRlQmRtQ2Q2UmdBbjBFaVpIcjdvMTlIZnBaOVZpckMyTnY0N0U0NTJ0SVk0ejRNV1lkVUdDcA?oc=5
+  Title: Airtel defends 5G priority postpaid before DoT, denies rule breach - MSN
+  Snippet: Airtel defends 5G priority postpaid before DoT, denies rule breach MSN
+  Published: 2026-05-26 (13 days ago)
+  Summary: Airtel defended its 5G Priority Postpaid service before the Department of Telecommunications, asserting it does not violate regulatory rules.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizgFBVV95cUxNb0tLZDcwa3lGdTduVjNJUlpPTlJSN0JrOWJGd3g2cXA5elRTSVlwNlozNGFkdV9SVFZNWUVyT2lJSTMxZFl3RlgxYTRiQnkwQ2N2ejQyUTFVV1V1V3BBRDk4TGxiNXdoZXdQVEMycl83MkhBeS16d3hmSm1uaGFjYnpscHotc19BbVVQdjFpSkw1WGg4S2NhV3JuSGd3WFFZODRMdDA2Y29tTHRXZVdhMjI5VUZDSVVnSXNWTjNuNUp1N2JJSE9menpFYXBiUdIB1gFBVV95cUxPcWRUT2RSQjFqVDhhODY1TUpjdFA2b1YyOGRhNERqNlhoTmF1UXltUDRSVEM4SFdfUXF1Rk9sS3hhVlJGN1Q5OTJtOWtZbFZ1N1VDRDVHb1prSUFwcEF0bFBKSk1ucFlfNEV3OTZrOFlmeG1oY1htdmt4dTNLazRCZW9EZENIVjRXX0wwTmZHQVNoV2cyeWNvcV83OEUwaVhuMlpoSmFoNjdlOFRUY0h0UWluX1FxVXY4SzZjeTZHOUJ2ZG9MSnZkR1BPdkZIYXhpLXE2VWFR?oc=5
+  Title: Jio Backs Airtel On 5G Network Slicing, Says Service Does Not Breach Net Neutrality Norms - NDTV Profit
+  Snippet: Jio Backs Airtel On 5G Network Slicing, Says Service Does Not Breach Net Neutrality Norms NDTV Profit
+  Published: 2026-05-26 (13 days ago)
+  Summary: Rival operator Jio publicly supported Airtel's position that 5G network slicing does not breach India's net neutrality norms.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWx5SUZUOWZpanhFUmxudkhDYnhfRi1IREk2ZWZUb1hWYmk2VXI5U3ZqT3M4TFJfcE1pVXV4bGZacTdkYklBWWRlLUZIZTFIc1ZodkdrTDNOZFF6cnVmTmNmMnBsRkVCMzg0V0FPR0JJMVJJZEMzNFROTlI3ZzlHTm40M1l0a3Y0eGp1clgtbnBrLXIzM2hsYzhHdVhGUnZiQ2U1V0ROUXowMFFyQzR1ZlVYWQ?oc=5
+  Title: Airtel Business launches managed Zero Trust platform for hybrid workforce security - CRN Asia
+  Snippet: Airtel Business launches managed Zero Trust platform for hybrid workforce security CRN Asia
+  Published: 2026-05-07 (32 days ago)
+  Summary: Airtel Business launched a managed Zero Trust platform designed to secure hybrid workforce environments for enterprise customers.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFo2WG1KX1BrYTI0MklZekZmbE1VXy01UWFnNDhoTUNDTkU3eTdycTY3WTg1bWM2em1kUnFtY3A5aDlady1tU2ViS2VvNmZwLUlTWmRKLW95ZUY0a3dfSnRYNTJFSWRrZnQ0d2lwWUFXS2t1QjM5YUNDeGpfQzZqR21lUzlIN2E5Ty1ORWhBTFQxck9wRkNtQzl2SmM0aF8tUkItRQ?oc=5
+  Title: TRAI sees no net neutrality breach in Airtel’s 5G priority plans - Communications Today
+  Snippet: TRAI sees no net neutrality breach in Airtel’s 5G priority plans Communications Today
+  Published: 2026-06-03 (5 days ago)
+  Summary: TRAI officially confirmed it sees no net neutrality breach in Airtel's 5G priority tiered service plans.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkJ4cUljVFM2TW02b2ZwcjU5SkhNM0hKemVORXFwZFd2VHhjTzllUEdZT2VPSkJXVWlKNGNBTllsYmpFM2hqSlVVQ0t0T00yeEZhZWlaRzhCbmFjbTFqQnAxYjl5eWF0QUlWU0g0amVnc3daNlZHZHlMejZVRTdmMktKcUVsb0FHZHotZmFMdXpEMWZoV3cyanRMZ2V0RzlBQnFmbUZzODM4ckc1eVB0SEFfU216dllZdC05aklmNHZadmJ0UWZ4cTQ1YVliYlBvRkFnbUFuSdIB3AFBVV95cUxOYmMyeUdXOEVwbl9zUkhMZjRWd1NoZ1hyeWplcFN4OWdyZXNpMzBja1U0TVdFMlF3OWZhM09uU3BPS2c5WlhTTkp2VTNBb3hqQzVjT0FWd1J1YXFzRVVuTnpQQzVmRlhwM1FiNUFReXZsNUxnM2JnbFV1MUxSZlo1VFFlZDFzaW9xS0dMMmhvUnY0TEtrcGFtRWsydHNvbUdpaXoxa2Z2TVgtT0phakhmeE9qeWx2MXNSejFDczBzUy1zU2NmYXplQWVlWUJDZXNfUjZIa0tkQ1FJSkFC?oc=5
+  Title: 'Does not breach net neutrality': Airtel defends Priority Postpaid service - Business Standard
+  Snippet: 'Does not breach net neutrality': Airtel defends Priority Postpaid service Business Standard
+  Published: 2026-05-26 (13 days ago)
+  Summary: Airtel formally defended its Priority Postpaid service, arguing the offering complies with India's net neutrality regulations.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2pRTGhQMm9qTzdGSFdPYkZQVFdULUNWMHd0WC1vX0gwM0FTWlFEQy1IdlRNSi1OVVNjZkhWWjNGN2RWWEd3b3JILXlTQWZZVWVtOS1NNU5VWlRWY2JMU2ZvanpXRF9yTXExOUFlYWpZTi1kNWwyRkZfVmRLY2lHa2EtZ2tURTNYYjRrUERudy1ZVnR5LVFhRjZsZ3ZLT19mOUlyWHoydl9hRW1vNXpDRkNJSkY4V2J4bDJfaUh3NHNSSXFWdDB5YUlQT3Y5N3hHczdndlJ4WjjSAd8BQVVfeXFMT3MtUmdGMXVNQU9ZMDhqR3BxMVJMQzB2dnppZ1ZiaTh4djRQZW96UGpuRjhDeXliSHRZQzRKSTRSMmY0MGpEd3RpbFc4MjQ1TmV5Y3RQNFNaenJLdUNKZ1dMdmhZM2NQTHlWQnNVUHRRMEQzakEyODhHenptcXdFbjl0VGJBalhrUDFnc3RVU2V3V0NWdEJlWVFoV2VQTWY4cW9mQzg1bFpKZHBLemoyNjNYN2hOOS1zMFR5V0RTYXBoU1JxeXBHeURfclVURlpQcWgtSHRvWUlfaVJUdnZhNA?oc=5
+  Title: Airtel Business launches Secure Workforce zero trust cybersecurity platform for enterprises - BusinessLine
+  Snippet: Airtel Business launches Secure Workforce zero trust cybersecurity platform for enterprises BusinessLine
+  Published: 2026-05-07 (32 days ago)
+  Summary: Airtel Business introduced its 'Secure Workforce' Zero Trust cybersecurity platform targeting enterprise-grade security for distributed teams.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjJKbUxtN1FnVGJXSGF5STJQQzlIQmMwNDVRdGYzNUYySFRJTTRWQ0NqeFppMHFDOC1Ebm0tSEhFbGV3Y0VMOVgxWVlYMWllLUtDYkZsTm9RQ3h1UFJGVUJtWlY0WHlvcUtkVzdpZUdXOGlXVXJTZWlqRmlkNUFMa1dOM2g4YldSemZLc2ZhOHgxT2NnZFZJ?oc=5
+  Title: Airtel Business Launches AI-Ready Zero Trust Cybersecurity Platform for Enterprises - TelecomTalk
+  Snippet: Airtel Business Launches AI-Ready Zero Trust Cybersecurity Platform for Enterprises TelecomTalk
+  Published: 2026-05-07 (32 days ago)
+  Summary: Airtel Business launched an AI-ready Zero Trust cybersecurity platform designed to protect enterprise environments against modern threats.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjY2dXozX0gtREYtNzVET1VxcVJGMVBCUm42cmo1bEQ4UWlhSEtkMU9xcVBHVTdhMmR1LU10d2FiZHk5NEswUW1GZ1NRX2J1cXBuT1oxbkpCb21GN2RfVTYzUHM5VE13UVdMOVBDYlBZNm5YM2xRV09BdWZOenQzZERobVRjTWJSREtMUU9kMzUxbUhKeC01R0ZVVU9GMnQ2aEhsVV9hSTFjRklqWFNXUkZwWGpXa0dFcEo2U1hlT2pTS0pIVnfSAcsBQVVfeXFMT1B0NkpaRkpmOUFLcVR6WkxZMDZvUTlUMTFaVVVaSENYMk1TMDFCRDIxTVpsQjR0eTFMQXFVNnp2dWsxaUZXQWFqNFBLbnpmQjdKanhjckRLeldqZU5UMUU4NHNCNEVDUmNjUUhXdHA1MGR4X29zd3VpQlczRVA2aE5wZ1Z2Z1R6ZkN5VTJ3cngwdzBIbkdrMG9qQkNXMVp6UHMza1RmOGVTd2lFTkJaa1JTODJIOGFxaFhWUVJuc1R0RzFkMmxlcEVqejg?oc=5
+  Title: Airtel launches Secure Workforce, cybersecurity platform for enterprises - Business Standard
+  Snippet: Airtel launches Secure Workforce, cybersecurity platform for enterprises Business Standard
+  Published: 2026-05-07 (32 days ago)
+  Summary: Airtel launched 'Secure Workforce,' a new cybersecurity platform built on Zero Trust principles for enterprise customers.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlhtVnNOMHh1a0pJSVNRZ21qREN5ZkQ2WTlfWjM2UENKbW9FajMzN1o0bzc5anVwczloSlZwczUwd1ZSMEdmVkVTVERFTlVLZHNQckg3S3YwaWliajJUN0VVRG1CVFdmU01HQVpOU2h5aGFaaGtFOUMxYWJ5Q1lUR0s3UVBLYi1PMlJVS0VDSEFReVNST2EwNUwyX0ZmT1Q4aFNsY1ZINEVvZXRnTlhn?oc=5
+  Title: Airtel tells DoT panel Priority Postpaid does not breach net neutrality - Communications Today
+  Snippet: Airtel tells DoT panel Priority Postpaid does not breach net neutrality Communications Today
+  Published: 2026-05-26 (13 days ago)
+  Summary: Airtel presented arguments to a DoT panel maintaining that its Priority Postpaid 5G service does not violate net neutrality rules.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pZ2FKbnRPSDhfQ05MNExUVFN2SUNlVTRoUnVzTFNDNk05QmxMdHRteHZSQU5yMms2MHBHOG9uaS05Vlp6a2s2aQ?oc=5
+  Title: Airtel, Huawei strengthen partnership to advance Tanzania’s digital transformation - dailynews.co.tz
+  Snippet: Airtel, Huawei strengthen partnership to advance Tanzania’s digital transformation dailynews.co.tz
+  Published: 2026-05-19 (20 days ago)
+  Summary: Airtel and Huawei announced a strengthened partnership aimed at accelerating digital transformation initiatives across Tanzania.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmlkenIxR1pLOHNKdS0tSk8zMHJ0TnAtR2Z6bnhYN2tyck1vN3M3RG0xMm1YNXVhWFVsT2Q2eW9saDNrZGJud0ZNb2hmQzc0bWNHSzJybDJWUmxZRnFCeVlVbDFKNm52dzEyck02Q0hDMV9URlRqbE1jbkloYm52MDFSak1MWm5BcW1WNnJJQ2t0LXRMdEhF?oc=5
+  Title: India's Bharti Airtel launches 5G slicing service - Data Center Dynamics
+  Snippet: India's Bharti Airtel launches 5G slicing service Data Center Dynamics
+  Published: 2026-05-21 (18 days ago)
+  Summary: Bharti Airtel launched a commercial 5G network slicing service in India, enabling differentiated connectivity tiers for subscribers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3JsekxsdWJtOElTZTh2RkZVLXNvbGd3czRYOGxIelZTbVZEaEwyWlg3ejIwMWtUSFduWXJLd29rWEdNNkNNMXByMUY1MF84RzR5SEFTeF9JejE5ZzlWRmpYczg4VlNwakx5dWRwR05xMjVQeENRc0czdjF2V0hDcHBIejZOSkp6LWN4dFhwZS01MFFReWUzM3BEMWlxUldfQi1BY3MtMXZ3Mi1Kd1NRQVhLd0M0c3NTUVlPc3U3VTAxdFJWNnp2NThRekVzSnVFc29zeERR?oc=5
+  Title: Bharti Airtel Launches Priority Postpaid Service with Advanced 5G Slicing Technology - The Fast Mode
+  Snippet: Bharti Airtel Launches Priority Postpaid Service with Advanced 5G Slicing Technology The Fast Mode
+  Published: 2026-05-25 (13 days ago)
+  Summary: Bharti Airtel introduced a Priority Postpaid service leveraging advanced 5G network slicing technology for premium subscribers.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjFoYTBLSXN0SGlval9nSjFvc3d4a2NTY21kX2JLTHF6NXhHVzRrUzlDSW5XTlR0U0hLblJER1ZwZHFQOTh6TDFQSTZ1VjUyeExlcXc4X29raU45UkJ3cUY3bDYxS3hHRnFnQ1N0WkhEdGFURWVsU21iUXBqTExhUjc4aXJTXzFxdHhwOGZPVHJ6MmNEMzktMTBGMWNxLWd5?oc=5
+  Title: Airtel Launches Four New Customer Service Centers in Nairobi - TechTrendsKE
+  Snippet: Airtel Launches Four New Customer Service Centers in Nairobi TechTrendsKE
+  Published: 2026-06-08 (0 days ago)
+  Summary: Airtel opened four new customer service centers in Nairobi, Kenya, expanding its retail and support footprint in East Africa.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkQ0N2RMY3Nzdng1akZuMGhwLWhSSVFMd1kwaUp0TVBTSlpKTE5OWDFLOUhtSTZldGptaDl2NkROZ2p1U0t6VmlaM0JqcWR2RF9iUFlSQlowQ3JKQm1EYU5YX3dEc1Y3b0p5bk9rRmF1VW5OVHhqdDd6MUNtQVZKLTV1OXpSNWI3NmJqdzRnSDU1MjRvVHBVWm1vaXpQeHZWOGhpQlBmS2VqSUh6dkUxZE5yNG94N1N2WVYxdFgyMVZBRlZ6YlJ1Q29MZ9IB0AFBVV95cUxOczAzbEhiRnRKMmlOeWMtUldWbi1zUUMyaDlfaGtLbnNFcHlxRXZSNkdodGtMTERucjNTSWVGeG1rVHNwM1FxczJaQzQydFF5OXZyMFgtcWs2d2J1OUhCaUFzTzVvU2cyNV93LWwyUGs0UDRBZFk5ZS1GSHdDVzNLWmdZYnFoOUd5c2lnNUw4ZVVOZW04Z3dpNFJuQk1ReHl5UG5UMC1ic3hnMEE1OXUzN1pDQWtyb1FOMGRabmxtNlpqbFpzTVNkV2pITmQ2LUhq?oc=5
+  Title: Airtel launches Priority Postpaid with 5G slicing to lock in premium users - Moneycontrol.com
+  Snippet: Airtel launches Priority Postpaid with 5G slicing to lock in premium users Moneycontrol.com
+  Published: 2026-05-19 (20 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTjFwMHhkWjZHVDlSbXMzNFhjcmlqM2Juamt5NU1UdDNFcmdhWFRGaGZrX1p6dDV6djBzMHFCaHRoX3VsRXFIa0JwV1JDVTM2ekhFZGRwQTdTMkkyYUwyQnprQkpWa0ZQa0gtTjU1eDFuZW40RG50OGpOaEUzTHJkQk1ZNG82QUIzYXFtUjZqVjlMNk5FV29haF90ZDRfZjlROVd0OXN5bjkyRlFBQ1djOS1oZ3ZUVGM3SzlXRWlVUHJJdEhWXzhRTC1QUGRKenNnMmktZ1Ria0N3T2dXVnZpZDU3M2dLSTlsU2hMRVRMUjR2LXdTenM0dmNva9IBgAJBVV95cUxQeEhGQjg5Mml6THJZeGwxUGVXdktPWENPME1DT1JDNEhydEF0UndrS3ZGZVQzY1E2djJhMTk4YzYzNmpJOEhycEluZk5wRkt6eHM2SzF3MmNaamxiNktMY3RfdGNYaHhpa1BDX0JBU3k0WHFKVnpvQld4VDdtZ1UxT2NOVDU3MVJHcmJJQThVVHpLUXplMTNnbFItTW40V2xxd1NYUXlsanBSRVM2bUFhaW1FdUhMbjAtT2ctWGs4eE1KdDhmWTZ1cGdOaXFad2ZuNVBVeHhidFNZeE52TmY2T21icTF1ajdBZEk4NEFJdzZSS193U2ZISmt2bjBkamxO?oc=5
+  Title: Airtel launches 'Priority Postpaid' with a 'slicing' tech: Check the 5G plans - The Economic Times
+  Snippet: Airtel launches 'Priority Postpaid' with a 'slicing' tech: Check the 5G plans The Economic Times
+  Published: 2026-05-19 (20 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWU9TZjRLbFk1cnpWUUVKUHdsWTZXSkhxSHR5ZldIZlZxdlMxYXduaFpmV3BhbExSUnZobUxRUWdlNXVfdXl5em1uQl9lVU50UGtycl9FSTNOVkNyWVZFMV94aHNaT0RxOExiak80dWItVElSVVpIZkV1MjBWbk1fMk1jOWhxR002cWw0M3dkSExVaFFvc2REemQycktqVWNDVXA0NlpBVndiOVY3OGpObXlfUmZxQm9EeXNIaEM4aHlDRS0yaU1Mb01kNW1FcXlDNFJ6dU54LVViVnZoanNVZXpFUXlLTEk1NXFrSXM1U1F4VTZkWklxa1JlUTc1X1U?oc=5
+  Title: Airtel launches India's first 5G slicing service for postpaid users - MSN
+  Snippet: Airtel launches India's first 5G slicing service for postpaid users MSN
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigwJBVV95cUxNMWZMQzU5ZnlnaHViTHpsT3R5bW4xb0ktMHhzLUZlamVEdlpMbm4zcjBmRWtobEszdkZpenFHT3ozT1RUVW5kTzFhTWxGWGQwME1BZ2VkMzZFSDdZNnhUYURFRHdfZEJNTThrb0F1SlA3RFBQN3ZSSEx0Q0lkSWdVMjVQVElzTFEwRHo3SFZPV0lQVTNiclNzZmNKMWpYWEJ6MTFVV215RGx1V0RxZkpCWEdrSVZLVlZyUjJvLTRZVTBzTkY2Y3FHcTRQdHNDN3hDOGYzU0hGVVdZbHN1TDd2ZUZ1ZVpwbXhmMFItQlZKaXozc1R0OEdKNkxyZFhWWHFDUk5R0gGIAkFVX3lxTE8xeUpxbDdrcHlYZUl5Zmp6dkZMUmN1anB0N2pYNDA4aWlsaWM1dVZRZUUwajAydUtYTlZ3aldodjRxbjlwb1FfZ3ZFOTB2emdVS2JTemFmcktUY0tnMUNvb1JSekF1QUNWR3NXdUhvSlJsZ0lfeWlIUjNzQjZDOENQQ1hjXzlNRlByUW5HRHRMczdRd19VNnU3UDlmZ0MwNTBQYmpVYV9OVmMwMUZVUUpfQWFWUmdaQnM0T2R3X0xTZnlEWV95QWlPWlJaZlFnaTRwYXo1ekNxS1o2a1ZPQnZtOWNPY1BkYjhpVUc0am95bkEyWHdPVmc3QWhDdlQ0eEYzMkVFS3lSTQ?oc=5
+  Title: Airtel launches priority postpaid plans with 5G slicing technology: Plans, benefits and more - The Times of India
+  Snippet: Airtel launches priority postpaid plans with 5G slicing technology: Plans, benefits and more The Times of India
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxQS096ZlUtYlJ2c3hCMm9xNVpic2lHQ3V1QVZXck5lNGRxSkN3c3BWZWZCcmdENGtyM0hkc3oxbmQ1WkVNUi1lZ2QyR213dndKYjdyVGV2VTh1cVJwRElWQ0REdDNkV1lpaTJDV3pfMEh0RjJFdHJBVlVCSnQ0YXZRbjZIWUZSVHlrMHUwRWNndG1haE8xSWNjTUh5azZ2dGtUNlh3NE14UUpQRUdrUEp6M0x6QUpYcDA?oc=5
+  Title: Airtel Africa launches new share buyback programme - Premium Times Nigeria
+  Snippet: Airtel Africa launches new share buyback programme Premium Times Nigeria
+  Published: 2026-05-22 (17 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX0d1enJ5SEhjYU5EWnZDUEV1dW1uaUIzZndKbXJXd2FUc1YxOU9xR3pqQmxtVWxCUFVZQjlVQzJZLXpEcWNKeXVrWFgwR2RVYWtJWXBnZmU3c0xRV29mNzFieHh5SHF1dW1hd1lVY1dlM1lvUmU2TlU4UDlHbEwyV2VfMC1nUzItZzFrUm1ialVwWUFVOWRtZUtIZDJQMWs1TGVvMG9obXB0V21WSjNUNFBldnVNOGdxTXFCTERvVkV2RE5POXpxNVFud3daY0M4SHhlSzVR0gHeAUFVX3lxTFBhQVZKM3EtOXRyWEtGaFRGRjVWODJaWnpFb285dUw3MnVvUFlrRUl2aFZZZlVqLU4wS21hTGdSUVNYODlmMXkzSTFTSWswQTUtQzJzOGt3WmlYdFItMWJkU0tuYXVXbzFaRkI4X254eVN3QmVFVGI4UUxuMWc0dTlHVDQ4bE9ubktNcXB5ZHRLMHpQNzA2d0lJOS1QVmJhSmY2R05JQlEzVnhiZU9nblVBSTNBcS16djZ0X2ZYRFdZa1lZak0xanVBTUxXOEpNWnBJQ1VkeTI2Y01pZXRJZw?oc=5
+  Title: Airtel Launches New Priority Postpaid Plans: What It Is, Benefits, Pricing And Features Explained - NDTV Profit
+  Snippet: Airtel Launches New Priority Postpaid Plans: What It Is, Benefits, Pricing And Features Explained NDTV Profit
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGxtRnJSVGdLMnloYkJucmxiLTg5Sy1XQkZtdVgzMmNLU3YzTTZZNkNGU2k5ZVkwMGNyeTlkV2VCbkw3ZzRRdzYyLXg3MmlsUEI0UjlWMXAxUEgyVkVHM3k5OWR0QTVfczJHMnRJN25LSkNIdFZPQlR0X3IyNjh5ZE1odXRLcmJSWTZxMmJ2LXRMczJ0RkU4Nlo5X2Z5ckdKQ0hzcC1OdVQxOUxqYWljejR6enl1ZEpxODVZVmpyaU0wZWVzVHJfRUNRVEZZaElKTGpzWndsZnh1REh2bUdobHFxaDbSAeoBQVVfeXFMTUJaVUNaVktwS0tIN1BFSGdVQ3hCYk4zdmh4WnRYX2dXOHVXSUJIMkxQaV80aXd2Z3hxMGdabVFmZnJwSl9uR3hYbDVKSlQtRlZUTExXSF85cElXMVpfN0xjclRQb2hGOGZIUDN3akpnOTZFNndVN3liaGZxa2QwMnI2NDJESTdzZGZlNjM3X21EcWRpX0tJVTlTdVhUaUhnUXNDb2FfMzFNXzk0dTlkMzdxeTcwVll1OE5OeDc5LTEwWFd2YTlxX3I5LXYwSjhHRzIwNzQ5cjF0RXZGMlplakRJeEM5MmJYckl3?oc=5
+  Title: Airtel launches premium priority postpaid, says it offers more reliable connectivity - India Today
+  Snippet: Airtel launches premium priority postpaid, says it offers more reliable connectivity India Today
+  Published: 2026-05-19 (20 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlFhTEpsRHhtVFFyajY2SEdGdmxkQS1HRXN6aDd4Mk9uUDRKb1UxQ2lQSkxvRmx0bjdKT2NQeXo4QXN1em81M2lTcW0wdjZ2bjQ3ZU5vSXJmdFZoN3o0a1k0amJEMnJGdTFKUjBlbnJWUktKdGVqNEtNV3RMbWMzVkM5XzBzRlBFSWF5Y3ZmX1FlXzFwWk5mcW9LMlB3dmRRY0ZfcEhwa1RJZEhpMWR1aDZSVFRWUQ?oc=5
+  Title: Airtel launches Priority Postpaid campaign with Fundamental - IMPACT Magazine
+  Snippet: Airtel launches Priority Postpaid campaign with Fundamental IMPACT Magazine
+  Published: 2026-05-21 (18 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkxqRlNnY05FWndhUnZqX0VCNXlZM0F2b1gzMEZTVnZLRHl5NGdKT245by1DcklTZXdWUVhPMlowTWx5UHU0dHZQZ3dub2JFTFhKcEpGdHRkaDhTQmgxeUJKY1JiSU5NSV9BekNHdFRmeDFrdU1CMW0yOUNUaG1mNVJoMmloa2p5Y3d5QVdJQVplT2VzX241dEtvdndoQTRvX1JneW5kUGFUMzVLR0o4LTBiOTF4aXZrXzV1NXdNc3B2UGk5TEh4TE1WRDQwMng5Tk14dWNR?oc=5
+  Title: Airtel launches 5G SA network slicing for postpaid customers - Developing Telecoms
+  Snippet: Airtel launches 5G SA network slicing for postpaid customers Developing Telecoms
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjg3d0tKeDZvelFNUm5Kdm1wbnJvSlhKSjNJMEs1RHZBQUEtQUF2dXZ5UTBkM19LVGtQd3dLX0l2ZlNjb1ZZTGxyY0NrY0dORmE4ODAxeVh1R3Y5UjM5Vk9WZWxSbXc0RTVWVXVFNVJfdlE0UWJITkNIejFVSHNLM3liWWtKaWtmNlJF?oc=5
+  Title: Airtel Launches Priority Postpaid with Premium 5G - TelecomTalk
+  Snippet: Airtel Launches Priority Postpaid with Premium 5G TelecomTalk
+  Published: 2026-05-19 (20 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcU5aU0ZwMlNqOEEtdlNPLURqUzBBaUxCWV8zUWg4a0x6SzZuYXlOUUpfaXZaeGlfRVMza0FwdlZwam1BYTFzci1sSjZQUDJ5SlJ4U3VJQkFXa3Ayd2lEQ2lsbU95WnFnYkRud2xfNGhDNlRIdkJGVjVPbUMtN2pTRHdYbXJRN05HSWFkV0xYOG5lZGh5X1VPcjlNQlRMaGgxX3J0R2lsX0FsT1lKUVBqblVlUlpObWNTaWNRRkJQUVIxYWJvWlVTUXhFSndMV1VDTmtQWi1WeE9zZ2RKTG9KT0I2RHk?oc=5
+  Title: Bharti Airtel becomes first Indian telco to launch 5G network slicing-powered service - ET Telecom
+  Snippet: Bharti Airtel becomes first Indian telco to launch 5G network slicing-powered service ET Telecom
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM0d2ZTQtTnV1N3RjdzJWTVNPV3E3Q3VMYkxqNGZjVjZpTkFtTEo4V2t0VkZ6dnNyYXNtTmtIQmZ6VDdYVllWUVdmN3pxU3BfVVJweUN2UkxGTTJEWnZ5YlQ5TU80VDdCbC1jSTVrWk91WlRfTDlFTHVCeHdRYTY2YzlJSEpydXlzN0RDbkc4WFpRQnRqcVM1NjczelFEQjREUWFXdjRKOXJTMktibUh0ZktYM1o2S1ZKOGNMUURDZjljaHB5R19VaGctTW1MR212dnNUamNR0gHbAUFVX3lxTFA5cnRrNG5pTldhbjlUNndMMnVEbEZNRXFWWUsyYWliMW9hSm0yRGQzOGhtTUk2OVdQb1VOSmNOYjFVWlRqclYxRmFRQ1ZaTEdNVlZ0TnVBbm9Vd3hISHc4RlNhN2lGNms0aGxwV3JFQnlWUmxqVEE4cWJZYlhCc0Q0MmdqZmlnZXl0UUJQU3N5S3BSazRGS3VsSXRnZUtLS0Rhb01rM3Q3am1GQm1hRE8zcjBiNnVZSHlnS2JGUW51VmIzTkp4Y1R3TnA5eFFYVlZ5U0NGREV1OFIydw?oc=5
+  Title: Airtel launches priority postpaid plans with 5G slicing - The Economic Times
+  Snippet: Airtel launches priority postpaid plans with 5G slicing The Economic Times
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxOcW9MNHl2NnU3bDlyZlo3TnhsMnUwUkg4RmFqb2F2bURCNmVadm1LOGJYcHI3NWZrUWJ1NkR2OTJoTF9oOUtGaGFoZ2pxS2ozUDdoLXNxZDdSY1RlSnJfR1N3ZFlPdG5nLVBwYU9vYVAtTW5nUXg0LVpxd3E1Q2RfdGN1amlLYU5YNVNtWk5KZThtTzVwT0lhMlBQY0pHLWxDVGJWMlZjamk2bEZLOUh5ZW5IMEhsY1FyU3BMNk9HN1RpbW560gHKAUFVX3lxTE93dWR4bDJEV1VwMExrMXBmWTlObi15MWhKOE1tdzhuUzZkN0R5RW5yaFhvQm1xb3J4MjV2YTAxaUhqbXlOakExdzNXMS1BdGZPY2h0UFZ6UFp6Nnd5R1dhWG9oal85R1E2Q25HeElNOGZwdWQ2Zl9wdndlRFFCOHlnU2tTMGtqWE00enRoZnREdmh2SWpMUVUyTEtBdUVRWVo2aG1HMDRFdjBsNmVVNTVnT3N0Rzl6UVA5ZzVKVS1SNDhsNVRPM09DT2c?oc=5
+  Title: Airtel launches ‘Priority Postpaid’ with ‘slicing’ tech - The Times of India
+  Snippet: Airtel launches ‘Priority Postpaid’ with ‘slicing’ tech The Times of India
+  Published: 2026-05-21 (18 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2FJRzRXTngtZFJBdWgyeTJqS3ZOem9tNUhhdERvS2NQd3dqM1N1bjZoR0lKZVdMRzBlaGd0RTNmcUJZd05Zejg4Z0llclFKcGR1bmpoU3Y2MENmejdsYnRpSGQ0eUlFOWc5SGJScGcyM0Y2MHF5LWFKM01KU1BTT2RmcHdoUUN5c2cxUGlBZWlIWXd5SHNNSFFIUFpQWTFvMFcxbDAydk0yalp4NkxHXzI0SEtUc1dFOVhuQ3NSZWwyRXRTWTExSGQtQUJfMlJDOF9DX1BsTXlsQmVKOG9RM2d5N3UyZm0taE5WZnFZakQyYk5fTjFuajNybHk3T1kwWjQ5WWhlamJhSUnSAZACQVVfeXFMUHNkN1R0X3hrOG56V2JNMXFCQVJyS3RiQmEydlVCNGpHbWlKMmZUeTg5YWpBNGFtUnZEek52QlJxZ3A5VzRjMUNhWHExTHdTRGZrekVCVVpKdFMtdU9id2VXVDRpWU1FbTVJSGRkdHluejFMSUNudmtzdjdfckRKSThCOXYtbi1oSEMyc3dUd1FiNHF2NUVSZDhKX0NwNjV1TnpjV3FxbE5mQzY5SFhCc0VWYzMxUVBVNmVFci1HUW0zNnA4T1lnMFVQaE4xZXBla29kQy1wMlRYcVNxMlZLZTh5ejB0RXIzNEJmb2JLc012OHFXN2ZaWG5XQ0s3Um9mNmJaX0FvcmdGSkNwcThlUnI?oc=5
+  Title: Bharti Airtel launches India's first 5G network slicing with Ericsson, boosting mobile leadership - The Economic Times
+  Snippet: Bharti Airtel launches India's first 5G network slicing with Ericsson, boosting mobile leadership The Economic Times
+  Published: 2026-05-20 (19 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmoyc0J1SmhOeTl5Sy1sOXY5S3BHb0s5di1ETVQ5U2VJdlRGa2ZlbzNqd3l2NHE4RENIczJ0V2FiclJ5X2F0cUx0SDZWSUs1UXNpSzR6dmpIbXAxdGhWSkhkaVVjajRmN0R4VjlLY2J4ZmFCWUJ6QUZ1dERNSk9PTEd0QlQtQzVPckdVbkd4V0VZbXJGZW1vTU05SXZocGNiWlQzM1UxUGtlWk1uMXhLeUtEZGZxRGl5ZDJ6YlVCSdIBxgFBVV95cUxQWHVOeDN6NWNsOHZiMUYzWEVrRFd0cUs2SmxOSWYyaWpMdmVUdXBYLUJ1UGgyRjRNTndHbnBSMkIzUHZPb3cxN3lnOHhXcHB5UEpadUdyOXNLTVdBY3NCNmREZUdlQ2dTcU5YVjlxZ0xRd3JpeldjTEVQZXYyeHUxZXA0cFBpT1ZiUVdadl9zaU9NLXRidXdGWWVUbERRR2ZNTmJtaUdjT0V3bk43ZFJEbmZnTTBZQ2t6WFBxekd2N3NCZDRDckE?oc=5
+  Title: Airtel launches ‘Priority Postpaid’ plans starting at ₹449 - BusinessLine
+  Snippet: Airtel launches ‘Priority Postpaid’ plans starting at ₹449 BusinessLine
+  Published: 2026-05-19 (20 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGxXMFdJMGJNTWh3Z2xsekNDZFNqdUhDNUctN0V4S3dUaHowM3pMNjl4NjBqdFZSdUs5OUNzdGxRN3FPNHBld3V1aU5nUnZRLWFzUmtIaTNQdGpfOEZtUmRUSVBvLW9GM0dsdjk2U1VCSzItTkNVcXE2bHE4bFdzTGgxZHpyQVHSAYwBQVVfeXFMUGdBRTZ2OHBBQ1dCdi1UbWFybWtNUXVNSU9WTEpPSHRSeEU4Y3ROcjJaejYtQzM5R1hTRkhVUFNuUWJYYUMwSTBCaGhrdkUxS1hZc0ptNGJyd3MwZEVZdHVBOU1PUHhFQ2J0M0JfUWtIM1A5Qy1OcEZHUUZoZE5jTi1ISjl6OWowbmxjNHI?oc=5
+  Title: Airtel Africa launches $110m share buyback to reward investors - The Sun Nigeria
+  Snippet: Airtel Africa launches $110m share buyback to reward investors The Sun Nigeria
+  Published: 2026-05-25 (14 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXVyakhHRER3SVdOT1JmQVE4Q0p0QW1MdUlCM0RVUE5lLWw2OGtteDRSN1BXYU9nNWM2OUJNYkJPS0F3WEZNVkoybU1sNXhRbW9jX3JRUmNVRlNtSUhuclNDZUtFY3F0cXFteTJQTnNtNkplTlJ6Rk1wcFhHeWFTZnJIbmpRVmZaajFydXhRRXZSejdNc2RiaDMzRkRQdWE1dm1MUUdXY09GREgyZFFibVVhMUMyZXFtMDg2TnV3VQ?oc=5
+  Title: Airtel Africa Foundation Launches DigiLeap Tech Drive to Empower 200 Women in Lagos - TechAfrica News
+  Snippet: Airtel Africa Foundation Launches DigiLeap Tech Drive to Empower 200 Women in Lagos TechAfrica News
+  Published: 2026-04-22 (47 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxOZV9OQ0wwY2tFbjQ3c3d6ZHN1LWdYZzROZUZ3cnZ3V2NmSTFURUhVOEw0YW51MXVQVzFsR0lwNjVaZ0tmMFYzZE1HdEhKUHVYNjFPRTFhRV9YbTg3d2hiSmZCN0xRZjNsdnNpdEpneTN5SjVTX3NmZDBTaE5LN0I0NEU3WE1id0N4SGZlaTlXOFlHQVNNODlHNlJfVGxaeE1JMDlsdHZ3?oc=5
+  Title: Airtel Launches ‘Priority Postpaid’ to Deliver Seamless 5G Experience - City Today News
+  Snippet: Airtel Launches ‘Priority Postpaid’ to Deliver Seamless 5G Experience City Today News
+  Published: 2026-05-25 (13 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUlVZnhTbkxHejFlRXczWmtacmVCRlFWWUhITzFodEJETUF6S2Zzb1BkZDhSOHZWM3h0SWhIVXJaTGNxdUhxZVU1R1FRY1RibmlvbXk0alEwVmJJZmI0X19NU3E0dmIwS3VsZ3FJdmxla0NwQ09ZMHZCZURYR0RudDdwakpNdWNzUE5lVDlXMmlDTC1TR25aejB5WkhxUER2R3VwRHMyZHE4N1pTWjZpUkhkRTZETk14SHNBRk1adFZ1T2hDS1RlaWc5V0szelpPcTIzQTRyM0g?oc=5
+  Title: Bharti Airtel Appoints S.R. Batliboi & Associates LLP as Statutory Auditors - scanx.trade
+  Snippet: Bharti Airtel Appoints S.R. Batliboi & Associates LLP as Statutory Auditors scanx.trade
+  Published: 2026-03-10 (90 days ago)
+  Confidence: High

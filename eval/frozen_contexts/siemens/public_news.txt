@@ -1,0 +1,455 @@
+Company: Siemens
+Domain: siemens.com
+Industry: manufacturing
+Country: DE
+Agent: public_news
+Evidence items: 73
+============================================================
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxOcjFRbmpmeFlBcFJuOTZPUlVtMDBGbDVOU2FIQmFhUmk0TllQenFnelJubWctdHpUQ0p5M3BBR0drd09ObWd5eEZGU0ZtMlZrbWpDenFFSnozNDlRWU5xTWdjYk1uZFI4UGF6bUhVdDZDMHdQMFJaeU1ScFMxUWpxaDU0aGw0bjZJRlhRdTZUdDRQeGxzZWQ1S1ZVWnBDdw?oc=5
+  Title: Protect digital substations from cyberattacks - Siemens
+  Snippet: Protect digital substations from cyberattacks Siemens
+  Published: 2026-04-14 (15 days ago)
+  Summary: Siemens published guidance on protecting digital substations from cyberattacks, signaling active focus on OT/ICS cybersecurity risk mitigation.
+  Confidence: High
+
+[NEWS] signal=cybersecurity_incident | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Od042MFZyNW51UUhIN3pwSm9PR2NveTJKNmcyc1JfX1Y5b08xVFBicEpLZVlrY3U4Q0tmcEM0UlBSeS0tN0hMUzQxVzdjNDg2MmpjVjU2dEJ2eUl1elJRUS13SWdMRlhE?oc=5
+  Title: Increasing vulnerability transparency with Supplier-ADP - Siemens
+  Snippet: Increasing vulnerability transparency with Supplier-ADP Siemens
+  Published: 2026-04-01 (27 days ago)
+  Summary: Siemens announced a Supplier-ADP program to increase vulnerability transparency across its supply chain, published 27 days ago.
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXRwTGlETmUzVEQ2ZGtIcXJRRXJpRjRWV3VHdkxoMEwxR2hxSUN6VWVQNlVBSzhfZ2dtQ0ljb0dQVXlnbXZ4TEV6bm1fUUhibzRuV1Bma2JsTlU4MnhiQ0o4YXBrbDF3bFN2T1JrY2JlN1VjVE5UbWVMaTFka3R1Y25IbkFmYVRCYTVWTndWb1BfTXZDWXFYazJnZllEaHl2YzRFMDZwRFRlSlRja0R2ZHFHVDdfNy1KakhSejlfWkZka29mdXh2a0ZURUhTeVFnN0NZ?oc=5
+  Title: Palo Alto-Siemens Launch Verified AI-Driven Cybersecurity Solution For Industrial 5G - Palo Alto Networks - Benzinga
+  Snippet: Palo Alto-Siemens Launch Verified AI-Driven Cybersecurity Solution For Industrial 5G - Palo Alto Networks Benzinga
+  Published: 2026-03-04 (56 days ago)
+  Summary: Palo Alto Networks and Siemens jointly launched a verified AI-driven cybersecurity solution targeting Industrial 5G environments.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1Y0VG1iTUpocG1ITzN2U2dfNExZVGxpNXY0U2N2MmdjdHRYN251VTNSWnZIRl9fbm5aVFZCVUJJa3JIcUxLakQ4MUxFWFFpVnJoQkd1X3hLbXFMR0MxUEFyT25ZcFplNWdJYU41UXVOY0JWQmhOXy1kRmlmRmZwWFA5UHBFYk9kbzJ2NGNjVGdmVDYxVC1pTkV6cXM1WnFUSVF3UkVyUzJWSkRvalRNWlZZTUlld3lIeF9pc2xjb3NfQm1EX2NSSlQzQ2JrUQ?oc=5
+  Title: Siemens Joins AZuR to Support Digital Transformation in Tyre Recycling - Tyre & Rubber Recycling
+  Snippet: Siemens Joins AZuR to Support Digital Transformation in Tyre Recycling Tyre & Rubber Recycling
+  Published: 2026-04-29 (0 days ago)
+  Summary: Siemens joined the AZuR initiative to support digital transformation in the tyre recycling industry, announced today.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3dmY0N5cEwyOTZaa1JRWHFqSkw1TWZiM0N2Z1RXZDl1UWZIMnZtZk9Bd0VIaFFSNzlFZ3UxSDRwTFV0eVhCOC1HSGg3TWlkOEt3YjNLUWlGcTdxMmpTR2lOWkdQN052Vzg4V1VWTEM5V3o4MGxvY1ZWVkhEYzhST09wZVZwd2dLWUZpaVNuTVl4WDkyVVdOQ2dvZFhrOWhSZmZTLV81ckV2cjTSAbABQVVfeXFMTXpGb2QwUWVNYjVHWnVZb2w3eWQzMndzMmpsdHpDM0NMblp1T2Y3T253SXhpaWpiNFhJcGdWSTR3MmlPRTVoZEFLTXFTWkRHXzFwNTluRmpMNTNYb25teEZNME03YUZic3czcGhlTHZ3N0lURjY1NEh3VnZIUFdOVnhhQ21GUFJ2cVlFQ1pQR1RVUG5YNElET1lhdjNGcVZOa2lTMXdwTFNQQnJPSzdCYk4?oc=5
+  Title: TCS & Siemens Energy Partner on AI, Digital Transformation - Rediff MoneyWiz
+  Snippet: TCS & Siemens Energy Partner on AI, Digital Transformation Rediff MoneyWiz
+  Published: 2026-04-27 (2 days ago)
+  Summary: TCS and Siemens Energy announced a partnership focused on AI-driven digital transformation, reported by Rediff MoneyWiz two days ago.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1ZKdTM5ZjNNZmdPWnFMWW1ubkRweGt5bXhiRVVORjJsMHB2SzJ1TENhazdrVVo5aWhCZVdzbFVXUFAteVlnVnNtLTd1RmI2aEJNWFljTi00cXFXYmNYOFNhUTBXQWl0aGhYc05ESk9ybTNzc1JNdkttWGI4ODBCamdnajJOQ2Qzb1RfTWpLQVhncUZYT2xqSE9XT1BFY1NVRzg3NklxVzF4X3lscHRPWTZibm9BWWNWV2RhUDU2YVA2TklNOTdGTtIBzgFBVV95cUxOTm83VkhGXzZuQ0VOSXZyRUp3UV8tSVp4M2poYTNKa3BvSXpSRHRsRkpjV3o1eWlGM09mbDh6cVZkMGp2cENZOVB3d0xxSGFpa2taR3JUTl9ZOEM3VVh3bGs3UVZST3hHa2twZS1JY2RhU1JsRy04LXhGLXg4eUw0eGt0ZEZuMDhqbkdyY3YxMFQxNFNvZ3J6WFNuMU83N3JaYUs0SjhhbzRBeFhPYzc1bERkQ1AtOW1xZWlXMlJ0V01ib0hxNUF4RkM0SzZKZw?oc=5
+  Title: TCS and Siemens Energy Forge AI-Driven Digital Transformation Partnership - Devdiscourse
+  Snippet: TCS and Siemens Energy Forge AI-Driven Digital Transformation Partnership Devdiscourse
+  Published: 2026-04-27 (2 days ago)
+  Summary: TCS and Siemens Energy formalized an AI-driven digital transformation partnership, confirmed by Devdiscourse two days ago.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ3N4WlVhMU1TLXNfbndYZjZMYlRHVTA4RDJQbnJVN18yN0ZsUldyNTRWcU5lV1JmeHlKbGlfUmZPc3kwb2hFekFsVENGd3kyUkNkallfRG1FUjBnNTlOUHRhYmgxZlpuNmlRakZUQzBpUFBUWl91cVJ6WFplck42RGhBVzhNcnBuQzBBMVY0aG91ejZob2V5X0lDMFZlYURKbnB2UnJEa0Y4ZVFWUDFuNm1mc0hUUjJRMjkwOXZyTlltVm8xWnFhdllTQTRhc2tscFlNLWxEQmVZMlI4am0yWXd0a3ZfYW9yQnVCRXdWdDZtUzZuTkNHR1Rsa0F0bjBETEtEb3YyRU4wX3FjYjhIbA?oc=5
+  Title: UBTECH Partners with Siemens to Advance Digital Transformation of Humanoid Robots, Paving the Way for 2026 Mass Production - Gasgoo
+  Snippet: UBTECH Partners with Siemens to Advance Digital Transformation of Humanoid Robots, Paving the Way for 2026 Mass Production Gasgoo
+  Published: 2026-03-18 (42 days ago)
+  Summary: UBTECH partnered with Siemens to advance digital transformation for humanoid robots, targeting mass production readiness in 2026.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkpubTl2M3dkbUxSdDV3ZjNoZFdXRC10R091ZWpJVlZqTkV2ZVVaZXJ4R3BkZHpxZmNCb1AzVldNd25MZGxhcEw0aXpvcVZrVW84SThvbzRqZHN6aUJkaktJd0NYYW45UHpWa0xOSm1JazBBYmRLTExESHl5SXFCNzFTT0VjRkJSWUFHamgyYjg?oc=5
+  Title: How generative AI is transforming automation engineering - Siemens
+  Snippet: How generative AI is transforming automation engineering Siemens
+  Published: 2026-03-31 (28 days ago)
+  Summary: Siemens published a piece on how generative AI is transforming automation engineering workflows, from its own newsroom.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWRnTEFFS1M0QktNbHpXVlYxREIzQ19mYWxxNzlzUERSbS0wVndXRzI5aUljOVktbDU1cGpvNFd5dWF4MUFkblZBNkVXbmtKU1Utbm5pM1BsV2RfMF9tMktaRjI3NzRSaDAxdW53d0hGNGV2TXJTWUp2S0NsSGNDc01HUFk2UUk?oc=5
+  Title: Merck and Siemens extend partnership for digital transformation - Pharmaceutical Technology
+  Snippet: Merck and Siemens extend partnership for digital transformation Pharmaceutical Technology
+  Published: 2025-09-23 (218 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxOSE5oSFhMdHFsSWk2NUExTUhYQkJqQkxXYjBkc1VQMEFjYkN4SElldlhIdFJLcWlTNmR2S2NPcHZkSXFDelpBckt4V1NoNlR6SWlJVnhoZWlYblRlUTgzZktNNmh3alJ6dkNVTElrOWVFSFkxbkVRbWhMUkFFMDFyRUVXLWpNdG1uR19yZVltb0s?oc=5
+  Title: Tech Trends 2030: The next era of generative AI - Siemens
+  Snippet: Tech Trends 2030: The next era of generative AI Siemens
+  Published: 2026-02-13 (75 days ago)
+  Summary: Siemens outlined its technology trends forecast for 2030, centering on the next era of generative AI adoption.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMia0FVX3lxTFBxejVCaWlkODdsdXNyUzVmamEtNEEtQzRUV1lBLU9RbjRWSVZ3S1hEVDhBaG1BSnVDdnQyRHhNVXJVdWprUkRJUlpCd0I1OEJYNFdIMmRYNDhWSXZsN1hTTUZTNzdJTEpOLXdR?oc=5
+  Title: Siemens opens new office in Saudi Arabia, accelerating digital transformation in the Kingdom - Siemens
+  Snippet: Siemens opens new office in Saudi Arabia, accelerating digital transformation in the Kingdom Siemens
+  Published: 2026-02-02 (86 days ago)
+  Summary: Siemens opened a new office in Saudi Arabia to accelerate digital transformation initiatives in the Kingdom.
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MVnlDMTZQc3IwV20wcFpSSHd3OG1jcmNnVXk2NW9EMDNyak5TdUNCNFc0OVNRaU80aU9vLUdxbGswcDNfc191UF9OOGZLRm04Z0ZLamt5Q256TEU?oc=5
+  Title: Siemens and AWS join forces to democratize generative AI in s - Siemens
+  Snippet: Siemens and AWS join forces to democratize generative AI in s Siemens
+  Published: 2025-08-26 (246 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0VXQ1FZellKOEYwWWF1bWt1aDNESm52eUlKRzNsYnZfY3VYR0NNRTNmLVpQNWFUSGlBZEl2SnpJMXpZQzBZWm9PbzY0N2gxWW9Fc01JU29SOFhqRWxKU2djTGNqT0N4Vmx4RVFmcGFLUGF4ei1oeDZhY01WTnFGNDZDSHYwTENTaHdPYXpGSEg?oc=5
+  Title: Siemens Launches SMB Production Optimization Starter Pack - Siemens
+  Snippet: Siemens Launches SMB Production Optimization Starter Pack Siemens
+  Published: 2025-11-14 (166 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNmYzekE1ZzhROHRDT01KUEZSZm4yLTlnNEE2UEluQXlnOEFDUFRNQS03LUpLYTVfdmFLWDZHNTF0b3lkelI4am16WG1wNjliS3ltX29aVWhXa0ZIdlFaRlpmZWhxWWNlRlpWNmZ4RTYwbmdBZndKUkpJSVBVdlk0UWozTzM3c0dMeGVGMG16Ym43MGhrV01uVTY4UGxOaS1BNE9uM1Bydk5XMl9rX2JiRGE5YWJTOENTUGRXZGtUdUdYelpKUGhKSDI0aC11Mlh6eVFRbjBUZmh4RnBkN1hQb1VKY2dnMDZB?oc=5
+  Title: Siemens Xcelerator empowers space-tech pioneer Skyroot Aerospace in its Digital Transformation - PR Newswire
+  Snippet: Siemens Xcelerator empowers space-tech pioneer Skyroot Aerospace in its Digital Transformation PR Newswire
+  Published: 2025-08-19 (253 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTWjVSTXpvZFZLLWhRa1BsN1RZZXJyVG1XbHFtUENRSVVaY1ptb0hsdHNvQXdFbzN3S0FQY3FERWdoRXlveVk5c3FfLWNMb29OYWpkRHVESWVtQklPcml4cUFQUmhHWU0?oc=5
+  Title: Gotion High-tech selects Siemens Xcelerator for digital transformation of battery engineering and manufacturing - Siemens
+  Snippet: Gotion High-tech selects Siemens Xcelerator for digital transformation of battery engineering and manufacturing Siemens
+  Published: 2025-08-26 (246 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjQtZ0FoNVBFblFNdGl3cUpVSXAtMVg2ODF2LUcweGtwTENVY0RVX1p2YWhwQnNLOWJYemZGVG1tbXJwbm80VTN6a29UMHJWQjhMdFFXaDg3Ml9seW5FWkMybktLeVhfRVh3bGV3WFBoQ0xMWFo0RXIzRnRucFVfYlMySGN5dzdHUjlhaVpwWHVsMDJsV25TcWNheklSYk5JUWNaRGZvdHlyemZZRkg4SlpwX3J3cFMyUzY4VVYtRXBaVGphT2FBZA?oc=5
+  Title: Digital transformation of the metal industry: Indofen leverages Si ... - Siemens press
+  Snippet: Digital transformation of the metal industry: Indofen leverages Si ... Siemens press
+  Published: 2025-07-17 (286 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUZrYjVqem9pVXpyaFRzcFZPbWM2YmpsQld0UEZHVEJ4ZDkyeUhuOTV1TEp2UVI1Ny1Pc2gzenN3Y3V0b1hNVTF3dkdSSEVXR0FjU2RuYzRQZjZ5NGc2NHhuTG1KeG5EYmNzTF84NWdWTXNfcGxHc093Rmc1R0gxTVBUR1NwTXFwcFRhOEEwaw?oc=5
+  Title: Siemens brings generative AI to predictive maintenance - Enlit World
+  Snippet: Siemens brings generative AI to predictive maintenance Enlit World
+  Published: 2025-10-15 (196 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXBmaFpybGN2SUMwT1doMEpIYnJWNUdVWHMzWnNmOEl4QmFkYTE1TWdkanF1RmNEWk14cTB0MV8wNndsY0lDZUR2d3dpZUh0U2VhTjU4OXh5dnE5S0xya0UzMENkTnRLWnhrTWlrUkdReWxua2VUYVA3c0cxU0hmbDVXRkhZejlnUnU1cFNBc25NT3NVSE9HTGVTOXM4TEZXSHlPQlZSZmw0TjctNmtsaHZ3STIxTEU?oc=5
+  Title: Siemens Helps with Digital Transformation - Design News
+  Snippet: Siemens Helps with Digital Transformation Design News
+  Published: 2025-08-12 (260 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxObUJySU9EM2VSZFFXaERTQWQ3LXNBU1lJbGxOTUUtRURyNVVhZHZJek9aazVLM3hUSDRlVW90NWdCZWJ6UkUwc1AzdGlvTWdYbmhnU1JSdUJhQUJ6SDlJby1GbzVaaXVLZ1UwZDVqSzY1UXlLWFBGOVZ6N1dGNl9QWXpKV1EyaG5vNkJMSEFINlh6R3BqLVZ1dGJXU2VOeFhJVGliWFlpemRCa0tW?oc=5
+  Title: Siemens Realize LIVE 2025: AI-powered digital transformation is the path forward - Engineering.com
+  Snippet: Siemens Realize LIVE 2025: AI-powered digital transformation is the path forward Engineering.com
+  Published: 2025-07-09 (294 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjNVNmpOM3RkdVhfS2QwX1d4dTlOX1ZDQ1F3dk9EM3QtazZabU9vNDV1WGMtenVtd2dycGExcFhTLURIdmREOEE4YUN6bUlwWVZrNUNsUDhzOVc1MW1vQnJ6Q0NJYzJ1azVGV2dueUhVRUZPbGNid3B6WVpfTDRRcUxKWHBSYnJEbHpMcmpR?oc=5
+  Title: HD Hyundai selects Siemens for shipyard digital platform - Engineering.com
+  Snippet: HD Hyundai selects Siemens for shipyard digital platform Engineering.com
+  Published: 2026-02-17 (71 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilgFBVV95cUxQam9TVVZtMlFUQ0g4MTlZMHk0RUp1MjhTU0dITF9PQzBtLVdQZWtvUnpLMDZFQ3NzN2pxSDZ1TzF6OGlhNkFBZWRCbHNOX0R2M3I4amJLMmRQQTJ1NWZUMTJqajAyN2dMMkpyX2NHWXBib1Q1NFBWb2lXcVdPZUJCaGtqS3ZmeXpCYm9UalNmQXlhNi1BcVE?oc=5
+  Title: Siemens adds Simcenter X Advanced to cloud simulation platform - Engineering.com
+  Snippet: Siemens adds Simcenter X Advanced to cloud simulation platform Engineering.com
+  Published: 2025-12-04 (146 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0JRY1ZONHZ1SzcxdWtSUVlDUVEyaFJUQVNLOEkzWjlUMlVzSkJ2aW1Gb2xIcHBjY2dIblFFOVhXRW1MQ1U2bE9sT05vYlVwQm9NWGxCd1pvb2tyLUpYTkJxTkJtTnVJekMtOWRTdmZqeDEyRXJsSmNWUzZxUW01a2hrQjVJOF8tVkR3ek95ZjhVYXBETEVyS2xhMHZQR1QxdW9LbzlIbjBNclZ4cHhjRzA3RjBHYWs?oc=5
+  Title: Siemens launches innovative cloud-native software for electrical d ... - Siemens press
+  Snippet: Siemens launches innovative cloud-native software for electrical d ... Siemens press
+  Published: 2022-10-25 (1282 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnBKLUE1Sl9DWFMzUi1mMFg2eXVXR2d5dlJuX0c2eVluTlZWMGlwUEZMN053bE5qZW1CZVMtWDU1dk5CeG1FN21IZzdlaGRUYTF1SlVoNG1LVXZ5SXZZckNrd0l3ZFJwbWNGTEwzZGFBZVQyRDkwMVN5RVFWQ1hBYmFB?oc=5
+  Title: National Institute for Aviation Research adds Siemens Xcelerator Portfolio to support digital engineering transformation - Wichita State University
+  Snippet: National Institute for Aviation Research adds Siemens Xcelerator Portfolio to support digital engineering transformation Wichita State University
+  Published: 2023-03-02 (1154 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAJBVV95cUxQZDhCeEthQWRhOXhfS0VlZ3ZtTjVET2ZpTXozbC02TVZwSHBmN3Vaemd0cFI3NDJoWWIyNUUwOG1BUkdUbTQyUkdWMHJXMmRSTjlSejFNdTgxUWJGVHVmeHlaV0FMaW43Mm44TWhybzlyWDJoU1l3eVNmdlJ3SllySG43bVktYzhvRG0xTG9GU1FqRVh5VHNUd0NrYnhtNE84bVRQOXc5TXY3VGZncmhOWlZ0THRWQ0l0alUwWDQ5ckhKenZhNmZZZ0N4UEVGMjYxSXVkbmkwcnNYSGlReEk2b295by0zS0JySklHWU1ybWd5YURXNFJGTEZycFFNNUpoLXZsOVZ2aks0bXJvb1EtOVRjRUxZTlBWTE11b3R1dE80dzBEN1NQTzNFN01aWDl0WDMzYkFwaklrMmh4VS1nMDgyRGQ?oc=5
+  Title: Lockheed Martin Aeronautics adopts Siemens’ Xcelerator portfolio to support digital engineering transformation - JEC - Connecting the World with Composites
+  Snippet: Lockheed Martin Aeronautics adopts Siemens’ Xcelerator portfolio to support digital engineering transformation JEC - Connecting the World with Composites
+  Published: 2025-03-10 (414 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXpGeDBkYW9iTEpSUFU1emJaM0cyYjdBazE1Q1VlT2RqT0Y0eDdSaWl6VHJFWnhnQ181SlNWRjFLNkZoSnNtb1N5a05rSEY3OEUxX29STDZpVXJ2VWpLSVduWllRUHFxRkVyRENBVmhFSUFOTmhTMks0bmpnY0FjY1NVSUVsb2plV0Vj?oc=5
+  Title: Siemens, IBM bring SysML v2 MBSE to Xcelerator platform - Engineering.com
+  Snippet: Siemens, IBM bring SysML v2 MBSE to Xcelerator platform Engineering.com
+  Published: 2025-06-03 (330 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikwFBVV95cUxPVThiRkRYSE5WX1pzU1kxYlVZb251TXZMZVlSVERSSi1nNjlvZzRPTkxZMHhQSXp1WVp2SlRWT3JlZ19tcGphRm5oZDJjWnV4dGN1R1VLeWVLeFhtSlJteDdvZm9YcmRYR1hqZ2FBVG4xU1FEaXVhREJ5aXFLaGoyWUFwYThWb1IwLVNCc09YQ3RzSUk?oc=5
+  Title: Siemens launches cloud-native software for electrical design - Engineering.com
+  Snippet: Siemens launches cloud-native software for electrical design Engineering.com
+  Published: 2022-10-25 (1282 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmlTOFlRQWNMcE5mM0RNeElEQkdTQVZsdGQ3NUdyZ01VZDZMRkNpTWVTcGNfV3I2NDg4RXc4RU5ITHNzWnFuc3J6blJPRUhhbFpBZFRoWnBQdTZJLXE3S0xHeld0YWtVbFc2eFBDaWJrdHR1TGJzME9ZcndVbEVwblF5cEtsNGF3V3lRM0dOZnNmUQ?oc=5
+  Title: GlobalFoundries Certifies Siemens’ Analog FastSPICE Platform - Engineering.com
+  Snippet: GlobalFoundries Certifies Siemens’ Analog FastSPICE Platform Engineering.com
+  Published: 2024-10-04 (572 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iODI5Z05tSXNWTG84czZ0eF9FTlB2MmdZRHRaczI1RWY1dmhEWGNmMWtXTEh5R0tZUnctMVFzalFWRVFwZk5jQ2szT0NqMTBwLWVoc1R5bklpbjNZWEtucGhKMEJLMmtB?oc=5
+  Title: Igniting Innovation: Siemens EDA launches Cre8Ventures in support of the EU Chips Act - Siemens
+  Snippet: Igniting Innovation: Siemens EDA launches Cre8Ventures in support of the EU Chips Act Siemens
+  Published: 2023-12-18 (863 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3BFYzdWQU1aNWU3cVhIcGx0YS0ybUdQWVpXUlVhaUlZdEgweTJuTUFjQXVoQWs4czBpYjI1a0VIaDBxZ1pkaHV3UzdiamhuSzJDeHozZXliLUJCTWo5eWpMMUFDbFNNY3cyNnJRV3FLZTRKb3I2WWc5Z00xcGd6dGhqTlJNWVk0WUdyaExxZDBlRGc?oc=5
+  Title: Daimler Truck Picks Siemens for Digital Engineering Platform - Engineering.com
+  Snippet: Daimler Truck Picks Siemens for Digital Engineering Platform Engineering.com
+  Published: 2023-03-28 (1128 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGxrb243bjBKUzlfck0zY3pIZFUzM3dmSC1jeHJVT2hVaFRTbkxhVktvVFJtUnNEbUtwYXVUYXhndWw1eTJzUFRMOVdSdmNPR0xpa0VFMXhsdVJ2Q0VLVFd5NTFTNDJPd2JMTWdNTExiSDhkbUxmUXF3VTEtWkJaSlBzcWZvQzV4MHZ6T010WWYtSGR4OUtQVjNsWWtpMFhhYXJmSXRRQ2tEUkNuYlFRWGp1dXFHSVdwUDNyQlhR?oc=5
+  Title: TimeSeries Acquisition Strengthens Siemens’ Environment Around Their Mendix Low-Code Platform - Engineering.com
+  Snippet: TimeSeries Acquisition Strengthens Siemens’ Environment Around Their Mendix Low-Code Platform Engineering.com
+  Published: 2021-05-04 (1821 days ago)
+  Confidence: High
+
+[NEWS] signal=cloud_ai_transformation | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGZGWjl1RU9kcGc5WXJmR3g1NXRNZ2w4MGYyT0E0S2Vqd2VkdVliRzRtYUU1LUY2bXB5QXVXR1c2YnVNRkFhTGFJN3pJVlc3cUlYLTJKbXU1c2NvRnlOUFlsclp6QmxIUXlyS3IyeXA0aDBHVGRqbUFxXzY3TEdSa1Z5ZjJWbHhINXZwM3dBakc?oc=5
+  Title: Siemens Launches Xcelerator Open Digital Business Platform - Engineering.com
+  Snippet: Siemens Launches Xcelerator Open Digital Business Platform Engineering.com
+  Published: 2022-08-11 (1357 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEJuRVVvSndfR2NYaEhYVG1tTTlITGZYeW5QWGwzQVJOWnFZU2xlQXRBMG8tNnFET1ZVN3h1U3FmanVUcUhrc0ZmaDVPdGhkZlZvc1NhZlN6cXFrdTNCaW5QMzc1SjZQN3ZzY2xzQjlWczRJUG96bU4wc1A3RFA2XzgxaVJfbnBkQ2Njb05WSG5LXzEwX2pXbDJKLWlFekZJY1hxcjJLSzdBSVRoZHlkenpXQlNqS2o2MG15X2xTM1Q2WXFQ?oc=5
+  Title: Siemens launches the Eigen Engineering Agent, bringing purpose-bui ... - Siemens press
+  Snippet: Siemens launches the Eigen Engineering Agent, bringing purpose-bui ... Siemens press
+  Published: 2026-04-20 (9 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivAFBVV95cUxPay1FWGRDUHA1bXBwNjgzekZfaHUtRE1WNUgtUTZuWlJfWE8xZVNKeG1CUFRxNHdVT0hid2dOeXUtM0xEUDV2VFluWURzcTliNEN4X2tfekZYN25iZV9QdlBPMS0tSjM0dnJjYl9jTzUwYzdMN0NmN05SWTJ1M3hocUt2blp3M3lnS3EyTjlyc1RIby1uWG9scDdvX09nMTJkT1hPZk1SZzIybGVucmdJYjdTUHViM1djdFhTVw?oc=5
+  Title: Siemens launches groundbreaking portfolio for the era of direct cu ... - Siemens press
+  Snippet: Siemens launches groundbreaking portfolio for the era of direct cu ... Siemens press
+  Published: 2026-04-15 (14 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdGZXa0kxS2RxdXJsSFZrNWIzdkdmRlRQVWhhblhEajlkQzZuNnFnY1JBRGhSZmlzN2JnR3F1N3p4ZDd3c1FscTlGdDUxMTRmMUlvN3V6UXFtejFLOEh1MkNCRXVmZ1Vjal9CR25kdDNlTUxfOXU0S0g1TjBNQQ?oc=5
+  Title: Siemens launches Data Center Solution 5.0, with debut of innovative DC power distribution products in China - Siemens
+  Snippet: Siemens launches Data Center Solution 5.0, with debut of innovative DC power distribution products in China Siemens
+  Published: 2026-04-23 (6 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijwFBVV95cUxORkV6NmhBbUd4OUl0Vzl0M19kLUxWRzdpVDE5elk5MUhERHB2RkVZZE05UF9oZ09XcmllZXJDZDNxMk9YWE5HQXpzRy1xOEo4U0V3Nm1ValAzTDhiaFpEYnJNS3VVdE1kU081WnJlVGpuM3pSdkV6d1U5ekhVS1RjRmNOLTVTT04yX2Q0eFlNWQ?oc=5
+  Title: Siemens launches groundbreaking portfolio for the era of direct current technology - Siemens
+  Snippet: Siemens launches groundbreaking portfolio for the era of direct current technology Siemens
+  Published: 2026-04-21 (8 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzVnV0ZlZQUlNCazhwTWxDa3pNd0hzaVpaSl9vdHVWeHNkSzZsd3BvUXhtWUtNNHdqSHlEdnk2TUlRVzR3SXZubkNadnp2S3NjLU1KZ05JZTVRSG1xeHB6SGtsUlowVnFE?oc=5
+  Title: Siemens launches Fuse EDA AI Agent for automation across semiconductor, 3D IC and PCB system workflows - Siemens
+  Snippet: Siemens launches Fuse EDA AI Agent for automation across semiconductor, 3D IC and PCB system workflows Siemens
+  Published: 2026-03-16 (44 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eDl1WDd1MU9NR3RJSGV0LUJ6d2FCMTNPdnhvYTNTR2lKdlEtbFFIMHcyMDBfZDN0c2tqTzQ3aTJqYWwtaW5ud19kRzVNdThYOUdMbVVwbmNrNW9NTXE4?oc=5
+  Title: Siemens launches Gridscale X™ - Siemens
+  Snippet: Siemens launches Gridscale X™ Siemens
+  Published: 2026-04-21 (8 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHdTNW8xZU5WckVTeUo2VWZSQTFUTmRScktKSzNsVFRzNUdwUDcyNGRZTTl1MmhJdmJCMU1kenNBMVNYclhsQ3VoV3RxazRZMlhtRWdHR0R0X3BmT2xTYVBjWFQ5UmswWC04OGRsYUNNOGh0RTJrTl82dTBEb0hQVXRWcXJNeGNnQTRNSkR4ZTNiRmpaMmFhbFdmWnpPOWdjMFRkOC00MXhZZw?oc=5
+  Title: Siemens Foundation Launches Careers Electric™, a National Electrical Workforce Initiative - Siemens
+  Snippet: Siemens Foundation Launches Careers Electric™, a National Electrical Workforce Initiative Siemens
+  Published: 2026-02-17 (71 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnZzSVJ2T1BfNFJrWjk2T3BwdGhac0hNc216YXJ0enJmbElOT2FCOWlkaXhnYnlGU1puaG1nR3JtX3FhYlVFSjI3X04yMzdRUVRLWjZoWmtKOW5lSVJpcndCRm54SXBOcV9ERkxuNWJ6UTB3bEV4MnpXSHlrNVk2ZnJyNzBqODB1eG5ncnY1OE10Q1RGYmFPYnl5WFBQeGlaVkI5a3BsLUVoYmR2?oc=5
+  Title: Siemens launches lighthouse project of Made for Germany initiative - Siemens press
+  Snippet: Siemens launches lighthouse project of Made for Germany initiative Siemens press
+  Published: 2025-09-22 (219 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMickFVX3lxTFA4cERGUXlhenU3RVR0am9OMXFNc2NWcWpXR2tzYjJldmdUejJsS0NubjRHRmUzMFBxZHZxSGpsckxTV2U2VmNUdzFhY2djc1JGczlEYWFyeElXNkZxZXRUWWtJMzZMbE5XOTJqNU9xYTBRdw?oc=5
+  Title: Siemens Launches Eigen AI for Industrial Automation - SQ Magazine
+  Snippet: Siemens Launches Eigen AI for Industrial Automation SQ Magazine
+  Published: 2026-04-21 (8 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrVngtNXRBb0FhbnFKWjhYdUlJVVY0LWFaMElnelFpTGMyX1hBcG1pdFRyV2tNbl9iR29GZlFSQXBuUXpCakxOSzlKVnhpTmFsRUpEcHVFQS1IbjF2Rl9KekFzM2tmNk0?oc=5
+  Title: Siemens Launches eXplore Tour Mobile Showroom at CES 2026 - Siemens
+  Snippet: Siemens Launches eXplore Tour Mobile Showroom at CES 2026 Siemens
+  Published: 2026-01-06 (113 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiigFBVV95cUxQRGhrbGpuU296U1g5UnZ3bDZuVWctREl6MGdmUFRsTnhnd2JaUWt6dm1HNmZmcHNlSldMdTZGbFZfd2dWLW9CSlRUeEFqR0s3bFE4ajRfY1ZuSldhNnpIMnZ4LXlxeTJNMUdTX0VGYlFEekduYjR4SDJWcGl3bUkxRGJ6RV9FOEJ0UGc?oc=5
+  Title: Siemens Launches Portfolio for the Era of Direct Current Technology - Automation.com
+  Snippet: Siemens Launches Portfolio for the Era of Direct Current Technology Automation.com
+  Published: 2026-04-22 (7 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhwVW9XdVZYcDNwMnZQYnFDTEdITWFEMUVNeXNLTklvMl9Ed3BLUHlZek10UGt0NXhTRkxhVWxmdm1BZ2szUEFNdWUzQ3pTejVrRkxmVmdEYVNHUWZJTzRXTWNKRDVMMFRKRVZ6Ri1VczNPWC10MWNoZTFBR1BYbURzaVp0U2R1WE5fNEYzRkhoZGhuMWRidjlkMGhBTVctdWdsaFJ2bHo4YlU5UTNJVFpVUEJpNk5w?oc=5
+  Title: Siemens Launches the Eigen Engineering Agent, Bringing Purpose-Built AI to Industrial Automation Engineering - Automation.com
+  Snippet: Siemens Launches the Eigen Engineering Agent, Bringing Purpose-Built AI to Industrial Automation Engineering Automation.com
+  Published: 2026-04-20 (8 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnJKSktZV3Y5clBuUjNaclFfTGRsR2JUQmpuUFpjWTdGUEhWbkxqNlV5VFUtdnJXa2VFVjBIMUMwZjFmd3FNRkNaOHh3bmM4UVl0X01wcGRWcUJmM0ZFdGpFTzZzMW9xNkFjY0UyX2N0c1oyN0lfc2JES3J0MHp1bDRmZU8wZHZ6RHhFREJnNURWa1dmdlZWX3F3QnRQeEZvbVNBTGY4SkEyU3BadW5EMVZMaFA1eHdrSS1uMGtGdGtRWjk4RlNQb0doN3hVWmQ5M05MSnd3eWowVFctS1pfaTRQbVNWbngxUVE?oc=5
+  Title: Siemens Launches New Portfolio of DC Protection and Switching Solutions for Industrial Applications - The Fast Mode
+  Snippet: Siemens Launches New Portfolio of DC Protection and Switching Solutions for Industrial Applications The Fast Mode
+  Published: 2026-04-20 (9 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VfYlpnYWJMcEtuSDN6LUo2VzU3ak51c09OVi1DWEl1dGEwWnd6cTlnZXlLTWcwTV8tZm5LMDQ4UjZWZk1takpuYkRoUnkzdDlpQXE0RkozZk9DVnNBVzdFanhQMkVWRkxaOWo4bkk3eWZvdlNtVGZoSlBRNnRHSnRYZWtsaHZuUXFIQzFGakR1UQ?oc=5
+  Title: Siemens launches on-premises drivetrain monitoring software - Engineering.com
+  Snippet: Siemens launches on-premises drivetrain monitoring software Engineering.com
+  Published: 2026-03-27 (33 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipgFBVV95cUxPbG9URGpKZEFfMEdlMjAtYWNvZE43VkRva293YkVxYzRJRmtGTDZuUzdQSVRDZUVCcmNiS1BtS2FLSzFycm82dkh1a0RVMXZfRGx3OXJURDEtcGNuVnhhdG5VSUZvQldRRDg4VHBZWVYzUlFsYUlZOTRxdC1TRElCWUdHWU9tUzBYa3RPUzhmSHBaU1BybWNhSldOTmlMWU1uSmVXcDB3?oc=5
+  Title: Siemens Foundation launches $9.25M training program to boost electrical talent pool - WRAL
+  Snippet: Siemens Foundation launches $9.25M training program to boost electrical talent pool WRAL
+  Published: 2026-02-17 (71 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxNdU9EVGhwREtYR0lIdXNkSktVNEo4ckpiWDBxNlpQemhWcG5lTUJkVWt1bWxidENYVU9QbGE3Z2RqYWd4RVlLUXBnX2luTTVMZzVaTXBUZUlqYThJbnMzeUEyRmNNVnB2ZjBRSnZBbHhMZHY3QjJMWFR3TW5CUEFiaVhjSUlUbUxveWpHMWdjaWtFdEdwRHJF?oc=5
+  Title: Siemens launches Questa One Agentic Toolkit for IC verification - Engineering.com
+  Snippet: Siemens launches Questa One Agentic Toolkit for IC verification Engineering.com
+  Published: 2026-03-04 (56 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjVfYWF6TlZEdmdJR2wtNE1wSUdOUG5SMTAxUS1pV2lPUlBhU1BCak5RWEJyb2Z1TUtlWkJXYnVpY1I0U2k4UzBjNmZuVGpPWkxCOW1PdGxGTXAwaWxGVnN4c1YyUEhjaXdZbmRWMVVkZms5Vm1hdUtGdHI1MFh5Ti1NSnZPNmQ2bGV6eHFfNU5jVHNqYmxyX3djcm9WWWdESG15MEp0aUpydw?oc=5
+  Title: Siemens Launches Teamcenter Digital Reality Viewer and Digital Twin Composer in India - ARCweb.com
+  Snippet: Siemens Launches Teamcenter Digital Reality Viewer and Digital Twin Composer in India ARCweb.com
+  Published: 2026-03-26 (34 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVhLQUJ1M0pXVWtBZ25TMVZ0MmZTZU5nWkplcU5aNDdMdDA1VkhrUzZSalZLWUxVV3dSR0xneUNjWGpHZjNKNVduaWJ2ZGhWX1RBNDU4VzNRLWRvWjdSVE1PZFk4blBvVDg5Szg0U01rUkdYazhGWkgwN3NpUkN4SlpFemNITGx6RHFibmVOOWVqdw?oc=5
+  Title: Siemens Healthineers Launches Brain Health Research Portfolio with First Biomarker Assays Now Available - Yahoo Finance
+  Snippet: Siemens Healthineers Launches Brain Health Research Portfolio with First Biomarker Assays Now Available Yahoo Finance
+  Published: 2026-03-18 (42 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1FQZldLRm5oWFFVZEFmSGV3Vk8xVWdQVC14Y3hvckZDZkpGRlBsd0FLdno3T0ZCN09DZkp6UXNkakx4TS1NR2VYMkoxaFgwSXBBQTk0NE9WSjBad2wtcXFZb1BCcDBNdTQzMVBzTlQzS3NYRFFEUVQ1bDMyTFVwX1JMOEZIWC1XYjZORTJCS3lFaTRNNndSZFJCZ3hyNXlBR2t3MmJLVlNnUjFwS3c?oc=5
+  Title: Commonwealth Fusion Systems launches digital twin with Nvidia and Siemens - Latitude Media
+  Snippet: Commonwealth Fusion Systems launches digital twin with Nvidia and Siemens Latitude Media
+  Published: 2026-01-06 (113 days ago)
+  Confidence: High
+
+[NEWS] signal=product_platform_launch | source=google_news_rss | url=https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeDB6M1k1ZWE2d2g3dG1MTjM3UnZ4Z293bGo2Yy1ESW1FMnAycTZucU1uRF9UcS1sV1d4cWFSdGhYM1hidzltSmNzRmRkdzZWdE5sNkRRRlctUkdza3pJSkU1aThZaFZUNlR1eG5pVEpzQndla2s3VEV0TGpPY3RrbkxvbzdZTUZrZ25FbXVNTW9FUnlaRk1nS19qWHd4Q0xZNTV5SzVORlR3bnBIczdubExacFk4RjdSY2VMR2xOYkZlNGFRakdyQjZJbmNndFVCWTB1UE1xWEQtdw?oc=5
+  Title: Siemens launches AI engineering agent to automate PLC coding and industrial workflows - Robotics & Automation News
+  Snippet: Siemens launches AI engineering agent to automate PLC coding and industrial workflows Robotics & Automation News
+  Published: 2026-04-20 (8 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMigwFBVV95cUxNMWkxclRBOW9TRjMzMFNOeGo3MXhRMGltdnRYaW5wZ1hocWI4SWhjTkpLVlRRdEtTNnh2LU5CUzJaYkt1RFBUUTU0ekFkV3ZpWldWUHphS3lzWkhRcjlDOHBDamNZTTc4THJ6ZEdEd0FzX3BMSUFDWU1UOXFQWldlSnN3aw?oc=5
+  Title: Siemens Healthineers has a new chief technology officer - MassDevice
+  Snippet: Siemens Healthineers has a new chief technology officer MassDevice
+  Published: 2026-03-31 (29 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMic0FVX3lxTE93NXdaOXlQVG4wUzBaWE1UN1JfVGllczVQT1pxQ0pjY2k0MUZqTkJWX1ZLeVprOXJrZFN6SGNlRDN6ek1QR1JPc2VsWGQtT0JUNGFYOUxLNE9kR3VXbXB6U3BTemJxNzctclZhRVVEa3lSMGM?oc=5
+  Title: Siemens appoints Ross Conlon as new President & CEO for Thailand - Siemens
+  Snippet: Siemens appoints Ross Conlon as new President & CEO for Thailand Siemens
+  Published: 2026-04-13 (16 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2ZUdXFlQXo2WGUyNlZkSC1fbzRicHY3WlNXVG9CcEhnd0xFVC1lQzdXUVlZOTBsdFgta0pqMDJId3lZYWl6OFVzZnRGOWtyUTBaR1BuX29wT0FCa0ZTeHZ0bnhPbWx1NnVOencycXlZQVl3bmNSSTA3N1FCWXYzUFRod2ExbnpPRUtoTVFuTmN4dnB2MkNrQkpuV2ZSQWxsdmlxLU5qVDE1SDQwX0E?oc=5
+  Title: Siemens Gamesa’s former Indian wind business appoints new CEO - Wind Power Monthly
+  Snippet: Siemens Gamesa’s former Indian wind business appoints new CEO Wind Power Monthly
+  Published: 2026-01-08 (111 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGo2YjFObXB1OWtoSDluelRlWFpMcHM3cWhlYUV5cmN2MHM5UG54NEx2S1NtTzgtZEpGVldObGpLWnJfbDZpVWoyVEV0MFNyeTdmcHBvUlJpazl1eFZVZ0RMVGo5bkJ0bHpJQUVLemhJRFhza2J1Y3cxTlNjanQzbFloQWZkdnhpY0RIN2NNRWkyT244?oc=5
+  Title: Siemens Mobility appoints new co-CEO for the UK and Ireland - Railway PRO
+  Snippet: Siemens Mobility appoints new co-CEO for the UK and Ireland Railway PRO
+  Published: 2026-01-14 (105 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMingFBVV95cUxPcVdITndObVN6dnVfTkU3UEJxQnBnWXB6aGtoWXdrUEpDTHVkT2NxZ3dlRlJoUGJIV0stWjFCYUdBQnRsaWU3NWNqV2dvNmh2Z3F0eWRpUno2UE1qRWxQX1dfSVN4cV9GWmM1Z1dsaXBBX0lYbm1SbXpkSFFSdG5YdHJ5R3pnNTNfV0dDbFVFTkhrd2dlbzBXT29hSG5Mdw?oc=5
+  Title: Siemens Mobility North America appoints president - Transportation Today
+  Snippet: Siemens Mobility North America appoints president Transportation Today
+  Published: 2025-12-02 (147 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBsZ29uUGRtUmRXdlpoNEJTSUdLRF9OSGhUZWMxYnlpNF9BV01jZU4wV0E2YUNKQ2NMWkQxNlJadXNMNTZRa05SWGVXWTZfQkw0TEFCLU91XzVOcEozX0pFanJfV1M1c2ExZ3VaM0NiUVYya25YQVVGNEpIeUlvSVZyM1lwU2kwWW5NZk5sc1YzcGo3emJCNENhYS1nOW1SY0d1LTZjbFM?oc=5
+  Title: Siemens Energy appoints new Middle East & Africa managing director - Oil Review Middle East
+  Snippet: Siemens Energy appoints new Middle East & Africa managing director Oil Review Middle East
+  Published: 2025-12-04 (146 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEJhdDJYczN1TXNmR2V6OE4zZzltck1LcFBxeUVWMGk2Nndhb1kxa2pIYnJCQVhqOHZUQ3pqQ00xNVRvOGphUE9EN21vTWxGd24yLU41YWpHNjczd3ZtWW1HMzdLNGVvZlJRQ3VZNi1DSkxRTkhGUHpGSFVNV2haS0cwNk9iOWtwOGs4UDBB?oc=5
+  Title: Siemens Mobility Appoints Aglaja Schneider as New Joint CEO - Railway-News
+  Snippet: Siemens Mobility Appoints Aglaja Schneider as New Joint CEO Railway-News
+  Published: 2026-01-14 (105 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnI2cVZCaFlhdnJBaEIzV1phWUFTdFBqQzBkQjJTeWVCWk5CNmVGZGdrWHhnclMtYlV2Q194TE40RktWTFFjajJwYll0QXNBLWFqclF2ZEpqVFFPb2xvNkVEN3YwZE1iVVBEazRnR2VaMTFOZ1BfSlF0VzJKYkY5MXFNMVpwSEJiNjRBSVJPZkRNbUk2SDRiaVptbWZGa0pNQ3NpR3dITnlKM0VF?oc=5
+  Title: Siemens UK and Ireland appoints new head to drive digital consultancy growth - Siemens
+  Snippet: Siemens UK and Ireland appoints new head to drive digital consultancy growth Siemens
+  Published: 2025-10-16 (195 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGxtUm9WcmxVVnV1ald4UnJkRUxWNXU3YzBYeTZCTTNuaVpab2tLQmhqaFFnU214S3NxdG4zcjlSYUlvbHEyNENIbnMzZFVTSEVSS0h5Zi11MlpKZzVkbWZFaG9QRGlHZVdGbU9lbWpXSURjazJBazVWUU04Z216OUhMOXdEY2VnWEJVaTNQWTQyWWE3ODgxWWRKanRjY1ZsWnVZRDN6RWRrOGxLYUNQSk9wdlFzaFMzdzFBY0lLeXg5OUdWaXc?oc=5
+  Title: Siemens appoints global HR leader Sabine Schneider to lead people function - People Matters - HR News
+  Snippet: Siemens appoints global HR leader Sabine Schneider to lead people function People Matters - HR News
+  Published: 2025-12-03 (147 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizwFBVV95cUxOakphSUlzSWdoWnNMeWd4VVkzN0V4bl81eF9hcGpZRnZEUDhrY1B0Q0dlTVpuZWdjQndReDlBZWNQd0F4b0pRTGJhWlBVN2FHbmtLX1VoS0Y4US1CRHB1a2NNV2tnRUh2Sm1jRTN0YmNNUlA0cjdadG9ZZVlBS0VRYjRwWGR3SmEwZXZTTnZldHQybVcyNC1rQkZpVkEzTmpQUlVDVFFUc3Q3bGRUQTY0NUVLZmxfUmVpek1FM0QwRDBsMzNtdFNWSVpPOWozRmc?oc=5
+  Title: Siemens Healthineers Appoints New President - respiratory-therapy.com
+  Snippet: Siemens Healthineers Appoints New President respiratory-therapy.com
+  Published: 2025-04-28 (366 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVWlzWlJZdFdfZmQ0MUVZWExvNkVoWU9uUEQtUGhuc0Rxdlc1SE1tSVBkYXNKSFlFOEdCLWo4QW43VHJnX3FSb1B5ZEVuR05xNWhfczN0T3hLc2RSWWtxeUdVbklOYThVWXBjdlFMX1d1TkQ4cHhEdXVjVUwzZkdyYUpFeVNoTjE2d1ZVcTJWN0RjQmsyemRnaUZDMHplcm92NHNRdmR5bC0?oc=5
+  Title: Gas Malaysia Appoints Former Siemens MD As New President & CEO - BusinessToday Malaysia
+  Snippet: Gas Malaysia Appoints Former Siemens MD As New President & CEO BusinessToday Malaysia
+  Published: 2026-03-06 (54 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMizgFBVV95cUxPYXMzd0FXZ2VibkJuTnJRWXNBT0t4R1RCbXpNSkd1N3Q1ckp4SC1sdVFDYWVkWnlJUmRvNHNQdGlDYWdwRm9rRjVrMkhFQUZmV3RwclhqVGZYWTlNLS1HMXNWa19YOS1PZHNXakVOaGpiTzJvMGgzUkRQa0Z2NmFUWTBVQ2FMUURJMUVwYUdpd3JLMXRyR1pvbmQwSEFaYVFScUludnZzZFgzU2NQYVluVWU5U2xBRDVCVWZxOXlzZ0ZMU2FaaklZZk1ocFEwdw?oc=5
+  Title: Vayona Energy Appoints Pritesh Vinay CEO After Siemens Gamesa Onshore Wind Deal - Saur Energy
+  Snippet: Vayona Energy Appoints Pritesh Vinay CEO After Siemens Gamesa Onshore Wind Deal Saur Energy
+  Published: 2026-01-06 (113 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMijgFBVV95cUxOU21VdFllSDBoTjBtQUhRbnVlSGFxS3ltVjdqWHRoRUN1TFR1WlJFV2JwcUpQREFVNDZHNmx6WktURmJwN3pqbGJMX3p5dWRlYy0xcVJMMTBRN0U1WER1bkdpNWJPOUVTNGV2YTVxXzBDNzBmNzZhYjE2NUNRZHNRUUJ4aDZocGlXcVhyTE5n?oc=5
+  Title: Siemens Mobility appoints CEO for SA - ITWeb
+  Snippet: Siemens Mobility appoints CEO for SA ITWeb
+  Published: 2026-04-01 (28 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFk3dWRHZkd2QkdEZjZMaUpadjNsNk9pelNHbi1DU21lYTVISk1rblE1R25feTBGcl9ZU3p0OUtCUXVOeVJlVUxmT1B0MHh2dmJGNldsNnFQSlBxNWNnaW0yUHBwdUlqU09feXpXYjdEUjN3YnRyRF9UVDhYTmlrWXhCS0JHeUpPM2Y4RldCaFlONmN4eDV6a3ZaX3lHbUl1QURPZTEyY2k5LVhfS19IU19UV3Y3OGdRT011MDZsLW9HWDlD0gHKAUFVX3lxTE5wT2hKZUVLeGpBWVBLOGw2eXZTZnBIVnNmYlpnbXdwbkh5cEt6OW0yUW5nQ056UjhFOVBYaHVDUVl4RkN0anlDV3puaXMtZFQxUlU4d0EyZlA3ZFp5M2JQbTduLVp5VXFHU21mY1lmaFM0bkxsQXVVVkdHZFhMRDNpT1BxZmEyd2FWRThOQ2JBRDV3X1otY3ljSXpFdG9CWHNNb1ZocHFwbTFyZmszQms5c195NmdtOVRPTGdrYVJmRGQ4emZQcll4R3c?oc=5
+  Title: Siemens appoints Sabine Schneider as Head - People & Organisation - ETHRWorld.com
+  Snippet: Siemens appoints Sabine Schneider as Head - People & Organisation ETHRWorld.com
+  Published: 2025-12-03 (147 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFg0RzlieTFIZk92czBIcnhxVjJjdk5yck5DeXZEUUwtcUx3MHlCWElla1o0ZzBKZzRPOHZ3bG95TUswdmpKVHlTR1c5TDhmWTRxNDhLckZSWWFKaWtnRmxTZml6YnEwS0JacnYxMmJ1WG5ETzFSUFZuLW1aWW1CTVBjM1FaeDN6cGZGTmpvSE44cTlUZ2N3MUVHUEZHZUk5eDdjUVUwTTBmRGNRUlV2QXZWSS1PdGlVbF84UjB6Qk5LYmc?oc=5
+  Title: Siemens Digital Industries appoints Dirk Didascalou as Chief Tech ... - Siemens press
+  Snippet: Siemens Digital Industries appoints Dirk Didascalou as Chief Tech ... Siemens press
+  Published: 2021-05-04 (1821 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QYnFKTnZwNkFmS01PVDBiN1NESXFFSUh5NExtWGViVno2TlE4S296N2lFQzlXTUtVd2kyVzlMemNlUFFMaWdpZkN6WThDX0h3?oc=5
+  Title: Siemens Healthineers appoints new leader for Americas business - DOTmed
+  Snippet: Siemens Healthineers appoints new leader for Americas business DOTmed
+  Published: 2025-03-17 (408 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0w4UDFqM0RTdUVYQXFZOGxxbUZuT0t6bTdwSElPeXQwWW5yMnBMck9Eb1BSTGhRQjdRVmhNNDJHbGFka1B5TjZSVTBSUFBtY3NDU2Z2QjhPaFNCeU9sb1FBRWJ0aWgwR3E0SkRqZ01zNTdNVm1Lc0I2Sm5hRlpwQ0lUYk5jbU1zclI0eEZiT1VxbEZJc3h4M3RuUTJWSlgzR1MydA?oc=5
+  Title: Siemens Malaysia Appoints Tindaro Danze as New President & CEO - Siemens press
+  Snippet: Siemens Malaysia Appoints Tindaro Danze as New President & CEO Siemens press
+  Published: 2023-01-03 (1212 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzbF85Z3gwajlMNG9CcXVTM0lxQjFiSU9iN0JQb0dYaklvWl9JZXE0a3RxclRRQUFESlpRYVY2MWFma2V5dFhkaVM4cDI3anc4?oc=5
+  Title: Siemens Healthineers appoints new head of global ultrasound business - DOTmed
+  Snippet: Siemens Healthineers appoints new head of global ultrasound business DOTmed
+  Published: 2025-04-07 (387 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMickFVX3lxTE1fc2JEWm9vQ1MwQmEyT1FPREh4a0R2OGpVSjQ2ejk2cExDaC0xLUNjMkRGLWZiRmQ5TlhnNFBRZXdGYlBmSVViUF9hVEYwNXFEbWVHLVZtWExNYTlmNkYxZm55aGxyR3FoOGIyZlREeDJndw?oc=5
+  Title: Siemens Energy appoints new Middle East & Africa chief - MEED
+  Snippet: Siemens Energy appoints new Middle East & Africa chief MEED
+  Published: 2025-12-04 (146 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3UyMXVrWXd1UXpTeGtGSDJQY2JJSVkwbUdubjBsb2gzbGpLc1MxWW1PbzhEU3Q0Y1lzYkNJcGw2cnRRN0pwU3VFUG9KQVpUWXZoempYM0NUT204czBPTDFfb3BEY1ExTDgwLW8xdDJkVG5Tb3RUbDVFS0J6OVNramV1QkEyNjlBVS1mLVFaSkg?oc=5
+  Title: Siemens PLM Appoints New CEO: Decisive and Results-Oriented - Engineering.com
+  Snippet: Siemens PLM Appoints New CEO: Decisive and Results-Oriented Engineering.com
+  Published: 2016-09-26 (3502 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnY0b1UwTFkycnNlc19aMFhsaXV6eXhUZE9OekxSaHB5aXpIUDJMRmpVQ2YzeEt1eVROSU5KcWJMZmdSZWdxODhhX05WMFd1eUpYakRHYkxWU0dsc0YwVzBydVotLTFhakFiajhSQkI2Mlg1OHNPbkxLMUgwVUkwX1VxcHJ2N2swQmRwZ3Q3Z2VqaF9QVHByNUplTlM0OXJUOGRpbFctMkV2aW9ZdFIxVHBhbEQyajVoaHVSTnhjRQ?oc=5
+  Title: Siemens Gamesa appoints new onshore chief as Siemens Energy moves to delist OEM - Wind Power Monthly
+  Snippet: Siemens Gamesa appoints new onshore chief as Siemens Energy moves to delist OEM Wind Power Monthly
+  Published: 2022-12-21 (1225 days ago)
+  Confidence: High
+
+[NEWS] signal=leadership_change | source=google_news_rss | url=https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3FEMlZvVFF5Uk1RTGl0WTYtc0oyLUNmUDNtMmJUbXRVN0hhaXNjTjRXazRwVTE4ZjFMbnBLUVlZeDRPQXBtVkpZTml4NzlNb1pFcEkzTk9hVHRweFlnM3RRUDdUOVNqOFFfbEhsMlhURjRrbU5ITGFyenJhbmlHOFpET1pxNnIxUWZ4SzFWbHg5T2EzRDVB?oc=5
+  Title: Siemens Gamesa Appoints New Head Of Corporate Affairs - Ocean News & Technology
+  Snippet: Siemens Gamesa Appoints New Head Of Corporate Affairs Ocean News & Technology
+  Published: 2024-07-14 (653 days ago)
+  Confidence: High
